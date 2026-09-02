@@ -1,0 +1,1018 @@
+﻿trad,simp,skt,n_chars,n_syl,n_aligned,char_syl_ratio,phon_score,align,pos,label
+阿跋摩羅,阿跋摩罗,apasmāra,4,4,4,1.0,1.0,exact,noun,transcription
+釋迦牟尼,释迦牟尼,śākyamuni,4,4,4,1.0,1.0,exact,proper noun,transcription
+阿彌陀佛,阿弥陀佛,amitābha,4,4,4,1.0,1.0,exact,proper noun,transcription
+菩提心,菩提心,bodhicitta,3,4,3,0.75,1.0,off_by_one,noun,transcription
+阿耨多羅三藐三菩提,阿耨多罗三藐三菩提,anuttarasamyaksaṃbodhi,9,9,9,1.0,1.0,exact,noun,transcription
+須菩提,须菩提,subhūti,3,3,3,1.0,1.0,exact,proper noun,transcription
+陀阿伽陀,陀阿伽陀,tathāgata,4,4,4,1.0,1.0,exact,proper noun,transcription
+多他阿伽度,多他阿伽度,tathāgata,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+多陀阿伽度,多陀阿伽度,tathāgata,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+怛他誐多,怛他誐多,tathāgata,4,4,4,1.0,1.0,exact,proper noun,transcription
+多阿竭,多阿竭,tathāgata,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+阿修羅,阿修罗,asura,3,3,3,1.0,1.0,exact,noun,transcription
+波羅蜜,波罗蜜,pāramitā,3,4,3,0.75,1.0,off_by_one,noun,transcription
+阿僧祗,阿僧祗,asaṃkhyeya,3,4,3,0.75,1.0,off_by_one,number,transcription
+比丘尼,比丘尼,bhikṣuṇī,3,3,3,1.0,1.0,exact,noun,transcription
+剌瑟胝,剌瑟胝,lakṣatā,3,3,3,1.0,1.0,exact,noun,transcription
+舍衛大城,舍卫大城,śrāvastī,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+摩訶薩,摩诃萨,mahāsattva,3,4,3,0.75,1.0,off_by_one,noun,transcription
+三昧地,三昧地,samādhi,3,3,3,1.0,1.0,exact,noun,transcription
+菩提達磨,菩提达磨,bodhidharma,4,4,4,1.0,1.0,exact,proper noun,transcription
+舍利弗,舍利弗,śāriputra,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+阿難陀,阿难陀,ānanda,3,3,3,1.0,1.0,exact,proper noun,transcription
+修伽陀,修伽陀,sugata,3,3,3,1.0,1.0,exact,phrase,transcription
+陀羅尼,陀罗尼,dhāraṇī,3,3,3,1.0,1.0,exact,noun,transcription
+蘇揭多,苏揭多,sugata,3,3,3,1.0,1.0,exact,phrase,transcription
+修伽多,修伽多,sugata,3,3,3,1.0,1.0,exact,phrase,transcription
+迦葉佛,迦叶佛,kāśyapa,3,3,3,1.0,1.0,exact,proper noun,transcription
+阿毘達摩,阿毘达摩,abhidharma,4,4,4,1.0,1.0,exact,proper noun,transcription
+阿底瑜伽,阿底瑜伽,atiyoga,4,4,4,1.0,1.0,exact,noun,transcription
+瞿波羅,瞿波罗,gopalā,3,3,3,1.0,1.0,exact,proper noun,transcription
+菩提薩埵,菩提萨埵,bodhisattva,4,4,4,1.0,1.0,exact,proper noun,transcription
+優婆塞,优婆塞,upāsaka,3,4,3,0.75,1.0,off_by_one,noun,transcription
+僧伽黎,僧伽黎,saṃghāṭī,3,3,3,1.0,1.0,exact,noun,transcription
+僧伽胝,僧伽胝,saṃghāṭī,3,3,3,1.0,1.0,exact,noun,transcription
+鬱多羅僧,郁多罗僧,uttarāsaṃga,4,5,4,0.8,1.0,off_by_one,noun,transcription
+那羅延,那罗延,nārāyaṇa,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+僧伽藍摩,僧伽蓝摩,saṃghārāma,4,4,4,1.0,1.0,exact,proper noun,transcription
+隙棄羅,隙弃罗,khakkhara,3,3,3,1.0,1.0,exact,noun,transcription
+喫棄羅,喫弃罗,khakkhara,3,3,3,1.0,1.0,exact,noun,transcription
+富單那鬼,富单那鬼,pūtana,4,3,3,1.333,1.0,off_by_one,noun,transcription
+富單那,富单那,pūtana,3,3,3,1.0,1.0,exact,noun,transcription
+布怛那,布怛那,pūtana,3,3,3,1.0,1.0,exact,noun,transcription
+富多那鬼,富多那鬼,pūtana,4,3,3,1.333,1.0,off_by_one,noun,transcription
+富多那,富多那,pūtana,3,3,3,1.0,1.0,exact,noun,transcription
+布怛那鬼,布怛那鬼,pūtana,4,3,3,1.333,1.0,off_by_one,noun,transcription
+密特那,密特那,mithuna,3,3,3,1.0,1.0,exact,proper noun,transcription
+迦樓羅鳥,迦楼罗鸟,garuḍa,4,3,3,1.333,1.0,off_by_one,noun,transcription
+迦樓羅,迦楼罗,garuḍa,3,3,3,1.0,1.0,exact,noun,transcription
+加樓羅,加楼罗,garuḍa,3,3,3,1.0,1.0,exact,noun,transcription
+迦留羅,迦留罗,garuḍa,3,3,3,1.0,1.0,exact,noun,transcription
+伽婁羅,伽娄罗,garuḍa,3,3,3,1.0,1.0,exact,noun,transcription
+迦婁羅,迦娄罗,garuḍa,3,3,3,1.0,1.0,exact,noun,transcription
+伽樓羅,伽楼罗,garuḍa,3,3,3,1.0,1.0,exact,noun,transcription
+摩睺羅迦,摩喉罗迦,mahorāga,4,4,4,1.0,1.0,exact,noun,transcription
+莫呼勒伽,莫呼勒伽,mahorāga,4,4,4,1.0,1.0,exact,noun,transcription
+摩休洛,摩休洛,mahorāga,3,4,3,0.75,1.0,off_by_one,noun,transcription
+緊那羅,紧那罗,kiṃnara,3,3,3,1.0,1.0,exact,noun,transcription
+緊拏羅,紧拏罗,kiṃnara,3,3,3,1.0,1.0,exact,noun,transcription
+緊擔路,紧担路,kiṃnara,3,3,3,1.0,1.0,exact,noun,transcription
+緊陀羅,紧陀罗,kiṃnara,3,3,3,1.0,1.0,exact,noun,transcription
+摩揭陀國,摩揭陀国,magadha,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+兜率天,兜率天,tuṣita,3,3,3,1.0,1.0,exact,proper noun,transcription
+都率天,都率天,tuṣita,3,3,3,1.0,1.0,exact,proper noun,transcription
+摩訶迦羅,摩诃迦罗,mahākāla,4,4,4,1.0,1.0,exact,proper noun,transcription
+莫訶哥羅,莫诃哥罗,mahākāla,4,4,4,1.0,1.0,exact,proper noun,transcription
+奢摩他,奢摩他,śamatha,3,3,3,1.0,1.0,exact,noun,transcription
+阿那含,阿那含,anāgāmin,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+阿那伽彌,阿那伽弥,anāgāmin,4,4,4,1.0,1.0,exact,proper noun,transcription
+阿那伽迷,阿那伽迷,anāgāmin,4,4,4,1.0,1.0,exact,proper noun,transcription
+窣路陀阿鉢囊,窣路陀阿钵囊,srotaāpanna,6,5,5,1.2,1.0,off_by_one,proper noun,transcription
+窣路多阿半那,窣路多阿半那,srotaāpanna,6,5,5,1.2,1.0,off_by_one,proper noun,transcription
+摩利支天,摩利支天,marīcī,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+摩里支天,摩里支天,marīcī,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+阿泥底耶,阿泥底耶,āditya,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+日天子,日天子,āditya,3,3,3,1.0,1.0,exact,proper noun,transcription
+摩梨支,摩梨支,marīcī,3,3,3,1.0,1.0,exact,proper noun,transcription
+摩里支,摩里支,marīcī,3,3,3,1.0,1.0,exact,proper noun,transcription
+末利支,末利支,marīcī,3,3,3,1.0,1.0,exact,proper noun,transcription
+末利支天,末利支天,marīcī,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+帝殊羅施,帝殊罗施,tejorāśi,4,4,4,1.0,1.0,exact,proper noun,transcription
+訶利帝母,诃利帝母,hārītī,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+毘俱知,毘俱知,bhrūkuti,3,3,3,1.0,1.0,exact,proper noun,transcription
+商迦羅,商迦罗,śṛṅkhalā,3,3,3,1.0,1.0,exact,noun,transcription
+訶梨帝,诃梨帝,hārītī,3,3,3,1.0,1.0,exact,proper noun,transcription
+訶利帝喃,诃利帝喃,hārītī,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+阿迦尼瑟吒,阿迦尼瑟吒,akaniṣṭha,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+雨眾外道,雨众外道,varṣagaṇa,4,4,4,1.0,1.0,exact,proper noun,transcription
+耶輸陀羅,耶输陀罗,yasodharā,4,4,4,1.0,1.0,exact,proper noun,transcription
+羅睺羅,罗睺罗,rāhula,3,3,3,1.0,1.0,exact,proper noun,transcription
+薩羅酸底,萨罗酸底,sarasvatī,4,4,4,1.0,1.0,exact,proper noun,transcription
+妙奢摩他,妙奢摩他,śamatha,4,3,3,1.333,1.0,off_by_one,noun,transcription
+舍摩他,舍摩他,śamatha,3,3,3,1.0,1.0,exact,noun,transcription
+舍摩陀,舍摩陀,śamatha,3,3,3,1.0,1.0,exact,noun,transcription
+奢摩陀,奢摩陀,śamatha,3,3,3,1.0,1.0,exact,noun,transcription
+摩訶波闍波提,摩诃波阇波提,mahāprajāpatī,6,6,6,1.0,1.0,exact,proper noun,transcription
+班智達,班智达,paṇḍita,3,3,3,1.0,1.0,exact,noun,transcription
+雨際外道,雨际外道,varṣagaṇa,4,4,4,1.0,1.0,exact,proper noun,transcription
+刪迦羅,删迦罗,saṃskāra,3,3,3,1.0,1.0,exact,noun,transcription
+僧娑迦羅,僧娑迦罗,saṃskāra,4,3,3,1.333,1.0,off_by_one,noun,transcription
+那落迦,那落迦,naraka,3,3,3,1.0,1.0,exact,proper noun,transcription
+拏吉寧,拏吉宁,ḍākinī,3,3,3,1.0,1.0,exact,noun,transcription
+拏吉尼,拏吉尼,ḍākinī,3,3,3,1.0,1.0,exact,noun,transcription
+吒枳尼,吒枳尼,ḍākinī,3,3,3,1.0,1.0,exact,noun,transcription
+吒吉尼,吒吉尼,ḍākinī,3,3,3,1.0,1.0,exact,noun,transcription
+阿耨多羅,阿耨多罗,anuttara,4,4,4,1.0,1.0,exact,adjective,transcription
+摩訶薩埵,摩诃萨埵,mahāsattva,4,4,4,1.0,1.0,exact,noun,transcription
+摩伽羅,摩伽罗,makara,3,3,3,1.0,1.0,exact,noun,transcription
+摩利支,摩利支,marīcī,3,3,3,1.0,1.0,exact,proper noun,transcription
+曼殊室利,曼殊室利,mañjuśrī,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+捫打勒,扪打勒,maṇḍala,3,3,3,1.0,1.0,exact,noun,transcription
+曼特羅,曼特罗,maṇḍala,3,3,3,1.0,1.0,exact,noun,transcription
+曼陀羅,曼陀罗,maṇḍala,3,3,3,1.0,1.0,exact,noun,transcription
+曼拏羅,曼拏罗,maṇḍala,3,3,3,1.0,1.0,exact,noun,transcription
+僧竭支,僧竭支,saṅkakṣikā,3,4,3,0.75,1.0,off_by_one,noun,transcription
+僧迦支,僧迦支,saṅkakṣikā,3,4,3,0.75,1.0,off_by_one,noun,transcription
+僧腳差,僧脚差,saṅkakṣikā,3,4,3,0.75,1.0,off_by_one,noun,transcription
+薩達摩,萨达摩,saddharma,3,3,3,1.0,1.0,exact,proper noun,transcription
+三昧耶戒,三昧耶戒,samaya,4,3,3,1.333,1.0,off_by_one,noun,transcription
+三摩耶戒,三摩耶戒,samaya,4,3,3,1.333,1.0,off_by_one,noun,transcription
+烏樞沙摩,乌枢沙摩,ucchuṣma,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+摩訶斫羯羅,摩诃斫羯罗,mahācakra,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+氷揭羅,氷揭罗,piṅgala,3,3,3,1.0,1.0,exact,proper noun,transcription
+氷伽羅,氷伽罗,piṅgala,3,3,3,1.0,1.0,exact,proper noun,transcription
+氷揭羅天,氷揭罗天,piṅgala,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+氷迦羅天,氷迦罗天,piṅgala,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+氷誐羅天,氷誐罗天,piṅgala,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+氷羯羅天,氷羯罗天,piṅgala,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+常求利,常求利,jāṅgulī,3,3,3,1.0,1.0,exact,proper noun,transcription
+常瞿梨,常瞿梨,jāṅgulī,3,3,3,1.0,1.0,exact,proper noun,transcription
+陀那鉢底,陀那钵底,dānapati,4,4,4,1.0,1.0,exact,noun,transcription
+陀那婆,陀那婆,dānapati,3,4,3,0.75,1.0,off_by_one,noun,transcription
+金毘羅,金毘罗,kumbhīra,3,3,3,1.0,1.0,exact,noun,transcription
+金波羅,金波罗,kumbhīra,3,3,3,1.0,1.0,exact,noun,transcription
+禁毘羅,禁毘罗,kumbhīra,3,3,3,1.0,1.0,exact,noun,transcription
+宮毘羅,宫毘罗,kumbhīra,3,3,3,1.0,1.0,exact,noun,transcription
+金毘羅陀,金毘罗陀,kumbhīra,4,3,3,1.333,1.0,off_by_one,noun,transcription
+金毘羅神,金毘罗神,kumbhīra,4,3,3,1.333,1.0,off_by_one,noun,transcription
+阿闍黎,阿阇黎,ācārya,3,3,3,1.0,1.0,exact,noun,transcription
+阿舍梨,阿舍梨,ācārya,3,3,3,1.0,1.0,exact,noun,transcription
+阿闍棃,阿阇棃,ācārya,3,3,3,1.0,1.0,exact,noun,transcription
+那羅延那天,那罗延那天,nārāyaṇa,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+那羅野拏天,那罗野拏天,nārāyaṇa,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+商羯羅,商羯罗,śaṃkara,3,3,3,1.0,1.0,exact,proper noun,transcription
+商羯羅天,商羯罗天,śaṃkara,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+賞迦羅,赏迦罗,śaṃkara,3,3,3,1.0,1.0,exact,proper noun,transcription
+俱吠濫,俱吠滥,kubera,3,3,3,1.0,1.0,exact,proper noun,transcription
+俱里劍,俱里剑,kulika,3,3,3,1.0,1.0,exact,proper noun,transcription
+古力迦,古力迦,kulika,3,3,3,1.0,1.0,exact,proper noun,transcription
+瞿梨伽羅,瞿梨伽罗,kulika,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+俱里劍,俱里剑,kulika,3,3,3,1.0,1.0,exact,proper noun,transcription
+摩訶泮尼,摩诃泮尼,mahāphaṇi,4,4,4,1.0,1.0,exact,proper noun,transcription
+薩陀難陀,萨陀难陀,sadānanta,4,4,4,1.0,1.0,exact,proper noun,transcription
+阿舍棃,阿舍棃,ācārya,3,3,3,1.0,1.0,exact,noun,transcription
+阿闍梨,阿闍梨,ācārya,3,3,3,1.0,1.0,exact,noun,transcription
+阿遮利耶,阿遮利耶,ācārya,4,3,3,1.333,1.0,off_by_one,noun,transcription
+牟呼栗多,牟呼栗多,muhūrta,4,3,3,1.333,1.0,off_by_one,noun,transcription
+怛剎那,怛刹那,tatkṣaṇa,3,3,3,1.0,1.0,exact,noun,transcription
+三麼多,三么多,samatā,3,3,3,1.0,1.0,exact,noun,transcription
+阿奢羅曩,阿奢罗曩,acalanātha,4,5,4,0.8,1.0,off_by_one,proper noun,transcription
+阿說他樹,阿说他树,aśvattha,4,3,3,1.333,1.0,off_by_one,noun,transcription
+阿說他樹,阿说他树,aśvattha,4,3,3,1.333,1.0,off_by_one,noun,transcription
+阿輸他,阿输他,aśvattha,3,3,3,1.0,1.0,exact,noun,transcription
+閼說他,阏说他,aśvattha,3,3,3,1.0,1.0,exact,noun,transcription
+阿維羅提,阿维罗提,abhirati,4,4,4,1.0,1.0,exact,proper noun,transcription
+阿比羅提,阿比罗提,abhirati,4,4,4,1.0,1.0,exact,proper noun,transcription
+曼殊師利,曼殊师利,mañjuśrī,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+滿祖室哩,满祖室哩,mañjuśrī,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+伊舍尼,伊舍尼,iśāna,3,3,3,1.0,1.0,exact,proper noun,transcription
+伊舍那方,伊舍那方,iśāna,4,3,3,1.333,1.0,off_by_one,noun,transcription
+伊舍尼方,伊舍尼方,iśāna,4,3,3,1.333,1.0,off_by_one,noun,transcription
+央具梨,央具梨,aṅguli,3,3,3,1.0,1.0,exact,noun,transcription
+毘俱胝,毘俱胝,bhṛkuṭī,3,3,3,1.0,1.0,exact,proper noun,transcription
+鉢胤遇,钵胤遇,priyaṅgu,3,3,3,1.0,1.0,exact,noun,transcription
+不那利,不那利,puṇḍarīka,3,4,3,0.75,1.0,off_by_one,noun,transcription
+鉢孕遇,钵孕遇,priyaṅgu,3,3,3,1.0,1.0,exact,noun,transcription
+忙莽雞,忙莽鸡,māmakī,3,3,3,1.0,1.0,exact,proper noun,transcription
+忙忙雞,忙忙鸡,māmakī,3,3,3,1.0,1.0,exact,proper noun,transcription
+忙莫計,忙莫计,māmakī,3,3,3,1.0,1.0,exact,proper noun,transcription
+莽摩計,莽摩计,māmakī,3,3,3,1.0,1.0,exact,proper noun,transcription
+摩莫枳,摩莫枳,māmakī,3,3,3,1.0,1.0,exact,proper noun,transcription
+忙莽計,忙莽计,māmakī,3,3,3,1.0,1.0,exact,proper noun,transcription
+莽莫枳,莽莫枳,māmakī,3,3,3,1.0,1.0,exact,proper noun,transcription
+摩磨雞,摩磨鸡,māmakī,3,3,3,1.0,1.0,exact,proper noun,transcription
+摩莫雞,摩莫鸡,māmakī,3,3,3,1.0,1.0,exact,proper noun,transcription
+芬陀利,芬陀利,puṇḍarīka,3,4,3,0.75,1.0,off_by_one,noun,transcription
+悉怛多鉢怛羅,悉怛多钵怛罗,sitatapatra,6,5,5,1.2,1.0,off_by_one,phrase,transcription
+遮文茶,遮文茶,cāmuṇḍā,3,3,3,1.0,1.0,exact,proper noun,transcription
+左悶拏,左闷拏,cāmuṇḍā,3,3,3,1.0,1.0,exact,proper noun,transcription
+左問拏,左问拏,cāmuṇḍā,3,3,3,1.0,1.0,exact,proper noun,transcription
+漫茶羅,漫茶罗,maṇḍala,3,3,3,1.0,1.0,exact,noun,transcription
+曼吒羅,曼吒罗,maṇḍala,3,3,3,1.0,1.0,exact,noun,transcription
+蔓陀羅,蔓陀罗,maṇḍala,3,3,3,1.0,1.0,exact,noun,transcription
+憍尸迦,憍尸迦,kauśika,3,3,3,1.0,1.0,exact,proper noun,transcription
+盧遮那,卢遮那,vairocana,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+拔難陀,拔难陀,upananda,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+髻設尼,髻设尼,keśinī,3,3,3,1.0,1.0,exact,proper noun,transcription
+計設尼,计设尼,keśinī,3,3,3,1.0,1.0,exact,proper noun,transcription
+繼室尼,继室尼,keśinī,3,3,3,1.0,1.0,exact,proper noun,transcription
+優波髻設尼,优波髻设尼,upakeśinī,5,5,5,1.0,1.0,exact,proper noun,transcription
+優婆髻設尼,优婆髻设尼,upakeśinī,5,5,5,1.0,1.0,exact,proper noun,transcription
+烏波髻施尼,乌波髻施尼,upakeśinī,5,5,5,1.0,1.0,exact,proper noun,transcription
+優婆計設尼,优婆计设尼,upakeśinī,5,5,5,1.0,1.0,exact,proper noun,transcription
+阿羯沙尼,阿羯沙尼,ākarṣaṇī,4,4,4,1.0,1.0,exact,proper noun,transcription
+迦,迦,ka,1,1,1,1.0,1.0,exact,phonetic,transcription
+葛,葛,ka,1,1,1,1.0,1.0,exact,phonetic,transcription
+揭,揭,ka,1,1,1,1.0,1.0,exact,phonetic,transcription
+柯,柯,ka,1,1,1,1.0,1.0,exact,phonetic,transcription
+羯,羯,ka,1,1,1,1.0,1.0,exact,phonetic,transcription
+箇,箇,ka,1,1,1,1.0,1.0,exact,phonetic,transcription
+各,各,ka,1,1,1,1.0,1.0,exact,phonetic,transcription
+紺,绀,ka,1,1,1,1.0,1.0,exact,phonetic,transcription
+腳,脚,ka,1,1,1,1.0,1.0,exact,phonetic,transcription
+呿,呿,kha,1,1,1,1.0,1.0,exact,phonetic,transcription
+渴,渴,kha,1,1,1,1.0,1.0,exact,phonetic,transcription
+喀,喀,kha,1,1,1,1.0,1.0,exact,phonetic,transcription
+吃,吃,kha,1,1,1,1.0,1.0,exact,phonetic,transcription
+哦,哦,ga,1,1,1,1.0,1.0,exact,phonetic,transcription
+誐,誐,ga,1,1,1,1.0,1.0,exact,phonetic,transcription
+伽,伽,gha,1,1,1,1.0,1.0,exact,phonetic,transcription
+伽,伽,ga,1,1,1,1.0,1.0,exact,phonetic,transcription
+遮,遮,ca,1,1,1,1.0,1.0,exact,phonetic,transcription
+嗟,嗟,ca,1,1,1,1.0,1.0,exact,phonetic,transcription
+左,左,ca,1,1,1,1.0,1.0,exact,phonetic,transcription
+者,者,ca,1,1,1,1.0,1.0,exact,phonetic,transcription
+酌,酌,ca,1,1,1,1.0,1.0,exact,phonetic,transcription
+車,车,cha,1,1,1,1.0,1.0,exact,phonetic,transcription
+社,社,jha,1,1,1,1.0,1.0,exact,phonetic,transcription
+吒,吒,ṭa,1,1,1,1.0,1.0,exact,phonetic,transcription
+咤,咤,ṭha,1,1,1,1.0,1.0,exact,phonetic,transcription
+哳,哳,ṭa,1,1,1,1.0,1.0,exact,phonetic,transcription
+侘,侘,ṭa,1,1,1,1.0,1.0,exact,phonetic,transcription
+咤,咤,ṭa,1,1,1,1.0,1.0,exact,phonetic,transcription
+他,他,tha,1,1,1,1.0,1.0,exact,phonetic,transcription
+拏,拏,ḍa,1,1,1,1.0,1.0,exact,phonetic,transcription
+多,多,ta,1,1,1,1.0,1.0,exact,phonetic,transcription
+怛,怛,ta,1,1,1,1.0,1.0,exact,phonetic,transcription
+他,他,ṭha,1,1,1,1.0,1.0,exact,phonetic,transcription
+陀,陀,dha,1,1,1,1.0,1.0,exact,phonetic,transcription
+拕,拕,dha,1,1,1,1.0,1.0,exact,phonetic,transcription
+達,达,dha,1,1,1,1.0,1.0,exact,phonetic,transcription
+波,波,pa,1,1,1,1.0,1.0,exact,phonetic,transcription
+頗,颇,pha,1,1,1,1.0,1.0,exact,phonetic,transcription
+葩,葩,pha,1,1,1,1.0,1.0,exact,phonetic,transcription
+破,破,pha,1,1,1,1.0,1.0,exact,phonetic,transcription
+麼,么,ba,1,1,1,1.0,1.0,exact,phonetic,transcription
+摩,摩,ma,1,1,1,1.0,1.0,exact,phonetic,transcription
+婆,婆,bha,1,1,1,1.0,1.0,exact,phonetic,transcription
+野,野,ya,1,1,1,1.0,1.0,exact,phonetic,transcription
+夜,夜,ya,1,1,1,1.0,1.0,exact,phonetic,transcription
+耶,耶,ya,1,1,1,1.0,1.0,exact,phonetic,transcription
+羅,罗,ra,1,1,1,1.0,1.0,exact,phonetic,transcription
+洛,洛,ra,1,1,1,1.0,1.0,exact,phonetic,transcription
+呵,呵,ha,1,1,1,1.0,1.0,exact,phonetic,transcription
+奢,奢,śa,1,1,1,1.0,1.0,exact,phonetic,transcription
+沙,沙,ṣa,1,1,1,1.0,1.0,exact,phonetic,transcription
+娑,娑,sa,1,1,1,1.0,1.0,exact,phonetic,transcription
+薩,萨,sa,1,1,1,1.0,1.0,exact,phonetic,transcription
+颯,飒,sa,1,1,1,1.0,1.0,exact,phonetic,transcription
+三,三,sa,1,1,1,1.0,1.0,exact,phonetic,transcription
+訶,诃,ha,1,1,1,1.0,1.0,exact,phonetic,transcription
+仰,仰,ṅa,1,1,1,1.0,1.0,exact,phonetic,transcription
+俄,俄,ṅa,1,1,1,1.0,1.0,exact,phonetic,transcription
+誐,誐,ṅa,1,1,1,1.0,1.0,exact,phonetic,transcription
+覲,觐,ṅa,1,1,1,1.0,1.0,exact,phonetic,transcription
+拏,拏,ṇa,1,1,1,1.0,1.0,exact,phonetic,transcription
+那,那,na,1,1,1,1.0,1.0,exact,phonetic,transcription
+麼,么,ma,1,1,1,1.0,1.0,exact,phonetic,transcription
+奔那伽,奔那伽,puṣpanāga,3,4,3,0.75,1.0,off_by_one,noun,transcription
+計娑羅華,计娑罗华,kesara,4,3,3,1.333,1.0,off_by_one,noun,transcription
+計娑羅,计娑罗,kesara,3,3,3,1.0,1.0,exact,noun,transcription
+雞薩羅,鸡萨罗,kesara,3,3,3,1.0,1.0,exact,noun,transcription
+旃簸迦,旃簸迦,campaka,3,3,3,1.0,1.0,exact,noun,transcription
+瞻博迦,瞻博迦,campaka,3,3,3,1.0,1.0,exact,noun,transcription
+占博迦,占博迦,campaka,3,3,3,1.0,1.0,exact,noun,transcription
+底羅劍,底罗剑,tilaka,3,3,3,1.0,1.0,exact,noun,transcription
+鉢吒羅,钵吒罗,pāṭala,3,3,3,1.0,1.0,exact,noun,transcription
+劫布羅,劫布罗,karpūra,3,3,3,1.0,1.0,exact,noun,transcription
+羯布羅,羯布罗,karpūra,3,3,3,1.0,1.0,exact,noun,transcription
+布利迦,布利迦,pūrikā,3,3,3,1.0,1.0,exact,noun,transcription
+末塗失囉,末涂失啰,madhuśīr,4,3,3,1.333,1.0,off_by_one,noun,transcription
+播鉢吒,播钵吒,parpaṭa,3,3,3,1.0,1.0,exact,noun,transcription
+迦羅奢,迦罗奢,kalaśa,3,3,3,1.0,1.0,exact,noun,transcription
+阿三迷,阿三迷,asama,3,3,3,1.0,1.0,exact,adjective,transcription
+三曼多,三曼多,samanta,3,3,3,1.0,1.0,exact,adjective,transcription
+弩蘖帝,弩蘖帝,anvāgati,3,4,3,0.75,1.0,off_by_one,verb,transcription
+迦羅羅,迦罗罗,kalala,3,3,3,1.0,1.0,exact,noun,transcription
+乾陀羅,乾陀罗,gandharva,3,3,3,1.0,1.0,exact,noun,transcription
+怛他蘖多,怛他蘖多,tathāgata,4,4,4,1.0,1.0,exact,noun,transcription
+素怛弩,素怛弩,sutanu,3,3,3,1.0,1.0,exact,adjective,transcription
+緊,紧,kim,1,1,1,1.0,1.0,exact,phonetic,transcription
+伽伽那,伽伽那,gagana,3,3,3,1.0,1.0,exact,noun,transcription
+茶吉尼,茶吉尼,ḍākinī,3,3,3,1.0,1.0,exact,noun,transcription
+毘舍支,毘舍支,piśāca,3,3,3,1.0,1.0,exact,noun,transcription
+毘舍遮,毘舍遮,piśāca,3,3,3,1.0,1.0,exact,noun,transcription
+毘舍遮鬼,毘舍遮鬼,piśāca,4,3,3,1.333,1.0,off_by_one,noun,transcription
+波羅蜜多,波罗蜜多,pāramitā,4,4,4,1.0,1.0,exact,noun,transcription
+尸羅波羅蜜,尸罗波罗蜜,śīla-pāramitā,5,6,5,0.833,1.0,off_by_one,phrase,transcription
+禪定波羅蜜,禅定波罗蜜,dhyānapāramitā,5,6,5,0.833,1.0,off_by_one,phrase,transcription
+禪那波羅蜜,禅那波罗蜜,dhyānapāramitā,5,6,5,0.833,1.0,off_by_one,phrase,transcription
+迷企羅,迷企罗,mihira,3,3,3,1.0,1.0,exact,proper noun,transcription
+阿素洛,阿素洛,asura,3,3,3,1.0,1.0,exact,noun,transcription
+須彌盧,须弥卢,sumeru,3,3,3,1.0,1.0,exact,proper noun,transcription
+拘那含牟尼佛,拘那含牟尼佛,kanakamuni,6,5,5,1.2,1.0,off_by_one,proper noun,transcription
+拘那含牟尼,拘那含牟尼,kanakamuni,5,5,5,1.0,1.0,exact,proper noun,transcription
+三昧耶薩埵,三昧耶萨埵,samayasattva,5,5,5,1.0,1.0,exact,noun,transcription
+羅羅拏,罗罗拏,lalanā,3,3,3,1.0,1.0,exact,noun,transcription
+扇底迦,扇底迦,śāntika,3,3,3,1.0,1.0,exact,noun,transcription
+軍茶利,军茶利,kuṇḍalin,3,3,3,1.0,1.0,exact,proper noun,transcription
+三漫多,三漫多,samanta,3,3,3,1.0,1.0,exact,adjective,transcription
+軍茶里,军茶里,kuṇḍali,3,3,3,1.0,1.0,exact,noun,transcription
+句吒囊吒,句吒囊吒,kuṭannaṭa,4,4,4,1.0,1.0,exact,noun,transcription
+鉢孕瞿,钵孕瞿,priyaṅgu,3,3,3,1.0,1.0,exact,noun,transcription
+迦畢貪,迦毕贪,kapittha,3,3,3,1.0,1.0,exact,noun,transcription
+阿惟越致,阿惟越致,avaivartika,4,5,4,0.8,1.0,off_by_one,proper noun,transcription
+劫波羅,劫波罗,kapāla,3,3,3,1.0,1.0,exact,noun,transcription
+阿含暮,阿含暮,āgama,3,3,3,1.0,1.0,exact,proper noun,transcription
+阿笈摩,阿笈摩,āgama,3,3,3,1.0,1.0,exact,proper noun,transcription
+尼羅浮陀,尼罗浮陀,nirarbuda,4,4,4,1.0,1.0,exact,proper noun,transcription
+漚波羅,沤波罗,utpala,3,3,3,1.0,1.0,exact,proper noun,transcription
+悉怛多般怛羅,悉怛多般怛罗,sitātapatra,6,5,5,1.2,1.0,off_by_one,noun,transcription
+摩裕羅,摩裕罗,mayūra,3,3,3,1.0,1.0,exact,noun,transcription
+跋難陀,跋难陀,upananda,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+阿僧企耶,阿僧企耶,asaṃkhyeya,4,4,4,1.0,1.0,exact,noun,transcription
+僧伽梨,僧伽梨,saṃghāṭī,3,3,3,1.0,1.0,exact,noun,transcription
+三摩地,三摩地,samādhi,3,3,3,1.0,1.0,exact,noun,transcription
+尸摩賖那,尸摩賖那,śmaśāna,4,3,3,1.333,1.0,off_by_one,noun,transcription
+闇,闇,aṃ,1,1,1,1.0,1.0,exact,phonetic,transcription
+閻曼德迦,阎曼德迦,yamāntaka,4,4,4,1.0,1.0,exact,proper noun,transcription
+誐那鉢底,誐那鉢底,gaṇapati,4,4,4,1.0,1.0,exact,proper noun,transcription
+伊帝曰多伽,伊帝曰多伽,itivṛttaka,5,5,5,1.0,1.0,exact,noun,transcription
+伊帝越多伽,伊帝越多伽,itivṛttaka,5,5,5,1.0,1.0,exact,noun,transcription
+平等性智,平等性智,samatājñāna,4,5,4,0.8,1.0,off_by_one,phrase,transcription
+兜率陀,兜率陀,tuṣita,3,3,3,1.0,1.0,exact,proper noun,transcription
+摩醯首羅,摩醯首罗,Maheśvara,4,4,4,1.0,1.0,exact,proper noun,transcription
+閻浮提,阎浮提,jambudvīpa,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+一切智,一切智,sarvajñatā,3,4,3,0.75,1.0,off_by_one,phrase,transcription
+諸比丘尼,诸比丘尼,bhikṣuṇyaḥ,4,3,3,1.333,1.0,off_by_one,phrase,transcription
+阿蘭那,阿兰那,araṇya,3,3,3,1.0,1.0,exact,noun,transcription
+阿蘭拏,阿兰拏,araṇya,3,3,3,1.0,1.0,exact,noun,transcription
+也,也,ya,1,1,1,1.0,1.0,exact,phonetic,transcription
+三摩耶,三摩耶,samaya,3,3,3,1.0,1.0,exact,noun,transcription
+兜術天,兜术天,tuṣita,3,3,3,1.0,1.0,exact,proper noun,transcription
+般羅揭帝,般罗揭帝,pāragate,4,4,4,1.0,1.0,exact,foreign,transcription
+伊,伊,i,1,1,1,1.0,1.0,exact,phonetic,transcription
+伽力伽只伽,伽力伽只伽,karkaṭikā,5,4,3,1.25,1.0,off_by_one,noun,transcription
+跋陀婆羅,跋陀婆罗,bhadrapāla,4,4,4,1.0,1.0,exact,proper noun,transcription
+比丘僧,比丘僧,bhikṣusaṅgha,3,4,3,0.75,1.0,off_by_one,phrase,transcription
+毘舍闍,毘舍阇,piśāca,3,3,3,1.0,1.0,exact,noun,transcription
+僧伽藍,僧伽蓝,saṃghārāma,3,4,3,0.75,1.0,off_by_one,noun,transcription
+摩訶衍,摩诃衍,mahāyāna,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+摩訶衍那,摩诃衍那,mahāyāna,4,4,4,1.0,1.0,exact,proper noun,transcription
+尼拘律樹,尼拘律树,nyagrodha,4,3,3,1.333,1.0,off_by_one,noun,transcription
+波利質多樹,波利质多树,pārijāta,5,4,4,1.25,1.0,off_by_one,noun,transcription
+波利質多,波利质多,pārijāta,4,4,4,1.0,1.0,exact,noun,transcription
+波利質羅,波利质罗,pārijāta,4,4,4,1.0,1.0,exact,noun,transcription
+波利耶多,波利耶多,pārijāta,4,4,4,1.0,1.0,exact,noun,transcription
+婆利質多羅,婆利质多罗,pārijāta,5,4,4,1.25,1.0,off_by_one,noun,transcription
+婆利闍多迦,婆利阇多迦,pārijāta,5,4,4,1.25,1.0,off_by_one,noun,transcription
+波羅羅,波罗罗,pāṭala,3,3,3,1.0,1.0,exact,noun,transcription
+優波離,优波离,Upāli,3,3,3,1.0,1.0,exact,proper noun,transcription
+三十三,三十三,trayastriṃśat,3,4,3,0.75,1.0,off_by_one,number,transcription
+菴婆婆梨,菴婆婆梨,āmrapālī,4,4,4,1.0,1.0,exact,proper noun,transcription
+阿梵婆羅,阿梵婆罗,āmrapālī,4,4,4,1.0,1.0,exact,proper noun,transcription
+那由多,那由多,nayuta,3,3,3,1.0,1.0,exact,noun,transcription
+那庾多,那庾多,nayuta,3,3,3,1.0,1.0,exact,noun,transcription
+末,末,ma,1,1,1,1.0,1.0,exact,phonetic,transcription
+末奴沙,末奴沙,manuṣya,3,3,3,1.0,1.0,exact,noun,transcription
+摩奴闍,摩奴阇,manuṣya,3,3,3,1.0,1.0,exact,noun,transcription
+摩奴娑,摩奴娑,manuṣya,3,3,3,1.0,1.0,exact,noun,transcription
+摩努娑,摩努娑,manuṣya,3,3,3,1.0,1.0,exact,noun,transcription
+摩奴曬,摩奴晒,manuṣya,3,3,3,1.0,1.0,exact,noun,transcription
+摩努史,摩努史,manuṣya,3,3,3,1.0,1.0,exact,noun,transcription
+摩拏赦,摩拏赦,manuṣya,3,3,3,1.0,1.0,exact,noun,transcription
+伊沙天,伊沙天,iṣa-deva,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+兜率陀天,兜率陀天,tuṣita,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+兜率多天,兜率多天,tuṣita,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+兜師陀天,兜师陀天,tuṣita,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+睹史多天,睹史多天,tuṣita,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+兜駛多天,兜驶多天,tuṣita,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+兜术陀天,兜术陀天,tuṣita,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+莎伽陀,莎伽陀,svāgata,3,3,3,1.0,1.0,exact,phrase,transcription
+瑜伽宗,瑜伽宗,yogācāra,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+阿遊波,阿遊波,ajapāla,3,4,3,0.75,1.0,off_by_one,noun,transcription
+藍毘尼園,蓝毘尼园,lumbini,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+多摩羅跋,多摩罗跋,tamālapatra,4,5,4,0.8,1.0,off_by_one,noun,transcription
+優陀那,优陀那,udāna,3,3,3,1.0,1.0,exact,noun,transcription
+優檀那,优檀那,udāna,3,3,3,1.0,1.0,exact,noun,transcription
+憂陀那,憂陀那,udāna,3,3,3,1.0,1.0,exact,noun,transcription
+鬱陀那,鬱陀那,udāna,3,3,3,1.0,1.0,exact,noun,transcription
+大千界,大千界,trisāhasrī,3,4,3,0.75,1.0,off_by_one,phrase,transcription
+伊賞那補羅國,伊赏那补罗国,īśānapura,6,5,5,1.2,1.0,off_by_one,proper noun,transcription
+伊賞那補羅,伊赏那补罗,īśānapura,5,5,5,1.0,1.0,exact,proper noun,transcription
+生死輪迴,生死轮迴,saṃsāra,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+三眉底與,三眉底与,sammatīya,4,4,4,1.0,1.0,exact,proper noun,transcription
+彌離底,弥离底,sammatīya,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+沙摩帝,沙摩帝,sammatīya,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+三密栗底,三密栗底,sammṛti,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+迦樓那,迦楼那,karuṇā,3,3,3,1.0,1.0,exact,noun,transcription
+加盧那,加卢那,karuṇā,3,3,3,1.0,1.0,exact,noun,transcription
+居家者,居家者,gṛhastha,3,3,3,1.0,1.0,exact,phrase,transcription
+吠,吠,bhai,1,1,1,1.0,1.0,exact,phonetic,transcription
+須摩提,须摩提,sumati,3,3,3,1.0,1.0,exact,proper noun,transcription
+三耶三佛,三耶三佛,samyaksaṃbodhi,4,5,4,0.8,1.0,off_by_one,noun,transcription
+無上菩提,无上菩提,samyaksaṃbodhi,4,5,4,0.8,1.0,off_by_one,phrase,transcription
+業煩惱,业烦恼,karma-kleśa,3,4,3,0.75,1.0,off_by_one,noun,transcription
+呼,呼,ho,1,1,1,1.0,1.0,exact,phonetic,transcription
+三昧耶,三昧耶,samaya,3,3,3,1.0,1.0,exact,noun,transcription
+娑摩耶,娑摩耶,samaya,3,3,3,1.0,1.0,exact,noun,transcription
+瑜伽怛特羅,瑜伽怛特罗,yogatantra,5,4,4,1.25,1.0,off_by_one,noun,transcription
+商,商,śaṇ,1,1,1,1.0,1.0,exact,phonetic,transcription
+悉達羅他,悉达罗他,siddhārtha,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+悉多頞他,悉多頞他,siddhārtha,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+釋師子,释师子,śākyasiṃha,3,4,3,0.75,1.0,off_by_one,phrase,transcription
+一切自在,一切自在,viśvabhū,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+陁羅尼,陁罗尼,dhāraṇī,3,3,3,1.0,1.0,exact,noun,transcription
+三麼耶,三么耶,samaya,3,3,3,1.0,1.0,exact,noun,transcription
+鬱地延那,郁地延那,Uḍḍiyāna,4,4,4,1.0,1.0,exact,proper noun,transcription
+鬱多羅,郁多罗,uttara,3,3,3,1.0,1.0,exact,adjective,transcription
+郁多羅僧,郁多罗僧,uttarāsaṃga,4,5,4,0.8,1.0,off_by_one,noun,transcription
+優多羅僧,优多罗僧,uttarāsaṃga,4,5,4,0.8,1.0,off_by_one,noun,transcription
+鬱底迦,郁底迦,Uttika,3,3,3,1.0,1.0,exact,proper noun,transcription
+郁胝歌,郁胝歌,Uttika,3,3,3,1.0,1.0,exact,proper noun,transcription
+鬱低迦,郁低迦,Uttika,3,3,3,1.0,1.0,exact,proper noun,transcription
+鬱提尸山,郁提尸山,udeśin,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+鬱提尸,郁提尸,udeśin,3,3,3,1.0,1.0,exact,proper noun,transcription
+坼,坼,ṭhaḥ,1,1,1,1.0,1.0,exact,phonetic,transcription
+阿羅漢果,阿罗汉果,arhattva,4,3,3,1.333,1.0,off_by_one,phrase,transcription
+一切相智,一切相智,vastujñāna,4,4,4,1.0,1.0,exact,phrase,transcription
+阿摩洛果,阿摩洛果,āmalaka,4,4,4,1.0,1.0,exact,noun,transcription
+墮舍迦,堕舍迦,Viśākhā,3,3,3,1.0,1.0,exact,proper noun,transcription
+突吉羅,突吉罗,duṣkṛta,3,3,3,1.0,1.0,exact,noun,transcription
+延,延,ya,1,1,1,1.0,1.0,exact,phonetic,transcription
+徙,徙,śi,1,1,1,1.0,1.0,exact,phonetic,transcription
+鉢鉢闍鉢底,钵钵阇钵底,prajāpati,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+婆羅門那,婆罗门那,brāhmaṇa,4,3,3,1.333,1.0,off_by_one,noun,transcription
+陀菟論,陀菟论,dhanurveda,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+阿那波那,阿那波那,ānāpāna,4,4,4,1.0,1.0,exact,noun,transcription
+央耆羅僧,央耆罗僧,aṅgiras,4,3,3,1.333,1.0,off_by_one,phrase,transcription
+弭曼差,弭曼差,mīmāṃsā,3,3,3,1.0,1.0,exact,proper noun,transcription
+彌曼差,弥曼差,mīmāṃsā,3,3,3,1.0,1.0,exact,proper noun,transcription
+羅摩耶那,罗摩耶那,rāmāyaṇa,4,4,4,1.0,1.0,exact,proper noun,transcription
+優波尼沙土,优波尼沙土,upaniṣad,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+悍,悍,hāṃ,1,1,1,1.0,1.0,exact,phonetic,transcription
+補盧沙,补卢沙,puruṣa,3,3,3,1.0,1.0,exact,noun,transcription
+富樓沙,富楼沙,puruṣa,3,3,3,1.0,1.0,exact,proper noun,transcription
+浮溜沙,浮溜沙,puruṣa,3,3,3,1.0,1.0,exact,proper noun,transcription
+布路沙,布路沙,puruṣa,3,3,3,1.0,1.0,exact,proper noun,transcription
+衛世師,卫世师,vaiśeṣika,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+憾,憾,haṃ,1,1,1,1.0,1.0,exact,phonetic,transcription
+一闡提,一阐提,icchantika,3,4,3,0.75,1.0,off_by_one,noun,transcription
+一闡底迦,一阐底迦,icchantika,4,4,4,1.0,1.0,exact,noun,transcription
+一顛迦,一颠迦,icchantika,3,4,3,0.75,1.0,off_by_one,noun,transcription
+一闡提柯,一阐提柯,icchantika,4,4,4,1.0,1.0,exact,noun,transcription
+蘇摩祭,苏摩祭,somayajña,3,4,3,0.75,1.0,off_by_one,noun,transcription
+都史陀天,都史陀天,tuṣita,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+勒那摩提,勒那摩提,ratnamati,4,4,4,1.0,1.0,exact,proper noun,transcription
+悉檀多,悉檀多,siddhānta,3,3,3,1.0,1.0,exact,proper noun,transcription
+烏凡伽,乌凡伽,upāṅga,3,3,3,1.0,1.0,exact,phrase,transcription
+三摩提,三摩提,samādhi,3,3,3,1.0,1.0,exact,noun,transcription
+三摩帝,三摩帝,samādhi,3,3,3,1.0,1.0,exact,noun,transcription
+三菩提,三菩提,saṃbodhi,3,3,3,1.0,1.0,exact,phrase,transcription
+迦毘羅仙,迦毘罗仙,kapila,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+劫比羅,劫比罗,kapila,3,3,3,1.0,1.0,exact,proper noun,transcription
+迦毘梨,迦毘梨,kapila,3,3,3,1.0,1.0,exact,proper noun,transcription
+緊閉羅,紧闭罗,kapila,3,3,3,1.0,1.0,exact,proper noun,transcription
+柯箄羅,柯箄罗,kapila,3,3,3,1.0,1.0,exact,proper noun,transcription
+阿修利,阿修利,āsuri,3,3,3,1.0,1.0,exact,proper noun,transcription
+般遮尸訶,般遮尸诃,pañcaśikha,4,4,4,1.0,1.0,exact,proper noun,transcription
+摩訶婆羅多,摩诃婆罗多,mahābhārata,5,5,5,1.0,1.0,exact,proper noun,transcription
+鴦竭羅私,鸯竭罗私,aṅgiras,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+阿詣羅,阿诣罗,aṅgiras,3,3,3,1.0,1.0,exact,proper noun,transcription
+阿詣羅仙,阿诣罗仙,aṅgiras,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+鴦耆羅,鸯耆罗,aṅgiras,3,3,3,1.0,1.0,exact,proper noun,transcription
+阿盧那,阿卢那,aruṇa,3,3,3,1.0,1.0,exact,noun,transcription
+阿留那,阿留那,aruṇa,3,3,3,1.0,1.0,exact,noun,transcription
+阿樓那,阿楼那,aruṇa,3,3,3,1.0,1.0,exact,noun,transcription
+散,散,sa,1,1,1,1.0,1.0,exact,phonetic,transcription
+昂,昂,ṅa,1,1,1,1.0,1.0,exact,phonetic,transcription
+曳,曳,ye,1,1,1,1.0,1.0,exact,phonetic,transcription
+曼,曼,ma,1,1,1,1.0,1.0,exact,phonetic,transcription
+朅,朅,kha,1,1,1,1.0,1.0,exact,phonetic,transcription
+枳,枳,ke,1,1,1,1.0,1.0,exact,phonetic,transcription
+桑,桑,saṃ,1,1,1,1.0,1.0,exact,phonetic,transcription
+尼師壇,尼师坛,niṣīdana,3,4,3,0.75,1.0,off_by_one,noun,transcription
+尼師但那,尼师但那,niṣīdana,4,4,4,1.0,1.0,exact,noun,transcription
+泮,泮,paṃ,1,1,1,1.0,1.0,exact,phonetic,transcription
+尼鹿多論,尼鹿多论,nirukta,4,3,3,1.333,1.0,off_by_one,noun,transcription
+涸,涸,hoḥ,1,1,1,1.0,1.0,exact,phonetic,transcription
+異生法,异生法,visabhāga,3,4,3,0.75,1.0,off_by_one,phrase,transcription
+菩提索多,菩提索多,bodhisattva,4,4,4,1.0,1.0,exact,noun,transcription
+冒地薩怛縛,冒地萨怛缚,bodhisattva,5,4,4,1.25,1.0,off_by_one,noun,transcription
+阿迦舍,阿迦舍,ākāśa,3,3,3,1.0,1.0,exact,noun,transcription
+難提迦,难提迦,nandika,3,3,3,1.0,1.0,exact,proper noun,transcription
+般舟般,般舟般,pratyutpanna,3,4,3,0.75,1.0,off_by_one,noun,transcription
+阿世耶,阿世耶,āśaya,3,3,3,1.0,1.0,exact,noun,transcription
+阿奢也,阿奢也,āśaya,3,3,3,1.0,1.0,exact,noun,transcription
+富留沙,富留沙,puruṣa,3,3,3,1.0,1.0,exact,noun,transcription
+濫,滥,raṃ,1,1,1,1.0,1.0,exact,phonetic,transcription
+補盧沙,补卢沙,puruṣa,3,3,3,1.0,1.0,exact,proper noun,transcription
+補盧衫,补卢衫,puruṣam,3,3,3,1.0,1.0,exact,noun,transcription
+補盧私,补卢私,puruṣam,3,3,3,1.0,1.0,exact,noun,transcription
+補盧沙耶,补卢沙耶,puruṣāya,4,4,4,1.0,1.0,exact,noun,transcription
+補盧殺沙,补卢杀沙,puruṣasya,4,4,4,1.0,1.0,exact,noun,transcription
+補盧殺娑,补卢杀娑,puruṣasya,4,4,4,1.0,1.0,exact,noun,transcription
+蘇漫多,苏漫多,subanta,3,3,3,1.0,1.0,exact,noun,transcription
+蘇盤多,苏盘多,subanta,3,3,3,1.0,1.0,exact,noun,transcription
+牟,牟,muḥ,1,1,1,1.0,1.0,exact,phonetic,transcription
+阿波波,阿波波,ababa,3,3,3,1.0,1.0,exact,proper noun,transcription
+梵摩渝,梵摩渝,brahmāyus,3,3,3,1.0,1.0,exact,noun,transcription
+班,班,pan,1,1,1,1.0,1.0,exact,phonetic,transcription
+迦羅鳩孫陀,迦罗鸠孙陀,krakucchanda,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+迦鳩留,迦鸠留,krakucchanda,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+拘那含佛,拘那含佛,kanakamuni,4,5,4,0.8,1.0,off_by_one,proper noun,transcription
+鬱多摩,郁多摩,uttama,3,3,3,1.0,1.0,exact,adjective,transcription
+苫婆羅國,苫婆罗国,śambhala,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+盎,盎,aṃ,1,1,1,1.0,1.0,exact,phonetic,transcription
+瞞,瞒,maṃ,1,1,1,1.0,1.0,exact,phonetic,transcription
+瞿,瞿,go,1,1,1,1.0,1.0,exact,phonetic,transcription
+頞真無,頞真无,arciṣmat,3,3,3,1.0,1.0,exact,proper noun,transcription
+禰,祢,deḥ,1,1,1,1.0,1.0,exact,phonetic,transcription
+秣,秣,ma,1,1,1,1.0,1.0,exact,phonetic,transcription
+比丘分,比丘分,bhikṣubhāva,3,4,3,0.75,1.0,off_by_one,noun,transcription
+穆,穆,mu,1,1,1,1.0,1.0,exact,phonetic,transcription
+竭,竭,gha,1,1,1,1.0,1.0,exact,phonetic,transcription
+索,索,sa,1,1,1,1.0,1.0,exact,phonetic,transcription
+比丘眾,比丘众,bhikṣusaṅgha,3,4,3,0.75,1.0,off_by_one,noun,transcription
+迦諾迦跋釐墮闍,迦诺迦跋厘堕阇,Kanakabharadrāja,7,7,7,1.0,1.0,exact,proper noun,transcription
+縊,缢,i,1,1,1,1.0,1.0,exact,phonetic,transcription
+係,系,hi,1,1,1,1.0,1.0,exact,phonetic,transcription
+三藐三佛陀,三藐三佛陀,samyaksaṃbuddha,5,5,5,1.0,1.0,exact,noun,transcription
+尼柯耶,尼柯耶,nikāya,3,3,3,1.0,1.0,exact,proper noun,transcription
+臂奢柘鬼,臂奢柘鬼,piśāca,4,3,3,1.333,1.0,off_by_one,noun,transcription
+畢舍遮鬼,毕舍遮鬼,piśāca,4,3,3,1.333,1.0,off_by_one,noun,transcription
+毘舍闍鬼,毘舍阇鬼,piśāca,4,3,3,1.333,1.0,off_by_one,noun,transcription
+臂舍柘鬼,臂舍柘鬼,piśāca,4,3,3,1.333,1.0,off_by_one,noun,transcription
+臂舍柘,臂舍柘,piśāca,3,3,3,1.0,1.0,exact,noun,transcription
+阿迦尼沙吒,阿迦尼沙吒,akaniṣṭha,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+羯吒布怛那鬼,羯吒布怛那鬼,kaṭapūtana,6,5,5,1.2,1.0,off_by_one,noun,transcription
+三滿多,三满多,samanta,3,3,3,1.0,1.0,exact,adjective,transcription
+製諾迦,制诺迦,chedaka,3,3,3,1.0,1.0,exact,adjective,transcription
+喬答摩,乔答摩,gautama,3,3,3,1.0,1.0,exact,proper noun,transcription
+目支鄰陀,目支邻陀,mucilinda,4,4,4,1.0,1.0,exact,proper noun,transcription
+牟修樓陀,牟修楼陀,mucilinda,4,4,4,1.0,1.0,exact,proper noun,transcription
+目脂鄰陀,目脂邻陀,mucilinda,4,4,4,1.0,1.0,exact,proper noun,transcription
+目真鄰陀,目真邻陀,mucilinda,4,4,4,1.0,1.0,exact,proper noun,transcription
+蘇夜摩天,苏夜摩天,suyāma,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+蘇鉢剌尼,苏钵剌尼,suparṇa,4,3,3,1.333,1.0,off_by_one,noun,transcription
+摩奴法典,摩奴法典,manusmṛti,4,4,4,1.0,1.0,exact,proper noun,transcription
+摩奴法論,摩奴法论,manusmṛti,4,4,4,1.0,1.0,exact,proper noun,transcription
+須夜摩天,须夜摩天,suyāma,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+珊都史多,珊都史多,saṃtuṣita,4,4,4,1.0,1.0,exact,proper noun,transcription
+都史多,都史多,tuṣita,3,3,3,1.0,1.0,exact,proper noun,transcription
+珊覩史多天,珊覩史多天,saṃtuṣita,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+珊覩史多,珊覩史多,saṃtuṣita,4,4,4,1.0,1.0,exact,proper noun,transcription
+莎,莎,svaṃ,1,1,1,1.0,1.0,exact,phonetic,transcription
+兜率多,兜率多,tuṣita,3,3,3,1.0,1.0,exact,proper noun,transcription
+鬭瑟多,鬭瑟多,tuṣita,3,3,3,1.0,1.0,exact,proper noun,transcription
+首訶既那,首诃既那,śubhakṛtsna,4,4,4,1.0,1.0,exact,proper noun,transcription
+首波訖栗那,首波讫栗那,śubhakṛtsna,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+阿那婆伽,阿那婆伽,anabhraka,4,4,4,1.0,1.0,exact,proper noun,transcription
+阿那婆迦,阿那婆迦,anabhraka,4,4,4,1.0,1.0,exact,proper noun,transcription
+阿那婆訶,阿那婆诃,anabhraka,4,4,4,1.0,1.0,exact,proper noun,transcription
+俱摩羅天,俱摩罗天,kumāra,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+俱摩羅,俱摩罗,kumāra,3,3,3,1.0,1.0,exact,proper noun,transcription
+鳩摩羅天,鸠摩罗天,kumāra,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+鳩摩羅,鸠摩罗,kumāra,3,3,3,1.0,1.0,exact,proper noun,transcription
+鳩摩羅伽,鸠摩罗伽,kumāra,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+拘摩羅天,拘摩罗天,kumāra,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+拘摩羅,拘摩罗,kumāra,3,3,3,1.0,1.0,exact,proper noun,transcription
+盎伽羅迦,盎伽罗迦,aṅgāraka,4,4,4,1.0,1.0,exact,proper noun,transcription
+虐,虐,gaḥ,1,1,1,1.0,1.0,exact,phonetic,transcription
+迦絺吉夜,迦絺吉夜,kārttikeya,4,4,4,1.0,1.0,exact,proper noun,transcription
+蛩,蛩,ghu,1,1,1,1.0,1.0,exact,phonetic,transcription
+工射之人,工射之人,iṣvastrācārya,4,5,3,0.8,1.0,off_by_one,phrase,transcription
+旃陀羅,旃陀罗,caṇḍāla,3,3,3,1.0,1.0,exact,proper noun,transcription
+諾,诺,na,1,1,1,1.0,1.0,exact,phonetic,transcription
+波牟提陀,波牟提陀,pramudita,4,4,4,1.0,1.0,exact,adjective,transcription
+尼由多,尼由多,nayuta,3,3,3,1.0,1.0,exact,noun,transcription
+刪兜率陀,删兜率陀,saṃtuṣita,4,4,4,1.0,1.0,exact,proper noun,transcription
+珊兜史多,珊兜史多,saṃtuṣita,4,4,4,1.0,1.0,exact,proper noun,transcription
+賀,贺,ha,1,1,1,1.0,1.0,exact,phonetic,transcription
+分陀利樹,分陀利树,puṇḍarī,4,3,3,1.333,1.0,off_by_one,noun,transcription
+尸利沙樹,尸利沙树,śirīṣa,4,3,3,1.333,1.0,off_by_one,noun,transcription
+尸利沙,尸利沙,śirīṣa,3,3,3,1.0,1.0,exact,noun,transcription
+尸利灑樹,尸利洒树,śirīṣa,4,3,3,1.333,1.0,off_by_one,noun,transcription
+尸利灑,尸利洒,śirīṣa,3,3,3,1.0,1.0,exact,noun,transcription
+師利沙樹,师利沙树,śirīṣa,4,3,3,1.333,1.0,off_by_one,noun,transcription
+師利沙,师利沙,śirīṣa,3,3,3,1.0,1.0,exact,noun,transcription
+舍離沙樹,舍离沙树,śirīṣa,4,3,3,1.333,1.0,off_by_one,noun,transcription
+舍離沙,舍离沙,śirīṣa,3,3,3,1.0,1.0,exact,noun,transcription
+三彌底,三弥底,sammatīya,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+尼拘盧,尼拘卢,nyagrodha,3,3,3,1.0,1.0,exact,noun,transcription
+鳩勿頭華,鸠勿头华,kumuda,4,3,3,1.333,1.0,off_by_one,noun,transcription
+鳩勿頭,鸠勿头,kumuda,3,3,3,1.0,1.0,exact,noun,transcription
+拘物頭華,拘物头华,kumuda,4,3,3,1.333,1.0,off_by_one,noun,transcription
+拘物頭,拘物头,kumuda,3,3,3,1.0,1.0,exact,noun,transcription
+俱物頭華,俱物头华,kumuda,4,3,3,1.333,1.0,off_by_one,noun,transcription
+俱物頭,俱物头,kumuda,3,3,3,1.0,1.0,exact,noun,transcription
+羯剌藍,羯剌蓝,kalala,3,3,3,1.0,1.0,exact,noun,transcription
+歌羅羅,歌罗罗,kalala,3,3,3,1.0,1.0,exact,noun,transcription
+究牟地華,究牟地华,kumuda,4,3,3,1.333,1.0,off_by_one,noun,transcription
+究牟地,究牟地,kumuda,3,3,3,1.0,1.0,exact,noun,transcription
+究牟地華,究牟地华,kumuda,4,3,3,1.333,1.0,off_by_one,noun,transcription
+究牟地,究牟地,kumuda,3,3,3,1.0,1.0,exact,noun,transcription
+句文羅華,句文罗华,kumuda,4,3,3,1.333,1.0,off_by_one,noun,transcription
+句文羅,句文罗,kumuda,3,3,3,1.0,1.0,exact,noun,transcription
+分陀利,分陀利,puṇḍarīka,3,4,3,0.75,1.0,off_by_one,noun,transcription
+半支迦,半支迦,pāñcika,3,3,3,1.0,1.0,exact,proper noun,transcription
+半只迦,半只迦,pāñcika,3,3,3,1.0,1.0,exact,proper noun,transcription
+般止柯,般止柯,pāñcika,3,3,3,1.0,1.0,exact,proper noun,transcription
+般闍迦,般阇迦,pāñcika,3,3,3,1.0,1.0,exact,proper noun,transcription
+邠,邠,pa,1,1,1,1.0,1.0,exact,phonetic,transcription
+郝,郝,ha,1,1,1,1.0,1.0,exact,phonetic,transcription
+陀隣尼,陀隣尼,dhāraṇī,3,3,3,1.0,1.0,exact,noun,transcription
+銘,铭,me,1,1,1,1.0,1.0,exact,phonetic,transcription
+鍵,键,gha,1,1,1,1.0,1.0,exact,phonetic,transcription
+鑠,铄,sa,1,1,1,1.0,1.0,exact,phonetic,transcription
+優波提舍,优波提舍,upadeśa,4,4,4,1.0,1.0,exact,noun,transcription
+閻,阎,ja,1,1,1,1.0,1.0,exact,phonetic,transcription
+闍,阇,jha,1,1,1,1.0,1.0,exact,phonetic,transcription
+陛,陛,bhai,1,1,1,1.0,1.0,exact,phonetic,transcription
+優波娑迦,优波娑迦,upāsaka,4,4,4,1.0,1.0,exact,noun,transcription
+伊蒲塞,伊蒲塞,upāsaka,3,4,3,0.75,1.0,off_by_one,noun,transcription
+漚波耶,沤波耶,upāya,3,3,3,1.0,1.0,exact,noun,transcription
+三耶三佛陀,三耶三佛陀,samyaksaṃbuddha,5,5,5,1.0,1.0,exact,phrase,transcription
+豎底沙論,竖底沙论,jyotiṣa,4,3,3,1.333,1.0,off_by_one,phrase,transcription
+豎底沙,竖底沙,jyotiṣa,3,3,3,1.0,1.0,exact,phrase,transcription
+修提舍那,修提舍那,sudarśana,4,4,4,1.0,1.0,exact,proper noun,transcription
+阿波摩那阿婆,阿波摩那阿婆,apramāṇābha,6,5,5,1.2,1.0,off_by_one,proper noun,transcription
+駒那羅,驹那罗,kunāla,3,3,3,1.0,1.0,exact,proper noun,transcription
+鳩那羅,鸠那罗,kunāla,3,3,3,1.0,1.0,exact,proper noun,transcription
+拘那羅,拘那罗,kunāla,3,3,3,1.0,1.0,exact,proper noun,transcription
+都牟盧天,都牟卢天,tumburu,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+兜牟盧天,兜牟卢天,tumburu,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+耽浮樓天,耽浮楼天,tumburu,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+珍浮樓天,珍浮楼天,tumburu,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+虜喜尼,虏喜尼,rohiṇī,3,3,3,1.0,1.0,exact,proper noun,transcription
+設多婢灑,设多婢洒,śatabhiṣā,4,4,4,1.0,1.0,exact,proper noun,transcription
+跋難陀龍王,跋难陀龙王,upananda,5,4,3,1.25,1.0,off_by_one,proper noun,transcription
+密果天,密果天,bṛhatphala,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+鴦,鸯,aṅg,1,1,1,1.0,1.0,exact,phonetic,transcription
+富蘭那,富兰那,purāṇa,3,3,3,1.0,1.0,exact,proper noun,transcription
+脯剌拏,脯剌拏,purāṇa,3,3,3,1.0,1.0,exact,proper noun,transcription
+阿迦尼,阿迦尼,akaniṣṭha,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+阿迦尼師託,阿迦尼师讬,akaniṣṭha,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+阿迦尼沙託,阿迦尼沙讬,akaniṣṭha,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+衞世師,衞世师,vaiśeṣika,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+阿夷維,阿夷维,ājīvika,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+阿耆維,阿耆维,ājīvika,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+阿提目多,阿提目多,adhimukti,4,4,4,1.0,1.0,exact,noun,transcription
+僧伽吒,僧伽吒,saṃghāṭa,3,3,3,1.0,1.0,exact,noun,transcription
+僧伽吒,僧伽吒,saṃghāṭa,3,3,3,1.0,1.0,exact,noun,transcription
+闍鼻多,阇鼻多,kṣapita,3,3,3,1.0,1.0,exact,verb,transcription
+迦葉毘維,迦叶毘维,kāśyapīya,4,4,4,1.0,1.0,exact,proper noun,transcription
+僧伽多,僧伽多,saṃghāṭa,3,3,3,1.0,1.0,exact,noun,transcription
+僧伽多,僧伽多,saṃghāṭa,3,3,3,1.0,1.0,exact,noun,transcription
+摩那埵,摩那埵,mānatva,3,3,3,1.0,1.0,exact,noun,transcription
+蘇曼那,苏曼那,sumanā,3,3,3,1.0,1.0,exact,noun,transcription
+阿黎勒果,阿黎勒果,haritaki,4,4,4,1.0,1.0,exact,noun,transcription
+阿黎勒,阿黎勒,haritaki,3,4,3,0.75,1.0,off_by_one,noun,transcription
+訶黎勒果,诃黎勒果,haritaki,4,4,4,1.0,1.0,exact,noun,transcription
+一闡提迦,一阐提迦,icchantika,4,4,4,1.0,1.0,exact,noun,transcription
+般遮于瑟會,般遮于瑟会,pañcavārṣika,5,5,5,1.0,1.0,exact,proper noun,transcription
+般遮于瑟,般遮于瑟,pañcavārṣika,4,5,4,0.8,1.0,off_by_one,proper noun,transcription
+般闍于瑟會,般阇于瑟会,pañcavārṣika,5,5,5,1.0,1.0,exact,proper noun,transcription
+般闍于瑟,般阇于瑟,pañcavārṣika,4,5,4,0.8,1.0,off_by_one,proper noun,transcription
+沙彌利,沙弥利,śramaṇerī,3,4,3,0.75,1.0,off_by_one,noun,transcription
+訶利帝,诃利帝,hārītī,3,3,3,1.0,1.0,exact,proper noun,transcription
+訶利底,诃利底,hārītī,3,3,3,1.0,1.0,exact,proper noun,transcription
+訶利帝南,诃利帝南,hārītī,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+丁彦多,丁彦多,tiṅanta,3,3,3,1.0,1.0,exact,phrase,transcription
+踰健達羅山,踰健达罗山,yugaṃdhara,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+踰健達羅,踰健达罗,yugaṃdhara,4,4,4,1.0,1.0,exact,proper noun,transcription
+朅地洛迦山,朅地洛迦山,khadiraka,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+朅地洛迦,朅地洛迦,khadiraka,4,4,4,1.0,1.0,exact,proper noun,transcription
+尼民達羅山,尼民达罗山,nimiṃdhara,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+尼民達羅,尼民达罗,nimiṃdhara,4,4,4,1.0,1.0,exact,proper noun,transcription
+欝多羅施羅,欝多罗施罗,uttaraśaila,5,5,5,1.0,1.0,exact,proper noun,transcription
+迦葉比,迦叶比,kāśyapīyā,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+陀鄰尼,陀邻尼,dhāraṇī,3,3,3,1.0,1.0,exact,noun,transcription
+阿沙陀,阿沙陀,āṣāḍha,3,3,3,1.0,1.0,exact,noun,transcription
+竭地洛迦山,竭地洛迦山,khadiraka,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+竭達洛迦山,竭达洛迦山,khadiraka,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+富伽羅,富伽罗,pudgala,3,3,3,1.0,1.0,exact,noun,transcription
+阿私陀,阿私陀,asita,3,3,3,1.0,1.0,exact,proper noun,transcription
+阿私多,阿私多,asita,3,3,3,1.0,1.0,exact,proper noun,transcription
+阿私吒,阿私吒,asita,3,3,3,1.0,1.0,exact,proper noun,transcription
+阿斯陀,阿斯陀,asita,3,3,3,1.0,1.0,exact,proper noun,transcription
+波牟提陀步弭,波牟提陀步弭,pramuditābhūmi,6,6,6,1.0,1.0,exact,proper noun,transcription
+維摩羅普,维摩罗普,vimalābhūmi,4,5,4,0.8,1.0,off_by_one,proper noun,transcription
+三昧定,三昧定,samādhi,3,3,3,1.0,1.0,exact,noun,transcription
+瞿陀尼,瞿陀尼,godānīya,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+迦膩色伽,迦腻色伽,kaniṣka,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+罽膩迦王,罽腻迦王,kaniṣka,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+康達康達,康达康达,kundakunda,4,4,4,1.0,1.0,exact,proper noun,transcription
+娑雞多,娑鸡多,sāketa,3,3,3,1.0,1.0,exact,proper noun,transcription
+那洛巴,那洛巴,nāropa,3,3,3,1.0,1.0,exact,proper noun,transcription
+求那跋陀羅,求那跋陀罗,guṇabhadra,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+阿尼律陀,阿尼律陀,aniruddha,4,4,4,1.0,1.0,exact,proper noun,transcription
+阿尼律,阿尼律,aniruddha,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+迦旃延,迦旃延,kātyāyana,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+摩訶迦旃延,摩诃迦旃延,mahākātyāyana,5,6,5,0.833,1.0,off_by_one,proper noun,transcription
+羅睺羅跋多羅,罗喉罗跋多罗,rāhulabhadra,6,5,5,1.2,1.0,off_by_one,proper noun,transcription
+那爛陀寺,那烂陀寺,nālandā,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+孫陀羅難陀,孙陀罗难陀,sundarananda,5,5,5,1.0,1.0,exact,proper noun,transcription
+阿地瞿多,阿地瞿多,atikūta,4,4,4,1.0,1.0,exact,proper noun,transcription
+陀羅尼集經,陀罗尼集经,dhāraṇīsaṃgraha,5,6,5,0.833,1.0,off_by_one,proper noun,transcription
+勒那摩提,勒那摩提,ratnamati,4,4,4,1.0,1.0,exact,proper noun,transcription
+樹提伽經,树提伽经,Jyotiṣka,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+佛地經,佛地经,Buddhabhūmi,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+賓頭盧,宾头卢,piṇḍola,3,3,3,1.0,1.0,exact,proper noun,transcription
+闍那崛多,阇那崛多,Jñānagupta,4,4,4,1.0,1.0,exact,proper noun,transcription
+拘薩羅,拘萨罗,kośala,3,3,3,1.0,1.0,exact,proper noun,transcription
+須摩提,须摩提,Sumati,3,3,3,1.0,1.0,exact,proper noun,transcription
+因揭陀,因揭陀,aṅgada,3,3,3,1.0,1.0,exact,proper noun,transcription
+迦理迦,迦理迦,kālika,3,3,3,1.0,1.0,exact,proper noun,transcription
+迦諾迦跋釐堕闍,迦诺迦跋厘堕阇,kanakabharadrāja,7,7,7,1.0,1.0,exact,proper noun,transcription
+伽耶山,伽耶山,gayāśīrṣa,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+阿那律,阿那律,aniruddha,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+烏陀夷,乌陀夷,udāyin,3,3,3,1.0,1.0,exact,proper noun,transcription
+佛陀蜜多,佛陀蜜多,buddhamitra,4,4,4,1.0,1.0,exact,proper noun,transcription
+須闍多,须阇多,Sujātā,3,3,3,1.0,1.0,exact,proper noun,transcription
+頻婆娑羅王,频婆娑罗王,bimbisāra,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+迦葉波,迦叶波,Kāśyapa,3,3,3,1.0,1.0,exact,proper noun,transcription
+迦攝波,迦摄波,Kāśyapa,3,3,3,1.0,1.0,exact,proper noun,transcription
+大乘十法經,大乘十法经,daśadharma,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+阿毘達磨俱舍釋論,阿毘达磨俱舍释论,Abhidharmakośaśāstra,8,8,8,1.0,1.0,exact,proper noun,transcription
+蘇補底,苏补底,subhūti,3,3,3,1.0,1.0,exact,proper noun,transcription
+須扶提,须扶提,subhūti,3,3,3,1.0,1.0,exact,proper noun,transcription
+須浮帝,须浮帝,subhūti,3,3,3,1.0,1.0,exact,proper noun,transcription
+藪浮帝修,薮浮帝修,subhūti,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+釋翅搜,释翅搜,Śākyeṣu,3,3,3,1.0,1.0,exact,phrase,transcription
+阿毘浮,阿毘浮,abhibū,3,3,3,1.0,1.0,exact,proper noun,transcription
+鬱多樓,郁多楼,uttara,3,3,3,1.0,1.0,exact,proper noun,transcription
+戍婆揭羅僧訶,戍婆揭罗僧诃,Śubhakarasiṃha,6,6,6,1.0,1.0,exact,proper noun,transcription
+周利槃陀加,周利槃陀加,kṣudrapanthaka,5,5,5,1.0,1.0,exact,proper noun,transcription
+周利槃特,周利槃特,Śuddhipanthaka,4,5,4,0.8,1.0,off_by_one,proper noun,transcription
+迦留陀夷,迦留陀夷,kālodāyin,4,4,4,1.0,1.0,exact,proper noun,transcription
+摩訶劫賓那,摩诃劫宾那,mahākapphiṇa,5,5,5,1.0,1.0,exact,proper noun,transcription
+瞿醯壇怛囉,瞿醯坛怛啰,guhyatantra,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+頻毘娑羅,频毘娑罗,bimbisāra,4,4,4,1.0,1.0,exact,proper noun,transcription
+菩提僊那,菩提僊那,bodhisena,4,4,4,1.0,1.0,exact,proper noun,transcription
+阿折羅,阿折罗,ācāra,3,3,3,1.0,1.0,exact,proper noun,transcription
+般遮羅,般遮罗,pañcāla,3,3,3,1.0,1.0,exact,proper noun,transcription
+般闍羅國,般阇罗国,pañcāla,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+般闍羅,般阇罗,pañcāla,3,3,3,1.0,1.0,exact,proper noun,transcription
+般沙羅,般沙罗,pañcāla,3,3,3,1.0,1.0,exact,proper noun,transcription
+坎毘拉,坎毘拉,kaṃpilla,3,3,3,1.0,1.0,exact,proper noun,transcription
+耆米尼,耆米尼,jaimini,3,3,3,1.0,1.0,exact,proper noun,transcription
+巴達羅耶那,巴达罗耶那,bādarāyaṇa,5,5,5,1.0,1.0,exact,proper noun,transcription
+巴丹闍梨,巴丹阇梨,patañjali,4,4,4,1.0,1.0,exact,proper noun,transcription
+羯那陀,羯那陀,kaṇāda,3,3,3,1.0,1.0,exact,proper noun,transcription
+摩達羅,摩达罗,māṭhara,3,3,3,1.0,1.0,exact,proper noun,transcription
+乾吉沙,干吉沙,gaṅgeśa,3,3,3,1.0,1.0,exact,proper noun,transcription
+跋多羅衍那,跋多罗衍那,bādarāyaṇa,5,5,5,1.0,1.0,exact,proper noun,transcription
+高達怕達,高达怕达,gauḍapāda,4,4,4,1.0,1.0,exact,proper noun,transcription
+羅摩拏遮,罗摩拏遮,rāmānuja,4,4,4,1.0,1.0,exact,proper noun,transcription
+商羯羅,商羯罗,śaṅkara,3,3,3,1.0,1.0,exact,proper noun,transcription
+寧巴爾迦,宁巴尔迦,nimbārka,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+阿難陀吉利,阿难陀吉利,ānandagiri,5,5,5,1.0,1.0,exact,proper noun,transcription
+波爾尼,波尔尼,pāṇini,3,3,3,1.0,1.0,exact,proper noun,transcription
+迦膩色迦,迦腻色迦,kaniṣka,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+阿泥盧豆,阿泥豆豆,aniruddha,4,4,4,1.0,1.0,exact,proper noun,transcription
+畔度室利,畔度室利,bandhuśri,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+畔徒室利,畔徒室利,bandhuśri,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+犍陀羅,犍陀罗,gandhāra,3,3,3,1.0,1.0,exact,proper noun,transcription
+須隣那,须隣那,sudinna,3,3,3,1.0,1.0,exact,proper noun,transcription
+難提迦,难提迦,nandika,3,3,3,1.0,1.0,exact,proper noun,transcription
+富婁沙富羅,富娄沙富罗,puruṣapura,5,5,5,1.0,1.0,exact,proper noun,transcription
+富留沙富羅,富留沙富罗,puruṣapura,5,5,5,1.0,1.0,exact,proper noun,transcription
+賓頭羅,宾头罗,piṇḍola,3,3,3,1.0,1.0,exact,proper noun,transcription
+彌蘭陀,弥兰陀,milinda,3,3,3,1.0,1.0,exact,proper noun,transcription
+彌蘭陀王,弥兰陀王,milinda,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+坦婆羅國,坦婆罗国,tambala,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+坦婆羅,坦婆罗,tambala,3,3,3,1.0,1.0,exact,proper noun,transcription
+檀多弗利,檀多弗利,dantapurī,4,4,4,1.0,1.0,exact,proper noun,transcription
+曼奴汗葛山,曼奴汗葛山,manubhaṅga,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+弗沙蜜多羅,弗沙蜜多罗,puṣyamitra,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+至那僕底國,至那仆底国,cīnabhukti,5,4,4,1.25,1.0,off_by_one,proper noun,transcription
+娑枳多城,娑枳多城,sāketa,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+娑枳多,娑枳多,sāketa,3,3,3,1.0,1.0,exact,proper noun,transcription
+孫陀羅難陀詩,孙陀罗难陀诗,saundarananda,6,5,5,1.2,1.0,off_by_one,proper noun,transcription
+僧伽施,僧伽施,sāṅkāśya,3,3,3,1.0,1.0,exact,proper noun,transcription
+僧伽施國,僧伽施国,sāṅkāśya,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+僧迦舍,僧迦舍,sāṅkāśya,3,3,3,1.0,1.0,exact,proper noun,transcription
+須跋陀羅,须跋陀罗,subhadra,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+蘇跋陀羅,苏跋陀罗,subhadra,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+須跋陀,须跋陀,subhadra,3,3,3,1.0,1.0,exact,proper noun,transcription
+藪婆頭樓,薮婆头楼,subhadra,4,3,3,1.333,1.0,off_by_one,proper noun,transcription
+末田底迦,末田底迦,madhyantika,4,4,4,1.0,1.0,exact,proper noun,transcription
+末田提,末田提,madhyantika,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+末闡提,末阐提,madhyantika,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+末田地,末田地,madhyantika,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+末田鐸迦,末田铎迦,madhyantika,4,4,4,1.0,1.0,exact,proper noun,transcription
+末彈地,末弹地,madhyantika,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+摩禪提,摩禅提,madhyantika,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+優婆鞠多,优婆鞠多,upagupta,4,4,4,1.0,1.0,exact,proper noun,transcription
+優波掘,优波掘,upagupta,3,4,3,0.75,1.0,off_by_one,proper noun,transcription
+孫陀利,孙陀利,sundarī,3,3,3,1.0,1.0,exact,proper noun,transcription
+須那呵多,须那呵多,sunakṣatra,4,4,4,1.0,1.0,exact,proper noun,transcription
+維耶離,维耶离,vaiśālī,3,3,3,1.0,1.0,exact,proper noun,transcription
+鴦窶利摩羅,鸯窭利摩罗,aṅgulimāla,5,5,5,1.0,1.0,exact,proper noun,transcription
+拘尸那揭羅,拘尸那揭罗,kuśinagara,5,5,5,1.0,1.0,exact,proper noun,transcription
+拘尸那揭羅國,拘尸那揭罗国,kuśinagara,6,5,5,1.2,1.0,off_by_one,proper noun,transcription
+拘尸那伽,拘尸那伽,kuśinagara,4,5,4,0.8,1.0,off_by_one,proper noun,transcription
+拘私那竭,拘私那竭,kuśinagara,4,5,4,0.8,1.0,off_by_one,proper noun,transcription
+阿蜜哩多軍拏里,阿蜜哩多軍拏里,amṛitakuṇḍali,7,7,7,1.0,0.857,exact,proper noun,transcription
+阿蜜哩多軍吒利,阿蜜哩多軍吒利,amṛitakuṇḍali,7,7,7,1.0,0.857,exact,proper noun,transcription
+首楞伽摩三摩提,首楞伽摩三摩提,śūraṃgamasamādhi,7,7,7,1.0,0.857,exact,proper noun,transcription
+摩訶般若波羅蜜,摩诃般若波罗蜜,mahāprajñāpāramitā,7,8,7,0.875,0.857,off_by_one,phrase,transcription
+尸迦羅越六方禮經,尸迦罗越六方礼经,śṛgālavādasūtra,8,7,7,1.143,0.857,off_by_one,proper noun,transcription
+般若波羅蜜多,般若波罗蜜多,prajñāpāramitā,6,6,6,1.0,0.833,exact,noun,transcription
+伴陀羅縛字尼,伴陀罗缚字尼,pāṇḍaravāsinī,6,6,6,1.0,0.833,exact,proper noun,transcription
+薩嚩怛他蘖多,萨嚩怛他蘖多,sarvatathāgata,6,6,6,1.0,0.833,exact,phrase,transcription
+盧俱多羅婆拖,卢俱多罗婆拖,lokottaravāda,6,6,6,1.0,0.833,exact,proper noun,transcription
+盧俱多羅婆地,卢俱多罗婆地,lokottaravādin,6,6,6,1.0,0.833,exact,proper noun,transcription
+伴陀羅縛子尼,伴陀罗缚子尼,Pāṇḍaravāsinī,6,6,6,1.0,0.833,exact,proper noun,transcription
+優波離問佛經,优波离问佛经,upālipariprcchā,6,6,6,1.0,0.833,exact,proper noun,transcription
+鳩咜伽羅沙羅,鸠咜伽罗沙罗,kūṭāgāra-śālā,6,6,6,1.0,0.833,exact,proper noun,transcription
+阿那他擯荼陀,阿那他摈荼陀,anāthapiṇḍada,6,6,6,1.0,0.833,exact,proper noun,transcription
+阿迦捨蘖婆,阿迦舍蘖婆,ākāśagarbha,5,5,5,1.0,0.8,exact,proper noun,transcription
+誐誐曩彥惹,誐誐曩彦惹,gaganagañja,5,5,5,1.0,0.8,exact,proper noun,transcription
+摩訶拘絺羅,摩诃拘絺罗,mahākauṣṭhila,5,5,5,1.0,0.8,exact,proper noun,transcription
+說一切有部,说一切有部,sarvāstivāda,5,5,5,1.0,0.8,exact,proper noun,transcription
+阿波羅爾多,阿波罗尔多,aparājita,5,5,5,1.0,0.8,exact,proper noun,transcription
+鄔波髻設尼,邬波髻设尼,upakeśinī,5,5,5,1.0,0.8,exact,proper noun,transcription
+烏波髻施儞,乌波髻施儞,upakeśinī,5,5,5,1.0,0.8,exact,proper noun,transcription
+六波羅蜜多,六波罗蜜多,satpāramitā,5,5,5,1.0,0.8,exact,proper noun,transcription
+蘇悉地羯囉,苏悉地羯啰,susiddhikara,5,5,5,1.0,0.8,exact,proper noun,transcription
+阿毘遮嚕迦,阿毘遮噜迦,abhicāraka,5,5,5,1.0,0.8,exact,noun,transcription
+阿鉢囉氏多,阿钵啰氏多,aparājita,5,5,5,1.0,0.8,exact,proper noun,transcription
+伊帝目多伽,伊帝目多伽,itivṛttaka,5,5,5,1.0,0.8,exact,noun,transcription
+阿那婆達多,阿那婆达多,anavatapta,5,5,5,1.0,0.8,exact,proper noun,transcription
+阿那婆答多,阿那婆答多,anavatapta,5,5,5,1.0,0.8,exact,proper noun,transcription
+阿那婆踏池,阿那婆踏池,anavatapta,5,5,5,1.0,0.8,exact,proper noun,transcription
+郁多羅究琉,郁多罗究琉,uttarakuru,5,5,5,1.0,0.8,exact,proper noun,transcription
+阿蘭若比丘,阿兰若比丘,araṇya-bhikṣu,5,5,5,1.0,0.8,exact,phrase,transcription
+維那羅泥天,维那罗泥天,nirmāṇarati,5,5,5,1.0,0.8,exact,proper noun,transcription
+三藐三沒馱,三藐三没驮,samyaksaṃbuddha,5,5,5,1.0,0.8,exact,phrase,transcription
+翳迦鼻至迦,翳迦鼻至迦,ekavicīka,5,5,5,1.0,0.8,exact,phrase,transcription
+注荼半托迦,注荼半托迦,Cūḍapanthaka,5,5,5,1.0,0.8,exact,proper noun,transcription
+普魯夏普拉,普鲁夏普拉,puruṣapura,5,5,5,1.0,0.8,exact,proper noun,transcription
+佛陀僧祇提,佛陀僧祇提,buddhasaṅgīti,5,5,5,1.0,0.8,exact,proper noun,transcription
+拘夷那伽羅,拘夷那伽罗,kuśinagara,5,5,5,1.0,0.8,exact,proper noun,transcription
+俱尸竭伽羅,俱尸竭伽罗,kuśinagara,5,5,5,1.0,0.8,exact,proper noun,transcription
+根本說一切有部尼陀那目得迦,根本说一切有部尼陀那目得迦,Mūlasarvāstivādanidānamātṛkā,13,13,13,1.0,0.769,exact,proper noun,transcription
+達磨馱都,达磨驮都,dharmadhātu,4,4,4,1.0,0.75,exact,noun,transcription
+路迦馱睹,路迦驮睹,lokadhātu,4,4,4,1.0,0.75,exact,noun,transcription
+式叉摩那,式叉摩那,śikṣamāṇā,4,4,4,1.0,0.75,exact,noun,transcription
+提婆達多,提婆达多,devadatta,4,4,4,1.0,0.75,exact,proper noun,transcription
+摩護羅誐,摩护罗誐,mahorāga,4,4,4,1.0,0.75,exact,noun,transcription
+金剛密跡,金刚密迹,guhyapāda,4,4,4,1.0,0.75,exact,proper noun,transcription
+波囉弭多,波罗弭多,pāramitā,4,4,4,1.0,0.75,exact,noun,transcription
+僧腳崎迦,僧脚崎迦,saṅkakṣikā,4,4,4,1.0,0.75,exact,noun,transcription
+香王菩薩,香王菩萨,gandharāja,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿吒薄俱,阿吒薄俱,āṭavaka,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿吒薄迦,阿吒薄迦,āṭavaka,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿吒薄皆,阿吒薄皆,āṭavaka,4,4,4,1.0,0.75,exact,proper noun,transcription
+毘那夜迦,毘那夜迦,vināyaka,4,4,4,1.0,0.75,exact,proper noun,transcription
+頻那夜迦,频那夜迦,vināyaka,4,4,4,1.0,0.75,exact,proper noun,transcription
+毘那耶迦,毘那耶迦,vināyaka,4,4,4,1.0,0.75,exact,proper noun,transcription
+毘那也迦,毘那也迦,vināyaka,4,4,4,1.0,0.75,exact,proper noun,transcription
+毘首羯磨,毘首羯磨,viśvakarmā,4,4,4,1.0,0.75,exact,proper noun,transcription
+毘守羯磨,毘守羯磨,viśvakarmā,4,4,4,1.0,0.75,exact,proper noun,transcription
+羯句啅劍,羯句啅剑,karkoṭaka,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿地提婆,阿地提婆,ādideva,4,4,4,1.0,0.75,exact,proper noun,transcription
+優曇鉢羅,优昙钵罗,uḍumbara,4,4,4,1.0,0.75,exact,noun,transcription
+優曇跋羅,优昙跋罗,udumbara,4,4,4,1.0,0.75,exact,noun,transcription
+芬陀利華,芬陀利华,puṇḍarīka,4,4,4,1.0,0.75,exact,noun,transcription
+分陀利花,分陀利花,puṇḍarīka,4,4,4,1.0,0.75,exact,noun,transcription
+七摩怛里,七摩怛里,saptamātṛ,4,4,4,1.0,0.75,exact,phrase,transcription
+七母女天,七母女天,saptamātṛ,4,4,4,1.0,0.75,exact,phrase,transcription
+毘樓遮那,毘楼遮那,vairocana,4,4,4,1.0,0.75,exact,proper noun,transcription
+毘盧折那,毘卢折那,vairocana,4,4,4,1.0,0.75,exact,proper noun,transcription
+毘盧遮那,毘卢遮那,vairocana,4,4,4,1.0,0.75,exact,proper noun,transcription
+鄔波索迦,邬波索迦,upāsaka,4,4,4,1.0,0.75,exact,noun,transcription
+鄔波斯迦,邬波斯迦,upāsikā,4,4,4,1.0,0.75,exact,noun,transcription
+嚩蘇摩底,嚩苏摩底,vasumatī,4,4,4,1.0,0.75,exact,proper noun,transcription
+扇底羯囉,扇底羯啰,śāntikara,4,4,4,1.0,0.75,exact,phrase,transcription
+達摩馱睹,达摩驮睹,dharmadhātu,4,4,4,1.0,0.75,exact,noun,transcription
+俱摩囉迦,俱摩啰迦,kumāraka,4,4,4,1.0,0.75,exact,noun,transcription
+長阿含經,长阿含经,dīrghāgama,4,4,4,1.0,0.75,exact,proper noun,transcription
+烏波閦莽,乌波閦莽,upaśama,4,4,4,1.0,0.75,exact,noun,transcription
+毘婆舍那,毘婆舍那,vipaśyanā,4,4,4,1.0,0.75,exact,noun,transcription
+魔醯首羅,魔醯首罗,maheśvara,4,4,4,1.0,0.75,exact,proper noun,transcription
+鄔波難陀,邬波难陀,upananda,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿唎多羅,阿唎多罗,āryatārā,4,4,4,1.0,0.75,exact,proper noun,transcription
+補陀洛山,补陀洛山,potalaka,4,4,4,1.0,0.75,exact,proper noun,transcription
+尸多婆那,尸多婆那,śītavana,4,4,4,1.0,0.75,exact,noun,transcription
+阿蘭若迦,阿兰若迦,āraṇyaka,4,4,4,1.0,0.75,exact,noun,transcription
+阿范和利,阿范和利,āmrapālī,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿梵和利,阿梵和利,āmrapālī,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿波陀那,阿波陀那,avadāna,4,4,4,1.0,0.75,exact,noun,transcription
+三摩咀吒,三摩咀吒,samataṭa,4,4,4,1.0,0.75,exact,proper noun,transcription
+三彌底部,三弥底部,sammatīya,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿儗囉娑,阿儗啰娑,āṅgirasa,4,4,4,1.0,0.75,exact,phrase,transcription
+沙摩吠陀,沙摩吠陀,sāmaveda,4,4,4,1.0,0.75,exact,proper noun,transcription
+三摩吠陀,三摩吠陀,sāmaveda,4,4,4,1.0,0.75,exact,proper noun,transcription
+娑摩薜陀,娑摩薜陀,sāmaveda,4,4,4,1.0,0.75,exact,proper noun,transcription
+娑磨吠陀,娑磨吠陀,sāmaveda,4,4,4,1.0,0.75,exact,proper noun,transcription
+娑磨毘陀,娑磨毘陀,sāmaveda,4,4,4,1.0,0.75,exact,proper noun,transcription
+冶受吠陀,冶受吠陀,yajurveda,4,4,4,1.0,0.75,exact,proper noun,transcription
+耶樹薜陀,耶树薜陀,yajurveda,4,4,4,1.0,0.75,exact,proper noun,transcription
+耶受毘陀,耶受毘陀,yajurveda,4,4,4,1.0,0.75,exact,proper noun,transcription
+夜殊鞞陀,夜殊鞞陀,yajurveda,4,4,4,1.0,0.75,exact,proper noun,transcription
+祭祀智論,祭祀智论,yajurveda,4,4,4,1.0,0.75,exact,proper noun,transcription
+毘伽羅論,毘伽罗论,vyākaraṇa,4,4,4,1.0,0.75,exact,noun,transcription
+毘伽羅論,毘伽罗论,vyākaraṇa,4,4,4,1.0,0.75,exact,noun,transcription
+摩訶般若,摩诃般若,mahāprajñā,4,4,4,1.0,0.75,exact,noun,transcription
+菩提道場,菩提道场,bodhimaṇḍa,4,4,4,1.0,0.75,exact,noun,transcription
+僧行不正,僧行不正,saṃghabheda,4,4,4,1.0,0.75,exact,phrase,transcription
+首楞伽摩,首楞伽摩,śūraṅgama,4,4,4,1.0,0.75,exact,adjective,transcription
+補盧崽拏,补卢崽拏,puruṣeṇa,4,4,4,1.0,0.75,exact,noun,transcription
+尼羅蔽荼,尼罗蔽荼,nīlapiṭa,4,4,4,1.0,0.75,exact,noun,transcription
+提婆拔提,提婆拔提,dīpavatī,4,4,4,1.0,0.75,exact,proper noun,transcription
+毘首羯摩,毘首羯摩,viśvakarman,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿婆嘬羅,阿婆嘬罗,ābhāsvara,4,4,4,1.0,0.75,exact,adjective,transcription
+阿毘目底,阿毘目底,adhimukti,4,4,4,1.0,0.75,exact,phrase,transcription
+演若達多,演若达多,yajñadatta,4,4,4,1.0,0.75,exact,proper noun,transcription
+延若達多,延若达多,yajñadatta,4,4,4,1.0,0.75,exact,proper noun,transcription
+耶若達多,耶若达多,yajñadatta,4,4,4,1.0,0.75,exact,proper noun,transcription
+和伽羅那,和伽罗那,vyākaraṇa,4,4,4,1.0,0.75,exact,noun,transcription
+不那利華,不那利华,puṇḍarīka,4,4,4,1.0,0.75,exact,noun,transcription
+納拉辛哈,纳拉辛哈,narasiṃha,4,4,4,1.0,0.75,exact,proper noun,transcription
+伊底呵婆,伊底呵婆,itihāsa,4,4,4,1.0,0.75,exact,proper noun,transcription
+比伊波羅,比伊波罗,bṛhatphala,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿耆毘伽,阿耆毘伽,ājīvika,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿時縛迦,阿时缚迦,ājīvika,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿時婆迦,阿时婆迦,ājīvika,4,4,4,1.0,0.75,exact,proper noun,transcription
+阿寅婆迦,阿寅婆迦,ājīvika,4,4,4,1.0,0.75,exact,proper noun,transcription
+鳥波陀耶,鸟波陀耶,upādhyāya,4,4,4,1.0,0.75,exact,noun,transcription
+鄔波陀耶,邬波陀耶,upādhyāya,4,4,4,1.0,0.75,exact,phrase,transcription
+盎哦囉迦,盎哦啰迦,aṅgāraka,4,4,4,1.0,0.75,exact,proper noun,transcription
+分陀利華,分陀利华,puṇḍarīka,4,4,4,1.0,0.75,exact,noun,transcription
+伊沙馱羅,伊沙驮罗,īṣādhara,4,4,4,1.0,0.75,exact,proper noun,transcription
+毘那怛迦,毘那怛迦,vinataka,4,4,4,1.0,0.75,exact,proper noun,transcription
+羼提波梨,羼提波梨,kṣāntipāla,4,4,4,1.0,0.75,exact,proper noun,transcription
+伽陀羅山,伽陀罗山,khadiraka,4,4,4,1.0,0.75,exact,proper noun,transcription
+軻犁羅山,轲犁罗山,khadiraka,4,4,4,1.0,0.75,exact,proper noun,transcription
+軻地羅山,轲地罗山,khadiraka,4,4,4,1.0,0.75,exact,proper noun,transcription
+鴦哦囉迦,鸯哦啰迦,aṅgāraka,4,4,4,1.0,0.75,exact,proper noun,transcription
+實叉難陀,实叉难陀,Śiksānanda,4,4,4,1.0,0.75,exact,proper noun,transcription
+虛空藏菩薩陀羅尼,虚空藏菩萨陀罗尼,ākāśagarbhadhāraṇī,8,8,8,1.0,0.75,exact,proper noun,transcription
+優樓頻羅,优楼频罗,uruvilvā,4,4,4,1.0,0.75,exact,proper noun,transcription
+尼連禪河,尼连禅河,Nairañjanā,4,4,4,1.0,0.75,exact,proper noun,transcription
+憍梵波提,憍梵波提,gavāṃpati,4,4,4,1.0,0.75,exact,proper noun,transcription
+頻頭娑羅,频头娑罗,bimbisāra,4,4,4,1.0,0.75,exact,proper noun,transcription
+民彌沙囉,民弥沙啰,bimbisāra,4,4,4,1.0,0.75,exact,proper noun,transcription
+高達帕達,高达帕达,gauḍapāda,4,4,4,1.0,0.75,exact,proper noun,transcription
+尼夜耶經,尼夜耶经,nyāya-sūtra,4,4,4,1.0,0.75,exact,proper noun,transcription
+摩阿闍梨,摩阿阇梨,Bhīmācārya,4,4,4,1.0,0.75,exact,proper noun,transcription
+鉢顛社攞,钵颠社攞,patañjali,4,4,4,1.0,0.75,exact,proper noun,transcription
+那那斯那,那那斯那,nāgasena,4,4,4,1.0,0.75,exact,proper noun,transcription
+摩訶提婆,摩诃提婆,mahādeva,4,4,4,1.0,0.75,exact,proper noun,transcription
+僧伽羅剎,僧伽罗刹,saṃgharakṣa,4,4,4,1.0,0.75,exact,proper noun,transcription
+僧伽羅叉,僧伽罗叉,saṃgharakṣa,4,4,4,1.0,0.75,exact,proper noun,transcription
+伽耶山頂,伽耶山顶,gayāśīrṣa,4,4,4,1.0,0.75,exact,proper noun,transcription
+末田地那,末田地那,madhyantika,4,4,4,1.0,0.75,exact,proper noun,transcription
+嘎,嘎,ka,1,1,1,1.0,0.0,exact,phonetic,transcription
+佉,佉,kha,1,1,1,1.0,0.0,exact,phonetic,transcription
+㖸,㖸,gha,1,1,1,1.0,0.0,exact,phonetic,transcription
+哈,哈,ha,1,1,1,1.0,0.0,exact,phonetic,transcription
+若,若,ja,1,1,1,1.0,0.0,exact,phonetic,transcription
+若,若,jñā,1,1,1,1.0,0.0,exact,phonetic,transcription
+絝,绔,ṭa,1,1,1,1.0,0.0,exact,phonetic,transcription
+姹,姹,ṭha,1,1,1,1.0,0.0,exact,phonetic,transcription
+咃,咃,ṭha,1,1,1,1.0,0.0,exact,phonetic,transcription
+搋,搋,ṭha,1,1,1,1.0,0.0,exact,phonetic,transcription
+荼,荼,ḍha,1,1,1,1.0,0.0,exact,phonetic,transcription
+哆,哆,ta,1,1,1,1.0,0.0,exact,phonetic,transcription
+娜,娜,da,1,1,1,1.0,0.0,exact,phonetic,transcription
+馱,驮,dha,1,1,1,1.0,0.0,exact,phonetic,transcription
+駄,駄,dha,1,1,1,1.0,0.0,exact,phonetic,transcription
+曇,昙,dha,1,1,1,1.0,0.0,exact,phonetic,transcription
+叵,叵,pha,1,1,1,1.0,0.0,exact,phonetic,transcription
+嘙,嘙,bha,1,1,1,1.0,0.0,exact,phonetic,transcription
+滼,滼,bha,1,1,1,1.0,0.0,exact,phonetic,transcription
+囉,啰,ra,1,1,1,1.0,0.0,exact,phonetic,transcription
+喇,喇,ra,1,1,1,1.0,0.0,exact,phonetic,transcription
+邏,逻,la,1,1,1,1.0,0.0,exact,phonetic,transcription
+攞,攞,la,1,1,1,1.0,0.0,exact,phonetic,transcription
+砢,砢,la,1,1,1,1.0,0.0,exact,phonetic,transcription
+縛,缚,va,1,1,1,1.0,0.0,exact,phonetic,transcription
+縒,縒,sa,1,1,1,1.0,0.0,exact,phonetic,transcription
+拶,拶,sa,1,1,1,1.0,0.0,exact,phonetic,transcription
+呀,呀,ṅa,1,1,1,1.0,0.0,exact,phonetic,transcription
+盎,盎,ṅa,1,1,1,1.0,0.0,exact,phonetic,transcription
+髯,髯,ja,1,1,1,1.0,0.0,exact,phonetic,transcription
+鑁,鑁,vaṃ,1,1,1,1.0,0.0,exact,phonetic,transcription
+嚧,嚧,ḹ,1,1,1,1.0,0.0,exact,phonetic,transcription
+㘕,㘕,laṃ,1,1,1,1.0,0.0,exact,phonetic,transcription
+膉,膉,laṃ,1,1,1,1.0,0.0,exact,phonetic,transcription
+伐,伐,va,1,1,1,1.0,0.0,exact,phonetic,transcription
+咜,咜,ṭha,1,1,1,1.0,0.0,exact,phonetic,transcription
+呵,呵,la,1,1,1,1.0,0.0,exact,phonetic,transcription
+呾,呾,ta,1,1,1,1.0,0.0,exact,phonetic,transcription
+哈,哈,gha,1,1,1,1.0,0.0,exact,phonetic,transcription
+哩,哩,ṛ,1,1,1,1.0,0.0,exact,phonetic,transcription
+嚕,噜,ru,1,1,1,1.0,0.0,exact,phonetic,transcription
+嚩,嚩,va,1,1,1,1.0,0.0,exact,phonetic,transcription
+孰,孰,ka,1,1,1,1.0,0.0,exact,phonetic,transcription
+捺,捺,na,1,1,1,1.0,0.0,exact,phonetic,transcription
+曩,曩,kāntāra,1,3,0,0.333,0.0,length_mismatch,phonetic,transcription
+殟,殟,u,1,1,1,1.0,0.0,exact,phonetic,transcription
+毗,毗,vai,1,1,1,1.0,0.0,exact,phonetic,transcription
+毘,毘,vai,1,1,1,1.0,0.0,exact,phonetic,transcription
+盧,卢,ḹ,1,1,1,1.0,0.0,exact,phonetic,transcription
+矩,矩,ku,1,1,1,1.0,0.0,exact,phonetic,transcription
+碪,碪,dhāṃ,1,1,1,1.0,0.0,exact,phonetic,transcription
+穰,穰,ja,1,1,1,1.0,0.0,exact,phonetic,transcription
+羼,羼,kṣan,1,1,1,1.0,0.0,exact,phonetic,transcription
+蓬,蓬,om,1,1,1,1.0,0.0,exact,phonetic,transcription
+亙,亙,ma,1,1,1,1.0,0.0,exact,phonetic,transcription
+鄔,邬,u,1,1,1,1.0,0.0,exact,phonetic,transcription
+醝,醝,tsa,1,1,1,1.0,0.0,exact,phonetic,transcription
+鴆,鸩,hāṃ,1,1,1,1.0,0.0,exact,phonetic,transcription
+猭,猭,hrīḥ,1,1,1,1.0,0.0,exact,phonetic,transcription

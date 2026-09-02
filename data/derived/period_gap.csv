@@ -1,0 +1,10 @@
+﻿from_era,to_era,part,loo_accuracy_pct
+OM,EMC,initial,78.61
+OM,EMC,nucleus,63.01
+OM,EMC,coda,54.34
+EMC,LHan,initial,93.9
+EMC,LHan,nucleus,58.54
+EMC,LHan,coda,99.39
+OM,LHan,initial,79.27
+OM,LHan,nucleus,50.0
+OM,LHan,coda,87.2

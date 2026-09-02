@@ -1,0 +1,56 @@
+====================================================================
+ STEP 8 - extract the Secret History of the Mongols corpus
+====================================================================
+
+source: 音訳蒙文元朝秘史.epub  (5,216,167 bytes)
+
+triples extracted            : 29,306
+unique (chinese, mongolian)  : 9,329
+distinct Chinese characters  : 535
+distinct Mongolian forms     : 8,506
+documents contributing       : 38
+
+SANITY - character count vs romanised syllable count:
+  exact match      :  58.7%
+  within +/-1      :  93.4%
+  (a genuine per-syllable transcription should sit high here; the probe
+   sample gave 92% within +/-1)
+
+SAMPLE - 20 extracted pairs:
+  gloss      transcription  mongolian
+  狗名         合撒兒            qasar
+  狗          那孩             noγai
+  上          迭額列            deġere
+  天          騰格理            teṅgeri
+  營盤做着       嫩禿黑剌周          nutuγlažu
+  子自的行       可兀的顏           köġüd-yen
+  人名         忽難             Γunan
+  等項         帖里兀田           teriġüten
+  種名         格你格思           Geniges
+  一          你刊             nigen
+  圈子         古列延            kürejen
+  來了也        亦列罷古           irebe-kü
+  再          巴撒             Basa
+  人名         荅里台斡赤斤         Daritai-Ödčigin
+  一          你刊             nigen
+  圈子         古列延            kürejen
+  來了也        亦列罷古           irebe-kü
+  種名處        札荅剌納察          Žadaran-ača
+  人名         木勒合勒忽          Mulqalqu
+  來了也        亦列罷古           irebe-kü
+
+Most frequent transcription characters:
+  兒(4821)  兀(4267)  額(3550)  合(3200)  阿(2911)  勒(2761)  周(2389)  列(2340)  亦(1984)  客(1983)  惕(1833)  剌(1812)  里(1639)  斡(1509)  忽(1442)  荅(1384)  赤(1327)  格(1317)  訥(1304)  迭(1290)
+
+SCALE:
+  current channel training set (Sanskrit) : 1,017 pairs
+  this corpus (Mongolian)                 : 9,329 unique pairs
+  factor                                  : 9.2x
+
+PERIOD NOTE: this is Yuan-era material, so the Chinese side belongs to the
+Old Mandarin layer, not the Later Han layer the Xiongnu names need. That is
+fine for its purpose here - the question this corpus answers is whether the
+METHOD works when data is adequate, which is currently confounded with the
+data being thin. Period transfer is a separate question.
+
+Written to data/derived/shm_transcription_pairs.csv (9,329 rows)

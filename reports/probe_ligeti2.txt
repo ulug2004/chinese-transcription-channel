@@ -1,0 +1,218 @@
+======================================================================
+ Ligeti 1966, vol 19
+======================================================================
+ pages: 426   title-hint pages: [4, 126, 127, 128, 129, 130, 132, 136, 138, 140, 150, 152]
+ body-hint span: 4..414 (88 pages)
+ densest entry-list pages: [152, 133, 138]
+
+----------------------------------------------------------------------
+ TEXT DUMP - PDF page 152 (first 28 non-empty lines)
+----------------------------------------------------------------------
+   UN VOCABULAIRE SINO-OUIGOUR DES MING 143
+   bitig (pi-ti) «livre (chou))) II 12a (72a) «oeuvre littéraire (wen)» Il 12b
+   (73a). [Bidik «ein Buch», «Litteratur», Kl. 23.] ~ a. turc bitig «Schrift,
+   Geschriebenes, Buchstabe, Brief, Testament, Buch» (Gab., Altt. Gr. 303);
+   Käsy. bitik lire bitig «Schreiben, Schrift» (Br. 38); tchag. bitig «écrit, lettre»
+   (PdC 181); s. yög. pitiy, pitiq «livre, lettre, écrit», piciy, id. (chez quelques
+   Yögurs montagnards)» (Mal. 96, 97); sal. pisti «écriture, écrit» (Как. 186)
+   bitig aqtardï «traduire une lettre (officielle)» II 13a (74b)
+   bitig oqï «lire le livre» II 13a (74a)
+   bitig üsig «écriture» II 13a (74a)
+   bitig-ning yaraëturup «préparer un écrit» II 13a (74a)
+   bitig-ning ygrüg-i «explication de l’écrit» II 12b (74a)
+   sayurt bitig «livre de miscellanées» II 13a (74a)
+   sayurt bitig oqï «lire le livre de miscellanées (le manuel)» II 13a (74a)
+   tungqul bitig «affiche, proclamation» II 12b (73b)
+   biz-lär (pi-sseu-la-eul) «nous» I 23b (45a) ~ Raby. bizlâr (Mal., Pamj.
+   372); a. turc biz «wir» (Gab., Altt. Gr. 304; Mal., Pamj. 372); ouig. biz (Radl.,
+   Uig. Spr. 268); tchag. biz (PdC 186); tourki biz, bis, bz, bizler «we» (Jar. 56);
+   ouig. mod. biz, bez, bizlâr (Mal. 142)
+   boydas (pou-ta-sseu), pl. «les saints» I 21a (40b). [Bochdas «ein Heiliger»,
+   Kl. 17; poqtas lire boydas «der Heilige», Radi. IV, 1264.] Mot mongol, au pluriel.
+   Cf. Hs boqda, boqdo, boqta «heilig, weise» (H 16); Ph boqdas, boqtas, pl. «saints,
+   holy ones» (Po. 120); mong. lit. boyda «saint, divin, vénérable, révérend,
+   seigneur, maître (titre de grands personnages)» (Kow. II, 1211); kalm. bogd°
+   «Majestät; majestätisch, himmlisch, heilig; Kaiser» (Ramst., 49); ord. bog do
+   (Most. I, 74); khal. bogd (Luv. 71); bour. boydo (Öer. 103)
+   bol- «être, devenir»: boldï, dans plusieurs expressions ~ a. turc bol- «sein,
+   werden, entstehen, richtig sein» (Gab., Altt. Gr. 304); turc. Orkh., ouig. bol-
+
+----------------------------------------------------------------------
+ TEXT DUMP - PDF page 133 (first 28 non-empty lines)
+----------------------------------------------------------------------
+   124 L. LIGETI
+   abïq (a-pi) «haie, clôture» I 5b (10b).9 [Abich «Zaun, Umzäunung», KL
+   11.] *** ouig. abïq «die Einzäunung, der Zaun» (Radi. I, 62b, sans indication
+   de la source). Le mot paraît rare, toutefois il est tantant de le rattacher au
+   verbe abï- «verbergen» (Käsy., Br. 1)
+   Heilk. = G. R. Rachmati, Zur Heilkunde der Uiguren (I) (Berlin 1930), II (Berlin
+   1932);
+   Anal. Ind. = W. Bang—A. v. Gabain, Analytischer Index zu den fünf ersten Stücken
+   der Türkischen Turfan-Texte, Berlin 1931;
+   TTT VI = W. Bang—A. v. Gabain—G. R. Rachmati, Türkische Turfantexte VI,
+   Berlin 1934;
+   TTT VII = G. R. Rachmati, Türkische Turfan-Texte VII, Berlin 1936;
+   TTT VIII—X = A. v. Gabain, Türkische Turfan-Texte VIII (Berlin 1954); IX (Berlin
+   1958); X (Berlin 1949);
+   Uig. I—III = F. W. K. Müller, Uigurica (I) (Berlin 1908); II (Berlin 1911); III (Berlin
+   1922);
+   Uig. IV = A. v. Gabain, F. W. K. Müllers Uigurica IV (Berlin 1931)
+   KSs-f. = Käs-fari; C. Brockelmann, Mitteltürkischer Wortschatz nach Mahmud
+   al-KäSyaris Dlvän luyät at-turk, Budapest—Leipzig 1928;
+   Tefs. = Tefsir; A. K. Borovkov, Leksika sredneaziatskogo Tefsira X II—X III vv.
+   (Moskva 1963);
+   QB = Qutadyu bilig; d’après Malov, Pamjatniki et Radloff, Wörterbuch-,
+   Rabf. = Rabfüzî; d’après Malov, Pamjatniki et Radloff, Wörterbuch;
+   IM = Ibn Muhannä; A. Battal, Ibn-Muhannâ lügati (Istanbul 1934);
+   tchag. = tchaghataï; Pa vet de Courteille, Dictionnaire turc-oriental (Paris 1870);
+   Lég. = Légende d’Oghouz;
+   Bang = W. Bang — G. R. Rachmati, Die Legende von Oghuz Qaghan (Berlin 1932);
+   Pelliot = P. Pelliot, Sur la légende d’Uyuz Khan en écriture ouigoure: T’oung Pao
+
+----------------------------------------------------------------------
+ TEXT DUMP - PDF page 138 (first 28 non-empty lines)
+----------------------------------------------------------------------
+   UN VOCABULAIRE SINO-OUIGOUR DES MING 129
+   (Radl., Uig. Spr. 262); s. yôg. allïnzïlïy «sixième» (Mal. 15); ouig. mod. altïnc
+   (Mal., 137), Kach. altïnki (Ujg. nar. 93)
+   altmïs (ngan-ti-mi-che) «soixante» II 19a (83a) ~ a. turc, altmïs (Gab.,
+   Altt. Gr. 103; Mal., Pamj. 357); ouig. altmïs (Radl., Uig. Spr. 262); tchag.
+   altmïs (PdC 31); s. yôg. alton (Mal. 14); sal. amm\s, amis, amis (Как. 175);
+   tourki altmïs, atmïs (Jar. 21); ouig. mod. altmis, a(l)tmïs (Mal. 137)
+   altun (ngan-t’ouen) «or» II 8a (66a) ~ a. turc, altun «golden, Gold» (Gab.,
+   Altt. Gr. 293; Mal., Pamj. 357); Kâsy. altun (Br. 8); Tefs. altun (Bor. 50);
+   tchag. altun (PdC 31); Lég. altun (188, 199 etc.); s. yôg. altïn (Mal. 14); sal.
+   altun, altin (Как. 175); tourki altun (Wt. II, 3101), altun, altun (Jar. 21); ouig.
+   mod. altun (Mal. 137)
+   altun abcam-a «coupe d’or» II 5b (61b)
+   altun qapï «porte d’or; porte impériale» II 2a (55a)
+   altun qarsï «palais d’or; palais impérial» II 2a (55a)
+   altun qazuq «L’étoile polaire, la Polaire» I 3b (6a)
+   altun quur «ceinture d’or» II 7a (64a)
+   altun yarrnaq-lïq bars «léopard» I 17b (33a)
+   altun-luq (ngan-t’ouen-lou) «soie brochée d’or» II 7a (64a). [Altun-luk
+   «Goldstoff», Kl. 21; altunluq «Goldbrokat», Radl. I, 411.J ~ ouig. altunluy
+   «doré» (Radl., Uig. Spr. 262); tchag. altunmuy «étoffe brochée d’or» (PdC 31);
+   IM altunlïy (Bat. 10)14
+   altun-luq sancba «broderie d’or» II 6b (63b)
+   amasïngïr15 (a-ma-sing-k’i-eul) «vrai, véritable, sincère» II 22a (89b).
+   [Amasinkir «wahr», Kl. 26.]
+   amiraq «amical, aimable», dans birlâ amïraq boldï «être en bons terms,
+   lier une amitié» II 25a (94a) ~ a. turc, amraq, y(a)mraq «lieb, geliebter»
+   < amir- «lieben» (Gab., Altt. Gr. 294; Mal., Pamj. 358); Käsy. amraq «ruhig,
+
+ OCR character inventory over the body: latin 132,160  CJK 0
+ non-ASCII non-CJK symbols seen: —’“•■
+
+ rendered PDF page 152 -> reports/ligeti_page_1966_152.png (1,227,048 bytes)
+ rendered PDF page 133 -> reports/ligeti_page_1966_133.png (1,180,786 bytes)
+
+======================================================================
+ Ligeti 1969, vol 22
+======================================================================
+ pages: 430   title-hint pages: [4, 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20]
+ body-hint span: 4..401 (67 pages)
+ densest entry-list pages: [379, 227, 213]
+
+----------------------------------------------------------------------
+ TEXT DUMP - PDF page 379 (first 28 non-empty lines)
+----------------------------------------------------------------------
+   362 MEFKÜKE MOLLOYA
+   les noms des jours chez les Turkmènes, selon lesquels en turkmène, parallèlement avec
+   ekëembe «dimanche», s’emploient encore: bäzar güni (litt, «jour de marché»); et uzaq
+   bäzar (litt, «marché court»); dans le dialecte turkmène d’Ârsâry dimanche est appelé bir
+   ânna < bir adna (litt, «un certain vendredi»); dans le dial, turkmène de Salyq vendredi
+   est appelé arna -< adna (pers.).
+   La prononciation des formes écrites en turkmène standard serait (toujours selon
+   Z. Muhammedova): 1) dusenbe [düëommâ]; 2) siëenbe [sïëemme]; 3) carsenbe [SârSamma];
+   4) perëenbe [pejëemme]; 5) anna [ânna]; 6) ëenbe [ëemtnï]; 7) ekëenbe \egëemme\.
+   karaïm coman CC karacaï-balkar
+   1) (jeh) baS kùn coman coman
+   2) orta kùn noyari kùn gùrge kùn
+   3) han kùn (hain k.) coman orta kùn
+   4) Galice: kicajne kin / kicajna kùn bar as kùn
+   Troki : kici baraski
+   5) Galice: ajne kin / Troki: ajnakùn bajram kùn
+   baraski
+   6) Sabbat (Sapat) kùn = —
+   7) jeh kùn — —
+   (K. M. Мусаев, Грамматика караимского языка, фонетика и морфология, Москва 1964,
+   р. 23, 19).
+   Selon les recherches de J. Deny (L’Arméno-coman et les éphémérides de kameniec,
+   Wiesbaden 1967, p. 23 — 24, 45, 71), en arméno-coman les noms des jours auraient les
+   formes suivantes: 1) jyhpaë (pour jyh baë); 2) ?; 3) han kün; 4) kicajnakün (pour kici
+   ajna kün «le petit vendredi»); 5) ajna kün (pers. aôine); CC âjnü; 6) ëapat; 7) jyh kün.
+   — Selon W. Pröhle (Karatschaische Studien: KSz. X, 1909, p. 83 et suiv.), en karacaï
+   yjyq signifie «semaine» et yjyq kün «dimanche»; baë kün «lundi».
+   Les Khakas, les Turcs altaïques et les Yakoutes se servent des dénominations
+
+----------------------------------------------------------------------
+ TEXT DUMP - PDF page 227 (first 28 non-empty lines)
+----------------------------------------------------------------------
+   216 L. LIGETI
+   Yum (Jong) «pays des Jong»; 15:1. Transcription du chin. jong, ach.
+   nziung, am. zün. L’initiale y- remonte à ן-\ la finale -m paraît aberrante, mais
+   elle n’est pas sans exemple dans le dialecte chinois de nos documents. Cf. encore
+   Doc. 15, ligne 1, note
+   yumSa- «envoyer»: yumUap; 1:1,4; 2:1; 3:1,4,6; 4:1; 5:1; 6:1; 7:3,8; 8:1;
+   9:1; 11:1; 12:1; 13:1; 14:1; 15:3; 16:3,7; 17:1; 18:1; 19:1; 20:1; 21:1,10; 22:1;
+   23:2; 24:4,8; 25:7; 26:4; 27:3,5; 28:3; 29:2,6; 30:1,4; 31:1,4; 32:4; 34:6;
+   35:3; 36:4; 38:1; 39:1; 40:1; 41:1. Ky yumSa- «envoyer, déléguer, commis-
+   sioner», yumëap
+   yumëaq, dans yumkaq yavaS (yong-cha ya-fa-che) «doux, clément, mou»,
+   S 26a ~ a. turc yumkaq «mild, weich» (Gab., Altt. Gr. 357); ouig. yumSaq «той»
+   (Radi., Uig. Spr. 276; Rachm., TTT VII, 124; Gab., TTT VIII, 104); Käsy.
+   yumSaq «weich» (Br. 97); Tefs. yumsaq «той» (Bor. 163); tchag. yumSay, id.
+   (PdC 550); s. yög. yumsaq (Mal. 44); tourki yumSaq, yumSaq «soft, loose» (Jar.
+   160); ouig. mod. yumkaq (Mal. 157)
+   Yunus «roi du pays d’Uiyur»; 21:1. Nom mahométan bien connu. Voir
+   Doc. 21, ligne 1, note
+   yükün- «s’agenouiller, s’incliner»: yüküngâli, adverbe verbal; 7:4; 14:3;
+   17:2; 21:6; 25:4; 26:3; 34:3; 40:3; yüküngâli (yu-kong-k’o-li), id., S la, 17a.
+   Cf. côk-. Ky yükün-
+   yurâk «coeur»; 21:6; 26:3; 29:9; 35:2. Ky yurâk, id.
+   yurüng «blanc»; 34:5; yurüng ayaq (yu-long ngai-ya) «tasse (de porcelaine)
+   de couleur blanche», S 28b. Ky yurüng, id.
+   yüz «face, visage»; 22:7; altun yüz-ning yuyu cïlapcï «cuvette d’or pour
+   se laver la figure», S 38b. Ky yüz «joue»
+   Addenda
+   Voici quelques remarques supplémentaires à propos des mots ouigours
+
+----------------------------------------------------------------------
+ TEXT DUMP - PDF page 213 (first 28 non-empty lines)
+----------------------------------------------------------------------
+   202 L. LIGETI
+   entstehen, (Sonne) aufgehen, übersteigen, gebären» (Gab., Altt. Gr. 342);
+   ouig. toy- «naître» (Radi., Uig. Spr. 297; Rachm., TTT VII, 119); Käsy. toy-
+   «geboren werden» (Br. 211); QB toy- «naître» (Mal., Pamj. 431); Tefs. toy-
+   (Bor. 305); tchag. toy- (PdC 237); s. yög. toy-, tuq- (Mal. 119); sal noy-, doy- «1.
+   naître; 2. accoucher» (Как. 178); tourki tuy-, tuq- «to bear, to bring forth
+   children, to calve» (Jar. 315); ouig. mod. tuy- (Mai. 186)
+   toyus- «épuiser»: toyusmayïn (t’ou-k’ou-sseu-ma-yin), S 25b. Cf. supra,
+   tayus- «être terminé, achevé»
+   toquz «neuf»; 26:5. Ky toquz, id.
+   tolyaq (t’ouan-ha) «souffrance», S 4b, 20a; tolyaq ämgäk «souffrance»;
+   12:3; 18:4; 20:4—5; 33:3 a. turc tolyaq «Bedrängnis, Qual, Kolik» (Gab.,
+   Altt. Gr. 342); ouig. tulyaq «souffrance» (Radl., Uig. Spr. 298; F. W. K.
+   Müller, Uig. II, 73,3; TTT VI, 91); Kâsy. tolyàq «Quai» (Br. 212); s. yög.
+   tolyaq «douleurs de l’enfantement» (Mal. 121); tourki tolyaq «labour, pains,
+   throes, travail» (Jar. 311); ouig. mod. tolyaq «douleurs (de maladie)» (Mal. 185)
+   tolu «plein, complet; *arranger;» répondant, en chinois aux termes
+   «*préparer, *pourvoir»; 7:6; 21:8; 32:3; tolu (t'ou-lou), id., BM 103a ~ a.
+   turc tolu «vollständig, voll, ganz, das Vollständige» (Gab., Altt. Gr. 342);
+   ouig. tolu «plein» (Radi., Uig. Spr. 298), tolu «viel, vollständig» (Anal. Ind. 47);
+   Kä§y. tolu «voll» (Br. 213); Tefs. toluy, tol'i, tolu, id. (Bor. 398); tchag. tola
+   «plein, rempli» (PdC 242); s. yög. tolo, tolu (Mal. 121); sal. toi, loli «complet,
+   plein» (Как. 192); tourki tola «much, very, many» (Jar. 310); ouig. mod.
+   tola (Mai. 185); Cf. Doc. 7, ligne, 7, note
+   tomaya «bonnet de fourrure», dans tomaya börk, id.; 22:8. Ky tomay-a,
+   id., dans tomay-a börk
+   ton, dans ton fuu «habit, robe»; 6:4; 10:4; 19:4; 32:5; 34:8. Ky ton
+   «vêtement, habit»
+
+ OCR character inventory over the body: latin 102,984  CJK 0
+ non-ASCII non-CJK symbols seen: —’“•№■
+
+ rendered PDF page 379 -> reports/ligeti_page_1969_379.png (1,426,319 bytes)
+ rendered PDF page 227 -> reports/ligeti_page_1969_227.png (1,343,187 bytes)
+

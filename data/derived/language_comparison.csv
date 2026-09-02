@@ -1,0 +1,40 @@
+﻿chinese,pinyin,entry_type,best_language,runner_up,log_bayes_factor,best_form,proposed_reading,logP_Turkic,logP_Yeniseian,logP_Mongolic,logP_Iranian,logP_Indic,logP_Tungusic
+頭曼,Touman,ruler,Iranian,Turkic,0.43,daman,tuman / tümen,-16.92,-21.79,-18.96,-16.48,-18.48,-20.81
+冒頓,Modu / Modun,ruler,Tungusic,Indic,2.06,5ata,bagatur / baγatur ?,-23.86,-21.64,-22.69,-23.03,-19.66,-17.6
+稽粥,Jizhou / Jiyu,ruler,Yeniseian,Indic,0.88,kaCa,,-15.76,-14.13,-16.02,-15.01,-15.01,-15.63
+軍臣,Junchen,ruler,Yeniseian,Tungusic,0.58,kakCa,,-20.27,-18.31,-20.63,-20.42,-20.27,-18.89
+伊稚斜,Yizhixie,ruler,Yeniseian,Turkic,1.16,itaya,,-21.0,-19.84,-23.11,-24.4,-22.69,-21.14
+烏維,Wuwei,ruler,Tungusic,Mongolic,0.49,ubi,,-17.27,-15.9,-15.22,-17.04,-17.66,-14.73
+詹師廬,Zhanshilu,ruler,Tungusic,Indic,0.3,jaSira,,-26.64,-27.14,-24.12,-24.09,-23.66,-23.36
+呴犁湖,Xulihu / Goulihu,ruler,Yeniseian,Indic,0.11,adiga,,-22.44,-21.49,-22.39,-22.13,-21.6,-22.76
+且鞮侯,Qiedihou,ruler,Mongolic,Tungusic,1.9,Cadaga,,-25.58,-24.07,-21.6,-24.76,-24.96,-23.5
+狐鹿姑,Hulugu,ruler,Yeniseian,Mongolic,2.79,a5aga,,-25.52,-20.84,-23.63,-24.77,-24.44,-23.71
+壺衍鞮,Huyandi,ruler,Tungusic,Indic,0.12,kayata,,-23.95,-23.27,-23.9,-23.94,-22.61,-22.49
+虛閭權渠,Xulüquanqu,ruler,Yeniseian,Mongolic,2.62,elakaga,,-32.34,-27.02,-29.63,-32.46,-33.45,-31.07
+握衍朐鞮,Woyanqudi,ruler,Indic,Tungusic,0.25,ayakuta,,-28.71,-26.23,-29.07,-28.32,-25.74,-25.99
+呼韓邪,Huhanye,ruler,Yeniseian,Indic,1.67,hokuya,,-26.66,-21.81,-24.33,-27.34,-23.49,-28.03
+郅支,Zhizhi,ruler,Tungusic,Indic,0.41,jaCi,,-18.55,-19.67,-16.5,-17.55,-15.62,-15.21
+復株累若鞮,Fuzhulei Ruodi,ruler,Indic,Tungusic,3.35,patarajati,,-40.6,-39.77,-37.04,-38.31,-33.43,-36.78
+搜諧若鞮,Souxie Ruodi,ruler,Tungusic,Mongolic,0.54,Sukujata,,-36.49,-31.83,-31.61,-33.18,-32.2,-31.07
+車牙若鞮,Cheya Ruodi,ruler,Mongolic,Yeniseian,2.25,Cagajada,,-36.64,-31.53,-29.28,-33.84,-31.75,-31.99
+烏珠留若鞮,Wuzhuliu Ruodi,ruler,Tungusic,Yeniseian,0.24,ujalojata,,-42.32,-38.62,-39.75,-42.87,-39.8,-38.38
+烏累若鞮,Wulei Ruodi,ruler,Tungusic,Mongolic,0.08,urijata,,-32.01,-30.61,-28.11,-32.97,-30.99,-28.02
+呼都而尸道皋若鞮,Huduershi Daogao Ruodi,ruler,Indic,Mongolic,0.34,hotuuSinakajati,,-68.99,-61.95,-61.09,-64.96,-60.74,-61.69
+攣鞮,Luandi,clan,Indic,Iranian,3.65,rati,*lyuan-tlïγ ?,-20.47,-19.0,-17.21,-15.19,-11.54,-17.32
+虛連題,Xulianti,clan,Tungusic,Mongolic,1.15,omraNta,,-32.59,-30.16,-29.37,-30.92,-30.23,-28.22
+單于,chanyu,title,Indic,Turkic,0.13,tujvar,*darγwa ? / *tarqan ?,-22.28,-23.98,-22.28,-23.45,-22.15,-22.82
+撑犁孤塗單于,chengli gutu chanyu,title,Indic,Tungusic,0.52,tadika5atamvar,tengri qutu chanyu,-58.06,-59.2,-57.48,-59.67,-56.15,-56.68
+撑犁,chengli,lexical,Tungusic,Indic,0.2,tadi,tengri,-17.73,-17.18,-18.06,-18.25,-16.85,-16.65
+孤塗,gutu,lexical,Indic,Yeniseian,0.77,ka5a,*qut ?,-18.82,-17.69,-18.5,-17.95,-16.92,-17.96
+閼氏,yanzhi / ezhi,title,Yeniseian,Tungusic,0.63,eji,,-18.47,-16.08,-17.59,-17.74,-18.09,-16.72
+屠耆,tuqi,title,Tungusic,Turkic,0.06,taji,*toγrï ?,-14.85,-16.0,-16.39,-15.14,-15.9,-14.79
+谷蠡,luli / guli,title,Indic,Yeniseian,1.33,kara,,-12.09,-11.86,-11.99,-13.45,-10.53,-12.26
+當戶,danghu,title,Yeniseian,Mongolic,1.97,taga,,-15.59,-13.3,-15.27,-15.29,-16.1,-15.62
+骨都侯,guduhou,title,Yeniseian,Mongolic,0.46,katuga,,-25.2,-22.88,-23.35,-23.66,-23.51,-24.44
+且渠,juqu,title,Mongolic,Yeniseian,1.54,Caga,,-18.37,-16.26,-14.72,-16.57,-17.22,-16.55
+徑路,jinglu,lexical,Indic,Yeniseian,4.34,kalo,kingrak ?,-17.58,-16.42,-16.89,-18.54,-12.08,-16.87
+服匿,funi,lexical,Indic,Iranian,1.84,pani,,-17.63,-17.36,-16.84,-11.88,-10.03,-14.67
+甌脫,outuo,lexical,Yeniseian,Tungusic,0.73,ata,,-13.6,-11.13,-12.66,-13.13,-12.34,-11.86
+胡祿,hulu,lexical,Indic,Yeniseian,1.33,kara,,-12.09,-11.86,-11.99,-13.45,-10.53,-12.26
+匈奴,Xiongnu,ethnonym,Indic,Mongolic,2.4,anu,,-16.22,-16.36,-15.35,-17.16,-12.95,-16.92
+羯,Jie,ethnonym,Indic,Yeniseian,1.52,ka,,-10.29,-10.29,-10.82,-10.56,-8.77,-10.92

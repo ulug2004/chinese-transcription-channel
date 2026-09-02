@@ -1,0 +1,217 @@
+chinese,pinyin,kind,lhan,turkish_render,language,candidate,score,p_vs_null,beats_chance
+頭曼,Touman,ruler/clan,do mɑnᶜ,do man,Turkish,duman,0.042,0.1067,no
+頭曼,Touman,ruler/clan,do mɑnᶜ,do man,Turkish,idman,0.042,0.1067,no
+頭曼,Touman,ruler/clan,do mɑnᶜ,do man,Turkish,domino,0.056,0.1067,no
+頭曼,Touman,ruler/clan,do mɑnᶜ,do man,Kazakh,domna,0.0,0.04,yes
+頭曼,Touman,ruler/clan,do mɑnᶜ,do man,Kazakh,duman,0.042,0.04,yes
+頭曼,Touman,ruler/clan,do mɑnᶜ,do man,Kazakh,domino,0.056,0.04,yes
+冒頓,Modu / Modun,ruler/clan,mək tuənᶜ,mık tuın,Turkish,makedon,0.138,0.44,no
+冒頓,Modu / Modun,ruler/clan,mək tuənᶜ,mık tuın,Turkish,makedonya,0.22,0.44,no
+冒頓,Modu / Modun,ruler/clan,mək tuənᶜ,mık tuın,Turkish,mektubun,0.233,0.44,no
+冒頓,Modu / Modun,ruler/clan,mək tuənᶜ,mık tuın,Kazakh,mıktan,0.042,0.14,no
+冒頓,Modu / Modun,ruler/clan,mək tuənᶜ,mık tuın,Kazakh,aumaktan,0.047,0.14,no
+冒頓,Modu / Modun,ruler/clan,mək tuənᶜ,mık tuın,Kazakh,maktan,0.062,0.14,no
+稽粥,Jizhou / Jiyu,ruler/clan,kʰeiᴮ tśuk,kei çuk,Turkish,kauçuk,0.056,0.14,no
+稽粥,Jizhou / Jiyu,ruler/clan,kʰeiᴮ tśuk,kei çuk,Turkish,kaçak,0.083,0.14,no
+稽粥,Jizhou / Jiyu,ruler/clan,kʰeiᴮ tśuk,kei çuk,Turkish,kaçık,0.083,0.14,no
+稽粥,Jizhou / Jiyu,ruler/clan,kʰeiᴮ tśuk,kei çuk,Kazakh,kauçuk,0.056,0.1833,no
+稽粥,Jizhou / Jiyu,ruler/clan,kʰeiᴮ tśuk,kei çuk,Kazakh,kauçuktı,0.122,0.1833,no
+稽粥,Jizhou / Jiyu,ruler/clan,kʰeiᴮ tśuk,kei çuk,Kazakh,ketik,0.311,0.1833,no
+軍臣,Junchen,ruler/clan,kun dźin,kun cin,Turkish,kantin,0.244,0.6833,no
+軍臣,Junchen,ruler/clan,kun dźin,kun cin,Turkish,kanadına,0.275,0.6833,no
+軍臣,Junchen,ruler/clan,kun dźin,kun cin,Turkish,kanadını,0.275,0.6833,no
+軍臣,Junchen,ruler/clan,kun dźin,kun cin,Kazakh,kandan,0.275,0.7867,no
+軍臣,Junchen,ruler/clan,kun dźin,kun cin,Kazakh,kanden,0.275,0.7867,no
+軍臣,Junchen,ruler/clan,kun dźin,kun cin,Kazakh,kiından,0.275,0.7867,no
+伊稚斜,Yizhixie,ruler/clan,ʔi ḍiᶜ ja,’i di ya,Turkish,diye,0.083,0.27,no
+伊稚斜,Yizhixie,ruler/clan,ʔi ḍiᶜ ja,’i di ya,Turkish,aday,0.125,0.27,no
+伊稚斜,Yizhixie,ruler/clan,ʔi ḍiᶜ ja,’i di ya,Turkish,daya,0.125,0.27,no
+伊稚斜,Yizhixie,ruler/clan,ʔi ḍiᶜ ja,’i di ya,Kazakh,adiya,0.042,0.14,no
+伊稚斜,Yizhixie,ruler/clan,ʔi ḍiᶜ ja,’i di ya,Kazakh,ideya,0.042,0.14,no
+伊稚斜,Yizhixie,ruler/clan,ʔi ḍiᶜ ja,’i di ya,Kazakh,diyu,0.083,0.14,no
+烏維,Wuwei,ruler/clan,ʔɑ wi,’a vi,Turkish,av,0.125,0.39,no
+烏維,Wuwei,ruler/clan,ʔɑ wi,’a vi,Turkish,vadi,0.15,0.39,no
+烏維,Wuwei,ruler/clan,ʔɑ wi,’a vi,Turkish,avcı,0.212,0.39,no
+烏維,Wuwei,ruler/clan,ʔɑ wi,’a vi,Kazakh,veto,0.275,0.7867,no
+烏維,Wuwei,ruler/clan,ʔɑ wi,’a vi,Kazakh,vot,0.275,0.7867,no
+烏維,Wuwei,ruler/clan,ʔɑ wi,’a vi,Kazakh,fag,0.362,0.7867,no
+詹師廬,Zhanshilu,ruler/clan,tśam ṣi liɑ,çam şi lia,Turkish,çamaşır,0.184,0.57,no
+詹師廬,Zhanshilu,ruler/clan,tśam ṣi liɑ,çam şi lia,Turkish,çekişli,0.281,0.57,no
+詹師廬,Zhanshilu,ruler/clan,tśam ṣi liɑ,çam şi lia,Turkish,açmalı,0.297,0.57,no
+詹師廬,Zhanshilu,ruler/clan,tśam ṣi liɑ,çam şi lia,Kazakh,müşeli,0.297,0.8033,no
+詹師廬,Zhanshilu,ruler/clan,tśam ṣi liɑ,çam şi lia,Kazakh,meşel,0.312,0.8033,no
+詹師廬,Zhanshilu,ruler/clan,tśam ṣi liɑ,çam şi lia,Kazakh,meşeule,0.312,0.8033,no
+呴犁湖,Xulihu / Goulihu,ruler/clan,huo lei gɑ,huo lei ga,Turkish,ihale,0.167,0.5233,no
+呴犁湖,Xulihu / Goulihu,ruler/clan,huo lei gɑ,huo lei ga,Turkish,ahali,0.183,0.5233,no
+呴犁湖,Xulihu / Goulihu,ruler/clan,huo lei gɑ,huo lei ga,Turkish,ahilik,0.183,0.5233,no
+呴犁湖,Xulihu / Goulihu,ruler/clan,huo lei gɑ,huo lei ga,Kazakh,halge,0.083,0.3433,no
+呴犁湖,Xulihu / Goulihu,ruler/clan,huo lei gɑ,huo lei ga,Kazakh,auhaula,0.167,0.3433,no
+呴犁湖,Xulihu / Goulihu,ruler/clan,huo lei gɑ,huo lei ga,Kazakh,ahual,0.183,0.3433,no
+且鞮侯,Qiedihou,ruler/clan,tsɑᴮ te go,tsa te go,Turkish,ateist,0.096,0.2833,no
+且鞮侯,Qiedihou,ruler/clan,tsɑᴮ te go,tsa te go,Turkish,otistik,0.138,0.2833,no
+且鞮侯,Qiedihou,ruler/clan,tsɑᴮ te go,tsa te go,Turkish,test,0.138,0.2833,no
+且鞮侯,Qiedihou,ruler/clan,tsɑᴮ te go,tsa te go,Kazakh,tasta,0.117,0.3933,no
+且鞮侯,Qiedihou,ruler/clan,tsɑᴮ te go,tsa te go,Kazakh,tastak,0.117,0.3933,no
+且鞮侯,Qiedihou,ruler/clan,tsɑᴮ te go,tsa te go,Kazakh,tastau,0.117,0.3933,no
+狐鹿姑,Hulugu,ruler/clan,ɣuɑ lok kɑ,ğua lok ka,Turkish,oğlak,0.122,0.3133,no
+狐鹿姑,Hulugu,ruler/clan,ɣuɑ lok kɑ,ğua lok ka,Turkish,uğrak,0.244,0.3133,no
+狐鹿姑,Hulugu,ruler/clan,ɣuɑ lok kɑ,ğua lok ka,Turkish,ahlak,0.259,0.3133,no
+狐鹿姑,Hulugu,ruler/clan,ɣuɑ lok kɑ,ğua lok ka,Kazakh,ağalık,0.122,0.4067,no
+狐鹿姑,Hulugu,ruler/clan,ɣuɑ lok kɑ,ğua lok ka,Kazakh,lakka,0.184,0.4067,no
+狐鹿姑,Hulugu,ruler/clan,ɣuɑ lok kɑ,ğua lok ka,Kazakh,halıkka,0.2,0.4067,no
+壺衍鞮,Huyandi,ruler/clan,gɑ janᴮ te,ga yan te,Turkish,giyen,0.138,0.44,no
+壺衍鞮,Huyandi,ruler/clan,gɑ janᴮ te,ga yan te,Turkish,giyin,0.138,0.44,no
+壺衍鞮,Huyandi,ruler/clan,gɑ janᴮ te,ga yan te,Turkish,kayan,0.171,0.44,no
+壺衍鞮,Huyandi,ruler/clan,gɑ janᴮ te,ga yan te,Kazakh,kaynat,0.096,0.3567,no
+壺衍鞮,Huyandi,ruler/clan,gɑ janᴮ te,ga yan te,Kazakh,kaynatu,0.096,0.3567,no
+壺衍鞮,Huyandi,ruler/clan,gɑ janᴮ te,ga yan te,Kazakh,küyente,0.117,0.3567,no
+虛閭權渠,Xulüquanqu,ruler/clan,kʰɨɑ liɑ gyan gɨɑ,kıa lia gyan gıa,Turkish,kalkan,0.383,0.8733,no
+虛閭權渠,Xulüquanqu,ruler/clan,kʰɨɑ liɑ gyan gɨɑ,kıa lia gyan gıa,Turkish,kalkma,0.383,0.8733,no
+虛閭權渠,Xulüquanqu,ruler/clan,kʰɨɑ liɑ gyan gɨɑ,kıa lia gyan gıa,Turkish,kalmayınca,0.388,0.8733,no
+虛閭權渠,Xulüquanqu,ruler/clan,kʰɨɑ liɑ gyan gɨɑ,kıa lia gyan gıa,Kazakh,kılkıng,0.213,0.63,no
+虛閭權渠,Xulüquanqu,ruler/clan,kʰɨɑ liɑ gyan gɨɑ,kıa lia gyan gıa,Kazakh,ekologiya,0.243,0.63,no
+虛閭權渠,Xulüquanqu,ruler/clan,kʰɨɑ liɑ gyan gɨɑ,kıa lia gyan gıa,Kazakh,kuäligining,0.243,0.63,no
+握衍朐鞮,Woyanqudi,ruler/clan,ʔɔk janᴮ guo te,’ok yan guo te,Turkish,kıyamet,0.263,0.7,no
+握衍朐鞮,Woyanqudi,ruler/clan,ʔɔk janᴮ guo te,’ok yan guo te,Turkish,kıymet,0.275,0.7,no
+握衍朐鞮,Woyanqudi,ruler/clan,ʔɔk janᴮ guo te,’ok yan guo te,Turkish,kıyafet,0.3,0.7,no
+握衍朐鞮,Woyanqudi,ruler/clan,ʔɔk janᴮ guo te,’ok yan guo te,Kazakh,koyıng,0.125,0.4467,no
+握衍朐鞮,Woyanqudi,ruler/clan,ʔɔk janᴮ guo te,’ok yan guo te,Kazakh,kuyang,0.125,0.4467,no
+握衍朐鞮,Woyanqudi,ruler/clan,ʔɔk janᴮ guo te,’ok yan guo te,Kazakh,kayıng,0.138,0.4467,no
+呼韓邪,Huhanye,ruler/clan,hɑ gɑn ja,ha gan ya,Turkish,günay,0.179,0.5367,no
+呼韓邪,Huhanye,ruler/clan,hɑ gɑn ja,ha gan ya,Turkish,güney,0.2,0.5367,no
+呼韓邪,Huhanye,ruler/clan,hɑ gɑn ja,ha gan ya,Turkish,hakan,0.233,0.5367,no
+呼韓邪,Huhanye,ruler/clan,hɑ gɑn ja,ha gan ya,Kazakh,kunay,0.254,0.72,no
+呼韓邪,Huhanye,ruler/clan,hɑ gɑn ja,ha gan ya,Kazakh,keney,0.275,0.72,no
+呼韓邪,Huhanye,ruler/clan,hɑ gɑn ja,ha gan ya,Kazakh,künäyi,0.275,0.72,no
+郅支,Zhizhi,ruler/clan,tśit tśe,çit çe,Turkish,çete,0.142,0.4667,no
+郅支,Zhizhi,ruler/clan,tśit tśe,çit çe,Turkish,çit,0.142,0.4667,no
+郅支,Zhizhi,ruler/clan,tśit tśe,çit çe,Turkish,çita,0.142,0.4667,no
+郅支,Zhizhi,ruler/clan,tśit tśe,çit çe,Kazakh,uçetçik,0.117,0.3933,no
+郅支,Zhizhi,ruler/clan,tśit tśe,çit çe,Kazakh,uçet,0.142,0.3933,no
+郅支,Zhizhi,ruler/clan,tśit tśe,çit çe,Kazakh,çukça,0.367,0.3933,no
+搜諧若鞮,Souxie Ruodi,ruler/clan,so gɛi ńɑk te,so gei nyak te,Turkish,sakinlik,0.3,0.77,no
+搜諧若鞮,Souxie Ruodi,ruler/clan,so gɛi ńɑk te,so gei nyak te,Turkish,sakınmak,0.308,0.77,no
+搜諧若鞮,Souxie Ruodi,ruler/clan,so gɛi ńɑk te,so gei nyak te,Turkish,güneybatı,0.342,0.77,no
+搜諧若鞮,Souxie Ruodi,ruler/clan,so gɛi ńɑk te,so gei nyak te,Kazakh,segizayak,0.25,0.71,no
+搜諧若鞮,Souxie Ruodi,ruler/clan,so gɛi ńɑk te,so gei nyak te,Kazakh,sotanaktık,0.317,0.71,no
+搜諧若鞮,Souxie Ruodi,ruler/clan,so gɛi ńɑk te,so gei nyak te,Kazakh,askındat,0.325,0.71,no
+車牙若鞮,Cheya Ruodi,ruler/clan,tśʰa ŋa ńɑk te,ça nga nyak te,Turkish,çiğneyip,0.4,0.8867,no
+車牙若鞮,Cheya Ruodi,ruler/clan,tśʰa ŋa ńɑk te,ça nga nyak te,Turkish,çobanlık,0.415,0.8867,no
+車牙若鞮,Cheya Ruodi,ruler/clan,tśʰa ŋa ńɑk te,ça nga nyak te,Turkish,çiğnemek,0.425,0.8867,no
+車牙若鞮,Cheya Ruodi,ruler/clan,tśʰa ŋa ńɑk te,ça nga nyak te,Kazakh,ongğaktık,0.506,0.9567,no
+車牙若鞮,Cheya Ruodi,ruler/clan,tśʰa ŋa ńɑk te,ça nga nyak te,Kazakh,angğalakta,0.51,0.9567,no
+車牙若鞮,Cheya Ruodi,ruler/clan,tśʰa ŋa ńɑk te,ça nga nyak te,Kazakh,engbektet,0.517,0.9567,no
+烏珠留若鞮,Wuzhuliu Ruodi,ruler/clan,ʔɑ tśo liu ńɑk te,’a ço liu nyak te,Turkish,açılmıyor,0.393,0.8767,no
+烏珠留若鞮,Wuzhuliu Ruodi,ruler/clan,ʔɑ tśo liu ńɑk te,’a ço liu nyak te,Turkish,çiğneyip,0.393,0.8767,no
+烏珠留若鞮,Wuzhuliu Ruodi,ruler/clan,ʔɑ tśo liu ńɑk te,’a ço liu nyak te,Turkish,çalındığı,0.41,0.8767,no
+烏珠留若鞮,Wuzhuliu Ruodi,ruler/clan,ʔɑ tśo liu ńɑk te,’a ço liu nyak te,Kazakh,alayaktık,0.418,0.9467,no
+烏珠留若鞮,Wuzhuliu Ruodi,ruler/clan,ʔɑ tśo liu ńɑk te,’a ço liu nyak te,Kazakh,auılnaylık,0.418,0.9467,no
+烏珠留若鞮,Wuzhuliu Ruodi,ruler/clan,ʔɑ tśo liu ńɑk te,’a ço liu nyak te,Kazakh,layıktat,0.418,0.9467,no
+烏累若鞮,Wulei Ruodi,ruler/clan,ʔɑ lui ńɑk te,’a lui nyak te,Turkish,linyit,0.25,0.6933,no
+烏累若鞮,Wulei Ruodi,ruler/clan,ʔɑ lui ńɑk te,’a lui nyak te,Turkish,liyakat,0.25,0.6933,no
+烏累若鞮,Wulei Ruodi,ruler/clan,ʔɑ lui ńɑk te,’a lui nyak te,Turkish,alınacak,0.29,0.6933,no
+烏累若鞮,Wulei Ruodi,ruler/clan,ʔɑ lui ńɑk te,’a lui nyak te,Kazakh,layıkta,0.24,0.68,no
+烏累若鞮,Wulei Ruodi,ruler/clan,ʔɑ lui ńɑk te,’a lui nyak te,Kazakh,layıktı,0.24,0.68,no
+烏累若鞮,Wulei Ruodi,ruler/clan,ʔɑ lui ńɑk te,’a lui nyak te,Kazakh,örnekti,0.26,0.68,no
+攣鞮,Luandi,ruler/clan,lyan te,lyan te,Turkish,lanet,0.138,0.44,no
+攣鞮,Luandi,ruler/clan,lyan te,lyan te,Turkish,alıntı,0.179,0.44,no
+攣鞮,Luandi,ruler/clan,lyan te,lyan te,Turkish,lando,0.244,0.44,no
+攣鞮,Luandi,ruler/clan,lyan te,lyan te,Kazakh,ilant,0.2,0.6033,no
+攣鞮,Luandi,ruler/clan,lyan te,lyan te,Kazakh,lenta,0.2,0.6033,no
+攣鞮,Luandi,ruler/clan,lyan te,lyan te,Kazakh,ulant,0.2,0.6033,no
+虛連題,Xulianti,ruler/clan,kʰɨɑ lianᴮ de,kıa lian de,Turkish,kılan,0.112,0.2967,no
+虛連題,Xulianti,ruler/clan,kʰɨɑ lianᴮ de,kıa lian de,Turkish,akalın,0.125,0.2967,no
+虛連題,Xulianti,ruler/clan,kʰɨɑ lianᴮ de,kıa lian de,Turkish,eklenti,0.125,0.2967,no
+虛連題,Xulianti,ruler/clan,kʰɨɑ lianᴮ de,kıa lian de,Kazakh,kalandı,0.05,0.15,no
+虛連題,Xulianti,ruler/clan,kʰɨɑ lianᴮ de,kıa lian de,Kazakh,kulandı,0.05,0.15,no
+虛連題,Xulianti,ruler/clan,kʰɨɑ lianᴮ de,kıa lian de,Kazakh,külända,0.05,0.15,no
+單于,chanyu,title/lexical,dźan wɑ,can va,Turkish,cana,0.183,0.57,no
+單于,chanyu,title/lexical,dźan wɑ,can va,Turkish,acun,0.225,0.57,no
+單于,chanyu,title/lexical,dźan wɑ,can va,Turkish,acın,0.225,0.57,no
+單于,chanyu,title/lexical,dźan wɑ,can va,Kazakh,navay,0.517,0.9567,no
+單于,chanyu,title/lexical,dźan wɑ,can va,Kazakh,nan,0.558,0.9567,no
+單于,chanyu,title/lexical,dźan wɑ,can va,Kazakh,onan,0.558,0.9567,no
+撑犁,chengli,title/lexical,ḍaŋ lei,dang lei,Turkish,dengeli,0.028,0.0567,no
+撑犁,chengli,title/lexical,ḍaŋ lei,dang lei,Turkish,dingil,0.083,0.0567,no
+撑犁,chengli,title/lexical,ḍaŋ lei,dang lei,Turkish,dangalak,0.117,0.0567,no
+撑犁,chengli,title/lexical,ḍaŋ lei,dang lei,Kazakh,dıngıl,0.083,0.3433,no
+撑犁,chengli,title/lexical,ḍaŋ lei,dang lei,Kazakh,dangılda,0.117,0.3433,no
+撑犁,chengli,title/lexical,ḍaŋ lei,dang lei,Kazakh,dıngılda,0.138,0.3433,no
+孤塗,gutu,title/lexical,kuɑ dɑ,kua da,Turkish,kadı,0.125,0.39,no
+孤塗,gutu,title/lexical,kuɑ dɑ,kua da,Turkish,kaide,0.125,0.39,no
+孤塗,gutu,title/lexical,kuɑ dɑ,kua da,Turkish,kedi,0.125,0.39,no
+孤塗,gutu,title/lexical,kuɑ dɑ,kua da,Kazakh,kuda,0.042,0.14,no
+孤塗,gutu,title/lexical,kuɑ dɑ,kua da,Kazakh,kada,0.083,0.14,no
+孤塗,gutu,title/lexical,kuɑ dɑ,kua da,Kazakh,kadau,0.083,0.14,no
+閼氏,yanzhi / ezhi,title/lexical,ʔɑt dźeᴮ,’at ce,Turkish,tacı,0.062,0.2133,no
+閼氏,yanzhi / ezhi,title/lexical,ʔɑt dźeᴮ,’at ce,Turkish,atıcı,0.083,0.2133,no
+閼氏,yanzhi / ezhi,title/lexical,ʔɑt dźeᴮ,’at ce,Turkish,itici,0.125,0.2133,no
+閼氏,yanzhi / ezhi,title/lexical,ʔɑt dźeᴮ,’at ce,Kazakh,at,0.212,0.6267,no
+閼氏,yanzhi / ezhi,title/lexical,ʔɑt dźeᴮ,’at ce,Kazakh,ata,0.212,0.6267,no
+閼氏,yanzhi / ezhi,title/lexical,ʔɑt dźeᴮ,’at ce,Kazakh,atu,0.212,0.6267,no
+屠耆,tuqi,title/lexical,dɑ gɨ,da gı,Turkish,ad,0.212,0.63,no
+屠耆,tuqi,title/lexical,dɑ gɨ,da gı,Turkish,ada,0.212,0.63,no
+屠耆,tuqi,title/lexical,dɑ gɨ,da gı,Turkish,adak,0.212,0.63,no
+屠耆,tuqi,title/lexical,dɑ gɨ,da gı,Kazakh,deuge,0.125,0.4467,no
+屠耆,tuqi,title/lexical,dɑ gɨ,da gı,Kazakh,edige,0.125,0.4467,no
+屠耆,tuqi,title/lexical,dɑ gɨ,da gı,Kazakh,adı,0.15,0.4467,no
+谷蠡,luli / guli,title/lexical,kok leᴮ,kok le,Turkish,kokulu,0.056,0.14,no
+谷蠡,luli / guli,title/lexical,kok leᴮ,kok le,Turkish,kakaolu,0.083,0.14,no
+谷蠡,luli / guli,title/lexical,kok leᴮ,kok le,Turkish,kukla,0.083,0.14,no
+谷蠡,luli / guli,title/lexical,kok leᴮ,kok le,Kazakh,kökele,0.056,0.1833,no
+谷蠡,luli / guli,title/lexical,kok leᴮ,kok le,Kazakh,akkala,0.083,0.1833,no
+谷蠡,luli / guli,title/lexical,kok leᴮ,kok le,Kazakh,akkula,0.083,0.1833,no
+當戶,danghu,title/lexical,tɑŋ gɑᴮ,tang ga,Turkish,tango,0.142,0.4667,no
+當戶,danghu,title/lexical,tɑŋ gɑᴮ,tang ga,Turkish,utangaç,0.256,0.4667,no
+當戶,danghu,title/lexical,tɑŋ gɑᴮ,tang ga,Turkish,denge,0.283,0.4667,no
+當戶,danghu,title/lexical,tɑŋ gɑᴮ,tang ga,Kazakh,tengge,0.083,0.3433,no
+當戶,danghu,title/lexical,tɑŋ gɑᴮ,tang ga,Kazakh,tenggede,0.138,0.3433,no
+當戶,danghu,title/lexical,tɑŋ gɑᴮ,tang ga,Kazakh,tenggege,0.138,0.3433,no
+骨都侯,guduhou,title/lexical,kuət tɑ go,kuıt ta go,Turkish,gittik,0.212,0.63,no
+骨都侯,guduhou,title/lexical,kuət tɑ go,kuıt ta go,Turkish,gittikçe,0.23,0.63,no
+骨都侯,guduhou,title/lexical,kuət tɑ go,kuıt ta go,Turkish,kattığı,0.259,0.63,no
+骨都侯,guduhou,title/lexical,kuət tɑ go,kuıt ta go,Kazakh,uıktat,0.091,0.3433,no
+骨都侯,guduhou,title/lexical,kuət tɑ go,kuıt ta go,Kazakh,uıktatu,0.091,0.3433,no
+骨都侯,guduhou,title/lexical,kuət tɑ go,kuıt ta go,Kazakh,iıktat,0.106,0.3433,no
+且渠,juqu,title/lexical,tsɑᴮ gɨɑ,tsa gıa,Turkish,atası,0.156,0.4967,no
+且渠,juqu,title/lexical,tsɑᴮ gɨɑ,tsa gıa,Turkish,tas,0.156,0.4967,no
+且渠,juqu,title/lexical,tsɑᴮ gɨɑ,tsa gıa,Turkish,tasa,0.156,0.4967,no
+且渠,juqu,title/lexical,tsɑᴮ gɨɑ,tsa gıa,Kazakh,töseg,0.083,0.3433,no
+且渠,juqu,title/lexical,tsɑᴮ gɨɑ,tsa gıa,Kazakh,atıs,0.128,0.3433,no
+且渠,juqu,title/lexical,tsɑᴮ gɨɑ,tsa gıa,Kazakh,atısu,0.128,0.3433,no
+徑路,jinglu,title/lexical,keŋᶜ lɑᶜ,keng la,Turkish,kangal,0.042,0.1067,no
+徑路,jinglu,title/lexical,keŋᶜ lɑᶜ,keng la,Turkish,kanguru,0.267,0.1067,no
+徑路,jinglu,title/lexical,keŋᶜ lɑᶜ,keng la,Turkish,kongre,0.267,0.1067,no
+徑路,jinglu,title/lexical,keŋᶜ lɑᶜ,keng la,Kazakh,köngil,0.083,0.3433,no
+徑路,jinglu,title/lexical,keŋᶜ lɑᶜ,keng la,Kazakh,köngili,0.083,0.3433,no
+徑路,jinglu,title/lexical,keŋᶜ lɑᶜ,keng la,Kazakh,köngildi,0.138,0.3433,no
+服匿,funi,title/lexical,buk ṇɨk,buk nık,Turkish,bakın,0.106,0.2967,no
+服匿,funi,title/lexical,buk ṇɨk,buk nık,Turkish,bakan,0.138,0.2967,no
+服匿,funi,title/lexical,buk ṇɨk,buk nık,Turkish,bikini,0.138,0.2967,no
+服匿,funi,title/lexical,buk ṇɨk,buk nık,Kazakh,bakan,0.138,0.4767,no
+服匿,funi,title/lexical,buk ṇɨk,buk nık,Kazakh,bekin,0.138,0.4767,no
+服匿,funi,title/lexical,buk ṇɨk,buk nık,Kazakh,bekinu,0.138,0.4767,no
+甌脫,outuo,title/lexical,ʔo tʰuɑt,’o tuat,Turkish,itaat,0.083,0.27,no
+甌脫,outuo,title/lexical,ʔo tʰuɑt,’o tuat,Turkish,toto,0.083,0.27,no
+甌脫,outuo,title/lexical,ʔo tʰuɑt,’o tuat,Turkish,tutu,0.083,0.27,no
+甌脫,outuo,title/lexical,ʔo tʰuɑt,’o tuat,Kazakh,otat,0.083,0.3433,no
+甌脫,outuo,title/lexical,ʔo tʰuɑt,’o tuat,Kazakh,otta,0.083,0.3433,no
+甌脫,outuo,title/lexical,ʔo tʰuɑt,’o tuat,Kazakh,ottau,0.083,0.3433,no
+胡祿,hulu,title/lexical,gɔ lok,go lok,Turkish,gol,0.142,0.4667,no
+胡祿,hulu,title/lexical,gɔ lok,go lok,Turkish,egeli,0.183,0.4667,no
+胡祿,hulu,title/lexical,gɔ lok,go lok,Turkish,gala,0.183,0.4667,no
+胡祿,hulu,title/lexical,gɔ lok,go lok,Kazakh,egelik,0.083,0.3433,no
+胡祿,hulu,title/lexical,gɔ lok,go lok,Kazakh,igilik,0.083,0.3433,no
+胡祿,hulu,title/lexical,gɔ lok,go lok,Kazakh,igilikti,0.138,0.3433,no
+匈奴,Xiongnu,title/lexical,huoŋ nɑ,huong na,Turkish,engin,0.267,0.7067,no
+匈奴,Xiongnu,title/lexical,huoŋ nɑ,huong na,Turkish,ongun,0.267,0.7067,no
+匈奴,Xiongnu,title/lexical,huoŋ nɑ,huong na,Turkish,hemen,0.367,0.7067,no
+匈奴,Xiongnu,title/lexical,huoŋ nɑ,huong na,Kazakh,angina,0.239,0.68,no
+匈奴,Xiongnu,title/lexical,huoŋ nɑ,huong na,Kazakh,engen,0.267,0.68,no
+匈奴,Xiongnu,title/lexical,huoŋ nɑ,huong na,Kazakh,ngen,0.267,0.68,no
+羯,Jie,title/lexical,kɨat,kıat,Turkish,kıta,0.0,0.05,yes
+羯,Jie,title/lexical,kɨat,kıat,Turkish,kota,0.062,0.05,yes
+羯,Jie,title/lexical,kɨat,kıat,Turkish,kıt,0.062,0.05,yes
+羯,Jie,title/lexical,kɨat,kıat,Kazakh,ıkta,0.0,0.04,yes
+羯,Jie,title/lexical,kɨat,kıat,Kazakh,akta,0.062,0.04,yes
+羯,Jie,title/lexical,kɨat,kıat,Kazakh,kata,0.062,0.04,yes

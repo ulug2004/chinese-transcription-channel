@@ -1,0 +1,43 @@
+==============================================================
+ STEP 3 - fill reconstruction columns
+==============================================================
+
+Loading Schuessler tables:
+  LHantab (Later Han): 10003 rows -> 7661 distinct characters (char col 'zi', reading col 'syl_bok')
+  OCMtab (Minimal Old Chinese): 10113 rows -> 7523 distinct characters (char col 'zi', reading col 'syl_bok')
+  Unihan variants: 15577 characters have at least one equivalent form
+
+Joining:
+  xiongnu_rulers.csv: 23 rows -> all chars found: 23, partial: 0, none: 0
+      written: data/derived/xiongnu_rulers_reconstructed.csv
+  xiongnu_titles_lexicon.csv: 16 rows -> all chars found: 16, partial: 0, none: 0
+      written: data/derived/xiongnu_titles_lexicon_reconstructed.csv
+
+Resolved through a variant form (5):
+  戶->户  撑->撐  祿->禄  脫->脱  虛->虚
+
+Still missing from Later Han: none - full coverage
+Still missing from Old Chinese (2 distinct):
+  撑(2)  斜(1)
+
+--------------------------------------------------------------
+ Key items in Later Han (mechanical per-character join)
+--------------------------------------------------------------
+  頭曼       Touman                 do mɑnᶜ   [proposed: tuman / tümen]
+  冒頓       Modu / Modun           mək tuənᶜ   [proposed: bagatur / baγatur ?]
+  攣鞮       Luandi                 lyan te   [proposed: *lyuan-tlïγ ?]
+  虛連題      Xulianti               kʰɨɑ lianᴮ de
+  呼韓邪      Huhanye                hɑ gɑn ja
+  郅支       Zhizhi                 tśit tśe
+  單于       chanyu                 dźan wɑ   [proposed: *darγwa ? / *tarqan ?]
+  撑犁       chengli                ḍaŋ lei   [proposed: tengri]
+  孤塗       gutu                   kuɑ dɑ   [proposed: *qut ?]
+  屠耆       tuqi                   dɑ gɨ   [proposed: *toγrï ?]
+  閼氏       yanzhi / ezhi          ʔɑt dźeᴮ
+  匈奴       Xiongnu                huoŋ nɑ
+  羯        Jie                    kɨat
+
+REMINDER: the above is a per-character concatenation, NOT a reconstruction
+of the name. Transcription deletes codas, simplifies clusters and inserts
+vowels. This is the model's INPUT, not its answer.
+

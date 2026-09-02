@@ -1,0 +1,63 @@
+========================================================================
+ STEP 12 - Turkic-Chinese corpus from Ligeti (1966, 1969)
+========================================================================
+
+source pages: 206  (1966: 121, 1969: 85)
+
+raw matches            : 596
+unique pairs           : 594
+  clean                : 563
+  flagged as suspect   : 31  (kept, marked in the CSV)
+    flags = implausible EFEO syllable shape, or a Turkic-segment to
+    Chinese-syllable ratio outside 1.0-3.6, which indicates a mis-pairing
+  from 1966 / 1969     : 473 / 121
+
+THE NUMBER THAT MATTERS - observations per unit (see step 10):
+  distinct EFEO syllables : 201
+  syllable tokens         : 1,676
+  observations / syllable : 8.3
+
+  For comparison, from step 10's learning curve:
+    Mongolian, full corpus   60.8   -> 36.4% exact, 89.3% within-2
+    Mongolian, 2,000 pairs   23.8   -> 13.5% exact, 70.6% within-2
+    Mongolian, 500 pairs      9.5   ->  7.3% exact, 53.5% within-2
+    Sanskrit, 858 pairs       5.0   ->  8.8% exact, 39.2% within-2
+    THIS corpus               8.3
+
+  But two things push this above the curve: the unit is a READING (Mandarin
+  has a closed syllable inventory, so obs/unit rises fast with more pairs),
+  and reading-anchoring was worth +16 points on exact match at Han-era
+  volume in step 11. Most importantly this is IN-DOMAIN Turkic, which is
+  precisely what step 11 lacked when it collapsed from 46% to 10%.
+
+most frequent EFEO syllables:
+  eul(114)  ha(81)  che(68)  sseu(60)  ti(58)  a(51)  la(50)  pou(47)  li(45)  k'ou(41)  ya(39)  wou(39)  yi(37)  lou(36)  pi(35)  pa(32)  ma(27)  k'o(27)
+
+SAMPLE - 18 extracted pairs:
+  turkic                 efeo chinese             gloss
+  abcam-a                a-pou-tch'a-ma           bol, coupe
+  altun abcam-a          ngan-t'ouen a-pou-tch'a- vase d’or
+  qas abcam-a            ha-che a-pou-tch'a-ma    vase de jade
+  abïq                   a-pi                     haie, clôture
+  abïnus                 a-pi-nou-sseu            bois d’ébène
+  abuy-a                 a-pou-ha                 oncle: frère cadet du père
+  abusq-a                a-pou-che-ha             mère, nourrice
+  acïldï boldï           a-tch'en-ti pan-ii       (le temps) est clair
+  adïy                   a-ti                     ours
+  ayaca                  a-ha-tch'a               la fille d’un prince impérial
+  ayïz                   a-hei-sseu               bouche
+  ai                     ngai                     lune; mois
+  aiyïr                  ngai-hei-eul             étalon
+  aimaq                  ngai-ma                  district (occupé par des ayil 
+  aqta                   a-ta                     hongre
+  al                     ngan                     rouge foncé (hong)
+  ala                    a-la                     bigarré
+  almas                  ngan-ma-sseu             diamant
+
+Written to data/derived/ligeti_turkic_chinese_pairs.csv (594 rows)
+
+CAVEAT: EFEO romanises a Mandarin reading, so this is Ming-era Chinese, not
+Later Han. Applying a channel trained here to the Xiongnu names still crosses
+~1,200 years of phonological change. That gap is now the ONLY one left, where
+before it was gap PLUS wrong source language PLUS wrong transcription
+convention. One problem instead of three.

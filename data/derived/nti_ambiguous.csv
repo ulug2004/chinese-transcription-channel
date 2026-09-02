@@ -1,0 +1,1123 @@
+﻿trad,simp,skt,n_chars,n_syl,n_aligned,char_syl_ratio,phon_score,align,pos,label
+菩提,菩提,bodhi,2,2,2,1.0,1.0,exact,noun,ambiguous
+禪頭,禅头,jantu,2,2,2,1.0,1.0,exact,noun,ambiguous
+比丘,比丘,bhikṣu,2,2,2,1.0,1.0,exact,noun,ambiguous
+阿羅漢,阿罗汉,arhat,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+三昧,三昧,samādhi,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+然燈佛,然灯佛,dīpaṃkara,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+功德,功德,guṇa,2,2,2,1.0,1.0,exact,noun,ambiguous
+南無,南无,namo,2,2,2,1.0,1.0,exact,verb,ambiguous
+脫闍,脱阇,dhvaja,2,2,2,1.0,1.0,exact,noun,ambiguous
+計都,计都,ketu,2,2,2,1.0,1.0,exact,noun,ambiguous
+修單蘭,修单兰,sūtra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+畜生,畜生,tiryak,2,2,2,1.0,1.0,exact,noun,ambiguous
+禪那,禅那,dhyāna,2,2,2,1.0,1.0,exact,noun,ambiguous
+阿含,阿含,āgama,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+阿含,阿含,āgama,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+阿含,阿含,āgama,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+沙門,沙门,śramaṇa,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+正語,正语,samyagvāc,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+靜慮,静虑,dhyāna,2,2,2,1.0,1.0,exact,noun,ambiguous
+薜荔多,薜荔多,preta,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+舍利,舍利,śarīra,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+阿難,阿难,ānanda,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+富樓那,富楼那,pūrna,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+金仙,金仙,maharṣi,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+文殊,文殊,mañjuśrī,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+尊勝,尊胜,vijayī,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+福德,福德,puṇya,2,2,2,1.0,1.0,exact,phrase,ambiguous
+禪定,禅定,dhyāna,2,2,2,1.0,1.0,exact,noun,ambiguous
+婆稚,婆稚,baḍin,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+修多羅,修多罗,sūtra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+修單羅,修单罗,sūtra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+修多闌,修多阑,sūtra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+素怛纜,素怛缆,sūtra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+蘇多羅,苏多罗,sūtra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+三學,三学,triśikṣā,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+娑羅,娑罗,śāla,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+常住,常住,śāśvata,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+塞建陀,塞建陀,skanda,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+善業,善业,subhūti,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+杜茶,杜茶,dhutaṅga,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+應供,应供,arhat,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+窣堵波,窣堵波,stūpa,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+舍衛,舍卫,śrāvastī,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+支提窟,支提窟,caitya,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+支提,支提,caitya,2,2,2,1.0,1.0,exact,noun,ambiguous
+立宗,立宗,pratijñā,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+肉髻,肉髻,uṇhīsa,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+末尼,末尼,maṇi,2,2,2,1.0,1.0,exact,noun,ambiguous
+摩尼,摩尼,maṇi,2,2,2,1.0,1.0,exact,noun,ambiguous
+釋迦,释迦,śākya,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+兜率,兜率,tuṣita,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+梵王,梵王,brahmā,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+日天,日天,āditya,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+修利,修利,sūrya,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+散脂大將,散脂大将,saṃjñeya,4,3,2,1.333,1.0,off_by_one,proper noun,ambiguous
+散支大將,散支大将,saṃjñeya,4,3,2,1.333,1.0,off_by_one,proper noun,ambiguous
+釋氏,释氏,śākya,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+加沙,加沙,kaṣāya,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+闍那,阇那,jñāna,2,2,2,1.0,1.0,exact,noun,ambiguous
+泥曰,泥曰,nirvāṇa,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+涅隸槃那,涅隶槃那,nirvāṇa,4,3,2,1.333,1.0,off_by_one,proper noun,ambiguous
+尸羅,尸罗,śīla,2,2,2,1.0,1.0,exact,noun,ambiguous
+僧伽,僧伽,saṃgha,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+難近母,难近母,durgā,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+突迦,突迦,durgā,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+蘇利耶,苏利耶,sūrya,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+跋伽,跋伽,bhārgava,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+十二處,十二处,āyatana,3,4,2,0.75,1.0,off_by_one,phrase,ambiguous
+摩尼寶,摩尼宝,maṇi,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+恆迦河,恒迦河,gaṅgā,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+恆伽河,恒伽河,gaṅgā,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+殑伽河,殑伽河,gaṅgā,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+恒伽,恒伽,gaṅgā,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+恆河,恒河,gaṅgā,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+火首金刚,火首金刚,ucchuṣma,4,3,2,1.333,1.0,off_by_one,proper noun,ambiguous
+洛沙,洛沙,lakṣa,2,2,2,1.0,1.0,exact,noun,ambiguous
+社怛梵,社怛梵,jñatvam,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+火天,火天,agni,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+波暮,波暮,padma,2,2,2,1.0,1.0,exact,noun,ambiguous
+商迦,商迦,Śaṅkha,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+商企羅,商企罗,Śaṅkha,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+償起羅,偿起罗,Śaṅkha,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+阿濕波他,阿湿波他,aśvattha,4,3,2,1.333,1.0,off_by_one,noun,ambiguous
+阿耆尼,阿耆尼,agni,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+阿擬尼,阿拟尼,agni,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+閉戾多,闭戾多,preta,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+俾禮多,俾礼多,preta,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+卑利多,卑利多,preta,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+彌荔多,弥荔多,preta,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+閉多,闭多,preta,2,2,2,1.0,1.0,exact,noun,ambiguous
+軍那花,军那花,kunda,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+軍那華,军那华,kunda,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+軍那,军那,kunda,2,2,2,1.0,1.0,exact,noun,ambiguous
+君陀花,君陀花,kunda,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+裙那花,裙那花,kunda,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+婆利耶,婆利耶,bhāryā,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+婆梨耶,婆梨耶,bhāryā,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+婆利廋,婆利廋,bhāryā,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+俱胝,俱胝,koṭi,2,2,2,1.0,1.0,exact,noun,ambiguous
+鉢頭摩,钵头摩,padma,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+鉢特摩,钵特摩,padma,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+鉢弩摩,钵弩摩,padma,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+般頭摩,般头摩,padma,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+波慕華,波慕华,padma,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+波頭摩,波头摩,padma,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+壇拏,坛拏,daṇḍa,2,2,2,1.0,1.0,exact,noun,ambiguous
+母天,母天,mātṛ,2,2,2,1.0,1.0,exact,noun,ambiguous
+韋紐天,韦纽天,viṣṇu,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+韋紐,韦纽,viṣṇu,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+韋糅,韦糅,viṣṇu,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+韋搜紐,韦搜纽,viṣṇu,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+韋廋紐,韦廋纽,viṣṇu,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+塞建陀,塞建陀,skandha,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+塞建陀,塞建陀,skandha,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+塞健陀,塞健陀,skandha,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+質多羅,质多罗,citrā,3,2,2,1.5,1.0,off_by_one,adjective,ambiguous
+質多羅,质多罗,citrā,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+質怛羅,质怛罗,citrā,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+虛空,虚空,gagana,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+虛空,虚空,ākāśa,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+制底,制底,caitya,2,2,2,1.0,1.0,exact,noun,ambiguous
+支帝,支帝,caitya,2,2,2,1.0,1.0,exact,noun,ambiguous
+支徵,支征,caitya,2,2,2,1.0,1.0,exact,noun,ambiguous
+支陀,支陀,caitya,2,2,2,1.0,1.0,exact,noun,ambiguous
+脂帝,脂帝,caitya,2,2,2,1.0,1.0,exact,noun,ambiguous
+制多,制多,caitya,2,2,2,1.0,1.0,exact,noun,ambiguous
+制底耶,制底耶,caitya,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+制地,制地,caitya,2,2,2,1.0,1.0,exact,noun,ambiguous
+納麼,纳么,namaḥ,2,2,2,1.0,1.0,exact,interjection,ambiguous
+蘇呵,苏呵,svāhā,2,2,2,1.0,1.0,exact,interjection,ambiguous
+扇多,扇多,śānta,2,2,2,1.0,1.0,exact,adjective,ambiguous
+奢多,奢多,śānta,2,2,2,1.0,1.0,exact,adjective,ambiguous
+十六,十六,ṣoḍaśa,2,3,2,0.667,1.0,off_by_one,number,ambiguous
+影像,影像,chāyā,2,2,2,1.0,1.0,exact,noun,ambiguous
+末利,末利,mallikā,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+摩利,摩利,mallikā,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+末羅,末罗,mallikā,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+瞻蔔,瞻蔔,campaka,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+瞻波,瞻波,campaka,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+占婆,占婆,campaka,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+瞻婆,瞻婆,campaka,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+龍腦,龙脑,karpūra,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+片腦,片脑,karpūra,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+莎訶,莎诃,svāhā,2,2,2,1.0,1.0,exact,interjection,ambiguous
+伽陀,伽陀,gāthā,2,2,2,1.0,1.0,exact,noun,ambiguous
+伽他,伽他,gāthā,2,2,2,1.0,1.0,exact,noun,ambiguous
+偈佗,偈佗,gāthā,2,2,2,1.0,1.0,exact,noun,ambiguous
+南麼,南么,namaḥ,2,2,2,1.0,1.0,exact,verb,ambiguous
+乾陀樹,干陀树,gandha,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+乾陀,干陀,gandha,2,2,2,1.0,1.0,exact,noun,ambiguous
+乾陀羅,乾陀罗,gandha,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+健陀,健陀,gandha,2,2,2,1.0,1.0,exact,noun,ambiguous
+健杜,健杜,gandha,2,2,2,1.0,1.0,exact,noun,ambiguous
+乾大樹,干大树,gandha,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+乾杜,干杜,gandha,2,2,2,1.0,1.0,exact,noun,ambiguous
+遏伽,遏伽,khaḍga,2,2,2,1.0,1.0,exact,noun,ambiguous
+係多,系多,hitā,2,2,2,1.0,1.0,exact,noun,ambiguous
+陪也,陪也,bhaya,2,2,2,1.0,1.0,exact,noun,ambiguous
+戰拏,战拏,caṇḍa,2,2,2,1.0,1.0,exact,adjective,ambiguous
+麼訶,么诃,mahā,2,2,2,1.0,1.0,exact,adjective,ambiguous
+滿陀,满陀,moṭa,2,2,2,1.0,1.0,exact,noun,ambiguous
+吃麗奢,吃丽奢,kleśa,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+魯達羅,鲁达罗,rudra,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+樓陀,楼陀,rudra,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+祿陀羅,禄陀罗,rudra,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+微薩麼曳,微萨么曳,vismaya,4,3,2,1.333,1.0,off_by_one,adjective,ambiguous
+毘薩麼曳,毘萨么曳,vismaya,4,3,2,1.333,1.0,off_by_one,adjective,ambiguous
+尼揵,尼揵,nirgrantha,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+尼健,尼健,nirgrantha,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+壇怛囉,坛怛啰,tantra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+怛特羅,怛特罗,tantra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+檀特羅,檀特罗,tantra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+因達羅,因达罗,indra,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+尸棄佛,尸弃佛,Śikhin,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+寶冠,宝冠,mukuṭa,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+質多,质多,citta,2,2,2,1.0,1.0,exact,noun,ambiguous
+質多耶,质多耶,citta,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+只多,只多,citta,2,2,2,1.0,1.0,exact,noun,ambiguous
+指多,指多,citta,2,2,2,1.0,1.0,exact,noun,ambiguous
+質帝,质帝,citta,2,2,2,1.0,1.0,exact,noun,ambiguous
+戶摩,户摩,homa,2,2,2,1.0,1.0,exact,noun,ambiguous
+呼麽,呼麽,homa,2,2,2,1.0,1.0,exact,noun,ambiguous
+火法,火法,homa,2,2,2,1.0,1.0,exact,noun,ambiguous
+制吒,制吒,ceṭa,2,2,2,1.0,1.0,exact,noun,ambiguous
+制徵,制征,ceṭī,2,2,2,1.0,1.0,exact,noun,ambiguous
+曩謨,曩谟,namo,2,2,2,1.0,1.0,exact,verb,ambiguous
+曩莽室,曩莽室,namas,3,2,2,1.5,1.0,off_by_one,verb,ambiguous
+藥乞沙,药乞沙,yakṣa,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+補瑟徵,补瑟征,puṣṭi,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+夜摩天,夜摩天,yāma,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+俱舍,俱舍,kośa,2,2,2,1.0,1.0,exact,noun,ambiguous
+莎底,莎底,svāti,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+不空,不空,amogha,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+迦葉,迦叶,kāśyapa,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+尊那,尊那,cunda,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+阿羅歌,阿罗歌,arka,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+阿迦花,阿迦花,arka,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+阿迦,阿迦,arka,2,2,2,1.0,1.0,exact,noun,ambiguous
+遏迦,遏迦,arka,2,2,2,1.0,1.0,exact,noun,ambiguous
+遏迦花,遏迦花,arka,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+劫波,劫波,kalpa,2,2,2,1.0,1.0,exact,noun,ambiguous
+孤起,孤起,gātha,2,2,2,1.0,1.0,exact,noun,ambiguous
+孤起頌,孤起颂,gātha,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+悉檀,悉檀,siddhānta,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+救度者,救度者,tāyin,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+惛沈,惛沈,styāna,2,2,2,1.0,1.0,exact,noun,ambiguous
+有漏,有漏,āsrava,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+世人,世人,jana,2,2,2,1.0,1.0,exact,noun,ambiguous
+馱衍那,驮衍那,dhyāna,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+持阿那,持阿那,dhyāna,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+本物,本物,bimba,2,2,2,1.0,1.0,exact,noun,ambiguous
+無畏,无畏,abhaya,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+諸人,诸人,jana,2,2,2,1.0,1.0,exact,phrase,ambiguous
+也他,也他,yathā,2,2,2,1.0,1.0,exact,adverb,ambiguous
+燃燈佛,燃灯佛,dīpaṃkara,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+迦羅,迦罗,kāla,2,2,2,1.0,1.0,exact,noun,ambiguous
+迦羅,迦罗,kāla,2,2,2,1.0,1.0,exact,noun,ambiguous
+悉達,悉达,siddhārtha,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+弗星,弗星,puṣya,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+沸星,沸星,puṣya,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+佛星,佛星,puṣya,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+揭帝,揭帝,gate,2,2,2,1.0,1.0,exact,foreign,ambiguous
+僧莎訶,僧莎诃,svāhā,3,2,2,1.5,1.0,off_by_one,foreign,ambiguous
+依止,依止,āśraya,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+菴弭羅,菴弭罗,āmla,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+羯磨,羯磨,karma,2,2,2,1.0,1.0,exact,noun,ambiguous
+藥草,药草,oṣadhi,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+二十六,二十六,ṣaḍviṃśati,3,4,2,0.75,1.0,off_by_one,number,ambiguous
+第三,第三,tṛtīya,2,3,2,0.667,1.0,off_by_one,ordinal,ambiguous
+第八,第八,aṣṭama,2,3,2,0.667,1.0,off_by_one,ordinal,ambiguous
+第十,第十,daśama,2,3,2,0.667,1.0,off_by_one,ordinal,ambiguous
+修妬路,修妬路,sūtra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+素怛覽,素怛览,sūtra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+菴沒羅,菴没罗,āmra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+菴摩羅,菴摩罗,āmra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+菴摩勒,菴摩勒,āmra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+師子音,师子音,siṃhaghoṣa,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+菴末羅,菴末罗,āmra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+三摩,三摩,samādhi,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+那羅,那罗,nara,2,2,2,1.0,1.0,exact,noun,ambiguous
+那羅,那罗,naṭa,2,2,2,1.0,1.0,exact,noun,ambiguous
+摩納,摩纳,māṇava,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+先泥,先泥,śreṇika,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+諦聽,谛听,śṛṇotha,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+自悟,自悟,sva-buddha,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+除斷,除断,chedana,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+悔過,悔过,kaukṛtya,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+多羅樹,多罗树,tāla,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+爍迦羅,烁迦罗,cakra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+艱難,艰难,kṛcchra,2,2,2,1.0,1.0,exact,noun,ambiguous
+安住,安住,sthiti,2,2,2,1.0,1.0,exact,phrase,ambiguous
+比多,比多,pitṛ,2,2,2,1.0,1.0,exact,noun,ambiguous
+薩鉢多,萨钵多,sapta,3,2,2,1.5,1.0,off_by_one,foreign,ambiguous
+時乞縛,时乞缚,jihva,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+舍利,舍利,śārī,2,2,2,1.0,1.0,exact,noun,ambiguous
+攝藍,摄蓝,śarīra,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+娑羅樹,娑罗树,śāla,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+打擲,打掷,tāḍita,2,3,2,0.667,1.0,off_by_one,verb,ambiguous
+衛闍,卫阇,vidyā,2,2,2,1.0,1.0,exact,noun,ambiguous
+積集,积集,saṃcaya,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+居家,居家,gṛhastha,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+迦葉,迦叶,kāśyapa,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+了義,了义,nītārtha,2,3,2,0.667,1.0,off_by_one,adjective,ambiguous
+周遍,周遍,samanta,2,3,2,0.667,1.0,off_by_one,adjective,ambiguous
+生死,生死,saṃsāra,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+悉陀,悉陀,siddhārtha,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+獲清涼,获清凉,śītabhūta,3,4,2,0.75,1.0,off_by_one,phrase,ambiguous
+得清涼,得清凉,śītabhūta,3,4,2,0.75,1.0,off_by_one,phrase,ambiguous
+優陟,优陟,Uttika,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+梵摩,梵摩,brahma,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+末那識,末那识,manas,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+吉隸舍,吉隶舍,kleśa,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+南牟,南牟,namo,2,2,2,1.0,1.0,exact,verb,ambiguous
+南謨,南谟,namo,2,2,2,1.0,1.0,exact,verb,ambiguous
+南摩,南摩,namo,2,2,2,1.0,1.0,exact,verb,ambiguous
+曩莫,曩莫,namo,2,2,2,1.0,1.0,exact,verb,ambiguous
+納莫,纳莫,namo,2,2,2,1.0,1.0,exact,verb,ambiguous
+差多羅,差多罗,kṣetra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+剎多羅,刹多罗,kṣetra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+薩埵,萨埵,sattva,2,2,2,1.0,1.0,exact,noun,ambiguous
+掣多羅,掣多罗,kṣetra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+伽羅,伽罗,tagara,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+薰習,薰习,vāsanā,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+婆羅,婆罗,pāla,2,2,2,1.0,1.0,exact,noun,ambiguous
+婆羅,婆罗,bāla,2,2,2,1.0,1.0,exact,noun,ambiguous
+因陀邏,因陀逻,indra,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+因提棃,因提棃,indra,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+因提,因提,indra,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+因抵,因抵,indra,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+蘇摩,苏摩,soma,2,2,2,1.0,1.0,exact,noun,ambiguous
+素摩,素摩,soma,2,2,2,1.0,1.0,exact,noun,ambiguous
+舍那,舍那,śāṇa,2,2,2,1.0,1.0,exact,noun,ambiguous
+荷力皮陀,荷力皮陀,ṛgveda,4,3,2,1.333,1.0,off_by_one,proper noun,ambiguous
+億力毘陀,亿力毘陀,ṛgveda,4,3,2,1.333,1.0,off_by_one,proper noun,ambiguous
+奢那,奢那,śāṇa,2,2,2,1.0,1.0,exact,noun,ambiguous
+舍那衣,舍那衣,śāṇa,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+祭祠,祭祠,yajus,2,2,2,1.0,1.0,exact,noun,ambiguous
+祭司,祭司,adhvaryu,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+毘耶娑,毘耶娑,vyāsa,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+聖傳,圣传,smṛti,2,2,2,1.0,1.0,exact,phrase,ambiguous
+輸陀羅,输陀罗,śūdra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+阿特曼,阿特曼,ātman,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+阿坦麼,阿坦么,ātman,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+首盧迦,首卢迦,śloka,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+室路迦,室路迦,śloka,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+室盧迦,室卢迦,śloka,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+輸盧迦,输卢迦,śloka,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+首盧柯,首卢柯,śloka,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+刪闍夜,删阇夜,sāṃkhya,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+內制,内制,niyama,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+瑜伽,瑜伽,yoga,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+尼夜耶,尼夜耶,nyāya,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+尼夜耶,尼夜耶,nyāya,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+祭祀,祭祀,yajña,2,2,2,1.0,1.0,exact,noun,ambiguous
+力飲祭,力饮祭,vājapeya,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+牟尼,牟尼,muni,2,2,2,1.0,1.0,exact,noun,ambiguous
+悉地,悉地,siddhi,2,2,2,1.0,1.0,exact,noun,ambiguous
+善臂,善臂,subāhu,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+勒沙婆,勒沙婆,rṣabha,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+波旬,波旬,pāpīyāms,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+如意通,如意通,ṛddy-abhijña,3,4,2,0.75,1.0,off_by_one,noun,ambiguous
+波利,波利,pari,2,2,2,1.0,1.0,exact,adjective,ambiguous
+泥犁,泥犁,niraya,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+六法,六法,ṣaḍdharma,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+闍梨,阇梨,ācārya,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+犍椎,犍椎,ghaṇṭā,2,2,2,1.0,1.0,exact,noun,ambiguous
+犍遲,犍迟,ghaṇṭā,2,2,2,1.0,1.0,exact,noun,ambiguous
+犍槌,犍槌,ghaṇṭā,2,2,2,1.0,1.0,exact,noun,ambiguous
+犍抵,犍抵,ghaṇṭā,2,2,2,1.0,1.0,exact,noun,ambiguous
+能立,能立,sādhana,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+楗槌,楗槌,gaṇḍi,2,2,2,1.0,1.0,exact,noun,ambiguous
+應報,应报,vipāka,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+梵寐書,梵寐书,brāhmī,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+梵寐,梵寐,brāhmī,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+曼殊,曼殊,mañjuśrī,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+富羅,富罗,pura,2,2,2,1.0,1.0,exact,noun,ambiguous
+兜沙,兜沙,tuṣāra,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+頂法位,顶法位,mūrdhan,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+外境,外境,bāhyārtha,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+部多,部多,bhūta,2,2,2,1.0,1.0,exact,verb,ambiguous
+菴羅,菴罗,āmra,2,2,2,1.0,1.0,exact,noun,ambiguous
+鴦伽,鸯伽,aṅga,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+戍陀羅,戍陀罗,śūdra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+戍達羅,戍达罗,śūdra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+首陀,首陀,śūdra,2,2,2,1.0,1.0,exact,noun,ambiguous
+耶舍王,耶舍王,yaśa,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+耶舍,耶舍,yaśa,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+答摩,答摩,tamas,2,2,2,1.0,1.0,exact,adjective,ambiguous
+所有,所有,sarva,2,2,2,1.0,1.0,exact,pronoun,ambiguous
+尸毘,尸毘,śibi,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+飯食,饭食,āmiṣa,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+要門,要门,āmnāyaḥ,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+卵生,卵生,āṇḍaja,2,3,2,0.667,1.0,off_by_one,verb,ambiguous
+一境,一境,ekāgra,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+有性,有性,astitā,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+比丘性,比丘性,bhikṣubhāva,3,4,2,0.75,1.0,off_by_one,noun,ambiguous
+應果,应果,arhattva,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+法爾,法尔,dharmatā,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+誦念,诵念,svādyāya,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+習誦,习诵,svādyāya,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+讀誦,读诵,svādyāya,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+險難,险难,kāntāra,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+闍黎,阇黎,ācārya,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+佛陀,佛陀,buddha,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+持國天,持国天,Dhṛtarāṣṭra,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+南莫,南莫,namo,2,2,2,1.0,1.0,exact,verb,ambiguous
+壞色,坏色,kaṣāya,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+迦沙,迦沙,kaṣāya,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+兜術,兜术,tuṣita,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+違紐,违纽,viṣṇu,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+無雲天,无云天,anabhraka,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+無陰天,无阴天,anabhraka,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+非有,非有,abhāva,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+蜃龍,蜃龙,sarpa,2,2,2,1.0,1.0,exact,noun,ambiguous
+蜜蜂,蜜蜂,bhramara,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+去法,去法,gamana,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+妄取,妄取,moṣa,2,2,2,1.0,1.0,exact,verb,ambiguous
+西方,西方,paścima,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+計都星,计都星,ketu,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+遠離,远离,vivikta,2,3,2,0.667,1.0,off_by_one,adjective,ambiguous
+尸棄,尸弃,śikhī,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+拘盧舍,拘卢舍,krośa,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+俱盧舍,俱卢舍,krośa,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+倶盧舍,倶卢舍,krośa,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+那術,那术,nayuta,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+那述,那述,nayuta,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+善枝,善枝,viśākhā,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+誓耶,誓耶,jayā,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+導師,导师,nāyaka,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+大德,大德,bhadanta,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+戰達羅,战达罗,candra,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+路迦,路迦,loka,2,2,2,1.0,1.0,exact,noun,ambiguous
+娑呵,娑呵,sahā,2,2,2,1.0,1.0,exact,noun,ambiguous
+計都,计都,ketu,2,2,2,1.0,1.0,exact,noun,ambiguous
+釋迦族,释迦族,śākya,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+僧企耶,僧企耶,sāṃkhya,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+散支,散支,pāñcika,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+半只,半只,pāñcika,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+國土,国土,kṣetra,2,2,2,1.0,1.0,exact,noun,ambiguous
+彎曲,弯曲,ābhujya,2,3,2,0.667,1.0,off_by_one,adjective,ambiguous
+退坐,退坐,nyaṣīdan,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+一肩,一肩,ekāṃsam,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+具德,具德,guṇavant,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+母陀羅,母陀罗,mudrā,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+牟陀羅,牟陀罗,mudrā,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+目陀羅,目陀罗,mudrā,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+鑠乞底,铄乞底,śakti,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+耆那,耆那,jina,2,2,2,1.0,1.0,exact,noun,ambiguous
+比呼,比呼,bhikṣu,2,2,2,1.0,1.0,exact,noun,ambiguous
+柯剌波,柯剌波,kalpa,3,2,2,1.5,1.0,off_by_one,phrase,ambiguous
+常醉天,常醉天,sadāmāda,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+心宿,心宿,jyesthā,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+牛宿,牛宿,abhijit,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+柳宿,柳宿,aśleṣā,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+牟藍,牟蓝,mūla,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+暮羅,暮罗,mūla,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+質多羅,质多罗,citrā,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+闍樓,阇楼,jarāyu,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+糞果,粪果,āmraka,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+印度,印度,indu,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+印第亞,印第亚,indu,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+印特伽,印特伽,indu,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+集經,集经,saṃgīti,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+開優美,开优美,kāvya,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+由延,由延,yojana,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+一切有,一切有,sarvabhāva,3,4,2,0.75,1.0,off_by_one,phrase,ambiguous
+闍毘,阇毘,kṣapita,2,3,2,0.667,1.0,off_by_one,verb,ambiguous
+闍毘,阇毘,kṣapita,2,3,2,0.667,1.0,off_by_one,verb,ambiguous
+舍夷,舍夷,Śākya,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+伽耶,伽耶,gayā,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+伽邪,伽邪,gayā,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+伽闍,伽阇,gayā,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+熏陸,熏陆,kunduru,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+部陀,部陀,budha,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+戌羯羅,戌羯罗,śukra,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+音樂,音乐,vādya,2,2,2,1.0,1.0,exact,noun,ambiguous
+蘇漫,苏漫,subanta,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+盤多,盘多,subanta,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+尼犍,尼犍,nirgrantha,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+阿摩勒,阿摩勒,āmra,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+歡喜國,欢喜国,abhirati,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+磔手,磔手,vitasti,2,3,2,0.667,1.0,off_by_one,phrase,ambiguous
+阿私,阿私,asita,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+羅陀,罗陀,rādha,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+波羅,菠萝,pala,2,2,2,1.0,1.0,exact,noun,ambiguous
+思想,思想,saṃjñā,2,2,2,1.0,1.0,exact,noun,ambiguous
+伽羅,伽罗,kalā,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+波慕,波慕,padma,2,2,2,1.0,1.0,exact,noun,ambiguous
+富沙,富沙,puṣya,2,2,2,1.0,1.0,exact,noun,ambiguous
+僧那,僧那,saṁnāha,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+緊那,紧那,kiṃnara,2,3,2,0.667,1.0,off_by_one,noun,ambiguous
+摩訶,摩诃,mahā,2,2,2,1.0,1.0,exact,adjective,ambiguous
+犍度,犍度,skandha,2,2,2,1.0,1.0,exact,noun,ambiguous
+建陀,建陀,skandha,2,2,2,1.0,1.0,exact,noun,ambiguous
+建圖,建图,skandha,2,2,2,1.0,1.0,exact,noun,ambiguous
+乾度,干度,skandha,2,2,2,1.0,1.0,exact,noun,ambiguous
+娑犍圖,娑犍图,skandha,3,2,2,1.5,1.0,off_by_one,noun,ambiguous
+陳那,陈那,dignāga,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+悉多,悉多,sita,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+婆提,婆提,bhadrika,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+離車,离车,licchavi,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+利車,利车,licchavi,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+黎昌,黎昌,licchavi,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+律車,律车,licchavi,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+麗掣,丽掣,licchavi,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+隷車,隷车,licchavi,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+先尼,先尼,śreṇika,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+悉多,悉多,siddhārtha,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+浮帝,浮帝,subhūti,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+純陀,纯陀,Cunda,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+騫茶,骞茶,skanda,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+提舍,提舍,tiṣya,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+難陀,难陀,nanda,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+頻浮婆,频浮婆,bimbisāra,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+居樓,居楼,kuru,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+摩陀婆,摩陀婆,madhva,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+波尼,波尼,pāṇini,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+揵陀,揵陀,gāndhāra,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+祇樹林,祇树林,jetavana,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+槃頭,槃头,pāṇḍu,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+噡婆城,噡婆城,campā,3,2,2,1.5,1.0,off_by_one,proper noun,ambiguous
+須跋,须跋,subhadra,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+法句錄,法句录,dharmapada,3,4,2,0.75,1.0,off_by_one,proper noun,ambiguous
+仙尼,仙尼,śreṇika,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+盧至,卢至,ruci,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+盧遮,卢遮,ruci,2,2,2,1.0,1.0,exact,proper noun,ambiguous
+維耶,维耶,vaiśālī,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+拘隣,拘隣,kauṇḍinya,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+波利,波利,bhallika,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+罽賓,罽賓,kaśmīra,2,3,2,0.667,1.0,off_by_one,proper noun,ambiguous
+薩嚩怛他蘖多南,萨嚩怛他蘖多南,sarvatathāgataṃ,7,6,6,1.167,0.833,off_by_one,phrase,ambiguous
+蘇悉地羯羅經,苏悉地羯罗经,susiddhikarasūtra,6,7,6,0.857,0.833,off_by_one,proper noun,ambiguous
+般若波羅蜜,般若波罗蜜,prajñāpāramitā,5,6,5,0.833,0.8,off_by_one,noun,ambiguous
+須氀多阿半那,须氀多阿半那,srotaāpanna,6,5,5,1.2,0.8,off_by_one,proper noun,ambiguous
+播般曩結使波,播般曩结使波,padanaksipa,6,5,5,1.2,0.8,off_by_one,proper noun,ambiguous
+解脫知見無減,解脱知见无减,nāsti vimuktihāniḥ,6,7,5,0.857,0.8,off_by_one,phrase,ambiguous
+羼提波羅蜜,羼提波罗蜜,kṣāntipāramitā,5,6,5,0.833,0.8,off_by_one,phrase,ambiguous
+精進波羅蜜,精进波罗蜜,vīryapāramitā,5,6,5,0.833,0.8,off_by_one,phrase,ambiguous
+多摩羅跋香樹,多摩罗跋香树,tamālapatra,6,5,5,1.2,0.8,off_by_one,noun,ambiguous
+阿那婆答多池,阿那婆答多池,anavatapta,6,5,5,1.2,0.8,off_by_one,proper noun,ambiguous
+彌伽遮伽書,弥伽遮伽书,mṛgacakra-lipi,5,6,5,0.833,0.8,off_by_one,proper noun,ambiguous
+室利摩訶提毘,室利摩诃提毘,śrīmahādevī,6,5,5,1.2,0.8,off_by_one,proper noun,ambiguous
+摩登伽阿蘭若,摩登伽阿兰若,mātaṅgāraṇya,6,5,5,1.2,0.8,off_by_one,phrase,ambiguous
+摩醯奢婆迦部,摩醯奢婆迦部,mahīśāsakā,6,5,5,1.2,0.8,off_by_one,proper noun,ambiguous
+磨醯奢婆迦部,磨醯奢婆迦部,mahīśāsaka,6,5,5,1.2,0.8,off_by_one,proper noun,ambiguous
+般遮婆栗迦史,般遮婆栗迦史,pañcavārṣika,6,5,5,1.2,0.8,off_by_one,proper noun,ambiguous
+波披迦羅晉,波披迦罗晋,prabhākarī-bhūmi,5,6,5,0.833,0.8,off_by_one,proper noun,ambiguous
+頭羅迦摩晉,头罗迦摩晋,dūraṃgamā-bhūmi,5,6,5,0.833,0.8,off_by_one,proper noun,ambiguous
+阿羅邏迦藍,阿罗逻迦蓝,ārāda Kālāma,5,6,5,0.833,0.8,off_by_one,proper noun,ambiguous
+摩訶摩耶經,摩诃摩耶经,Mahāmāyāsūtra,5,6,5,0.833,0.8,off_by_one,proper noun,ambiguous
+迦多衍尼子,迦多衍尼子,katyāyanīputra,5,6,5,0.833,0.8,off_by_one,proper noun,ambiguous
+僧伽羅苦什達,僧伽罗苦什达,saṁgharakṣita,6,5,5,1.2,0.8,off_by_one,proper noun,ambiguous
+盎窶利魔羅,盎窭利魔罗,aṅgulimālīya,5,6,5,0.833,0.8,off_by_one,proper noun,ambiguous
+最勝釋迦,最胜释迦,śākyapuṅgava,4,5,4,0.8,0.75,off_by_one,phrase,ambiguous
+毘摩質多羅,毘摩质多罗,vemacitra,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+阿迦尼吒天,阿迦尼吒天,akaniṣṭha,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+般涅槃那,般涅槃那,parinirvāṇa,4,5,4,0.8,0.75,off_by_one,noun,ambiguous
+毘首羯磨天,毘首羯磨天,viśvakarmā,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+囉怛曩計睹,啰怛曩计睹,ratnaketu,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+優曇跋羅華,优昙跋罗华,udumbara,5,4,4,1.25,0.75,off_by_one,noun,ambiguous
+何耶揭利婆,何耶揭利婆,hayagrīva,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+何耶揭唎婆,何耶揭唎婆,hayagrīva,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+阿耶揭唎婆,阿耶揭唎婆,hayagrīva,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+奔荼利迦化,奔荼利迦化,puṇḍarīka,5,4,4,1.25,0.75,off_by_one,noun,ambiguous
+七摩怛里天,七摩怛里天,saptamātṛ,5,4,4,1.25,0.75,off_by_one,phrase,ambiguous
+娑羅室伐底,娑罗室伐底,sarasvatī,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+失利婆塞迦,失利婆塞迦,śrīvāsaka,5,4,4,1.25,0.75,off_by_one,noun,ambiguous
+嚩盧枳諦,嚩卢枳谛,avalokita,4,5,4,0.8,0.75,off_by_one,verb,ambiguous
+嚩盧吉多,嚩卢吉多,avalokita,4,5,4,0.8,0.75,off_by_one,verb,ambiguous
+何耶揭㗚嚩,何耶揭㗚嚩,hayagriva,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+六波羅蜜,六波罗蜜,satpāramitā,4,5,4,0.8,0.75,off_by_one,phrase,ambiguous
+何耶揭哩婆,何耶揭哩婆,hayagrīva,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+阿畏遮迦,阿畏遮迦,abhicāraka,4,5,4,0.8,0.75,off_by_one,noun,ambiguous
+不空羂索,不空羂索,amoghapāśa,4,5,4,0.8,0.75,off_by_one,phrase,ambiguous
+阿唎耶多羅,阿唎耶多罗,āryatārā,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+賀耶揭哩婆,贺耶揭哩婆,hayagrīva,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+尾覲難得迦,尾觐难得迦,vighnāntaka,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+菴婆羅婆利,菴婆罗婆利,āmrapālī,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+阿耨達池,阿耨达池,anavatapta,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+阿耨達池,阿耨达池,anavatapta,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+三摩咀吒國,三摩咀吒国,samataṭa,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+福德資糧,福德资粮,puṇyasaṃbhāra,4,5,4,0.8,0.75,off_by_one,phrase,ambiguous
+正量弟子部,正量弟子部,sammatīya,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+不空成就,不空成就,amoghasiddhi,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+阿比耶陀天,阿比耶陀天,avṛhāta,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+鬱怛羅越,郁怛罗越,uttarakuru,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+嗢多羅僧,嗢多罗僧,uttarāsaṃga,4,5,4,0.8,0.75,off_by_one,noun,ambiguous
+佛紇差怛羅,佛纥差怛罗,buddhakṣetra,5,4,4,1.25,0.75,off_by_one,phrase,ambiguous
+八支瑜伽,八支瑜伽,aṣṭāṅgayoga,4,5,4,0.8,0.75,off_by_one,phrase,ambiguous
+薄伽梵歌,薄伽梵歌,bhagavad gītā,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+波羅提木叉,波罗提木叉,prātimokṣa,5,4,4,1.25,0.75,off_by_one,phrase,ambiguous
+相應阿含,相应阿含,saṃyuktāgama,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+羯洛迦孫馱,羯洛迦孙驮,krakucchanda,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+尼摩羅天,尼摩罗天,nirmāṇarati,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+迦陵頻伽鳥,迦陵频伽鸟,kalaviṅka,5,4,4,1.25,0.75,off_by_one,noun,ambiguous
+阿毘曇人,阿毘昙人,ābhidharmika,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+達磨阿蘭若,达磨阿兰若,dharmāraṇya,5,4,4,1.25,0.75,off_by_one,phrase,ambiguous
+伊底呵婆論,伊底呵婆论,itihāsa,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+前頗求尼,前颇求尼,pūrvaphalgunī,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+鞞疑呵破羅,鞞疑呵破罗,bṛhatphala,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+醯摩嚩多部,醯摩嚩多部,haimavatā,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+一切智天,一切智天,sarvajñadeva,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+一切有部,一切有部,sarvāstivāda,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+蘇跋梨柯部,苏跋梨柯部,suvarṣakā,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+一間聖者,一间圣者,ekavicīka,4,5,4,0.8,0.75,off_by_one,phrase,ambiguous
+伊沙馱羅山,伊沙驮罗山,īṣādhara,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+蘇達梨舍那,苏达梨舍那,sudarśana,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+毘那怛迦山,毘那怛迦山,vinataka,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+姿麤富羅,姿麤富罗,vatsiputriya,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+摩訶僧祇,摩诃僧祇,mahāsaṅghika,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+姿麤富羅,姿麤富罗,vātsīputrīya,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+婆麤富羅,婆麤富罗,vātsīputrīya,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+佉提羅迦山,佉提罗迦山,khadiraka,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+阿修羅殿,阿修罗殿,asura-sabhā,4,5,4,0.8,0.75,off_by_one,phrase,ambiguous
+阿遮羅晉,阿遮罗晋,acalā-bhūmi,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+婆粗富羅,婆粗富罗,vātsīputrīya,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+烏麻斯伐梯,乌麻斯伐梯,umāsvāti,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+南羯羅主,南羯罗主,śamkarasvāmin,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+摩登伽經,摩登伽经,Mātangīsūtra,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+摩鄧女經,摩邓女经,Mātangīsūtra,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+帝釋所問經,帝释所问经,śakraparipṛcchā,5,6,4,0.833,0.75,off_by_one,proper noun,ambiguous
+遮婆羅塔,遮婆罗塔,cāpālacaitya,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+毘耶娑問經,毘耶娑问经,vyāsaparipṛcchā,5,6,4,0.833,0.75,off_by_one,proper noun,ambiguous
+蘇悉地羯羅供養法,苏悉地羯罗供养法,Susiddhikarapūjāvidhi,8,9,8,0.889,0.75,off_by_one,proper noun,ambiguous
+蘇悉地羯羅供養法,苏悉地羯罗供养法,Susiddhikarapūjāvidhi,8,9,8,0.889,0.75,off_by_one,proper noun,ambiguous
+鞞婆沙論,鞞婆沙论,Vibhāṣāśāstra,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+唯識二十論,唯识二十论,viṃśatikā,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+因明入正理論,因明入正理论,Nyāyapraveśa,6,5,4,1.2,0.75,off_by_one,proper noun,ambiguous
+毘梨沙伽那,毘梨沙伽那,vṛṣagaṇa,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+俱夷那竭,俱夷那竭,kuśinagara,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+質呾羅婆拏,质呾罗婆拏,citrabhāna,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+婆羅袟底也,婆罗袟底也,bālāditya,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+婆羅阿迭多,婆罗阿迭多,bālāditya,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+娑多婆訶,娑多婆诃,sātavāhana,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+汎沙苦利陀,汎沙苦利陀,haṁsakrīḍa,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+波頗蜜多羅,波颇蜜多罗,prabhākaramitra,5,6,4,0.833,0.75,off_by_one,proper noun,ambiguous
+三昧王經,三昧王经,samādhirāja,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+須那剎多羅,须那刹多罗,sunakṣatra,5,4,4,1.25,0.75,off_by_one,proper noun,ambiguous
+鳩夷那竭,鸠夷那竭,kuśinagara,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+究施那城,究施那城,kuśinagara,4,5,4,0.8,0.75,off_by_one,proper noun,ambiguous
+阿難陀目佉尼呵離陀隣尼經,阿难陀目佉尼呵离陀隣尼经,Anantamukhasādhakadhāraṇī,12,11,11,1.091,0.727,off_by_one,proper noun,ambiguous
+阿難陀目佉尼阿離陀隣尼經,阿难陀目佉尼阿离陀隣尼经,ānandamukhasādhaka dhāraṇī,12,11,11,1.091,0.727,off_by_one,proper noun,ambiguous
+金剛上味陀羅尼經,金刚上味陀罗尼经,Vajramaṇḍādhāranīsūtra,8,9,7,0.889,0.714,off_by_one,proper noun,ambiguous
+差摩婆帝授記經,差摩婆帝授记经,Kṣemavatīvyākaraṇa,7,8,7,0.875,0.714,off_by_one,proper noun,ambiguous
+右繞佛塔功德經,右绕佛塔功德经,Caityapradakṣiṇagātha,7,8,7,0.875,0.714,off_by_one,proper noun,ambiguous
+文殊師利發願經,文殊师利发愿经,bhadracaryapraṇidhāna,7,8,7,0.875,0.714,off_by_one,proper noun,ambiguous
+須彌山,须弥山,sumeru,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+歌利王,歌利王,kalirājā,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+阿含經,阿含经,āgama,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+悉達多,悉达多,siddhārtha,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+阿閦佛,阿閦佛,akṣobhya,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+文殊菩薩,文殊菩萨,mañjuśrī,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+教授師,教授师,ācārya,3,3,3,1.0,0.667,exact,noun,ambiguous
+菩提樹,菩提树,bodhidruma,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+本初佛,本初佛,ādibuddha,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+舍衛國,舍卫国,śrāvastī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+有頂天,有顶天,akaniṣṭha,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+阿尾舍,阿尾舍,āveśa,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿尾捨,阿尾捨,āveśa,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿尾奢,阿尾奢,āveśa,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿尾賖,阿尾賖,āveśa,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿毘舍,阿毘舍,āveśa,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿樓馱,阿楼驮,aniruddha,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+常精進,常精进,nityodyukta,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+瞿曇彌,瞿昙弥,gautamī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+舍羅婆迦,舍罗婆迦,śrāvaka,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+多擲哆,多掷哆,tadyathā,3,3,3,1.0,0.667,exact,\N,ambiguous
+優婆夷,优婆夷,upāsikā,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+須大拏,须大拏,viśvantara,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+僧伽服,僧伽服,saṃghāṭī,3,3,3,1.0,0.667,exact,noun,ambiguous
+安陀會,安陀会,antarvāsa,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+曼荼羅,曼荼罗,maṇḍala,3,3,3,1.0,0.667,exact,noun,ambiguous
+毗訶羅窟,毗诃罗窟,vihāra,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+摩竭魚,摩竭鱼,makara,3,3,3,1.0,0.667,exact,noun,ambiguous
+彌勒菩薩,弥勒菩萨,maitreya,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+禪定印,禅定印,dhyānamudrā,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+迦婁荼,迦娄荼,garuḍa,3,3,3,1.0,0.667,exact,noun,ambiguous
+誐嚕拏,誐噜拏,garuḍa,3,3,3,1.0,0.667,exact,noun,ambiguous
+摩伏勒,摩伏勒,mahorāga,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+甄陀羅,甄陀罗,kiṃnara,3,3,3,1.0,0.667,exact,noun,ambiguous
+真陀羅,真陀罗,kiṃnara,3,3,3,1.0,0.667,exact,noun,ambiguous
+緊捺羅,紧捺罗,kiṃnara,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿落迦婆,阿落迦婆,rākṣasa,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+辯才天,辩才天,sarasvatī,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+毘倶胝,毘倶胝,bhṛkutī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+毘倶知,毘倶知,bhrūkuti,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+六字大明咒,六字大明咒,ṣaḍakṣarī,5,4,3,1.25,0.667,off_by_one,proper noun,ambiguous
+阿蘭若,阿兰若,araṇya,3,3,3,1.0,0.667,exact,noun,ambiguous
+奢摩它,奢摩它,śamatha,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿毘曇,阿毘昙,abhidharma,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+天神地祇,天神地只,devatā,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+涅槃那,涅盘那,nirvāṇa,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+毗奈耶,毗奈耶,vinaya,3,3,3,1.0,0.667,exact,noun,ambiguous
+捺落迦,捺落迦,naraka,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+荼吉尼,荼吉尼,ḍākinī,3,3,3,1.0,0.667,exact,noun,ambiguous
+拏枳儞,拏枳儞,ḍākinī,3,3,3,1.0,0.667,exact,noun,ambiguous
+荼耆尼,荼耆尼,ḍākinī,3,3,3,1.0,0.667,exact,noun,ambiguous
+荼枳尼,荼枳尼,ḍākinī,3,3,3,1.0,0.667,exact,noun,ambiguous
+陀祇尼,陀祇尼,ḍākinī,3,3,3,1.0,0.667,exact,noun,ambiguous
+拏吉儞,拏吉儞,ḍākinī,3,3,3,1.0,0.667,exact,noun,ambiguous
+跋伽婆仙,跋伽婆仙,bhārgava,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+跋伽婆,跋伽婆,bhārgava,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+跋伽仙,跋伽仙,bhārgava,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+婆伽婆仙,婆伽婆仙,bhārgava,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+婆伽仙,婆伽仙,bhārgava,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+薄伽梵,薄伽梵,bhagavān,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+毘闍那,毘阇那,vijñāna,3,3,3,1.0,0.667,exact,noun,ambiguous
+金輪寶,金轮宝,cakraratna,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+阿僧祇,阿僧祇,asaṃkhyeya,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+門答辣,门答辣,maṇḍala,3,3,3,1.0,0.667,exact,noun,ambiguous
+蔓陀囉,蔓陀啰,maṇḍala,3,3,3,1.0,0.667,exact,noun,ambiguous
+赫魯嘎,赫鲁嘎,heruka,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+黑魯嘎,黑鲁嘎,heruka,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+黑茹迦,黑茹迦,heruka,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+僧祇支,僧祇支,saṅkakṣikā,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+僧卻崎,僧却崎,saṅkakṣikā,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+僧腳崎,僧脚崎,saṅkakṣikā,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+軍荼利,军荼利,kuṇḍalī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+烏芻瑟摩,乌刍瑟摩,ucchuṣma,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+烏芻沙摩,乌刍沙摩,ucchuṣma,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+多聞天,多闻天,vaiśravaṇa,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+氷蘖囉天,氷蘖啰天,piṅgala,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+穰麌梨,穰麌梨,jāṅgulī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+蘘俱梨,蘘俱梨,jāṅgulī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+金毘囉,金毘啰,kumbhīra,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿祇梨,阿祇梨,ācārya,3,3,3,1.0,0.667,exact,noun,ambiguous
+毘濕縛羯磨,毘湿缚羯磨,viśvakarmā,5,4,3,1.25,0.667,off_by_one,proper noun,ambiguous
+德叉迦龍,德叉迦龙,takṣaka,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+和修吉,和修吉,vāsuki,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+大蓮華,大莲华,puṇḍarīka,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+俱哩迦,俱哩迦,kulika,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+阿祇利,阿祇利,ācārya,3,3,3,1.0,0.667,exact,noun,ambiguous
+呾刹那,呾刹那,tatkṣaṇa,3,3,3,1.0,0.667,exact,noun,ambiguous
+瞿摸怛羅,瞿摸怛罗,gomūtra,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+憂曇波,忧昙波,udumbara,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+阿舍波陀,阿舍波陀,aśvattha,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+涅哩底,涅哩底,nirṛti,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+涅哩帝,涅哩帝,nirṛti,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+禰哩底,祢哩底,nirṛti,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+半拏囉嚩悉寧,半拏啰嚩悉宁,pāṇḍaravāsinī,6,6,6,1.0,0.667,exact,proper noun,ambiguous
+半拏羅縛悉儞,半拏罗缚悉儞,pāṇḍaravāsinī,6,6,6,1.0,0.667,exact,proper noun,ambiguous
+白蓮華,白莲华,puṇḍarīka,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+分荼利,分荼利,puṇḍarīka,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+勝佛頂,胜佛顶,jayoṣṇīṣa,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+七母天,七母天,saptamātṛ,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+七母天,七母天,saptamātṛ,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+嬌麼哩,娇么哩,kaumārī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+燕捺利,燕捺利,indrāṇī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+婆樓那,婆楼那,varuṇa,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+漫荼羅,漫荼罗,maṇḍala,3,3,3,1.0,0.667,exact,noun,ambiguous
+曼拏攞,曼拏攞,maṇḍala,3,3,3,1.0,0.667,exact,noun,ambiguous
+滿拏囉,满拏罗,maṇḍala,3,3,3,1.0,0.667,exact,noun,ambiguous
+美音天,美音天,sarasvatī,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+苾蒭尼,苾刍尼,bhikṣuṇī,3,3,3,1.0,0.667,exact,noun,ambiguous
+塞頗胝加,塞颇胝加,sphāṭika,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+苾芻尼,苾刍尼,bhikṣuṇī,3,3,3,1.0,0.667,exact,noun,ambiguous
+藥王菩薩,药王菩萨,bhaiṣajyarāja,4,5,3,0.8,0.667,off_by_one,proper noun,ambiguous
+除疑怪,除疑怪,kautūhala,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+潑磔迦,泼磔迦,phaṭaka,3,3,3,1.0,0.667,exact,phonetic,ambiguous
+微戍陀,微戍陀,viśuddha,3,3,3,1.0,0.667,exact,adjective,ambiguous
+娜縛羅鉢邏,娜缚罗钵逻,dvārapāla,5,4,3,1.25,0.667,off_by_one,noun,ambiguous
+計薩囉,计萨啰,kesara,3,3,3,1.0,0.667,exact,noun,ambiguous
+得蘗藍,得蘗蓝,tagara,3,3,3,1.0,0.667,exact,noun,ambiguous
+瞻蔔樹,瞻蔔树,campaka,3,3,3,1.0,0.667,exact,noun,ambiguous
+瞻波樹,瞻波树,campaka,3,3,3,1.0,0.667,exact,noun,ambiguous
+旃檀耳,旃檀耳,candana,3,3,3,1.0,0.667,exact,noun,ambiguous
+漫荼迦,漫荼迦,maṇḍaka,3,3,3,1.0,0.667,exact,noun,ambiguous
+嫓諾迦,嫓诺迦,phenaka,3,3,3,1.0,0.667,exact,noun,ambiguous
+伽伽娜,伽伽娜,gagana,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿爾單,阿尔单,ajita,3,3,3,1.0,0.667,exact,adjective,ambiguous
+微質怛囒,微质怛囒,vicitrā,4,3,3,1.333,0.667,off_by_one,adjective,ambiguous
+羯嚕呶,羯噜呶,karuṇa,3,3,3,1.0,0.667,exact,noun,ambiguous
+微灑也,微洒也,viṣaya,3,3,3,1.0,0.667,exact,noun,ambiguous
+三婆吠,三婆吠,sambhava,3,3,3,1.0,0.667,exact,noun,ambiguous
+微目吃底,微目吃底,vimukti,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+若衍底,若衍底,jayanta,3,3,3,1.0,0.667,exact,adjective,ambiguous
+素捺那,素捺那,sūdana,3,3,3,1.0,0.667,exact,verb,ambiguous
+嚩始多,嚩始多,vaśitā,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿儞怛夜,阿儞怛夜,āditya,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+落吃灑,落吃洒,lakṣaṇa,3,3,3,1.0,0.667,exact,noun,ambiguous
+毘舍也,毘舍也,viṣaya,3,3,3,1.0,0.667,exact,noun,ambiguous
+三婆嚩,三婆嚩,sambhava,3,3,3,1.0,0.667,exact,adjective,ambiguous
+微蘖多,微蘖多,vigata,3,3,3,1.0,0.667,exact,adjective,ambiguous
+大勤勇,大勤勇,mahāvīra,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+除疑怪菩薩,除疑怪菩萨,kautūhala,5,4,3,1.25,0.667,off_by_one,proper noun,ambiguous
+除疑蓋菩薩,除疑盖菩萨,kautūhala,5,4,3,1.25,0.667,off_by_one,proper noun,ambiguous
+菴羅園,菴罗园,āmrapālī,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+囉娑難,啰娑难,rasana,3,3,3,1.0,0.667,exact,adjective,ambiguous
+揵達縛,揵达缚,gandharva,3,3,3,1.0,0.667,exact,noun,ambiguous
+乾闥婆,乾闼婆,gandharva,3,3,3,1.0,0.667,exact,noun,ambiguous
+揭路荼,揭路荼,garuḍa,3,3,3,1.0,0.667,exact,noun,ambiguous
+緊捺洛,紧捺洛,kiṃnara,3,3,3,1.0,0.667,exact,noun,ambiguous
+毗舍浮佛,毗舍浮佛,viśvabhū,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+毗舍浮,毗舍浮,viśvabhū,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+乾達婆,干达婆,gandharva,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿蘇囉,阿苏啰,asura,3,3,3,1.0,0.667,exact,noun,ambiguous
+揭嚕茶,揭噜茶,garuḍa,3,3,3,1.0,0.667,exact,noun,ambiguous
+緊那囉,紧那啰,kiṃnara,3,3,3,1.0,0.667,exact,noun,ambiguous
+簸嚩句,簸嚩句,pāvaka,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+畢怛囉,毕怛啰,pitara,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+毘婆尸佛,毘婆尸佛,vipaśyin,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+毘婆尸,毘婆尸,vipaśyin,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+毘舍浮佛,毘舍浮佛,viśvabhū,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+毗婆尸,毗婆尸,Vipaśyin,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+辣娑拏,辣娑拏,rasanā,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿嚩底,阿嚩底,avadhūtī,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+布瑟徵迦,布瑟征迦,pauṣṭika,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+補瑟徵迦,补瑟征迦,pauṣṭika,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+半拏囉縛悉寧,半拏啰缚悉宁,pāṇḍaravāsinī,6,6,6,1.0,0.667,exact,proper noun,ambiguous
+闇沒㗚多,闇没㗚多,amṛta,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+阿蜜㗚多,阿蜜㗚多,amṛta,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+阿密哩多,阿密哩多,amṛta,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+娑囉藍,娑啰蓝,sarala,3,3,3,1.0,0.667,exact,noun,ambiguous
+鉢持莽,钵持莽,padmaka,3,3,3,1.0,0.667,exact,noun,ambiguous
+劫波杯,劫波杯,kapāla,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿初佛,阿初佛,akṣobhya,3,3,3,1.0,0.667,exact,noun,ambiguous
+遍淨天,遍净天,śubhakṛtsna,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+廣果天,广果天,vrihatphalā,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+三自性,三自性,trisvabhāva,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+于瑟抳沙,于瑟抳沙,uṣṇīṣa,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+颯哆南,飒哆南,saptānāṁ,3,3,3,1.0,0.667,exact,phrase,ambiguous
+尸陀林,尸陀林,śītavana,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+尸陀婆,尸陀婆,śītavana,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+毘磨利,毘磨利,vimale,3,3,3,1.0,0.667,exact,adjective,ambiguous
+參婆囉,参婆啰,sambhara,3,3,3,1.0,0.667,exact,noun,ambiguous
+轉輪王,转轮王,cakravartin,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+共不定,共不定,sādhāraṇa,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+森林書,森林书,āraṇyaka,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+婆伽婆,婆伽婆,bhagavat,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+婆誐嚩帝,婆誐嚩帝,bhagavān,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+婆伽梵,婆伽梵,bhagavān,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+不放逸,不放逸,apramāda,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+一一各,一一各,pratyeka,3,3,3,1.0,0.667,exact,phrase,ambiguous
+一一各有,一一各有,pratyeka,4,3,3,1.333,0.667,off_by_one,phrase,ambiguous
+諸世間,诸世间,sarva-kṣetra,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+眾生相,众生相,sattvasaṃjñā,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+壽者相,寿者相,jīvasaṃjñā,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+阿練茹,阿练茹,araṇya,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿練若,阿练若,araṇya,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿蘭攘,阿兰攘,araṇya,3,3,3,1.0,0.667,exact,noun,ambiguous
+憍曇彌,憍昙弥,gautamī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+兜瑟哆天,兜瑟哆天,tuṣita,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+訖利馱耶,讫利驮耶,hṛdaya,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+紇利陀耶,纥利陀耶,hṛdaya,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+紇哩陀耶,纥哩陀耶,hṛdaya,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+乾栗馱耶,干栗驮耶,hṛdaya,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+阿梨樹枝,阿梨树枝,arjaka,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+阿梨樹,阿梨树,arjaka,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿棃樹,阿棃树,arjaka,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿棃樹枝,阿棃树枝,arjaka,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+阿僧祇,阿僧祇,asaṃkhya,3,3,3,1.0,0.667,exact,noun,ambiguous
+智慧力,智慧力,jñānabala,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+鳩槃荼鬼,鸠槃荼鬼,kumbhāṇḍa,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+鳩槃荼,鸠槃荼,kumbhāṇḍa,3,3,3,1.0,0.667,exact,noun,ambiguous
+旃荼羅,旃荼罗,caṇḍāla,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+波羅柰,波罗柰,vārāṇasī,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+菴婆羅,菴婆罗,āmrapālī,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+菴羅女,菴罗女,āmrapālī,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+啞密哩達,哑密哩达,amṛta,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+揵闥婆,揵闼婆,gandharva,3,3,3,1.0,0.667,exact,noun,ambiguous
+健達縛,健达缚,gandharva,3,3,3,1.0,0.667,exact,noun,ambiguous
+彥達婆,彦达婆,gandharva,3,3,3,1.0,0.667,exact,noun,ambiguous
+乾沓婆,乾沓婆,gandharva,3,3,3,1.0,0.667,exact,noun,ambiguous
+乾沓和,乾沓和,gandharva,3,3,3,1.0,0.667,exact,noun,ambiguous
+巘沓縛,巘沓缚,gandharva,3,3,3,1.0,0.667,exact,noun,ambiguous
+摩㝹闍,摩㝹阇,manuṣya,3,3,3,1.0,0.667,exact,noun,ambiguous
+摩㝹沙,摩㝹沙,manuṣya,3,3,3,1.0,0.667,exact,noun,ambiguous
+摩㝹史,摩㝹史,manuṣya,3,3,3,1.0,0.667,exact,noun,ambiguous
+摩納婆,摩纳婆,māṇava,3,3,3,1.0,0.667,exact,noun,ambiguous
+摩納縛迦,摩纳缚迦,māṇava,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+摩那婆,摩那婆,māṇava,3,3,3,1.0,0.667,exact,noun,ambiguous
+般遮旬,般遮旬,pañcābhijñā,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+修乾天,修乾天,śubha-kṛtsna,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+分耨文陀尼弗,分耨文陀尼弗,bālapṛthagjana,6,6,6,1.0,0.667,exact,proper noun,ambiguous
+五盛陰,五盛阴,pañcaskandha,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+三摩惹,三摩惹,samāja,3,3,3,1.0,0.667,exact,noun,ambiguous
+檀特山,檀特山,daṇḍaloka,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+須大拏太子,须大拏太子,viśvantara,5,4,3,1.25,0.667,off_by_one,proper noun,ambiguous
+須達拏,须达拏,viśvantara,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+般若門,般若门,prajñā-mukha,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+為頭離,为头离,vaipulya,3,3,3,1.0,0.667,exact,adjective,ambiguous
+居家人,居家人,gṛhastha,3,3,3,1.0,0.667,exact,phrase,ambiguous
+佛國土,佛国土,buddhakṣetra,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+大忍力,大忍力,kṣānti-bala,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+縒麼野,縒么野,samaya,3,3,3,1.0,0.667,exact,noun,ambiguous
+壞輪迴,坏轮迴,kakutsunda,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+嗢底迦,嗢底迦,Uttika,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+遠聞山,远闻山,udeśin,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+染末那,染末那,kliṣṭamanas,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+薰陸香樹,薰陆香树,kunduru,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+薰陸香,薰陆香,kunduru,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+三跋羅,三跋罗,saṃvara,3,3,3,1.0,0.667,exact,noun,ambiguous
+文陀竭,文陀竭,mūrdhaga,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+文陀竭王,文陀竭王,mūrdhaga,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+行祭僧,行祭僧,adhvaryu,3,3,3,1.0,0.667,exact,phrase,ambiguous
+阿為闥婆,阿为闼婆,atharvaveda,4,5,3,0.8,0.667,off_by_one,proper noun,ambiguous
+副吠陀,副吠陀,upaveda,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+彌曼蹉,弥曼蹉,mīmāṃsā,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+偷蘭遮,偷兰遮,sthūlātyaya,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+土羅遮,土罗遮,sthūlātyaya,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+奉乳祭,奉乳祭,pravargya,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+火供竈,火供竈,agnikuṇḍa,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+正心行處,正心行处,samādhi,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+摩怛理迦,摩怛理迦,mātṛkā,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+迦夷羅,迦夷罗,kapila,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+鴦祇剌四,鸯祇剌四,aṅgiras,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+隨煩惱,随烦恼,upakleśa,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+僧佉義,僧佉义,sāṃkhya-pakṣa,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+世間法,世间法,lokadharma,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+菩提分法,菩提分法,bodhyaṅga,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+無想果,无想果,āsaṃjñika,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+那伽書,那伽书,nāgalipi,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+薩芸若,萨芸若,sarvajña,3,3,3,1.0,0.667,exact,noun,ambiguous
+世主天,世主天,prajāpati,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+金剛鈴,金刚铃,vajraghaṇṭā,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+薩云然,萨云然,sarvajña,3,3,3,1.0,0.667,exact,noun,ambiguous
+精進力,精进力,vīryabala,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+中天竺,中天竺,madhyadeśa,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+迦羅越,迦罗越,kulapati,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+首楞嚴,首楞严,śūraṅgama,3,4,3,0.75,0.667,off_by_one,adjective,ambiguous
+外境界,外境界,bāhyārtha,3,3,3,1.0,0.667,exact,phrase,ambiguous
+外種子,外种子,bāhya-bīja,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+補盧鎩,补卢铩,puruṣe,3,3,3,1.0,0.667,exact,noun,ambiguous
+法供養,法供养,dharmapūjā,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+阿閦婆,阿閦婆,akṣobhya,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+拘樓孫,拘楼孙,krakucchanda,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+拘樓秦,拘楼秦,krakucchanda,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+俱留孫,俱留孙,krakucchanda,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+鳩留秦,鸠留秦,krakucchanda,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+世王天,世王天,prajāpati,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+苾芻眾,苾刍众,bhikṣusaṅgha,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+應果性,应果性,arhattva,3,3,3,1.0,0.667,exact,phrase,ambiguous
+法性自爾,法性自尔,dharmatā,4,3,3,1.333,0.667,off_by_one,phrase,ambiguous
+依止處,依止处,adhiṣṭhāna,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+第三十,第三十,triṃśattama,3,4,3,0.75,0.667,off_by_one,ordinal,ambiguous
+毘陀羅鬼,毘陀罗鬼,vetāḍa,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+沒馱南,没驮南,buddhānām,3,3,3,1.0,0.667,exact,phrase,ambiguous
+微摩底,微摩底,vimati,3,3,3,1.0,0.667,exact,adjective,ambiguous
+菩提場,菩提场,bodhimaṇḍa,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+不正色,不正色,kaṣāya,3,3,3,1.0,0.667,exact,noun,ambiguous
+迦邏沙曳,迦逻沙曳,kaṣāya,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+阿芻鞞耶,阿刍鞞耶,akṣobhya,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+無瞋恚佛,无瞋恚佛,akṣobhya,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+金翅鳥,金翅鸟,garuḍa,3,3,3,1.0,0.667,exact,noun,ambiguous
+化自樂天,化自乐天,nirmāṇarati,4,5,3,0.8,0.667,off_by_one,proper noun,ambiguous
+徧淨天,徧净天,śubhakṛtsna,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+廣善天,广善天,śubhakṛtsna,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+比里底毘,比里底毘,pṛthivī,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+鉢羅體吠,钵罗体吠,pṛthivī,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+矩摩羅,矩摩罗,kumāra,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+提和衛,提和卫,dīpavatī,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+諸技術,诸技术,śilpasthāna,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+波波羅樹,波波罗树,pāṭalī,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+微誓耶,微誓耶,vijayā,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+阿波會,阿波会,ābhāsvara,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+自立派,自立派,svātantrika,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+矩母那華,矩母那华,kumuda,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+矩母那,矩母那,kumuda,3,3,3,1.0,0.667,exact,noun,ambiguous
+虛漢星,虚汉星,aṅgāraka,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+雲漢星,云汉星,aṅgāraka,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+散支迦,散支迦,pāñcika,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+德叉迦,德叉迦,takṣaka,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+威儀路,威仪路,īryāpatha,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+威儀道,威仪道,īryāpatha,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+一切法,一切法,sarvadharma,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+不可取,不可取,agrāhya,3,3,3,1.0,0.667,exact,phrase,ambiguous
+不可量,不可量,amāpyena,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+婆藪天,婆薮天,vasudeva,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+阿浮訶那,阿浮诃那,avṛhā,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+鳩夷羅,鸠夷罗,kunāla,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+拘浪拏,拘浪拏,kunāla,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+吒羅佉,吒罗佉,tāraka,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+凍母囉天,冻母啰天,tumburu,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+間錯天,间错天,pratyupta,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+惟于幡,惟于幡,bṛhatphala,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+維阿鉢,维阿钵,bṛhatphala,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+大果天,大果天,bṛhatphala,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+阿迦瑟,阿迦瑟,akaniṣṭha,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+惡揭嚕,恶揭噜,aguru,3,3,3,1.0,0.667,exact,noun,ambiguous
+阿時婆,阿时婆,ājīvika,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+六合釋,六合释,ṣaṭsamāsa,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+一切有為,一切有为,sarvasaṃskṛta,4,5,3,0.8,0.667,off_by_one,phrase,ambiguous
+一切有爲,一切有为,sarvasaṃskṛta,4,5,3,0.8,0.667,off_by_one,phrase,ambiguous
+薩縛達,萨缚达,sarvadā,3,3,3,1.0,0.667,exact,phrase,ambiguous
+一叉鳩王,一叉鸠王,ikṣvāku,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+一顚迦,一顚迦,icchantika,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+阿鋡暮,阿鋡暮,āgama,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+阿彌底耶,阿弥底耶,aditya,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+白蓮花,白莲花,puṇḍarīka,3,4,3,0.75,0.667,off_by_one,noun,ambiguous
+和須蜜,和须蜜,vasumitra,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+頞濕縛羯拏,頞湿缚羯拏,aśvakarṇa,5,4,3,1.25,0.667,off_by_one,proper noun,ambiguous
+跋次子部,跋次子部,vātsīputrīya,4,5,3,0.8,0.667,off_by_one,proper noun,ambiguous
+善歲部,善岁部,kāśyapīyā,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+迦葉惟,迦叶惟,kāśyapīyā,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+阿閣梨,阿阁梨,ācārya,3,3,3,1.0,0.667,exact,noun,ambiguous
+大光明,大光明,mahāprabha,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+金剛身,金刚身,vajrakāya,3,4,3,0.75,0.667,off_by_one,phrase,ambiguous
+檐林山,檐林山,khadiraka,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+摩呾理迦,摩呾理迦,mātṛkā,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+摩窒里迦,摩窒里迦,mātṛkā,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+摩帝利迦,摩帝利迦,mātṛkā,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+摩呾履迦,摩呾履迦,mātṛkā,4,3,3,1.333,0.667,off_by_one,noun,ambiguous
+阿私仙,阿私仙,asita,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+阿私哆,阿私哆,asita,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+畔彈南,畔弹南,vandana,3,3,3,1.0,0.667,exact,phrase,ambiguous
+畔憚南,畔惮南,vandana,3,3,3,1.0,0.667,exact,phrase,ambiguous
+鴦儗囉,鸯儗啰,aṅgirasa,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+阿至摸,阿至摸,arciṣmatī,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+毘提訶,毘提诃,videha,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+淨明句論,净明句论,prasannapadā,4,5,3,0.8,0.667,off_by_one,proper noun,ambiguous
+入諦義論,入谛义论,tattvarthasūtra,4,5,3,0.8,0.667,off_by_one,proper noun,ambiguous
+娑祇多,娑祇多,sāketa,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+婆枳多,婆枳多,sāketa,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+婆翅多,婆翅多,sāketa,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+曇摩蜱,昙摩蜱,dharmapriya,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+菩提伽耶,菩提伽耶,Bodhgayā,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+舍利子,舍利子,śāriputra,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+功德直,功德直,guṇabharman,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+雨寶陀羅尼經,雨宝陀罗尼经,Vasudhārādhāraṇī,6,7,6,0.857,0.667,off_by_one,proper noun,ambiguous
+彌沙塞羯磨本,弥沙塞羯磨本,Mahīśāsakakarman,6,7,6,0.857,0.667,off_by_one,proper noun,ambiguous
+摩訶僧祇比丘尼戒本,摩诃僧祇比丘尼戒本,Mahāsaṅghabhikṣuṇivinaya,9,10,9,0.9,0.667,off_by_one,proper noun,ambiguous
+根本說一切有部毘奈耶尼陀那目得迦攝頌,根本说一切有部毘奈耶尼陀那目得迦摄颂,Mūlasarvāstivādavinayanidānamātṛkākārikā,18,19,18,0.947,0.667,off_by_one,proper noun,ambiguous
+大乘伽耶山頂經,大乘伽耶山顶经,gayāśīrṣasūtra,7,6,6,1.167,0.667,off_by_one,proper noun,ambiguous
+文殊師利問經,文殊师利问经,mañjuśrīparipṛcchā,6,7,6,0.857,0.667,off_by_one,proper noun,ambiguous
+哥利王,哥利王,kalirājā,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+羯利王,羯利王,kalirājā,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+迦梨王,迦梨王,kalirājā,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+羅什曼那,罗什曼那,lakśmaṇa,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+阿底峽,阿底峡,atiśa,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+佛所行讚,佛所行赞,buddhacarita,4,5,3,0.8,0.667,off_by_one,proper noun,ambiguous
+毗舍離,毗舍离,vaiśālī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+竺法護,竺法护,dharmarakṣa,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+憍陳如,憍陈如,kauṇḍinya,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+毘舍離,毘舍离,vaiśālī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+舍彌村,舍弥村,Syāmagrāma,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+拘絺羅,拘絺罗,kauṣṭhila,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+象頭山,象头山,gayāśīrṣa,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+離車毘,离车毘,licchavi,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+隷車輩,隷车辈,licchavi,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+離車子,离车子,licchavi,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+仙族王,仙族王,licchavi,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+密迹金剛力士會,密迹金刚力士会,tathāgataguhyasūtra,7,8,6,0.875,0.667,off_by_one,proper noun,ambiguous
+伐拉彼,伐拉彼,valabhī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+象腋經,象腋经,Hastikakṣyā,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+阿毘曇甘露味論,阿毘昙甘露味论,Abhidharmāmṛtaśāstra,7,8,6,0.875,0.667,off_by_one,proper noun,ambiguous
+阿毘達磨俱舍論本頌,阿毘达磨俱舍论本颂,Abhidharmakośakārikā,9,9,9,1.0,0.667,exact,proper noun,ambiguous
+如實論,如实论,Tarkaśāstra,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+大乘集菩薩學論,大乘集菩萨学论,Śikṣāsamuccaya,7,6,6,1.167,0.667,off_by_one,proper noun,ambiguous
+三婆婆,三婆婆,saṃbhava,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+婆羅婆,婆罗婆,bhāradvāja,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+拘利若,拘利若,kauṇḍinya,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+缾沙王,缾沙王,bimbisāra,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+萍沙王,萍沙王,bimbisāra,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+瓶沙王,瓶沙王,bimbisāra,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+帕嘉歐達,帕嘉欧达,pradyota,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+般闍荼,般阇荼,pañcāla,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+般遮耶,般遮耶,pañcāla,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+閃笛耳耶,闪笛耳耶,śāṇḍilya,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+瑜伽經,瑜伽经,yogasūtra,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+巴斯加羅,巴斯加罗,bhāskara,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+商卡拉,商卡拉,śaṅkara,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+波儞尼,波儞尼,pāṇini,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+犍馱羅國,犍驮罗国,gandhāra,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+犍馱羅,犍驮罗,gandhāra,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+犍陀越,犍陀越,gandhāra,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+乾陀越,干陀越,gandhāra,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+犍陀呵,犍陀呵,gandhāra,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+舍婆提城,舍婆提城,śrāvastī,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+舍婆提,舍婆提,śrāvastī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+乾陀婆那,干陀婆那,gāndhāra,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+摩哂陀,摩哂陀,mahendra,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+康卡那,康卡那,koṅkaṇa,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+足目仙,足目仙,akṣapada,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+沙祇太,沙祇太,sāketa,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+俱曇彌,俱昙弥,gautamī,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+弗迦沙,弗迦沙,bimbisāra,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+寶頂經,宝顶经,ratnaketu,3,4,3,0.75,0.667,off_by_one,proper noun,ambiguous
+罽昵吒王,罽昵吒王,kaniṣka,4,3,3,1.333,0.667,off_by_one,proper noun,ambiguous
+蘇達哆,苏达哆,sudatta,3,3,3,1.0,0.667,exact,proper noun,ambiguous
+拘季那羅,拘季那罗,kuśinagara,4,5,3,0.8,0.667,off_by_one,proper noun,ambiguous
+九士生地,九士生地,kuśinagara,4,5,3,0.8,0.667,off_by_one,proper noun,ambiguous
+力士生地,力士生地,kuśinagara,4,5,3,0.8,0.667,off_by_one,proper noun,ambiguous
+摩利支天陀羅尼呪經,摩利支天陀罗尼呪经,Mārīcīdhāraṇīsūtra,9,8,8,1.125,0.625,off_by_one,proper noun,ambiguous
+郁伽羅越問菩薩經,郁伽罗越问菩萨经,ugradattaparipṛcchā,8,8,8,1.0,0.625,exact,proper noun,ambiguous
+郁迦羅越問菩薩行經,郁迦罗越问菩萨行经,ugradattaparipṛcchā,9,8,8,1.125,0.625,off_by_one,proper noun,ambiguous
+一切法自在,一切法自在,sarvadharmeśvara,5,6,5,0.833,0.6,off_by_one,phrase,ambiguous
+無盡意菩薩,无尽意菩萨,akṣayamati,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+沙羯利陀伽彌,沙羯利陀伽弥,sakṛdāgāmin,6,5,5,1.2,0.6,off_by_one,proper noun,ambiguous
+大辯才天女,大辩才天女,sarasvatī-devī,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+甘露軍荼利,甘露军荼利,amṛtakuṇḍalin,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+甘露軍荼利明王,甘露军荼利明王,amṛtakuṇḍalin,7,6,5,1.167,0.6,off_by_one,proper noun,ambiguous
+大聖歡喜天,大圣欢喜天,nandikeśvara,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+難提自在天,难提自在天,nandikeśvara,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+金剛商竭羅,金刚商竭罗,vajraśṛṅkhalā,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+金剛商朅羅,金刚商朅罗,vajraśṛṅkhalā,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+虛空藏菩薩,虚空藏菩萨,ākāśagarbha,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+除一切惡趣,除一切恶趣,sarvāpāyaṃjaha,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+施無畏菩薩,施无畏菩萨,abhayaṃdada,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+上首諸聖尊,上首诸圣尊,dṛḍhādhyāśaya,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+虛空慧菩薩,虚空慧菩萨,gaganamati,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+羯嚕儜麼也,羯噜儜么也,karuṇāmaya,5,5,5,1.0,0.6,exact,phrase,ambiguous
+智慧波羅蜜,智慧波罗蜜,prajñāpāramitā,5,6,5,0.833,0.6,off_by_one,noun,ambiguous
+布施波羅蜜,布施波罗蜜,dāna-pāramitā,5,6,5,0.833,0.6,off_by_one,phrase,ambiguous
+持戒波羅蜜,持戒波罗蜜,śīla-pāramitā,5,6,5,0.833,0.6,off_by_one,phrase,ambiguous
+忍辱波羅蜜,忍辱波罗蜜,kṣāntipāramitā,5,6,5,0.833,0.6,off_by_one,phrase,ambiguous
+漚和俱舍羅,沤和俱舍罗,upāya-kauśalya,5,6,5,0.833,0.6,off_by_one,noun,ambiguous
+漚惒俱舍羅,沤惒俱舍罗,upāya-kauśalya,5,6,5,0.833,0.6,off_by_one,noun,ambiguous
+阿惟越致地,阿惟越致地,avaivartya-bhūmi,5,6,5,0.833,0.6,off_by_one,noun,ambiguous
+漚惒拘舍羅,沤惒拘舍罗,upāya-kauśalya,5,6,5,0.833,0.6,off_by_one,noun,ambiguous
+漚和拘舍羅,沤和拘舍罗,upāya-kauśalya,5,6,5,0.833,0.6,off_by_one,noun,ambiguous
+漚波拘舍羅,沤波拘舍罗,upāya-kauśalya,5,6,5,0.833,0.6,off_by_one,noun,ambiguous
+憂婆憍舍羅,忧婆憍舍罗,upāya-kauśalya,5,6,5,0.833,0.6,off_by_one,noun,ambiguous
+薩婆悉達多,萨婆悉达多,sarvasiddhārtha,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+殟怛羅句嚧,殟怛罗句嚧,uttarakuru,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+嗢怛囉僧伽,嗢怛罗僧伽,uttarāsaṃga,5,5,5,1.0,0.6,exact,noun,ambiguous
+阿闥婆吠陀,阿闼婆吠陀,atharvaveda,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+阿陀婆毘陀,阿陀婆毘陀,atharvaveda,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+異能護方智論,异能护方智论,atharvaveda,6,5,5,1.2,0.6,off_by_one,proper noun,ambiguous
+阿達磨嘎地語,阿达磨嘎地语,ardha-māgadhī,6,5,5,1.2,0.6,off_by_one,proper noun,ambiguous
+阿達磨嘎地,阿达磨嘎地,ardha-māgadhī,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+威德焰輪天,威德焰轮天,tejojālinī,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+摩訶僧祇部,摩诃僧祇部,mahāsāṃghika,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+遍是宗法性,遍是宗法性,pakṣadharmatva,5,5,5,1.0,0.6,exact,phrase,ambiguous
+補特伽羅見,补特伽罗见,pudgaladṛṣṭi,5,5,5,1.0,0.6,exact,phrase,ambiguous
+摩登伽阿蘭若,摩登伽阿兰若,daṇḍakāraṇya,6,5,5,1.2,0.6,off_by_one,phrase,ambiguous
+彌喜捨婆阿,弥喜舍婆阿,mahīśāsaka,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+彌喜捨婆阿部,弥喜舍婆阿部,mahīśāsaka,6,5,5,1.2,0.6,off_by_one,proper noun,ambiguous
+婆收婁多柯,婆收娄多柯,bahuśrutīyā,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+波收婁多柯,波收娄多柯,bahuśrutīyā,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+婆吼輸底柯,婆吼输底柯,bahuśrutīyā,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+般遮跋利沙會,般遮跋利沙会,pañcavārṣika,6,5,5,1.2,0.6,off_by_one,proper noun,ambiguous
+般遮跋利沙,般遮跋利沙,pañcavārṣika,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+跋私弗底梨與,跋私弗底梨与,vātsīputrīya,6,5,5,1.2,0.6,off_by_one,proper noun,ambiguous
+跋私弗多羅,跋私弗多罗,vātsīputrīya,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+可住子弟子,可住子弟子,vātsīputrīya,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+傴和拘舍羅,伛和拘舍罗,upāya-kauśalya,5,6,5,0.833,0.6,off_by_one,phrase,ambiguous
+阿比目佉晉,阿比目佉晋,abhimukhī-bhūmi,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+抄頭摩提晉,抄头摩提晋,sādhumatī-bhūmi,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+曇摩彌迦晉,昙摩弥迦晋,dharmameghā-bhūmi,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+婆粗富羅部,婆粗富罗部,vātsīputrīya,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+瑜伽師地論,瑜伽师地论,yogacārabhūmi,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+阿難陀目佉尼呵離陀經,阿难陀目佉尼呵离陀经,Anantamukhasādhakadhāraṇī,10,11,10,0.909,0.6,off_by_one,proper noun,ambiguous
+妙吉祥最勝根本大教經,妙吉祥最胜根本大教经,Krodhavijayakalpaguhyatantra,10,11,10,0.909,0.6,off_by_one,proper noun,ambiguous
+寶星陀羅尼經,宝星陀罗尼经,ratnaketudhāraṇī,6,7,5,0.857,0.6,off_by_one,proper noun,ambiguous
+伽耶山頂經,伽耶山顶经,gayāśīrṣasūtra,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+象頭精舍經,象头精舍经,gayāśīrṣasūtra,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+修行道地經,修行道地经,Yogacārabhūmi,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+迦諾迦伐蹉,迦诺迦伐蹉,Kanakavatsa,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+阿恃多伐底河,阿恃多伐底河,Hiraṇyavatī,6,5,5,1.2,0.6,off_by_one,proper noun,ambiguous
+摩訶衍寶嚴經,摩诃衍宝严经,Kāśyapaparivarta,6,7,5,0.857,0.6,off_by_one,proper noun,ambiguous
+翻譯名義大集,翻译名义大集,Mahāvyutpatti,6,5,5,1.2,0.6,off_by_one,proper noun,ambiguous
+金剛三昧經,金刚三昧经,Vajrasamādhi,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+壹輸盧迦論,壹输卢迦论,Ekaślokaśāstra,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+菩薩地持經,菩萨地持经,Bodhisattvabhūmi,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+菩薩善戒經,菩萨善戒经,Bodhisattvabhūmi,5,6,5,0.833,0.6,off_by_one,proper noun,ambiguous
+尸賴拏伐底,尸赖拏伐底,hiraṇyavatī,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+俱夷那竭國,俱夷那竭国,kuśinagara,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+俱夷那竭城,俱夷那竭城,kuśinagara,5,5,5,1.0,0.6,exact,proper noun,ambiguous
+訖羅摩阿迭多,讫罗摩阿迭多,vikramāditya,6,5,5,1.2,0.6,off_by_one,proper noun,ambiguous
+馝柯羅摩袟多,馝柯罗摩袟多,vikramāditya,6,5,5,1.2,0.6,off_by_one,proper noun,ambiguous
+維瑪拉普拉巴,维玛拉普拉巴,vimalaprabhā,6,5,5,1.2,0.6,off_by_one,proper noun,ambiguous
+優鉢羅華色,优钵罗华色,utpalavarṇā,5,5,5,1.0,0.6,exact,proper noun,ambiguous

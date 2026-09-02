@@ -1,0 +1,81 @@
+====================================================================
+ STEP 15 — is a Chinese m- character ever used for a foreign b-?
+====================================================================
+
+--------------------------------------------------------------------
+ Sanskrit (Later Han transcriptions, verified 音譯)
+ n = 919 usable pairs
+ Later Han readings — the right period for the Xiongnu names
+--------------------------------------------------------------------
+  source b-  ->  22 occurrences, of which 3 written with a Chinese m- character (13.6%)
+  Chinese m- ->  97 occurrences, of which 90 render a source m- (92.8%)
+
+  Chinese initials used for source b-:
+     b           18
+     m            3
+     p            1
+  Source onsets written with a Chinese m- character:
+     m           90
+     b            3
+     s            2
+     ś            1
+     bh           1
+
+--------------------------------------------------------------------
+ Turkic (Ligeti, Ming Sino-Uyghur glossaries)
+ n = 594 usable pairs
+ Chinese side is EFEO romanisation, so initials are read directly
+--------------------------------------------------------------------
+  source b-  ->  78 occurrences, of which 0 written with a Chinese m- character (0.0%)
+  Chinese m- ->  17 occurrences, of which 14 render a source m- (82.4%)
+
+  Chinese initials used for source b-:
+     p           75
+     p'           1
+     h            1
+     b            1
+  Source onsets written with a Chinese m- character:
+     m           14
+     i            1
+     y            1
+     d            1
+
+--------------------------------------------------------------------
+ Mongolian (Secret History of the Mongols)
+ n = 8481 usable pairs
+ Ming-era transcriptions scored with Later Han initials as a proxy; initials are the conservative component (step 14: 79.3%)
+--------------------------------------------------------------------
+  source b-  ->  738 occurrences, of which 0 written with a Chinese m- character (0.0%)
+  Chinese m- ->  305 occurrences, of which 303 render a source m- (99.3%)
+
+  Chinese initials used for source b-:
+     p          492
+     b          239
+     s            2
+     zero/ʔ       1
+     k            1
+     ń            1
+     ŋ            1
+     l            1
+  Source onsets written with a Chinese m- character:
+     m          303
+     č            1
+     q            1
+
+====================================================================
+ SUMMARY
+====================================================================
+  corpus                                          b- seen b- as m-
+  Sanskrit (Later Han transcriptions, verified 音       22        3
+  Turkic (Ligeti, Ming Sino-Uyghur glossaries)         78        0
+  Mongolian (Secret History of the Mongols)           738        0
+  TOTAL                                               838        3
+
+  Chinese had a voiced b- series (並母) and used it. A scribe who wrote an
+  m- character was not forced into it by the writing system.
+
+  Bearing on 冒頓 *mək-tuən: the m- is very unlikely to be standing in for
+  a b-, which is what reading the name as *baγatur requires. Combined with
+  the missing -r (step 14: stop codas do not survive, and no -r is present
+  in the reading at all), two independent lines of evidence tell against
+  the standard etymology.

@@ -1,0 +1,65 @@
+ LIGETI / SINO-UYGHUR VOCABULARY - LOCATION PROBE
+
+======================================================================
+ Ligeti 1966, Acta Orientalia 19
+ Ligeti_1966_ActaOrientalia_19.pdf  (208,700,175 bytes)
+======================================================================
+ citation page ranges: [(117, 199), (257, 316)]
+
+ PDF pages: 426
+ pages mentioning Ligeti / sino-ouigour: 153
+   first 25 PDF indices: [0, 4, 62, 84, 85, 87, 89, 91, 101, 102, 121, 124, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138]
+ pages with >=15 Chinese characters: 0
+
+ journal page -> PDF index (from printed page numbers found):
+   printed p.117  -> not detected
+   printed p.199  -> not detected
+   printed p.257  -> not detected
+   printed p.316  -> not detected
+
+
+======================================================================
+ Ligeti 1969, Acta Orientalia 22
+ Ligeti_1969_ActaOrientalia_22.pdf  (193,045,678 bytes)
+======================================================================
+ citation page ranges: [(1, 49), (191, 243)]
+
+ PDF pages: 430
+ pages mentioning Ligeti / sino-ouigour: 122
+   first 25 PDF indices: [4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+ pages with >=15 Chinese characters: 0
+
+ journal page -> PDF index (from printed page numbers found):
+   printed p.1    -> not detected
+   printed p.49   -> not detected
+   printed p.191  -> not detected
+   printed p.243  -> not detected
+
+
+======================================================================
+ Shi Shuqin 2016 report - Shi_Shuqin_2016_gaochang_study.pdf (557,235 bytes)
+======================================================================
+ pages: 17
+ pages with >=40 Chinese characters: 15
+   appendix / word-list marker on page 5: 词汇表
+
+ SAMPLE - page 8, first 18 lines
+   漠北时信仰的摩尼教，开始信奉佛教。回鹘文逐渐取代了漠北时使用的古代突厥
+   文。从那时起,吐鲁番、哈密及河西走廊等地开始广泛地使用回鹘文,蒙元时期的
+   察合台汗国、金帐汗国、帖木尔帝国也把回鹘文作为官方文字。回鹘人曾经广泛
+   地使用回鹘文，他们翻译、创作了许多作品，内容十分丰富，包括行政公文、宗
+   教经典、契约、碑铭、社会经济文书和文学作品等。
+   库
+   回鹘人除了用回鹘文书写摩尼教经典以外，还使用摩尼文。摩尼文是摩尼教
+   的正式文字。敦煌、吐鲁番等地出土了不少用摩尼文书写的回鹘语摩尼教文献。
+   要
+   另外，回鹘人还使用过婆罗迷文、叙利亚文、藏文、八思巴文等拼写过自己的语
+   摘
+   言——回鹘语。
+   大约从10 世纪起，中亚及天山南北的部分回文鹘人逐渐由奉佛教到改信伊斯兰
+   教。在阿拉伯语和波斯语的影响下，13 世纪以后那里的回鹘人开始使用一种所
+   论
+   谓的“喀什噶尔语”。这是一种书面语言，因为最先形成于察合台及其后裔统治
+   时期，所以又称为“察合台语”，拼士写这种语言的阿拉伯文字即“察合台文”。随
+   着伊斯兰教的兴起，回鹘文也逐渐被察合台文取代，最终成了死亡文字。
+

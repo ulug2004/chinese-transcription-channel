@@ -1,0 +1,37 @@
+==========================================================================
+ STEP 17 — does a different dictionary rescue the modern-echo search?
+==========================================================================
+ 39 names, null = 250 resampled pseudo-names per variant
+
+ variant           entries  null hit  null med. names p<=.05
+ ------------------------------------------------------------
+ turkish             21721      231/250      0.156        2 of 36
+ kazakh              53182      239/250      0.183        0 of 36
+ union               73406      236/250      0.117        2 of 36
+ turkish_native      14876      233/250      0.200        2 of 36
+ intersect            1497      219/250      0.329        3 of 35
+ intersect_nat        1153      190/250      0.372        3 of 34
+
+ 'null hit' = meaningless pseudo-names that still found a dictionary match.
+ 'null med.' = median best score for those pseudo-names; LOWER is a closer
+ match, so a lower median means the lexicon is noisier, not better.
+
+==========================================================================
+ THE TWO KNOWN ANSWERS, ACROSS VARIANTS
+==========================================================================
+ 撑犁  (known: tengri / tanrı)
+   turkish          top: dengeli [0.03], dingil [0.08], dangalak [0.12] p=0.048   known form in lexicon: tanrı
+   kazakh           top: dıngıl [0.08], dangılda [0.12], dıngılda [0.14] p=0.324   known form in lexicon: ABSENT
+   union            top: dengeli [0.03], dingil [0.08], dıngıl [0.08] p=0.052   known form in lexicon: tanrı
+   turkish_native   top: dengeli [0.03], dingil [0.08], dangalak [0.12] p=0.032   known form in lexicon: tanrı
+   intersect        top: adil [0.39], dal [0.39], dala [0.39] p=0.640   known form in lexicon: ABSENT
+   intersect_nat    top: dal [0.39], dala [0.39], dizel [0.39] p=0.536   known form in lexicon: ABSENT
+
+ 頭曼  (known: tümen / tuman)
+   turkish          top: duman [0.04], idman [0.04], domino [0.06] p=0.108   known form in lexicon: tümen
+   kazakh           top: domna [0.00], duman [0.04], domino [0.06] p=0.060   known form in lexicon: tümen, tuman
+   union            top: domna [0.00], duman [0.04], idman [0.04] p=0.032   known form in lexicon: tümen, tuman
+   turkish_native   top: duman [0.04], dümen [0.08], ataman [0.16] p=0.052   known form in lexicon: tümen
+   intersect        top: duman [0.04], domino [0.06], ataman [0.16] p=0.016   known form in lexicon: tümen
+   intersect_nat    top: duman [0.04], ataman [0.16], tümen [0.18] p=0.008   known form in lexicon: tümen
+

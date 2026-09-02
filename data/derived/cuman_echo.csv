@@ -1,0 +1,107 @@
+chinese,pinyin,lhan,turkish_render,candidate,gloss_lat,score,p_vs_null,beats_chance
+頭曼,Touman,do mɑnᶜ,do man,taman,perfectum,0.142,0.2967,no
+頭曼,Touman,do mɑnᶜ,do man,touman,nebula,0.156,0.2967,no
+頭曼,Touman,do mɑnᶜ,do man,etarmen,facio,0.367,0.2967,no
+冒頓,Modu / Modun,mək tuənᶜ,mık tuın,ketan,tela,0.312,0.6333,no
+冒頓,Modu / Modun,mək tuənᶜ,mık tuın,kadan,clavus,0.388,0.6333,no
+冒頓,Modu / Modun,mək tuənᶜ,mık tuın,katinda,apud,0.388,0.6333,no
+稽粥,Jizhou / Jiyu,kʰeiᴮ tśuk,kei çuk,keçak,paucus,0.056,0.0467,yes
+稽粥,Jizhou / Jiyu,kʰeiᴮ tśuk,kei çuk,keç,tarde,0.156,0.0467,yes
+稽粥,Jizhou / Jiyu,kʰeiᴮ tśuk,kei çuk,kiçi,parvus,0.156,0.0467,yes
+軍臣,Junchen,kun dźin,kun cin,kaurçina,vas latum,0.388,0.76,no
+軍臣,Junchen,kun dźin,kun cin,konç,crus,0.388,0.76,no
+軍臣,Junchen,kun dźin,kun cin,konçek,bracca,0.388,0.76,no
+伊稚斜,Yizhixie,ʔi ḍiᶜ ja,’i di ya,toy,convivium,0.275,0.5533,no
+伊稚斜,Yizhixie,ʔi ḍiᶜ ja,’i di ya,tuy,s. tu «pistum,0.275,0.5533,no
+伊稚斜,Yizhixie,ʔi ḍiᶜ ja,’i di ya,tayag,clava,0.283,0.5533,no
+烏維,Wuwei,ʔɑ wi,’a vi,va,y,0.125,0.28,no
+烏維,Wuwei,ʔɑ wi,’a vi,ovdi,laus,0.212,0.28,no
+烏維,Wuwei,ʔɑ wi,’a vi,iv,sepulcrum,0.25,0.28,no
+詹師廬,Zhanshilu,tśam ṣi liɑ,çam şi lia,uçmisley,volando,0.318,0.64,no
+詹師廬,Zhanshilu,tśam ṣi liɑ,çam şi lia,çomlak,olla,0.388,0.64,no
+詹師廬,Zhanshilu,tśam ṣi liɑ,çam şi lia,makala,platea,0.547,0.64,no
+呴犁湖,Xulihu / Goulihu,huo lei gɑ,huo lei ga,ehar,planta,0.233,0.49,no
+呴犁湖,Xulihu / Goulihu,huo lei gɑ,huo lei ga,hor,defectus,0.233,0.49,no
+呴犁湖,Xulihu / Goulihu,huo lei gɑ,huo lei ga,areg,macer,0.317,0.49,no
+且鞮侯,Qiedihou,tsɑᴮ te go,tsa te go,tausti,perfecit,0.117,0.1867,no
+且鞮侯,Qiedihou,tsɑᴮ te go,tsa te go,tusti,certavit,0.138,0.1867,no
+且鞮侯,Qiedihou,tsɑᴮ te go,tsa te go,tasidi,rapuit,0.192,0.1867,no
+狐鹿姑,Hulugu,ɣuɑ lok kɑ,ğua lok ka,ioluktu,obviam venit,0.35,0.7067,no
+狐鹿姑,Hulugu,ɣuɑ lok kɑ,ğua lok ka,iarikte,illuminavit,0.372,0.7067,no
+狐鹿姑,Hulugu,ɣuɑ lok kɑ,ğua lok ka,ululuk,magnitudo,0.372,0.7067,no
+壺衍鞮,Huyandi,gɑ janᴮ te,ga yan te,koyan,collocatus,0.192,0.39,no
+壺衍鞮,Huyandi,gɑ janᴮ te,ga yan te,uiaganda,vigilando,0.275,0.39,no
+壺衍鞮,Huyandi,gɑ janᴮ te,ga yan te,kinadi,torsit,0.329,0.39,no
+虛閭權渠,Xulüquanqu,kʰɨɑ liɑ gyan gɨɑ,kıa lia gyan gıa,koligian,galanga,0.316,0.6367,no
+虛閭權渠,Xulüquanqu,kʰɨɑ liɑ gyan gɨɑ,kıa lia gyan gıa,kurgan,tumulus,0.353,0.6367,no
+虛閭權渠,Xulüquanqu,kʰɨɑ liɑ gyan gɨɑ,kıa lia gyan gıa,iglading,ploravisti,0.376,0.6367,no
+握衍朐鞮,Woyanqudi,ʔɔk janᴮ guo te,’ok yan guo te,koyan,collocatus,0.325,0.65,no
+握衍朐鞮,Woyanqudi,ʔɔk janᴮ guo te,’ok yan guo te,karangi,obscurus,0.375,0.65,no
+握衍朐鞮,Woyanqudi,ʔɔk janᴮ guo te,’ok yan guo te,kayda,ubi,0.375,0.65,no
+呼韓邪,Huhanye,hɑ gɑn ja,ha gan ya,uiaganda,vigilando,0.4,0.77,no
+呼韓邪,Huhanye,hɑ gɑn ja,ha gan ya,kinadi,torsit,0.467,0.77,no
+呼韓邪,Huhanye,hɑ gɑn ja,ha gan ya,hanat,ala,0.483,0.77,no
+郅支,Zhizhi,tśit tśe,çit çe,çipçik,avis,0.319,0.6467,no
+郅支,Zhizhi,tśit tśe,çit çe,çakuç,malleus,0.367,0.6467,no
+郅支,Zhizhi,tśit tśe,çit çe,çakuçi,accusator,0.367,0.6467,no
+搜諧若鞮,Souxie Ruodi,so gɛi ńɑk te,so gei nyak te,saganmak,admonitio,0.258,0.5267,no
+搜諧若鞮,Souxie Ruodi,so gɛi ńɑk te,so gei nyak te,segerçik,columbus,0.408,0.5267,no
+搜諧若鞮,Souxie Ruodi,so gɛi ńɑk te,so gei nyak te,oskurmak,tussis,0.467,0.5267,no
+車牙若鞮,Cheya Ruodi,tśʰa ŋa ńɑk te,ça nga nyak te,çapçaçik,valde mobilis,0.571,0.9067,no
+烏珠留若鞮,Wuzhuliu Ruodi,ʔɑ tśo liu ńɑk te,’a ço liu nyak te,açergansa,si moeret,0.535,0.8867,no
+烏珠留若鞮,Wuzhuliu Ruodi,ʔɑ tśo liu ńɑk te,’a ço liu nyak te,çilnirler,intrant,0.542,0.8867,no
+烏珠留若鞮,Wuzhuliu Ruodi,ʔɑ tśo liu ńɑk te,’a ço liu nyak te,çapçaçik,valde mobilis,0.578,0.8867,no
+烏累若鞮,Wulei Ruodi,ʔɑ lui ńɑk te,’a lui nyak te,erinçak,pigrita,0.34,0.6867,no
+烏累若鞮,Wulei Ruodi,ʔɑ lui ńɑk te,’a lui nyak te,iarilgadi,misertus est,0.49,0.6867,no
+烏累若鞮,Wulei Ruodi,ʔɑ lui ńɑk te,’a lui nyak te,örumçik,aranea,0.49,0.6867,no
+攣鞮,Luandi,lyan te,lyan te,rauand,rhabarbarum,0.292,0.59,no
+攣鞮,Luandi,lyan te,lyan te,aleyoh,laudate Jehovam,0.346,0.59,no
+攣鞮,Luandi,lyan te,lyan te,yalen,flamma,0.35,0.59,no
+虛連題,Xulianti,kʰɨɑ lianᴮ de,kıa lian de,kalan,penicillus,0.125,0.28,no
+虛連題,Xulianti,kʰɨɑ lianᴮ de,kıa lian de,kolan,cingulum,0.125,0.28,no
+虛連題,Xulianti,kʰɨɑ lianᴮ de,kıa lian de,karen,venter,0.175,0.28,no
+單于,chanyu,dźan wɑ,can va,çanak,scutella,0.383,0.7533,no
+單于,chanyu,dźan wɑ,can va,açuv,amaritudo,0.475,0.7533,no
+單于,chanyu,dźan wɑ,can va,çinay,uxor,0.475,0.7533,no
+撑犁,chengli,ḍaŋ lei,dang lei,tinger,Vervacatum,0.206,0.43,no
+撑犁,chengli,ḍaŋ lei,dang lei,tengri,deus,0.233,0.43,no
+撑犁,chengli,ḍaŋ lei,dang lei,duvlat,imperium,0.388,0.43,no
+孤塗,gutu,kuɑ dɑ,kua da,kadadi,clavavit,0.156,0.3067,no
+孤塗,gutu,kuɑ dɑ,kua da,kadak,clavus,0.156,0.3067,no
+孤塗,gutu,kuɑ dɑ,kua da,kaia,rupes,0.233,0.3067,no
+閼氏,yanzhi / ezhi,ʔɑt dźeᴮ,’at ce,at,equus,0.212,0.45,no
+閼氏,yanzhi / ezhi,ʔɑt dźeᴮ,’at ce,teçe,apposite,0.212,0.45,no
+閼氏,yanzhi / ezhi,ʔɑt dźeᴮ,’at ce,öte,trans,0.212,0.45,no
+屠耆,tuqi,dɑ gɨ,da gı,da,et,0.212,0.45,no
+屠耆,tuqi,dɑ gɨ,da gı,tage,fortasse tagel idem,0.212,0.45,no
+屠耆,tuqi,dɑ gɨ,da gı,daui,d,0.233,0.45,no
+谷蠡,luli / guli,kok leᴮ,kok le,kukel,gramen,0.042,0.03,yes
+谷蠡,luli / guli,kok leᴮ,kok le,kagal,lentus,0.183,0.03,yes
+谷蠡,luli / guli,kok leᴮ,kok le,kugir,w «pectus,0.233,0.03,yes
+當戶,danghu,tɑŋ gɑᴮ,tang ga,tang,fasciculus,0.142,0.2967,no
+當戶,danghu,tɑŋ gɑᴮ,tang ga,tarag,porticula,0.333,0.2967,no
+當戶,danghu,tɑŋ gɑᴮ,tang ga,tayag,clava,0.333,0.2967,no
+骨都侯,guduhou,kuət tɑ go,kuıt ta go,kadadi,clavavit,0.287,0.58,no
+骨都侯,guduhou,kuət tɑ go,kuıt ta go,kerteg,talamus,0.312,0.58,no
+骨都侯,guduhou,kuət tɑ go,kuıt ta go,tatig,sapor,0.312,0.58,no
+且渠,juqu,tsɑᴮ gɨɑ,tsa gıa,atas,cognominis,0.156,0.3067,no
+且渠,juqu,tsɑᴮ gɨɑ,tsa gıa,tas,pelvis tonsoria,0.156,0.3067,no
+且渠,juqu,tsɑᴮ gɨɑ,tsa gıa,taus,pavo,0.156,0.3067,no
+徑路,jinglu,keŋᶜ lɑᶜ,keng la,kangil,liga,0.083,0.1533,no
+徑路,jinglu,keŋᶜ lɑᶜ,keng la,kongul,cor,0.083,0.1533,no
+徑路,jinglu,keŋᶜ lɑᶜ,keng la,kenglik,largitudo,0.106,0.1533,no
+服匿,funi,buk ṇɨk,buk nık,öpkani,mend. pro öpkäsi,0.212,0.45,no
+服匿,funi,buk ṇɨk,buk nık,bekyn,beki (bekin),0.275,0.45,no
+服匿,funi,buk ṇɨk,buk nık,bukûluk,magia,0.281,0.45,no
+甌脫,outuo,ʔo tʰuɑt,’o tuat,ouat,caliga,0.15,0.3,no
+甌脫,outuo,ʔo tʰuɑt,’o tuat,toua,camelus,0.15,0.3,no
+甌脫,outuo,ʔo tʰuɑt,’o tuat,totak,labium,0.156,0.3,no
+胡祿,hulu,gɔ lok,go lok,ogolok,capella,0.028,0.02,yes
+胡祿,hulu,gɔ lok,go lok,aglik,albedo,0.083,0.02,yes
+胡祿,hulu,gɔ lok,go lok,egelik,bonitas,0.083,0.02,yes
+匈奴,Xiongnu,huoŋ nɑ,huong na,hun,fortasse «Cumanus,0.389,0.7667,no
+匈奴,Xiongnu,huoŋ nɑ,huong na,han,dominus,0.417,0.7667,no
+匈奴,Xiongnu,huoŋ nɑ,huong na,hangi,qualis,0.417,0.7667,no
+羯,Jie,kɨat,kıat,kat,latus,0.125,0.28,no
+羯,Jie,kɨat,kıat,kati,durus,0.125,0.28,no
+羯,Jie,kɨat,kıat,koti,podex (ejus),0.125,0.28,no

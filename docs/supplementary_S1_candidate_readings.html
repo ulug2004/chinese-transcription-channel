@@ -1,0 +1,450 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Supplementary S1 — Candidate Readings</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+SC:wght@600&display=swap">
+<style>
+  :root{
+    --ground:#FAFAF8; --surface:#F2F2EF; --surface-2:#EAEAE6;
+    --rule:#DEDED8; --rule-strong:#C4C4BC;
+    --ink:#1B1C21; --ink-2:#545861; --ink-3:#888C95;
+    --accent:#33477A; --ochre:#8A6420; --flag:#8C3A32; --good:#2E6350;
+    --shadow:0 1px 2px rgba(20,20,30,.05);
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --ground:#14151A; --surface:#1C1E24; --surface-2:#23252C;
+      --rule:#2E313A; --rule-strong:#41454F;
+      --ink:#E8E9EC; --ink-2:#A3A8B2; --ink-3:#767B86;
+      --accent:#9BB0E6; --ochre:#D6A855; --flag:#E08A80; --good:#7FC4A8;
+      --shadow:0 1px 2px rgba(0,0,0,.4);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ground:#14151A; --surface:#1C1E24; --surface-2:#23252C;
+    --rule:#2E313A; --rule-strong:#41454F;
+    --ink:#E8E9EC; --ink-2:#A3A8B2; --ink-3:#767B86;
+    --accent:#9BB0E6; --ochre:#D6A855; --flag:#E08A80; --good:#7FC4A8;
+    --shadow:0 1px 2px rgba(0,0,0,.4);
+  }
+  *{box-sizing:border-box}
+  body{margin:0; background:var(--ground); color:var(--ink);
+    font-family:"Source Serif 4",Georgia,serif; font-size:17px; line-height:1.62;
+    -webkit-font-smoothing:antialiased}
+  .wrap{max-width:820px; margin:0 auto; padding:64px 26px 96px}
+  .col{max-width:68ch}
+  p{margin:0 0 17px}
+  em{font-style:italic}
+  a{color:var(--accent)}
+
+  .eyebrow{font-family:"IBM Plex Sans",sans-serif; font-size:11px; letter-spacing:.16em;
+    text-transform:uppercase; color:var(--ink-3); font-weight:600; margin:0 0 18px}
+  h1{font-size:35px; line-height:1.2; font-weight:600; margin:0 0 14px;
+    letter-spacing:-.012em; text-wrap:balance; max-width:20ch}
+  .sub{font-size:19px; color:var(--ink-2); margin:0 0 30px; line-height:1.45; max-width:52ch}
+  .byline{font-family:"IBM Plex Sans",sans-serif; font-size:14px; color:var(--ink-2);
+    border-top:1px solid var(--rule); border-bottom:1px solid var(--rule);
+    padding:15px 0; margin:0 0 34px; line-height:1.7}
+  .byline strong{color:var(--ink); font-weight:600}
+
+  h2.sec{font-size:14px; font-family:"IBM Plex Sans",sans-serif; font-weight:600;
+    letter-spacing:.1em; text-transform:uppercase; color:var(--ink-3);
+    margin:52px 0 6px; display:flex; gap:14px; align-items:baseline}
+  h2.sec .n{color:var(--accent); font-variant-numeric:tabular-nums}
+  h2.sec .t{color:var(--ink); letter-spacing:.02em; text-transform:none;
+    font-size:22px; font-family:"Source Serif 4",Georgia,serif; font-weight:600}
+  h3{font-size:18px; font-weight:600; margin:32px 0 6px; color:var(--ink); text-wrap:balance}
+
+  .han{font-family:"Noto Serif SC",serif; font-weight:600}
+  .ipa{font-family:"IBM Plex Mono",monospace; font-size:.9em; color:var(--accent)}
+  code{font-family:"IBM Plex Mono",monospace; font-size:.87em; color:var(--ochre)}
+  sup.n{font-family:"IBM Plex Sans",sans-serif; font-size:10.5px; font-weight:600;
+    color:var(--accent)}
+  sup.n a{text-decoration:none}
+
+  .abstract{background:var(--surface); border:1px solid var(--rule); border-radius:2px;
+    padding:26px 28px; margin:0 0 12px}
+  .abstract h3{margin:0 0 10px; font-size:12px; font-family:"IBM Plex Sans",sans-serif;
+    letter-spacing:.14em; text-transform:uppercase; color:var(--ink-3)}
+  .abstract p{font-size:16px; margin-bottom:13px}
+  .abstract p:last-child{margin-bottom:0}
+  .kw{font-family:"IBM Plex Sans",sans-serif; font-size:13px; color:var(--ink-3);
+    margin:12px 0 0}
+
+  .box{background:var(--surface); border:1px solid var(--rule); border-radius:2px;
+    padding:20px 22px; margin:22px 0}
+  .box p:last-child{margin-bottom:0}
+  .box.flag{border-left:3px solid var(--flag)}
+  .box.key{border-left:3px solid var(--accent)}
+  .box.warn{border-left:3px solid var(--ochre)}
+
+  .tablewrap{overflow-x:auto; margin:24px 0 8px; border:1px solid var(--rule);
+    border-radius:2px; background:var(--surface); box-shadow:var(--shadow)}
+  table{border-collapse:collapse; width:100%; min-width:540px;
+    font-family:"IBM Plex Sans",sans-serif; font-size:14px}
+  thead th{font-size:10.5px; letter-spacing:.1em; text-transform:uppercase;
+    color:var(--ink-3); font-weight:600; text-align:left; padding:12px 14px 8px;
+    border-bottom:1px solid var(--rule-strong); background:var(--surface-2);
+    vertical-align:bottom; line-height:1.35}
+  tbody td{padding:10px 14px; border-bottom:1px solid var(--rule); vertical-align:baseline}
+  tbody tr:last-child td{border-bottom:none}
+  td.num{font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums;
+    white-space:nowrap; font-size:13px}
+  td.han2{font-family:"Noto Serif SC",serif; font-weight:600; font-size:15px; white-space:nowrap}
+  td.han2 .py{display:block; font-family:"IBM Plex Sans",sans-serif; font-weight:400;
+    font-size:11px; color:var(--ink-3); margin-top:2px}
+  .g{color:var(--good); font-weight:600}
+  .b{color:var(--flag); font-weight:600}
+  .cap{font-family:"IBM Plex Sans",sans-serif; font-size:13px; color:var(--ink-3);
+    margin:0 0 28px; max-width:70ch; line-height:1.55}
+  .tnum{font-weight:600; color:var(--accent); letter-spacing:.06em;
+    text-transform:uppercase; font-size:11px; margin-right:8px}
+
+  ul,ol{padding-left:22px; max-width:66ch} li{margin-bottom:8px}
+  ol.refs{font-family:"IBM Plex Sans",sans-serif; font-size:13.5px; line-height:1.55;
+    max-width:72ch} ol.refs li{margin-bottom:9px; scroll-margin-top:20px}
+  ol.refs li:target{background:var(--surface-2); box-shadow:0 0 0 5px var(--surface-2)}
+  pre.tree{font-family:"IBM Plex Mono",monospace; font-size:12px; line-height:1.65;
+    background:var(--surface); border:1px solid var(--rule); border-radius:2px;
+    padding:18px 20px; overflow-x:auto; color:var(--ink-2); margin:18px 0}
+  hr{border:none; border-top:1px solid var(--rule); margin:52px 0}
+  :focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+</style>
+<style>
+  tr.rem td{font-size:14.5px; color:var(--ink-2); line-height:1.55;
+    border-top:none; padding:2px 12px 14px; background:transparent}
+  td.prop{font-weight:600; color:var(--accent); white-space:nowrap}
+  .py{display:block; font-family:"IBM Plex Sans",sans-serif; font-size:11px;
+    color:var(--ink-3); font-weight:400; letter-spacing:.02em}
+  .lab{display:inline-block; font-family:"IBM Plex Sans",sans-serif; font-size:9.5px;
+    letter-spacing:.1em; text-transform:uppercase; font-weight:600; color:var(--accent);
+    margin-right:8px; vertical-align:1px}
+  tr.rem i{font-style:italic; color:var(--ink)}
+  .stamp{font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--ink-3)}
+</style>
+
+</head>
+<body>
+<div class="wrap">
+<p class="eyebrow">Supplementary Material S1</p>
+<h1>Candidate readings of the Xiongnu record</h1>
+<p class="sub">Thirty-four readings of Chinese-transcribed Xiongnu names and titles as Turkic
+words, with the historical parallels that suggested each one. Supplied for the record; not
+offered as results.</p>
+<div class="byline">
+  <strong>Aziz M. Uluğ</strong><br>
+  Supplement to <em>Reading steppe names: what a transcription channel can and cannot recover
+  from the Chinese record of the Xiongnu</em><br>
+  <span class="stamp">S1 &middot; author_proposals.csv &middot; compiled 2026</span>
+</div>
+
+<h2 class="sec"><span class="n">S1.1</span><span class="t">What this file is</span></h2>
+<div class="col">
+  <p>Section 9 of the paper sets out what a proposed reading of a Xiongnu name has to survive
+  before it can be called a finding: the sense has to be attested in a source independent of the
+  comparison, the morphology has to be licensed by a suffix with the right distribution, and any
+  objection that can be tested has to be tested. One reading in this project meets that standard.
+  The thirty-three others do not.</p>
+  <p>They are here anyway. They were produced over the course of the work, they are the readings
+  the author actually finds attractive, and suppressing them would be its own kind of
+  dishonesty — a reader who has seen <span class="han">稽粥</span> written out as
+  <em>kei çuk</em> will hear Turkish <em>küçük</em> whether or not this file exists. What can be
+  done is to write them down, date them, label them, and put next to each one the reason it
+  occurred to the author, so that the reasoning is inspectable rather than implied.</p>
+  <p>Nothing in the paper depends on any row below. The measurements in §§5–8 — the channel
+  accuracies, the period-gap decomposition, the initial-consonant probe, the coda-spelling
+  count — were made without reference to these readings and do not change if every one of them
+  is rejected.</p>
+</div>
+
+<h2 class="sec"><span class="n">S1.2</span><span class="t">Why they are not in the paper</span></h2>
+<div class="col">
+  <p>Section 6.3 measures exactly the operation that produced this file — taking a reconstructed
+  reading and looking it up in a Turkic dictionary — against a null model built by resampling
+  Later Han syllables into pseudo-names. Across seven lexicons, from modern Turkish to the
+  <em>Codex Cumanicus</em>, between none and three names in thirty-six clear <em>p</em> ≤ 0.05.
+  At a one-in-twenty threshold, thirty-six coin flips give the same.</p>
+  <p>Doing the matching by hand does not improve on the algorithm. It makes it worse, and in a
+  way that is easy to state: a person cannot help preferring the reading that means something,
+  and that preference is precisely the selection effect the null exists to quantify. The
+  algorithm at least fails honestly. A paper that measured the unreliability of this operation
+  and then presented thirty-four of its outputs as discoveries would be incoherent.</p>
+  <p>So the two things are kept apart. The paper reports what can be measured. This file records
+  what was imagined while measuring it. Because it is supplementary, it does not carry the
+  paper's evidential standard and should not be read as though it did.</p>
+</div>
+
+<h2 class="sec"><span class="n">S1.3</span><span class="t">How the readings were produced</span></h2>
+<div class="col">
+  <p>Every row starts from the same two published inputs, neither of them model output. The
+  Chinese form is as the <em>Shiji</em>, <em>Hanshu</em> and <em>Hou Hanshu</em> write it. The
+  Later Han reading is Schuessler's, character by character. The third column simply respells that
+  reading in Turkish orthography, so that a reader who does not read phonetic notation can see
+  what is being claimed; it adds no information.</p>
+  <p>The fourth column is the author's. It is arrived at by hearing the third column as a Turkic
+  word or compound, usually with a vowel changed, sometimes with a consonant treated as lost, and
+  then looking for a historical parallel that would make such a name plausible for a steppe
+  ruler. The fifth column gives the sense that reading would carry. The note beneath each row
+  gives the parallel. Each entry below is set out in two parts: <em>Phonetics</em>, which walks the
+  Later Han reading to the proposed name character by character and says which of the steps are
+  ordinary correspondences and which are not; and <em>Reason</em>, which gives the word, its
+  attestation where it has one, and the naming parallel that suggested it.</p>
+  <p>Three habits of reasoning recur, and it is worth naming them because they are the file's
+  main weakness. The first is the epithet argument: later Turkic rulers are commonly named by a
+  common noun or a natural force — Bayezid I <em>Yıldırım</em> "the thunderbolt", Alp Arslan "the
+  lion", Mehmed IV <em>Avcı</em> "the hunter", Süleyman I <em>Kanunî</em> "the lawgiver" — so a
+  reading that yields such a noun is treated as more likely. The second is the career argument:
+  where the Chinese record says what a ruler did, a reading that names the deed is preferred.
+  The third is the compound argument: a long transcription is split into two or three Turkic
+  elements. Each of these makes a reading easier to reach, and none of them makes it more likely
+  to be right. They multiply the search space, which is the opposite of evidence.</p>
+</div>
+
+<h2 class="sec"><span class="n">S1.4</span><span class="t">The one exception, which is argued in the paper</span></h2>
+<div class="col">
+  <div class="box">
+    <p>The recurring element <span class="han">若鞮</span> <span class="ipa">ńɑk te</span>, which
+    closes the formal names of six later chanyu, is read <em>Inakt</em>, "the faithful ones". It
+    is in the paper as §9 rather than here, because it is supported differently from everything
+    else in this file:</p>
+    <ul>
+      <li>the <em>Hou Hanshu</em> glosses <span class="han">若鞮</span> as
+      <span class="han">孝</span> "filial" — the meaning is recorded in the source, not inferred
+      from a resemblance;</li>
+      <li><em>inak</em> is attested as <em>fidelis</em> "faithful" in the <em>Codex Cumanicus</em>
+      (Kuun 1880, p. 182), a medieval source with no connection to the Chinese record;</li>
+      <li>the morphology is licensed: <span class="ipa">-t</span> is an Old Turkic plural used
+      with titles (<em>tegin</em> → <em>tegit</em>, <em>tarqan</em> → <em>tarqat</em>), and the
+      competing <span class="ipa">-tI</span> reading was ruled out by counting — of 31 Cuman
+      headwords in <span class="ipa">-tI</span>, almost all are past-tense verbs;</li>
+      <li>the obvious objection to the spelling was tested and failed: if the source ended in
+      <span class="ipa">-t</span>, why did the scribe use the open character
+      <span class="han">鞮</span>? Because 30% of stop-final source syllables in the Sanskrit
+      corpus were written with an open character.</li>
+    </ul>
+    <p>One objection stands and is stated in the paper: if the source word was
+    <em>ınakt</em>, the initial <em>ı-</em> is not written, and <span class="han">若鞮</span> has
+    no room for it. It appears in the tables below inside the six compounds, so that this file can
+    be read as one list with the standard visible in it.</p>
+  </div>
+</div>
+
+<h2 class="sec"><span class="n">S1.5</span><span class="t">Why the decoder's output is not cited below</span></h2>
+<div class="col">
+  <p>The channel of §4 has a decoding step that will return a ranked list of readings for any
+  string in the record. None of those rankings is quoted in this file, and the reason is worth
+  stating, because the numbers look more informative than they are.</p>
+  <p>A character can be <em>reading-anchored</em>, meaning its emission distribution was learned
+  for that character specifically, or it can fall back to a table keyed on the Later Han
+  <strong>initial consonant class alone</strong>, discarding the vowel and the coda. Of the 39
+  items in the record, only five are reading-anchored throughout; 34 use backoff on at least one
+  character and nine use it on every character. The effect is that whole groups of characters share
+  one distribution:</p>
+</div>
+
+<div class="tablewrap">
+<table>
+  <thead><tr><th>Later Han initial class</th>
+  <th>Characters in the Xiongnu record<br>sharing one emission distribution</th>
+  <th>What the backoff table<br>returns for every one of them</th></tr></thead>
+  <tbody>
+    <tr><td>velar</td><td class="num">17 — 稽 渠 胡 湖 壺 戶 侯 姑 孤 骨 谷 韓 諧 皋 權 朐 徑</td>
+      <td class="num">ka 0.34, ga 0.15, ku 0.08</td></tr>
+    <tr><td>affricate</td><td class="num">6 — 且 粥 珠 臣 詹 郅</td>
+      <td class="num">ca 0.18, ja 0.10, cā 0.08</td></tr>
+    <tr><td>dental stop</td><td class="num">9 — 鞮 題 當 屠 撑 株 稚 脫 頓</td>
+      <td class="num">ta 0.23, da 0.11, ti 0.10</td></tr>
+    <tr><td>liquid</td><td class="num">6 — 廬 攣 祿 累 蠡 閭</td>
+      <td class="num">ra 0.37, la 0.17, rī 0.08</td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table S1</span>Because <span class="han">稽</span>
+<span class="ipa">kʰeiᴮ</span> and <span class="han">渠</span> <span class="ipa">gɨɑ</span> draw on
+the same row, and <span class="han">粥</span> <span class="ipa">tśuk</span> and
+<span class="han">且</span> <span class="ipa">tsɑᴮ</span> on another, an affricate-plus-velar string
+and a velar-plus-affricate string return mirror images of one table entry rather than anything
+specific to those characters. Two further limits apply: the scores are normalised over a retained
+beam, so they are relative rankings within it and not posteriors; and the syllable inventory is
+Sanskrit-derived, so <span class="ipa">q</span> and the front rounded vowels
+<span class="ipa">ö</span> and <span class="ipa">ü</span> cannot be produced at all — a reading
+containing ü is therefore not rejected by the decoder, it is unavailable to it. §6.2 of the paper
+makes the general point; this table is its mechanism.</p>
+
+<div class="col">
+  <p>What <em>is</em> cited in the entries below, where a spelling question arises, is the
+  initial-correspondence table of step 15: direct counts of which Chinese initial was used for which
+  source sound across the three corpora. Those are observations rather than model output, and they
+  are what the word "permitted" means wherever it appears in this file.</p>
+</div>
+
+<h2 class="sec"><span class="n">S1.6</span><span class="t">Chanyu, in order of reign</span></h2>
+<div class="tablewrap"><table>
+<thead><tr>
+<th>Form, as written<br>in the histories</th>
+<th>Later Han reading of those<br>characters (Schuessler)</th>
+<th>The same reading in<br>Turkish orthography</th>
+<th>Reading proposed<br>by the author</th>
+<th>Sense proposed<br>for that reading</th>
+</tr></thead><tbody>
+<tr><td class="han2">頭曼<span class="py">Touman</span></td><td class="num">do mɑnᶜ</td><td class="num">do man</td><td class="prop">Duman</td><td>dust cloud</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>頭 <i>do</i> → <i>du</i>: the initial is direct; o and u are not separable at the ~50% vowel recovery §7 reports. 曼 <i>mɑn</i> → <i>man</i>: exact, and the coda -n is written, because -n is one of the six codas the Chinese syllable can carry. One vowel change in two syllables. The rival reading <i>tümen</i> needs ü, which the Later Han script cannot write at all.<br><span class="lab">Reason</span><i>duman</i> / <i>tuman</i> / <i>touman</i> “smoke, fog, mist” is one word across Kāşgarî, the Codex Cumanicus and modern Turkish. The standard identification is <i>tümen</i> “ten thousand”, which is absent from the Cuman vocabulary entirely.</td></tr>
+<tr><td class="han2">稽粥<span class="py">Jizhou / Jiyu</span></td><td class="num">kʰeiᴮ tśuk</td><td class="num">kei çuk</td><td class="prop">Kiçük</td><td>the younger</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>稽 <i>kʰei</i> → <i>ki</i>: an aspirated velar is the ordinary vehicle for a source k, and the diphthong <i>ei</i> for <i>i</i> is routine. 粥 <i>tśuk</i> → <i>çük</i>: tś- is the default character class for a source affricate (37% in the Sanskrit corpus), and the coda -k is actually written — the strongest part of the reading, since a stop coda goes unwritten 30% of the time. Only ü is unavailable and surfaces as u.<br><span class="lab">Reason</span><i>kiçig / kiçik / kiçük</i> “small, younger” is attested three times independently: Kāşgarî has <i>kiçik</i> and <i>kiçük</i> with the derivative <i>kiçiglik</i>, the <i>Kutadgu Bilig</i> has <i>kiçig oğlan erken</i> “when he was a small boy” (1823), and the Codex has <i>Kečak</i> glossed <i>paucus</i>. 稽粥 is the personal name of Laoshang chanyu, Modu's son and successor, so “the younger” fits the succession the Chinese sources record.</td></tr>
+<tr><td class="han2">軍臣<span class="py">Junchen</span></td><td class="num">kun dźin</td><td class="num">kun cin</td><td class="prop">Künçin</td><td>bright as the sun</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>軍 <i>kun</i> → <i>kün</i>: initial and coda direct; ü is unwritable and surfaces as u. 臣 <i>dźin</i> → <i>çin</i>: dź is the voiced partner of tś, and voicing is leaky in both directions in every corpus measured, so a source ç is reachable through it; the -n coda is written.<br><span class="lab">Reason</span><i>kün</i> “sun, day”. The Seljuk regnal names Kaykhusraw and Kayqubad carry an association of royal solar radiance through their <i>kay-</i> element.</td></tr>
+<tr><td class="han2">詹師廬<span class="py">Zhanshilu</span></td><td class="num">tśam ṣi liɑ</td><td class="num">çam şi lia</td><td class="prop">Çamşılı</td><td>dazzling, radiant</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>詹 <i>tśam</i> → <i>çam</i>: tś- is the default affricate spelling and the -m coda is written. 師 <i>ṣi</i> → <i>şı</i>: the retroflex sibilant is the standard vehicle for ş. 廬 <i>liɑ</i> → <i>lı</i>: note that Chinese l- also carries source r- — in step 15 an r- was written l- in 12 of 14 attestations — so this syllable is genuinely ambiguous between -lı and -rı.<br><span class="lab">Reason</span>The same solar association proposed for <i>Künçin</i>, from a stem of shining or dazzling.</td></tr>
+<tr><td class="han2">呴犁湖<span class="py">Xulihu / Goulihu</span></td><td class="num">huo lei gɑ</td><td class="num">huo lei ga</td><td class="prop">Kalık</td><td>sky, heaven</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>呴 <i>huo</i> → <i>ka</i>, 犁 <i>lei</i> → <i>lı</i>, 湖 <i>gɑ</i> → <i>k</i>: three onsets, each taken from the majority correspondence, with nothing inserted and no coda discarded. The velar class covers h-, k- and g- alike, so the first and third syllables cost nothing.<br><span class="lab">Reason</span>Kāşgarî glosses <i>kalık</i> “hava, gök, sema” — air, sky, heaven. The word belongs to the same semantic field as 撑犁, the one Xiongnu term the Chinese sources gloss (天 “heaven”), so a ruler bearing it would not be isolated in the record. A second exact fit, <i>kılık</i> “disposition, manner”, is available if the sky reading is thought too convenient.</td></tr>
+<tr><td class="han2">伊稚斜<span class="py">Yizhixie</span></td><td class="num">ʔi ḍiᶜ ja</td><td class="num">’i di ya</td><td class="prop">İdiya</td><td>master</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>伊 <i>ʔi</i> → <i>i</i>: a glottal onset is the standard way to write a vowel-initial syllable. 稚 <i>ḍi</i> → <i>di</i>: retroflex ḍ for d is routine. 斜 <i>ja</i> → <i>ya</i>: this character class emits <i>ya</i> more strongly than any other single-syllable correspondence in the record. All three steps are default.<br><span class="lab">Reason</span><i>idi</i> “lord, master”, attested in Old Turkic. Compare Murad I's epithet <i>Hüdavendigâr</i>, “the sovereign”, a title of the same shape and force.</td></tr>
+<tr><td class="han2">烏維<span class="py">Wuwei</span></td><td class="num">ʔɑ wi</td><td class="num">’a vi</td><td class="prop">Abı</td><td>one who hunts or stalks</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>烏 <i>ʔɑ</i> → <i>a</i>: vowel-initial, direct. 維 <i>wi</i> → <i>bı</i> is the weak step: the Chinese character carries a w-, and while Turkic b- and w- alternate, the transcription reads more naturally as <i>avı</i> than <i>abı</i>. This is one of only five items in the record decoded entirely from character-specific evidence, so the mismatch cannot be attributed to a gap in the data.<br><span class="lab">Reason</span><i>av</i> “hunt”, <i>avcı</i> “hunter”. <i>Avcı</i> names an occupation; <i>abı</i> is proposed as naming a trait. <i>Avcı</i> is also the epithet of Mehmed IV.</td></tr>
+<tr><td class="han2">且鞮侯<span class="py">Qiedihou</span></td><td class="num">tsɑᴮ te go</td><td class="num">tsa te go</td><td class="prop">Çatıgka</td><td>one ready for the clash</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>且 <i>tsɑ</i> → <i>ça</i>: ts- for a source affricate is a minority spelling but a real one, 15% in the Sanskrit corpus and 9% in Ligeti. 鞮 <i>te</i> → <i>tı</i>: direct. 侯 <i>go</i> → <i>gka</i> asks a single Chinese syllable to carry a consonant cluster it structurally cannot, so the reading adds material the transcription does not have.<br><span class="lab">Reason</span><i>çat-</i> “to strike together, to clash”. Compare Selçuk Bey, whose name has been read as “perpetually ready for the fight”.</td></tr>
+<tr><td class="han2">狐鹿姑<span class="py">Hulugu</span></td><td class="num">ɣuɑ lok kɑ</td><td class="num">ğua lok ka</td><td class="prop">Kurluga</td><td>the encloser, the binder</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>姑 <i>kɑ</i> → <i>ga</i> is well supported by the velar correspondence. The other two syllables are not: 狐 <i>ɣuɑ</i> → <i>kur</i> supplies an -r that Later Han has no coda slot for, and 鹿 <i>lok</i> → <i>lu</i> discards a coda that was written. Adding an unwritable segment and dropping a written one in the same word pulls in opposite directions.<br><span class="lab">Reason</span>狐鹿姑 captured the Han general Li Guangli and held the confederation together through a hard decade, so an epithet of binding fits the record. Compare the Göktürk ruler Kapgan Kagan, <i>kapgan</i> “the encloser”.</td></tr>
+<tr><td class="han2">壺衍鞮<span class="py">Huyandi</span></td><td class="num">gɑ janᴮ te</td><td class="num">ga yan te</td><td class="prop">Kayantı</td><td>avalanche</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>壺 <i>gɑ</i> → <i>ka</i>: given a Later Han voiced g-, the source sound is more often k than g, so the devoicing is normal rather than a liberty. 衍 <i>jan</i> → <i>yan</i>: direct, coda written. 鞮 <i>te</i> → <i>tı</i>: direct. All three steps are default or better — phonetically one of the cleaner readings here.<br><span class="lab">Reason</span><i>kay-</i> “to slide, to slip away”. Parallel in sense to Bayezid I's <i>Yıldırım</i>: a natural force taken as a regnal epithet.</td></tr>
+<tr><td class="han2">虛閭權渠<span class="py">Xulüquanqu</span></td><td class="num">kʰɨɑ liɑ gyan gɨɑ</td><td class="num">kıa lia gyan gıa</td><td class="prop">Kalkan</td><td>shield</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>虛 <i>kʰɨɑ</i> → <i>ka</i>, 閭 <i>liɑ</i> → <i>l</i>, 權 <i>gyan</i> → <i>kan</i>: the first three characters match exactly, including the written -n coda, at zero minority steps. Only 渠 <i>gɨɑ</i> is left unaccounted for, and it may carry a separate title element.<br><span class="lab">Reason</span><i>kalkan</i> “shield” is in Kāşgarî and in the Codex Cumanicus as <i>Kalkani</i>, “scutum ejus”. A weapon or armour name is an ordinary steppe formation, and it needs no compound to be read.</td></tr>
+<tr><td class="han2">握衍朐鞮<span class="py">Woyanqudi</span></td><td class="num">ʔɔk janᴮ guo te</td><td class="num">’ok yan guo te</td><td class="prop">Okyan Kutuğtı</td><td>blessed sovereign of the arrow flank</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>握 <i>ʔɔk</i> → <i>ok</i> is exact, with the -k coda written, and 衍 <i>jan</i> → <i>yan</i> and 鞮 <i>te</i> → <i>tı</i> are direct. The weak point is 朐 <i>guo</i> → <i>kutuğ</i>, which expands one Chinese syllable into two Turkic ones; nothing in the corpora licenses that expansion.<br><span class="lab">Reason</span><i>ok</i> “arrow” doubles as a division of the confederation in later Turkic usage — the <i>On Ok</i>, “ten arrows”, of the Western Turks — which is what makes a territorial reading available. <i>kut</i> is “heavenly favour, fortune”.</td></tr>
+<tr><td class="han2">呼韓邪<span class="py">Huhanye</span></td><td class="num">hɑ gɑn ja</td><td class="num">ha gan ya</td><td class="prop">Kaganya</td><td>kagan of the flank</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>呼 <i>hɑ</i> → <i>ka</i>: an h/k substitution, which the Mongolian corpus supports strongly (a source k or q was written with an h- character 27% of the time). 韓 <i>gɑn</i> → <i>gan</i>: exact, coda written. 邪 <i>ja</i> → <i>ya</i>: the strongest single correspondence in the record. The written sequence <i>ha gan ya</i> becomes <i>ka-gan-ya</i> on one change.<br><span class="lab">Reason</span>呼韓邪 commanded the left flank before becoming ruler, so the Chinese record itself supplies the office that the reading names.</td></tr>
+<tr><td class="han2">郅支<span class="py">Zhizhi</span></td><td class="num">tśit tśe</td><td class="num">çit çe</td><td class="prop">Çitçi</td><td>border-maker, one who carves the boundary</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>郅 <i>tśit</i> → <i>çit</i>: tś- is the default affricate vehicle and the -t coda is written. 支 <i>tśe</i> → <i>çi</i>: default. Both syllables use the majority correspondence and neither requires an inserted or deleted segment.<br><span class="lab">Reason</span><i>çit</i> / <i>çiz-</i>, of marking or carving a boundary. 郅支 broke away westward and set up a rival seat, so a name of division fits the career — though it is equally possible that the career suggested the name.</td></tr>
+</tbody></table></div>
+<p class="cap"><span class="tnum">Table S2</span>The fourteen rulers whose names are not built on the recurring element 若鞮. Reign order follows the <em>Shiji</em> and <em>Hanshu</em> as reproduced in Appendix A of the paper.</p>
+
+<h2 class="sec"><span class="n">S1.7</span><span class="t">The six <span class="han">若鞮</span> compounds</span></h2>
+<div class="tablewrap"><table>
+<thead><tr>
+<th>Form, as written<br>in the histories</th>
+<th>Later Han reading of those<br>characters (Schuessler)</th>
+<th>The same reading in<br>Turkish orthography</th>
+<th>Reading proposed<br>by the author</th>
+<th>Sense proposed<br>for that reading</th>
+</tr></thead><tbody>
+<tr><td class="han2">復株累若鞮<span class="py">Fuzhulei Ruodi</span></td><td class="num">buk ṭio lui ńɑk te</td><td class="num">buk tio lui nyak te</td><td class="prop">Büktel Inakt</td><td>Büktel, of the Inakt</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>復株累 <i>buk ṭio lui</i> → <i>büktel</i>: the b-, the -k coda, the dental and the liquid all fall in place across the three characters, at zero minority steps, with only the front rounded vowel unwritable. One attested word covers the whole prefix rather than an invented two-element compound. 若鞮 → <i>Inakt</i> is treated in §S1.4.<br><span class="lab">Reason</span>Kāşgarî gives <i>büktel</i> as “orta boylu; yassı arkalı, oturamaklı” — of middling height and flat-backed. A name from a bodily description is a well-attested Turkic type; compare the Hungarian royal name <i>Şişman</i>.</td></tr>
+<tr><td class="han2">搜諧若鞮<span class="py">Souxie Ruodi</span></td><td class="num">so gɛi ńɑk te</td><td class="num">so gei nyak te</td><td class="prop">Kemiş-Ok Inakt</td><td>Arrow of Tribute, of the Inakt</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>The two elements before 若鞮 are not derivable from the transcription by any correspondence in the corpora: 搜 <i>so</i> → <i>kemiş</i> would require an s- character to carry k-m-ş, and 諧 <i>gɛi</i> → <i>ok</i> would require a velar-initial character to yield a vowel-initial syllable. This reading rests on the sense rather than on the spelling.<br><span class="lab">Reason</span><i>kemiş</i> of offering or casting, with <i>ok</i> “arrow” as the division element seen in the other compounds.</td></tr>
+<tr><td class="han2">車牙若鞮<span class="py">Cheya Ruodi</span></td><td class="num">tśʰa ŋa ńɑk te</td><td class="num">ça nga nyak te</td><td class="prop">Çöge-Ok Inakt</td><td>Arrow of High Eminence, of the Inakt</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>車 <i>tśʰa</i> → <i>çöge</i>: the aspirated affricate is a good vehicle for ç, but ö is unwritable and a second syllable is added. 牙 <i>ŋa</i> → <i>ok</i>: a velar-nasal initial standing for a vowel-initial syllable is unsupported.<br><span class="lab">Reason</span><i>çöge</i> of height or eminence, with the same <i>ok</i> element.</td></tr>
+<tr><td class="han2">烏珠留若鞮<span class="py">Wuzhuliu Ruodi</span></td><td class="num">ʔɑ tśo liu ńɑk te</td><td class="num">’a ço liu nyak te</td><td class="prop">Çal Inakt</td><td>the grey or dappled one, of the Inakt</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>烏 <i>ʔɑ</i> is vowel-initial, so the reading begins at 珠 <i>tśo</i> → <i>ç</i>, with 留 <i>liu</i> → <i>l</i>: an affricate written with the default tś- character and a liquid, both majority correspondences. Nothing is inserted, and no character is read as a consonant it does not carry.<br><span class="lab">Reason</span><i>çal</i> is “alaca, kır” in Kāşgarî — dappled, grey. Colour epithets are a persistent Turkic naming pattern, as <i>çakır</i> “grey-eyed” shows in the same dictionary.</td></tr>
+<tr><td class="han2">烏累若鞮<span class="py">Wulei Ruodi</span></td><td class="num">ʔɑ lui ńɑk te</td><td class="num">’a lui nyak te</td><td class="prop">Uluğ Inakt</td><td>the Great, of the Inakt</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>烏 <i>ʔɑ</i> → <i>u</i>: a glottal-onset character is the standard way to write a vowel-initial syllable. 累 <i>lui</i> → <i>lu</i>: a liquid, direct. Two characters, two segments, nothing supplied that the transcription does not carry.<br><span class="lab">Reason</span>The Codex Cumanicus glosses <i>Oulu</i> as <i>magnus</i>. <i>Uluğ</i> “great” is among the most common elements in Turkic titulature, which is both the strength of this reading and its weakness: a very common word is an easy target to hit.</td></tr>
+<tr><td class="han2">呼都而尸道皋若鞮<span class="py">Huduershi Daogao Ruodi</span></td><td class="num">hɑ tɑ ńə śi douᴮ kou ńɑk te</td><td class="num">ha ta nyı şi dou kou nyak te</td><td class="prop">Öz-Uluğ Inakt</td><td>Great Core, of the Inakt</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>Eight characters, and correspondingly the least constrained reading in the file: the longer the string, the more ways there are to split it into Turkic elements, and the split itself is doing most of the work rather than any individual correspondence. 呼 <i>hɑ</i> → <i>öz</i> and 皋 <i>kou</i> → <i>uluğ</i> are the two largest jumps.<br><span class="lab">Reason</span><i>öz</i> “self, core” and <i>uluğ</i> “great”, both common Old Turkic elements in titulature.</td></tr>
+</tbody></table></div>
+<p class="cap"><span class="tnum">Table S3</span>Six later chanyu whose formal names end in 若鞮. Only the shared element is argued for in the paper; the material preceding it in each name is a proposal like any other in this file.</p>
+
+<h2 class="sec"><span class="n">S1.8</span><span class="t">The ruling clan name, in its two written forms</span></h2>
+<div class="tablewrap"><table>
+<thead><tr>
+<th>Form, as written<br>in the histories</th>
+<th>Later Han reading of those<br>characters (Schuessler)</th>
+<th>The same reading in<br>Turkish orthography</th>
+<th>Reading proposed<br>by the author</th>
+<th>Sense proposed<br>for that reading</th>
+</tr></thead><tbody>
+<tr><td class="han2">攣鞮<span class="py">Luandi</span></td><td class="num">lyan te</td><td class="num">lyan te</td><td class="prop">El-indi</td><td>state founder</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>攣 <i>lyan</i> → <i>el</i> moves the liquid from the onset of the Chinese syllable to the coda of the Turkic one; no corpus shows that kind of metathesis. 鞮 <i>te</i> → <i>indi</i> expands one syllable into two. The reading is driven by the sense rather than by the transcription.<br><span class="lab">Reason</span><i>el</i> “realm, state” with the definite past in <i>-di</i>: literally “he founded the realm”. This is the clan name as the <i>Shiji</i> and <i>Hanshu</i> write it.</td></tr>
+<tr><td class="han2">虛連題<span class="py">Xulianti</span></td><td class="num">kʰɨɑ lianᴮ de</td><td class="num">kıa lian de</td><td class="prop">Kıyalığ El-indi</td><td>state founder of the rocky region</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>虛 <i>kʰɨɑ</i> → <i>kıya</i> is reachable. 連 <i>lianᴮ</i> → <i>lığ</i> adds an unwritten coda, and 題 <i>de</i> → <i>el-indi</i> carries a whole two-syllable word on one character. Three characters are being asked to yield five syllables.<br><span class="lab">Reason</span>The same clan name as 攣鞮, in the form the <i>Hou Hanshu</i> gives, with the <i>kaya</i> element recurring from 虛閭權渠.</td></tr>
+</tbody></table></div>
+<p class="cap"><span class="tnum">Table S4</span>攣鞮 in the <em>Shiji</em> and <em>Hanshu</em>, 虛連題 in the <em>Hou Hanshu</em>. Both are taken here as the same name, which is the usual view.</p>
+
+<h2 class="sec"><span class="n">S1.9</span><span class="t">Titles and lexical items</span></h2>
+<div class="tablewrap"><table>
+<thead><tr>
+<th>Form, as written<br>in the histories</th>
+<th>Later Han reading of those<br>characters (Schuessler)</th>
+<th>The same reading in<br>Turkish orthography</th>
+<th>Reading proposed<br>by the author</th>
+<th>Sense proposed<br>for that reading</th>
+</tr></thead><tbody>
+<tr><td class="han2">單于<span class="py">chanyu</span></td><td class="num">dźan wɑ</td><td class="num">can va</td><td class="prop">Kan Apa</td><td>senior ruler, elder ruler</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>單 <i>dźan</i> → <i>kan</i> is the weak step: a voiced affricate standing for a velar stop is not a correspondence any of the three corpora show. 于 <i>wɑ</i> → <i>apa</i> expands one syllable into two. This is one of the five items decoded entirely from character-specific evidence, which makes the mismatch harder to attribute to sparse data.<br><span class="lab">Reason</span><i>apa</i> “elder, ancestor” is attested in Old Turkic titulature. This is the central title of the whole record and the most contested: readings from three language families have been proposed for it.</td></tr>
+<tr><td class="han2">撑犁<span class="py">chengli</span></td><td class="num">ḍaŋ lei</td><td class="num">dang lei</td><td class="prop">Tanglı</td><td>bearing divine light; sacred</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>撑 <i>ḍaŋ</i> → <i>tang</i>: retroflex ḍ for t is routine and the -ŋ coda is written. 犁 <i>lei</i> → <i>lı</i>: direct. Both steps are default. The same two syllables equally support <i>tengri</i>, which the Chinese gloss 天 and the lexicon search of §6.3 both favour — Kāşgarî returns it 4th, the Codex 2nd.<br><span class="lab">Reason</span><i>tang</i> of dawn or light, read as “bearing divine light; sacred”. Offered as an alternative to the standard identification with <i>tengri</i>, not as an improvement on it.</td></tr>
+<tr><td class="han2">當戶<span class="py">danghu</span></td><td class="num">tɑŋ gɑᴮ</td><td class="num">tang ga</td><td class="prop">Tanga</td><td>Siberian tiger or leopard</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>當 <i>tɑŋ</i> → <i>tan</i>: direct, with the -ŋ coda written and simply read as -n. 戶 <i>gɑ</i> → <i>ga</i>: direct. Phonetically the least demanding reading in the file after 服匿 — nothing is inserted and nothing unwritable is required.<br><span class="lab">Reason</span><i>tonga</i> “Siberian tiger, leopard”, the word in the name of the hero of the Alp Er Tunga epic. Big-cat epithets are a persistent Turkic pattern: Alp Arslan (<i>arslan</i>, lion), Baybars (<i>bars</i>, a large cat).</td></tr>
+<tr><td class="han2">閼氏<span class="py">yanzhi / ezhi</span></td><td class="num">ʔɑt dźeᴮ</td><td class="num">’at ce</td><td class="prop">Ece</td><td>queen</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>閼 <i>ʔɑt</i> → <i>e</i>: a vowel-initial character, but with a -t coda that is written and that the reading discards. 氏 <i>dźeᴮ</i> → <i>ce</i>: direct. Another of the five fully character-anchored items, so the discarded -t is a real cost rather than an artefact.<br><span class="lab">Reason</span><i>ece</i> “queen”, which survives in modern Turkish with roughly this sense. 閼氏 is the title of the chanyu's principal consort.</td></tr>
+<tr><td class="han2">骨都侯<span class="py">guduhou</span></td><td class="num">kuət tɑ go</td><td class="num">kuıt ta go</td><td class="prop">Kutak</td><td>the blessed one</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>骨 <i>kuət</i> → <i>kut</i>: default velar onset with the -t coda written — the tightest single syllable in this file. 都 <i>tɑ</i> then begins with the same dental, and step 22 measures what that means: at a junction where a written coda is followed by the same-place onset, the source word carries that consonant once rather than twice in 121 of 140 cases (86%). So 骨都 transcribes <i>kuta</i>, not <i>kutta</i>. 侯 <i>go</i> → <i>-k</i> closes it, a Later Han voiced g- standing for a source k more often than for a source g.<br><span class="lab">Reason</span><i>kut</i> is “kut, uğur, devlet, baht, talih, saadet” in Kāşgarî — heavenly favour, fortune, sovereign grace — and Clauson records the verb <i>kutad-</i> “to be blessed”, the stem behind the <i>Kutadgu Bilig</i>. <i>Kutak</i> itself is <b>not attested</b>: it would be a deverbal or diminutive formation in -(A)k on that stem, which is a live suffix but not one witnessed on this word. Compare Murad I's <i>Hüdavendigâr</i> and <i>Qutalmış</i>, ancestor of the Seljuks of Rum. Note also that <i>kut</i> is the Turkic candidate for 孤塗, where the Chinese gloss 子 “son” fits the Yeniseian proposal better and not this one.</td></tr>
+<tr><td class="han2">且渠<span class="py">juqu</span></td><td class="num">tsɑᴮ gɨɑ</td><td class="num">tsa gıa</td><td class="prop">Çaka</td><td>the striker; from çak- ‘to strike fire, to strike a blow’</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>且 <i>tsɑᴮ</i> → <i>ça</i>: ts- for a source affricate is a minority spelling but an attested one — 15% in the Sanskrit corpus, 9% in Ligeti — against a tś- character as the default at 37%. 渠 <i>gɨɑ</i> → <i>ka</i>: a Later Han voiced g- stands for a foreign k more often than for a foreign g. Both steps are permitted by the measured correspondences.<br><span class="lab">Reason</span><i>çak-</i> “to strike fire from flint, to sting, to slander”, which Clauson describes as onomatopoeic in character and of violent action, physical or mental. No <i>çaka</i> headword exists in Kāşgarî, the Codex or Clauson — only the verb and its derivatives <i>çakmak</i>, <i>çakır</i>, <i>çakılmak</i> — so <i>Çaka</i> would have to be the -A converb of that stem, and a bare converb serving as an office title is not a demonstrable pattern. The 11th-century emir Çaka Bey of Smyrna (Byzantine Τζαχᾶς, <i>fl.</i> 1081–93) shows that <i>çak-</i> could yield a personal name, but that is a personal name set against a title. The Chinese sources do not record what the office of 且渠 did, so no sense can be tested against a gloss.</td></tr>
+<tr><td class="han2">徑路<span class="py">jinglu</span></td><td class="num">keŋᶜ lɑᶜ</td><td class="num">keng la</td><td class="prop">Kıngrak</td><td>a large cleaver-like knife</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>徑 <i>keŋᶜ</i> → <i>kıng</i>: default velar onset with the -ŋ coda written. 路 <i>lɑᶜ</i> → <i>ra</i>: a Chinese l- for a source r-, which step 15 shows is the ordinary direction — a source r- was written l- in 12 of 14 attestations. The final -k of the Turkic word is not written, and step 20 licenses that: 30% of stop-final source syllables were spelled with an open character.<br><span class="lab">Reason</span><b>This reading is not the author's.</b> The comparison of 徑路 with Turkic <i>kıŋrak</i> is already in the literature, where it is described as speculative; it entered this project during the corpus build, recorded as cited and unverified. What is new here is that it can be tested, and it survives. Kāşgarî glosses <i>kıñrak</i> as “et ve hamur kesilen satıra benzer büyük bıçak” — a large knife resembling a cleaver — and the Chinese sources independently describe 徑路 as a Xiongnu blade used in oath-taking (the 徑路刀). Two sources with no contact agree about what the object is, which is a stronger kind of agreement than a sound match. A word of identical shape, <i>kañrak</i> “palate”, fits the transcription equally well and is excluded only by the referent. §9.1 of the paper sets this out; the original publication of the comparison still has to be traced.</td></tr>
+<tr><td class="han2">服匿<span class="py">funi</span></td><td class="num">buk ṇɨk</td><td class="num">buk nık</td><td class="prop">Buknik</td><td>clay jar (küp)</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>服 <i>buk</i> → <i>buk</i>: exact, including the written -k coda. 匿 <i>ṇɨk</i> → <i>nik</i>: retroflex ṇ for n is routine and the second -k is also written. This is the closest fit to its own transcription of anything in this file — no segment inserted, none discarded.<br><span class="lab">Reason</span>A clay jar (Turkish <i>küp</i>). One of the few Xiongnu material terms the Chinese sources preserve, which is what makes it worth a reading at all.</td></tr>
+<tr><td class="han2">甌脫<span class="py">outuo</span></td><td class="num">ʔo tʰuɑt</td><td class="num">’o tuat</td><td class="prop">Otuyat</td><td>the border watchtowers</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>甌 <i>ʔo</i> → <i>o</i>: vowel-initial, direct. 脫 <i>tʰuɑt</i> → <i>tuyat</i>: the aspirated t- is direct and the -t coda is written; the only addition is the medial -y-.<br><span class="lab">Reason</span>The border watchtowers, or the empty zone between Xiongnu and Han territory, for which the Chinese sources use 甌脫.</td></tr>
+<tr><td class="han2">胡祿<span class="py">hulu</span></td><td class="num">gɔ lok</td><td class="num">go lok</td><td class="prop">Külük</td><td>glorious</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>胡 <i>gɔ</i> → <i>kü</i>: the devoicing is normal, since a Later Han voiced g- stands for a foreign k more often than for a foreign g, but ü cannot be written and surfaces as o. 祿 <i>lok</i> → <i>lük</i>: the -k coda is written. The consonant frame k–l–k is secure; only the vowels are free.<br><span class="lab">Reason</span><i>külüg</i> “famous, renowned”, an Old Turkic epithet of praise.</td></tr>
+</tbody></table></div>
+<p class="cap"><span class="tnum">Table S5</span>The titles and the handful of common nouns the Chinese histories preserve. The lexical items are the more interesting group because some of them are glossed in the source, which means a proposal about them can in principle be checked.</p>
+
+<h2 class="sec"><span class="n">S1.10</span><span class="t">Ethnonyms</span></h2>
+<div class="tablewrap"><table>
+<thead><tr>
+<th>Form, as written<br>in the histories</th>
+<th>Later Han reading of those<br>characters (Schuessler)</th>
+<th>The same reading in<br>Turkish orthography</th>
+<th>Reading proposed<br>by the author</th>
+<th>Sense proposed<br>for that reading</th>
+</tr></thead><tbody>
+<tr><td class="han2">匈奴<span class="py">Xiongnu</span></td><td class="num">huoŋ nɑ</td><td class="num">huong na</td><td class="prop">Hung</td><td>the ethnonym, from the first character alone</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>匈 <i>huoŋ</i> → <i>hung</i>: direct, with the -ŋ coda written. 奴 <i>nɑ</i> is discarded rather than read, on the assumption that 奴 “slave” is a Chinese pejorative appended to the name rather than part of it.<br><span class="lab">Reason</span>Dropping 奴 is a common move in the literature and is not original here; what is proposed is only the vocalisation of the remaining syllable.</td></tr>
+<tr><td class="han2">羯<span class="py">Jie</span></td><td class="num">kɨat</td><td class="num">kıat</td><td class="prop">Kıyat</td><td>floods</td></tr>
+<tr class="rem"><td colspan="5"><span class="lab">Phonetics</span>A single character. 羯 <i>kɨat</i> → <i>kıyat</i>: the k- is default and the -t coda is written, so the consonant frame k…t is secure and only the medial glide is free. Fully character-anchored.<br><span class="lab">Reason</span><i>kıyat</i>, of flooding. The Jie are recorded as a group within or beside the Xiongnu; the reading is offered for the ethnonym only.</td></tr>
+</tbody></table></div>
+<p class="cap"><span class="tnum">Table S6</span>Group names rather than personal names, and subject to a further difficulty: a Chinese exonym need not transcribe anything the group called itself.</p>
+<h2 class="sec"><span class="n">S1.11</span><span class="t">How to disagree</span></h2>
+<div class="col">
+  <p>The repository includes <code>src/lookup_lexicons.py</code>, which searches Kāşgarî's
+  <em>Dīwān</em>, the <em>Codex Cumanicus</em> and any EPUB lexicon placed beside them, folding the
+  spelling conventions that separate Turcological from Turkish orthography (q ≡ k, ñ ≡ ng, ş ≡ s,
+  ı ≡ i). Type any proposed form into it and see what the medieval sources actually have. That is
+  how the <em>Codex</em> attestation for <em>inak</em> was found, and how the
+  <span class="ipa">-tI</span> count that ruled out the competing suffix was made.</p>
+  <p>A reader who wants to dispose of a row below should find that easier than the author did.
+  The useful form of disagreement is not "this is unlikely" — most of them are — but "this word is
+  not attested before date X", or "this suffix does not attach to that stem", or "the Chinese
+  character cannot carry that coda". Those are the objections that would move something out of
+  this file, in either direction.</p>
+</div>
+
+<h2 class="sec"><span class="n">S1.12</span><span class="t">Status</span></h2>
+<div class="col">
+  <div class="box warn">
+    <p>Every reading in Tables S2–S6 carries the same label in the machine-readable file:
+    <em>author's proposal; not supported by any measurement in the paper</em>. That label is the
+    honest summary of all thirty-three, and it is not weakened by the fact that some of them are
+    more attractive than others. The one reading with a different status,
+    <span class="han">若鞮</span> → <em>Inakt</em>, is argued in §9 of the paper and summarised
+    in §S1.4 above.</p>
+  </div>
+</div>
+
+<h2 class="sec"><span class="n">S1.13</span><span class="t">Sources referred to in this supplement</span></h2>
+<ol class="refs">
+  <li>Clauson, G. (1972). <em>An Etymological Dictionary of Pre-Thirteenth-Century Turkish</em>. Oxford: Clarendon Press.</li>
+  <li>Erdal, M. (2004). <em>A Grammar of Old Turkic</em>. Leiden: Brill.</li>
+  <li>Golden, P. B. (1992). <em>An Introduction to the History of the Turkic Peoples</em>. Wiesbaden: Harrassowitz.</li>
+  <li>Kāşgarlı Mahmud (1072–77). <em>Dīwān Lughāt al-Turk</em>. Index volume (<em>Dizin</em>), Türk Dil Kurumu Yayınları.</li>
+  <li>Kuun, G., ed. (1880). <em>Codex Cumanicus Bibliothecæ ad Templum Divi Marci Venetiarum</em>. Budapest: Editio Scient. Academiæ Hung.</li>
+  <li>Schuessler, A. (2009). <em>Minimal Old Chinese and Later Han Chinese</em>. Honolulu: University of Hawai'i Press.</li>
+  <li>Uluğ, A. M. (2026). <em>chinese-transcription-channel</em> [software and data]. github.com/ulug2004/chinese-transcription-channel</li>
+</ol>
+</div>
+
+</body>
+</html>

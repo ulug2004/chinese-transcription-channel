@@ -1,0 +1,28 @@
+==========================================================================
+ STEP 20 — how a source coda was spelled in Chinese
+==========================================================================
+
+--------------------------------------------------------------------------
+ SANSKRIT — Later Han transcriptions, the layer that matters
+ 770 of 1017 pairs had a 1:1 character-to-syllable alignment
+--------------------------------------------------------------------------
+  source syllable ends -p   n=10    same coda 2 (20%)   OPEN character 2 (20%)
+  source syllable ends -t   n=53    same coda 28 (53%)   OPEN character 15 (28%)
+  source syllable ends -k   n=21    same coda 10 (48%)   OPEN character 8 (38%)
+  source syllable ends -m   n=23    same coda 12 (52%)   OPEN character 4 (17%)
+  source syllable ends -n   n=93    same coda 77 (83%)   OPEN character 12 (13%)
+  source syllable ends -ŋ   n=22    same coda 16 (73%)   OPEN character 2 (9%)
+
+  ALL STOP CODAS: n=84 — closed with the same stop 40 (48%), written with an OPEN character 25 (30%)
+
+  (the remaining 19 went to some other coda)
+
+  VERDICT for 若鞮: an open character after a stop-final source
+  syllable happens in roughly 30% of cases here — common, not
+  exceptional. So 鞮 *te following *inak- is an ordinary spelling,
+  and the objection that a scribe 'would have closed the syllable'
+  does not hold: often he did not. Compare the nasals in the rows
+  above, which were closed far more consistently — the same split
+  step 14 found between nasal and stop codas across the period gap.
+
+==========================================================================

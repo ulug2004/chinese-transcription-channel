@@ -1,0 +1,42 @@
+================================================================
+ STEP 1 - build the transcription training set
+================================================================
+
+Loading phonology:
+  LHantab.tsv: 7661 characters with Later Han readings
+  Unihan.zip: 15424 characters have a variant form
+
+Loading NTI dictionary:
+  buddhist_terminology.txt: 18216 entries
+  buddhist_named_entities.txt: 8894 entries
+  total: 27110
+
+Entries carrying a Sanskrit form: 9619
+Entries the dictionary itself tags POS='phonetic': 175
+
+----------------------------------------------------------------
+ Classification (phonetic verification against Later Han)
+----------------------------------------------------------------
+  transcription (音譯) :   1017   <-- TRAINING SET
+  ambiguous            :   1122   <-- manual review
+  calque        (意譯) :   7480   <-- excluded
+
+Recall on the dictionary's own 175 'phonetic' entries: 172 (98.3%)
+Alignment of the training set: {'exact': 772, 'off_by_one': 244, 'length_mismatch': 1}
+
+Aksara table induced from the training set: 126 onsets, 845 character-onset pairs
+    k        <- 迦 俱 羯 伽 拘 緊 雞 計 髻 吉
+    r        <- 羅 利 盧 囉 樓 蘭 留 洛 婁 勒
+    m        <- 摩 曼 牟 蜜 莫 末 目 彌 忙 莽
+    (vowel)  <- 阿 優 伊 鬱 鄔 烏 鴦 哩 一 盎
+    t        <- 多 陀 提 底 怛 帝 天 兜 都 睹
+    p        <- 波 富 補 般 婆 鉢 毘 布 半 班
+
+Written to data/derived/:
+  nti_transcription_pairs.csv   1017 rows  <-- the training set
+  nti_ambiguous.csv             1122 rows
+  nti_calques_excluded.csv      7480 rows
+  aksara_table.csv              845 mappings
+
+NEXT: skim nti_ambiguous.csv (sorted best-first). The cut is phon_score>=0.75
+for exact alignments; raise it for higher precision, lower it for more data.

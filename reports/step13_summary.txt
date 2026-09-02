@@ -1,0 +1,48 @@
+========================================================================
+ STEP 13 - Chinese -> Turkic channel, trained in-domain
+========================================================================
+
+usable pairs                : 562
+distinct EFEO syllables     : 201
+observations per syllable   : 8.3
+
+split: 477 train / 85 held out
+held-out syllable OOV rate: 20/230 = 8.7%  (handled by the onset/rime backoff)
+
+------------------------------------------------------------------------
+ RESULTS on held-out Turkic
+------------------------------------------------------------------------
+  position: exact chunk top-1 48.9%   top-3 60.3%   (n=229)
+  whole-form top-k exact: top-1 11.8%  top-5 24.7%  top-20 30.6%
+  best-of-top-20: exact 30.6%   within1 68.2%   within2 83.5%
+  mean normalised edit distance: 0.218   (n=85)
+
+  THE COMPARISON THAT MATTERS - same architecture, same metrics:
+    step 11, Sanskrit-trained, tested on TURKIC (out-of-domain):
+        exact  3.1%   within1  6.9%   within2 27.5%   position top-1  9.8%
+    step 11, Sanskrit-trained, tested on Sanskrit (in-domain):
+        exact 25.0%   within1 57.9%   within2 77.0%   position top-1 46.3%
+    step 13, TURKIC-trained, tested on Turkic (in-domain):
+        exact 30.6%   within1 68.2%   within2 83.5%   position top-1 48.9%
+
+  VERDICT: in-domain training beats the out-of-domain baseline by +27.5 points
+  on exact match. The step-11 diagnosis was right - the collapse was about
+  the training language, not the method. A Chinese->Turkic channel works.
+
+SAMPLE - held-out reconstructions:
+     cho-che                gold=côpëig         -> ss(0.32), sis(0.11), ssi(0.10)
+     pi-ta-iou              gold=bitatu         -> bitar(0.25), bindar(0.15), bitaa(0.09)
+     wou-pou-eul sou-pou-eu gold=ubursubur      -> ubursibur(0.17), ubursabur(0.12), obursibur(0.09)
+     pa-tou yi-ti-che       gold=bedukidiS      -> batuidis(0.17), baduidis(0.10), batuitis(0.09)
+     wou-tsouen             gold=uzun           -> usi(0.14), uzuq(0.14), uzun(0.14)
+     k'o-sai-kou            gold=kesetgu        -> kesigu(0.14), kesiu(0.11), kesagu(0.10)
+     a-tch'en-ti pan-ii     gold=acildiboldi    -> acdibolr(0.22), actibolr(0.11), acadibolr(0.11)
+     ha-eul-che             gold=qarsi          -> qars(0.40), qarsi(0.12), Gars(0.10)
+  OK ha-eul                 gold=qar            -> qar(0.66), Gar(0.17), qarr(0.05)
+     ngo-sin pan-ti         gold=esinboldi      -> alsiboldi(0.14), aisiboldi(0.13), alsaboldi(0.09)
+  OK ha-che                 gold=qas            -> qas(0.40), qasi(0.12), Gas(0.10)
+     yi-chen                gold=ismg           -> is(0.30), Gis(0.15), isi(0.10)
+     f eng-k'o-li           gold=tngri          -> turkeri(0.09), tarkeri(0.08), turkei(0.07)
+     ya                     gold=GaG            -> Ga(0.50), Gaq(0.19), GaG(0.19)
+
+Written to data/derived/turkic_channel_emissions.csv

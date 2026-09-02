@@ -1,0 +1,98 @@
+====================================================================
+ SECRET HISTORY EPUB - structural probe
+====================================================================
+file: 音訳蒙文元朝秘史.epub  (5,216,167 bytes)
+
+internal entries: 63
+content documents: 43   largest 12:
+     232,700  OPS/c18_yin_yi_meng_wen_yuan_chao_mi_shi_juan_liu_2.xhtml
+     226,567  OPS/c3_yin_yi_meng_wen_yuan_chao_mi_shi_juan_yi_2.xhtml
+     226,153  OPS/c15_yin_yi_meng_wen_yuan_chao_mi_shi_juan_wu_2.xhtml
+     225,803  OPS/c21_yin_yi_meng_wen_yuan_chao_mi_shi_juan_qi_2.xhtml
+     224,826  OPS/c36_yin_yi_meng_wen_yuan_chao_mi_shi_xu_ji_juan_er_2.xhtml
+     224,678  OPS/c8_yin_yi_meng_wen_yuan_chao_mi_shi_juan_san_1.xhtml
+     223,515  OPS/c14_yin_yi_meng_wen_yuan_chao_mi_shi_juan_wu_1.xhtml
+     223,157  OPS/c5_yin_yi_meng_wen_yuan_chao_mi_shi_juan_er_1.xhtml
+     222,218  OPS/c17_yin_yi_meng_wen_yuan_chao_mi_shi_juan_liu_1.xhtml
+     222,203  OPS/c33_yin_yi_meng_wen_yuan_chao_mi_shi_xu_ji_juan_yi_2.xhtml
+     219,151  OPS/c2_yin_yi_meng_wen_yuan_chao_mi_shi_juan_yi_1.xhtml
+     218,289  OPS/c30_yin_yi_meng_wen_yuan_chao_mi_shi_juan_shi_2.xhtml
+
+lines with BOTH Chinese and Latin script: 4960 of 17069 non-empty lines
+  (this is the alignment signal - if it is near zero the epub is
+   romanisation-only and the ja.wikisource dump is needed instead)
+
+richest documents by mixed-script line count:
+      177  OPS/c33_yin_yi_meng_wen_yuan_chao_mi_shi_xu_ji_juan_yi_2.xhtml
+      176  OPS/c21_yin_yi_meng_wen_yuan_chao_mi_shi_juan_qi_2.xhtml
+      172  OPS/c30_yin_yi_meng_wen_yuan_chao_mi_shi_juan_shi_2.xhtml
+      170  OPS/c23_yin_yi_meng_wen_yuan_chao_mi_shi_juan_ba_1.xhtml
+      168  OPS/c36_yin_yi_meng_wen_yuan_chao_mi_shi_xu_ji_juan_er_2.xhtml
+      168  OPS/c24_yin_yi_meng_wen_yuan_chao_mi_shi_juan_ba_2.xhtml
+
+--------------------------------------------------------------------
+ SAMPLE - 25 mixed-script lines from OPS/c33_yin_yi_meng_wen_yuan_chao_mi_shi_xu_ji_juan_yi_2.xhtml
+--------------------------------------------------------------------
+   姉妹プロジェクト ： Wikipediaの記事
+   ​百姓 行​ ​亦 舌᠋ 兒堅-突︀ 舌᠋ 兒​ ​irgen-dür​ ​上馬咱​ ​秣 舌᠋ 驪剌牙​ ​morilaja"​ ​麽道​ ​客延​ ​keġen​ ​上馬時​ ​秣 舌᠋ 驪剌( 中᠋ 灰)-突︀ 舌᠋ 兒​ ​morilaqui-dur​ ​那裏​ ​田迭​ ​tende​ ​ ...
+   ​娘子​ ​ 中᠋ 合敦​ ​Qatun​ ​太祖︀​ ​成吉思​ ​Čiṅgis​ ​皇帝 行​ ​ 中᠋ 合阿納​ ​Qaγ̇an-a​ ​提​ ​都︀ 舌᠋ 剌 惕᠌ 中᠋ 罕​ ​duradγan​ ​奏​ ​斡赤 舌᠋ 侖​ ​öčirün​ ​皇帝​ ​ 中᠋ 合 中᠋ 罕​ ​Qaγa ...
+   ​過​ ​荅班​ ​daban​ ​寬​ ​斡 舌᠋ 兒堅​ ​örgen​ ​河(每)​ ​沐 舌᠋ 列 惕᠌ ​ ​müred​ ​渡​ ​客禿侖​ ​ketülün​ ​長​ ​兀 舌᠋ 兒禿​ ​urtu​ ​征​ ​察兀 舌᠋ 兒​ ​čaγ̇ur​ ​征進​ ​察兀 舌᠋ 闌​ ​čaγ ...
+   ​多​ ​斡欒​ ​olon​ ​國 自的行​ ​兀魯昔-顏​ ​ulus(i)-jan​ ​整治​ ​只 卜᠌ 失額 舌᠋ 侖​ ​žibšiġerün​ ​想了​ ​薛 惕᠌ 乞罷​ ​sedkibe.​ 原作 伯
+   ​生了的​ ​脫 舌᠋ 列 克᠌ 先​ ​Töregsen​ ​但​ ​額列​ ​ele​ ​生靈(每)行​ ​阿米壇-突︀ 舌᠋ 兒​ ​amitan-dur​ ​長生​ ​蒙客​ ​müṅke​ ​無​ ​兀該​ ​ügei​ ​有來​ ​阿主兀​ ​ažuγ̇u.​
+   ​大木​ ​捏兀列​ ​Neġüle​ ​般​ ​篾圖​ ​metü​ ​身​ ​別耶​ ​beje​ ​你的​ ​赤訥​ ​čin-u​ ​傾​ ​捏古思​ ​negüs​ ​去呵​ ​斡都︀阿速​ ​oduγ̇asu​ ​麻穰​ ​捏 惕᠌ 客 勒᠌ ​ ​nedkel​
+   ​般​ ​篾圖​ ​metü​ ​百姓 自的行​ ​兀魯昔-顏​ ​ulus(i)-jan​ ​誰行​ ​客捏​ ​ken-e​ ​委有​ ​格木​ ​gemü.​ ​柱腳​ ​禿魯​ ​Tulu​ ​般​ ​篾圖​ ​metü​ ​身​ ​別耶​ ​beje​ ​你的​ ​赤訥​ ​čin-u​
+   ​倒​ ​禿 勒᠌ 巴思​ ​tulbas​ ​去呵​ ​斡都︀阿速​ ​oduγ̇asu​ ​羣鳥​ ​禿牙 勒᠌ ​ ​tujal​ ​般​ ​篾圖​ ​metü​ ​百姓 自的行​ ​兀魯昔-顏​ ​ulus(i)-jan​ ​誰行​ ​客捏​ ​ken-e​
+   ​委有​ ​格木​ ​gemü.​ ​生了的​ ​脫 舌᠋ 列 克᠌ 先​ ​Töregsen​ ​四箇​ ​朶 舌᠋ 兒邊​ ​dörben​ ​俊傑每​ ​曲魯兀 惕᠌ ​ ​külüġüd​ ​兒子每自的行​ ​可兀都︀-延​ ​köġüd(ü)-ġen​ ​誰行​ ​客泥​ ​ken-e​  ...
+   ​說有​ ​客額木​ ​keġemü.​ ​兒子每 行​ ​可兀 惕᠌ -帖​ ​köġüd-te​ ​弟 每行​ ​迭兀-捏 舌᠋ 列​ ​deġü-ner-e​ ​多​ ​斡欒​ ​olon​ ​下民行​ ​ 中᠋ 合 舌᠋ 剌出撒​ ​qaračus-a​ ​俺行​ ​馬納​ ​man-a​  ...
+   ​歹每行​ ​卯兀納​ ​maγ̇un-a​ ​省着​ ​兀 中᠋ 合周​ ​uqažu​ ​有行​ ​阿 中᠋ 忽牙​ ​aquj-a​ ​省得了的 自的行​ ​兀 中᠋ 合 黑᠌ 撒你-顏​ ​uqaγsan(i)-jan​ ​提說了的​ ​都︀ 舌᠋ 剌 惕᠌ 中᠋ 合 黑᠌ 三​ ​dura ...
+   ​做了​ ​孛 勒᠌ 罷​ ​bolba.​ ​聖旨​ ​札 舌᠋ 兒里 黑᠌ ​ ​Žarliγ​ ​知者︀​ ​篾迭禿該​ ​medetügei"​ ​麽道​ ​客延​ ​keġen​ ​奏呵​ ​斡赤額速​ ​öčiġešü​
+   ​太祖︀​ ​成吉思​ ​Čiṅgis​ ​皇帝​ ​ 中᠋ 合 中᠋ 罕​ ​Qaγan​ ​聖旨​ ​札 舌᠋ 兒里 黑᠌ ​ ​žarliγ​ ​做​ ​孛魯 舌᠋ 侖​ ​bolurun:​ ​娘子​ ​ 中᠋ 合敦​ ​"Qatun​ ​也​ ​別 舌᠋ 兒​ ​ber​ ​人​ ​古溫​ ...
+   ​有呵​ ​孛額速​ ​böġesü​ ​婦人名的​ ​也遂-因​ ​Jesüi-jin​ ​言語​ ​兀格​ ​üge​ ​是上​ ​拙別察​ ​žöb-eče​ ​是​ ​勺 卜᠌ ​ ​žöb​ ​任誰(每)​ ​客 惕᠌ -別 舌᠋ 兒​ ​ked-ber​ ​弟 每​ ​迭兀-捏 舌᠋ 兒 ...
+   ​兒子每​ ​可兀 惕᠌ ​ ​köġüd​ ​您​ ​塔​ ​ta​ ​也​ ​別 舌᠋ 兒​ ​ber​ ​人名​ ​孛斡 舌᠋ 兒出​ ​Boγ̇orču​ ​人名(等)​ ​木 中᠋ 合里-壇​ ​Muqali-tan​ ​這般​ ​額因​ ​ein​ ​不曾​ ​額薛​ ​ese​
+   ​提說了​ ​都︀ 舌᠋ 剌 惕᠌ 中᠋ 合罷​ ​duradγaba.​ 原作 伯 ​我​ ​必​ ​Bi​ ​也​ ​別 舌᠋ 兒​ ​ber​ ​祖︀宗(每)行​ ​兀 舌᠋ 里都︀昔​ ​uridus-i​ ​不​ ​兀祿​ ​ülü​ ​隨後的 行​ ​兀荅阿 舌᠋ 剌( 中᠋ 灰)-阿察 ...
+   ​忘了着​ ​兀馬 舌᠋ 兒塔周​ ​umartažu​ ​有來​ ​阿主兀​ ​ažuγ̇u.​ ​死的行​ ​兀窟(古耶)​ ​Üküküj-e​ ​不​ ​兀祿​ ​ülü​ ​被得着​ ​額 舌᠋ 魯思帖古耶徹​ ​erüsteküj-eče​
+   ​睡着着​ ​穩榻 舌᠋ 剌周​ ​untaražu​ ​有來​ ​阿主兀​ ​ažuγ̇u"​ ​說了​ ​客額額 惕᠌ ​ ​keġeġed​ ​兒每(的)​ ​可兀敦​ ​köġüd-ün​ ​我的​ ​米訥​ ​min-u​ ​長​ ​阿 中᠋ 合​ ​aqa​
+   ​人名​ ​拙赤​ ​Žüči​ ​有也者︀​ ​備-者︀​ ​bi-že.​ ​甚​ ​牙兀​ ​Jaγ̇u​ ​說有​ ​客額木​ ​keġemü.​ ​你​ ​赤​ ​či​ ​說​ ​客列列​ ​kelele"​ ​說了​ ​客額罷​ ​keġebe.​ ​人名 行​ ​拙赤-冝​ ​Žüč ...
+   ​作聲的​ ​董 中᠋ 豁 惕᠌ 中᠋ 忽-因​ ​doṅγodqu-jin​ ​前​ ​兀 舌᠋ 里荅​ ​urida​ ​人名​ ​察阿歹​ ​Čaγ̇adai​ ​說​ ​嗚詁列 舌᠋ 論​ ​ügülerün:​ ​人名 行​ ​拙赤-冝​ ​"Žüči-ji​
+   ​說​ ​客列列​ ​kelele​ ​說時​ ​客額 舌᠋ 侖​ ​keġerün​ ​人名 行麽​ ​拙赤-余兀​ ​Žüči-(j)üġü​ ​委付​ ​土申​ ​tüšin​ ​說有​ ​嗚詁列梅︀​ ​ügülemüi.​ ​這​ ​額捏​ ​Ene​
+   ​種(名)​ ​篾 舌᠋ 兒乞歹​ ​Merkidai​ ​(種名)​ ​出 勒᠌ 兀 勒᠌ ​ ​Čulγ̇ul​ ​(其間)​ ​札兀 舌᠋ 剌​ ​žaγ̇ura​ ​怎生​ ​客 舌᠋ 兒​ ​ker​ ​敎策​ ​篾迭兀 勒᠌ 坤​ ​medeġülkün​ ​咱​ ​必荅​ ​bida" ...
+   ​恰說呵​ ​客額(恢)-魯額​ ​keġeküi-lüġe​ ​人名​ ​拙赤​ ​Žüči​ ​起了​ ​孛速阿 惕᠌ ​ ​bosuγ̇ad​ ​(人名)的​ ​察阿歹-因​ ​Čaγ̇adai-jin​ ​領行​ ​札 中᠋ 合-突︀ 舌᠋ 兒​ ​žaqa-dur​
+   ​到着​ ​禿思抽​ ​tusču​ ​說​ ​嗚詁列 舌᠋ 論​ ​ügülerün:​ ​皇帝​ ​ 中᠋ 罕​ ​"Qān​ ​父親 行​ ​額赤格-迭​ ​ečige-de​ ​別​ ​不速​ ​busu​ ​不曾​ ​額薛​ ​ese​ ​被說來​ ​客額 克᠌ 迭魯額​ ​keġegde ...
+
+--------------------------------------------------------------------
+ SAMPLE - 10 lines from the middle of the same document
+--------------------------------------------------------------------
+   ​分的​ ​撒 勒᠌ 中᠋ 忽​ ​Salqu​ ​般​ ​失禿​ ​situ​ ​營盤​ ​嫰禿 黑᠌ ​ ​nutuγ​ ​敎寬​ ​阿兀 惕᠌ 勤​ ​aγ̇udkin​ ​邦​ ​ 中᠋ 合 舌᠋ 里​ ​qari​ ​敎鎭​ ​荅 舌᠋ 魯兀侖​ ​daruγ̇ulun​
+   ​分咱​ ​撒 勒᠌ 中᠋ 合牙​ ​salγaja​ ​說了​ ​客額額 惕᠌ ​ ​keġeġed,​ ​人名​ ​拙赤​ ​Žüči​ ​人名​ ​察阿歹​ ​Čaγ̇adai​ ​兩箇​ ​ 中᠋ 豁牙 舌᠋ 兒​ ​qojar​ ​言語(每)​ ​兀格思-​ ​üges-​
+   ​裏自的行​ ​禿 舌᠋ 里顏​ ​tür(i)-jen​ ​敎共到您​ ​古 舌᠋ 魯 勒᠌ 扯 惕᠌ 坤​ ​kürülčedkün.​ ​百姓 行​ ​亦 舌᠋ 兒格捏​ ​Irgen-e​ ​休​ ​不​ ​bu​ ​敎咲您​ ​亦捏額兀魯 惕᠌ 坤​ ​ineġeġülüdkün.​
+   ​人行​ ​(哈) 舌᠋ 剌納​ ​Haran-a​ ​休​ ​不​ ​bu​ ​敎大咲您​ ​ 中᠋ 合 卜᠌ 中᠋ 合 舌᠋ 里兀魯 惕᠌ 中᠋ 坤​ ​qabqariγ̇uludqun.​ ​在前​ ​額 舌᠋ 兒帖​ ​Erte​ ​人名​ ​阿 勒᠌ 壇​ ​Altan,​ ​人名​ ​  ...
+   ​兩箇​ ​ 中᠋ 豁牙 舌᠋ 兒​ ​qojar​ ​這​ ​額捏​ ​ene​ ​般​ ​篾圖​ ​metü​ ​言語​ ​兀格​ ​üge​ ​議定了着​ ​巴 舌᠋ 剌 勒᠌ 都︀周​ ​baraldužu​ ​郤​ ​只池​ ​žiči​ ​言語每​ ​兀格思-​ ​üges-​
+   ​自的行​ ​禿 舌᠋ 里顏​ ​tür(i)-jen​ ​不​ ​兀祿​ ​ülü​ ​到的​ ​古 舌᠋ 兒古-因​ ​kürkü-jin​ ​上頭​ ​禿剌​ ​tula​ ​怎​ ​客 舌᠋ 兒​ ​ker​ ​被做來​ ​乞 克᠌ 迭魯埃​ ​kigdelüġei.​
+   ​怎​ ​黯巴 舌᠋ 兒​ ​Ambar​ ​被做了來​ ​孛 勒᠌ 中᠋ 合 黑᠌ 荅魯埃​ ​bolγaγdaluγ̇ai.​ ​如今​ ​額朶額​ ​Edöġe​ ​人名​ ​阿 勒᠌ 壇​ ​Altan,​ ​人名​ ​ 中᠋ 忽察 舌᠋ 兒​ ​Qučar,​
+   ​兩箇(的)​ ​ 中᠋ 豁牙 舌᠋ 侖​ ​qojar-un​ ​子孫每(行)​ ​兀 舌᠋ 魯兀答察​ ​uruγ̇ud-ača​ ​您 一同​ ​壇-魯阿​ ​tan-luγ̇a​ ​敎分咱​ ​撒 勒᠌ 中᠋ 合 勒᠌ 都︀牙​ ​salγalduja.​ ​他每行​ ​帖迭泥​ ​Tede ...
+   ​看着​ ​兀者︀周​ ​üžežü​ ​如何​ ​牙兀​ ​jaγ̇u​ ​怠慢了​ ​斡莎 勒᠌ 荅 中᠋ 渾​ ​osoldaqun​ ​您​ ​塔​ ​ta"​ ​說了​ ​客額額 惕᠌ ​ ​keġeġed​ ​人名​ ​斡歌歹​ ​Ögödei​
+   ​甚​ ​牙兀​ ​jaγ̇u​ ​說有​ ​客額木​ ​keġemü.​ ​說​ ​客列列​ ​Kelele"​ ​說了​ ​客額罷​ ​keġebe.​ 原作 別 ​人名​ ​斡歌歹​ ​Ögödei​ ​說​ ​嗚詁列 舌᠋ 論​ ​ügülerün:​
+
+--------------------------------------------------------------------
+ SAMPLE - 20 consecutive raw lines (to reveal interleaved layout)
+--------------------------------------------------------------------
+   [BOTH] 姉妹プロジェクト ： Wikipediaの記事
+   [CJK ] 『音訳蒙文元朝秘史(おんやくもうぶんげんちょうひし)』は 葉徳輝 の『 元朝秘史 』葉氏観古堂本(1908年)をもとに作られたローマ字転写本である。
+   [CJK ] 底本:白鳥庫吉訳『音訳蒙文元朝秘史』(東洋文庫 昭和18年1月31日発行) [ 1 ]
+   [CJK ] 序、凡例（日本語） 。 序、跋（葉氏観古堂本） 。
+   [CJK ] 巻一-1 、 巻一-2 、 巻一-3 。
+   [CJK ] 巻二-1 、 巻二-2 、 巻二-3 。
+   [CJK ] 巻三-1 、 巻三-2 、 巻三-3 。
+   [CJK ] 巻四-1 、 巻四-2 、 巻四-3 。
+   [CJK ] 巻五-1 、 巻五-2 、 巻五-3 。
+   [CJK ] 巻六-1 、 巻六-2 、 巻六-3 。
+   [CJK ] 巻七-1 、 巻七-2 、 巻七-3 。
+   [CJK ] 巻八-1 、 巻八-2 、 巻八-3 。
+   [CJK ] 巻九-1 、 巻九-2 、 巻九-3 。
+   [CJK ] 巻十-1 、 巻十-2 、 巻十-3 。
+   [CJK ] 続集巻一-1 、 続集巻一-2 、 続集巻一-3 。
+   [CJK ] 続集巻二-1 、 続集巻二-2 、 続集巻二-3 。
+   [CJK ] 序、凡例（英語） 。 [ 2 ]
+   [LAT ] 11-20-b
+   [----] 11:20:06
+   [BOTH] ​百姓 行​ ​亦 舌᠋ 兒堅-突︀ 舌᠋ 兒​ ​irgen-dür​ ​上馬咱​ ​秣 舌᠋ 驪剌牙​ ​morilaja"​ ​麽道​ ​客延​ ​keġen​ ​上馬時​ ​秣 舌᠋ 驪剌( 中᠋ 灰)-突︀ 舌᠋ 兒​ ​morilaqui-dur​ ...

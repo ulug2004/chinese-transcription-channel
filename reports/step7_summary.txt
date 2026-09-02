@@ -1,0 +1,81 @@
+======================================================================
+ STEP 7 - ranked pronunciation reconstruction
+======================================================================
+
+Language-neutral prior: 49529 forms from 381 families
+  (capped at 12 forms per doculect and 1200 per family, so no
+   region or family dominates - this is 'plausible in SOME human language')
+
+Fitted a 4-gram universal phonotactic model.
+
+Channel: 826 characters, 398 distinct source syllables
+Reachable segments (ASJP): 5CNSabdeghijklmnoprstuvwy
+
+----------------------------------------------------------------------
+ REACHABILITY CEILING - what fraction of gold forms CAN be produced?
+----------------------------------------------------------------------
+
+ The channel's syllable inventory is Sanskrit-derived. A gold form needing
+ a segment Sanskrit lacks can never be produced, however good the search.
+ This bounds top-k accuracy from above.
+
+  Ming Uyghur: 56/182 gold forms reachable (30.8%)
+      blocking segments: E(87)  3(67)  q(67)  G(27)  z(14)  x(1)
+  Baley Late Han Sanskrit: 391/391 gold forms reachable (100.0%)
+
+----------------------------------------------------------------------
+ TOP-K ACCURACY (exact ASJP string match against gold)
+----------------------------------------------------------------------
+
+  Baley Late Han Sanskrit (independent gold)  (n=195, 100% of gold forms reachable)
+      k          exact    onset-sequence
+      top-1         4.1%           7.7%
+      top-3         6.7%           9.7%
+      top-5         6.7%           9.7%
+      top-10        7.7%          10.3%
+      top-20        8.2%          11.3%
+      best-of-top-20 edit distance to gold:
+         exact   8.2%   within 1  17.4%   within 2  32.8%   mean normalised 0.410
+
+  Ming Uyghur (out-of-domain gold)  (n=168, 33% of gold forms reachable)
+      k          exact    onset-sequence
+      top-1         0.6%           4.8%
+      top-3         1.2%           6.0%
+      top-5         1.2%           6.5%
+      top-10        1.2%           7.7%
+      top-20        1.2%           7.7%
+      best-of-top-20 edit distance to gold:
+         exact   1.2%   within 1   2.4%   within 2  20.8%   mean normalised 0.673
+
+----------------------------------------------------------------------
+ XIONGNU NAMES - ranked candidate pronunciations
+----------------------------------------------------------------------
+
+name    ranked candidates (ASJP), best first           literature
+----------------------------------------------------------------------
+頭曼      daman(0.86) damaN(0.12) danman(0.01) dama5(0.00) tuman / tümen
+冒頓      5ati(0.62) 5ada(0.19) 5ata(0.07) krada(0.06)   bagatur / baγatur ?
+呼韓邪     hokaya(0.88) haskaya(0.06) hokayu(0.02) hogaya(0.02) 
+攣鞮      rata(0.54) rati(0.22) lata(0.08) rada(0.05)    *lyuan-tlïγ ?
+虛連題     era5ta(0.53) eradda(0.10) eradta(0.07) era5ti(0.07) 
+單于      tajvi(0.53) tamvi(0.16) ta5vi(0.15) tajvar(0.06) *darγwa ? / *tarqan ?
+撑犁      tadi(0.41) tidi(0.32) dadi(0.25) tadan(0.01)   tengri
+孤塗      ka5a(0.48) kakra(0.25) ku5a(0.19) ga5a(0.03)   *qut ?
+閼氏      anji(0.59) eji(0.25) lji(0.05) iSji(0.05)      
+屠耆      taji(0.33) daji(0.31) tiji(0.30) dajo(0.02)    *toγrï ?
+匈奴      anu(0.40) unu(0.39) inu(0.12) hanu(0.04)       
+羯       ka(0.54) kar(0.33) kak(0.05) kaw(0.04)         
+
+HOW TO READ THIS, and what it is not:
+  * Forms are in ASJP notation (C=ch, S=sh, N=ng, 3=schwa, E=ae). Probabilities
+    are normalised over the retained beam, so they are RELATIVE rankings, not
+    absolute posteriors.
+  * The prior is language-neutral by design. It does not favour Turkic,
+    Yeniseian, Mongolic or anything else, and no attribution is implied.
+  * The syllable inventory is Sanskrit-derived, so segments Sanskrit lacks -
+    q, front-rounded vowels - cannot appear. See the reachability ceiling; it
+    caps how often the true form can be produced at all.
+  * Read the top-k accuracy on Baley and Uyghur as the honest measure of how
+    much to trust any single line above.
+
+Written to data/derived/xiongnu_reconstructions.csv

@@ -1,0 +1,94 @@
+========================================================================
+ STEP 6 - prior adequacy: can ANY available prior attribute a language?
+========================================================================
+
+ASJP reference data, equalised to 469 forms per family (the Yeniseian floor):
+  Turkic       3370 forms available
+  Yeniseian     469 forms available
+  Mongolic      791 forms available
+  Iranian      4216 forms available
+  Indic        7323 forms available
+
+Control corpora: 182 true Uyghur forms, 400 true Sanskrit forms
+
+========================================================================
+ CEILING TABLE - accuracy on the TRUE source form
+========================================================================
+
+ A prior that cannot beat chance here can never support an attribution,
+ no matter how good the channel is.
+
+--- n-gram priors ---
+  corpus                 hyp set        minV     n  expected  chance     winner
+  true Uyghur            all 5 families    1   182     33.0%   20.0%     Turkic
+  true Uyghur            all 5 families    2   161     32.9%   20.0%     Turkic
+  true Uyghur            all 5 families    3    95     29.5%   20.0%     Turkic
+  true Uyghur            all 5 families    4    58     32.8%   20.0%     Turkic
+  true Uyghur            Turkic vs Yeniseian    1   182     60.4%   50.0%     Turkic
+  true Uyghur            Turkic vs Yeniseian    2   161     59.6%   50.0%     Turkic
+  true Uyghur            Turkic vs Yeniseian    3    95     58.9%   50.0%     Turkic
+  true Uyghur            Turkic vs Yeniseian    4    58     63.8%   50.0%     Turkic
+  true Sanskrit          all 5 families    1   398     46.5%   20.0%      Indic
+  true Sanskrit          all 5 families    2   330     43.6%   20.0%      Indic
+  true Sanskrit          all 5 families    3   328     43.3%   20.0%      Indic
+  true Sanskrit          all 5 families    4   166     36.7%   20.0%      Indic
+
+--- features priors ---
+  corpus                 hyp set        minV     n  expected  chance     winner
+  true Uyghur            all 5 families    1   182     30.2%   20.0%     Turkic
+  true Uyghur            all 5 families    2   161     30.4%   20.0%     Turkic
+  true Uyghur            all 5 families    3    95     27.4%   20.0%     Turkic
+  true Uyghur            all 5 families    4    58     36.2%   20.0%     Turkic
+  true Uyghur            Turkic vs Yeniseian    1   182     57.7%   50.0%     Turkic
+  true Uyghur            Turkic vs Yeniseian    2   161     59.0%   50.0%     Turkic
+  true Uyghur            Turkic vs Yeniseian    3    95     53.7%   50.0%     Turkic
+  true Uyghur            Turkic vs Yeniseian    4    58     69.0%   50.0%     Turkic
+  true Sanskrit          all 5 families    1   398     21.1%   20.0%   Mongolic
+  true Sanskrit          all 5 families    2   330     13.9%   20.0%   Mongolic  BELOW CHANCE
+  true Sanskrit          all 5 families    3   328     13.7%   20.0%   Mongolic  BELOW CHANCE
+  true Sanskrit          all 5 families    4   166     20.5%   20.0%    Iranian
+
+========================================================================
+ VERDICT
+========================================================================
+
+ Judged on the DECISION-RELEVANT cells only - Turkic vs Yeniseian. Indic-vs-
+ Altaic scores well because Sanskrit is wildly distinct from the whole Altaic
+ set; that says nothing about the hypothesis actually in dispute.
+
+ Best Turkic-vs-Yeniseian result: features priors, true Uyghur,
+ >=4 vowels - 69.0% against 50.0% chance (lift +19.0 points).
+
+ Cells below chance: 2/24.
+ Below-chance cells are the damning ones - a prior that systematically
+ prefers the WRONG family is not weak, it is biased. Examples:
+   features  true Sanskrit  all 5 families       minV=2 -> 13.9% vs 20.0%, won by Mongolic
+   features  true Sanskrit  all 5 families       minV=3 -> 13.7% vs 20.0%, won by Mongolic
+
+ CONCLUSION: no available prior is adequate. Neither n-grams nor targeted
+ linguistic features, at any word length, for either hypothesis set, reach
+ a usable margin over chance. The binding constraint is the REFERENCE DATA,
+ not the model:
+   - ASJP's 41-symbol alphabet discards the detail that separates neighbours
+   - ~half of Swadesh entries are monosyllables, where vowel harmony - the
+     single best Turkic/Yeniseian discriminator - is simply undefined
+   - equalising to 469 forms is necessary to avoid rewarding thin data with
+     flatter models, but leaves too little to estimate anything sharp
+   - Turkic, Mongolic and Tungusic are genuinely near-identical
+     phonotactically; this is a fact about the languages, not a modelling gap
+
+ THEREFORE: the language-attribution step CANNOT be done with data that
+ exists in machine-readable form. It is blocked on manual lexicon keying:
+   * Clauson, Etymological Dictionary of Pre-Thirteenth-Century Turkish (print)
+   * a real Yeniseian lexicon beyond Swadesh lists (StarLing is a start)
+   * Middle Mongol and Middle Iranian onomastica
+   * and ideally ONOMASTIC data - names, not basic vocabulary. Names have
+     their own phonotactics, and names are what the question is about.
+
+ This is a real finding, not a failure. The Xiongnu language debate is full
+ of confident claims from exactly this kind of evidence. A quantified
+ demonstration that the available evidence CANNOT separate the hypotheses -
+ with the ceiling measured, the nulls run and the controls reported - is a
+ publishable result, and a more defensible one than a verdict would be.
+
+Written to data/derived/prior_adequacy.csv

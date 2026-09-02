@@ -1,0 +1,64 @@
+==========================================================================
+ STEP 11 - reading-anchored channel
+==========================================================================
+
+Later Han table: 7,661 characters; Unihan variants: 15,424
+
+Sanskrit training pairs: 1,010
+
+==========================================================================
+ 1. COVERAGE - are the Xiongnu characters reachable?
+==========================================================================
+
+Distinct Xiongnu characters: 81
+  character seen directly      31  ( 38.3%)   cumulative  38.3%
+  full reading seen            17  ( 21.0%)   cumulative  59.3%
+  initial+vowel seen           14  ( 17.3%)   cumulative  76.5%
+  initial seen                 19  ( 23.5%)   cumulative 100.0%
+
+Character-keyed channel would cover 38.3% of Xiongnu characters.
+Reading-anchored with backoff covers 100.0%.
+
+==========================================================================
+ 2. ACCURACY at Han-era data volume
+==========================================================================
+
+  858 train / 152 test
+  position top-1 46.3%   top-3 64.1%
+  whole-form exact 25.0%   within1 57.9%   within2 77.0%   mean ned 0.224
+
+  Same data, earlier architectures:
+    character-keyed, syllable units   exact  8.2%  within1 17.4%  within2 32.8%
+    character-keyed, segmental units  exact  8.8%  within1 22.5%  within2 39.2%
+    reading-anchored, segmental       exact  25.0%  within1  57.9%  within2  77.0%
+
+  Effect of reading-anchoring: +16.2 points on exact match.
+
+==========================================================================
+ 2b. OUT-OF-DOMAIN accuracy (Ming Uyghur) - the decision-relevant number
+==========================================================================
+
+  forms scored 160   position top-1 9.8%
+  whole-form exact 3.1%   within1 6.9%   within2 27.5%   mean ned 0.626
+
+  In-domain vs out-of-domain, same model:
+    in-domain  (Sanskrit) : exact  25.0%  within2  77.0%
+    out-of-domain (Uyghur): exact   3.1%  within2  27.5%
+
+  The gap between those two rows is what the Xiongnu names inherit.
+
+==========================================================================
+ 3. XIONGNU NAMES
+==========================================================================
+
+  Out-of-domain within-2 is 27.5% (threshold 45%), so per-name
+  reconstructions are NOT reported - they would be noise dressed as
+  results. Note the in-domain figure is much higher; using it as the gate
+  would have been self-flattering, since the Xiongnu material shares
+  neither period, source language, nor transcription convention with the
+  Buddhist corpus.
+
+  What the coverage result does buy: every Xiongnu character is now
+  reachable, so the pipeline is no longer blocked structurally. The
+  remaining gap is data volume for the Han-era channel, and step 10's
+  curve says how much would be needed.

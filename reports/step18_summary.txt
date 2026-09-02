@@ -1,0 +1,224 @@
+==========================================================================
+ STEP 18 - Xiongnu readings against Divanu Lugati't-Turk (1072-77)
+==========================================================================
+ index entries parsed      : 6820
+ single-word headwords used: 6337
+ names                     : 39
+
+ NULL: 276/300 meaningless pseudo-names found a match; median best score 0.200
+ (modern Turkish, step 17, for comparison: 231/250, median 0.156)
+
+==========================================================================
+ THE TWO KNOWN ANSWERS
+==========================================================================
+ 撑犁  ḍaŋ lei  ->  dang lei      (Hanshu glosses it 天 'heaven')
+    1. dangal       0.056   saman kesmiği
+    2. tengil       0.183   ön ayakları çizgili
+    3. tünglük      0.212   pencere, ocak, baca gibi evdekl delikler,II,
+    4. tengri       0.233   gök, sema   <== the known answer
+    5. tungra       0.233   bedendeki kir
+    tengri in lexicon: yes ; rank among all candidates: 4
+
+ 頭曼  do mɑnᶜ  ->  do man      (standard etymology)
+    1. tuman        0.142   duman, sis
+    2. temen        0.183   büyük iğne, çuvaldız
+    3. tümen        0.183   tümen tümen, pek çok   <== the known answer
+    4. adma         0.375   bırakılan, salıverilen, başı bo
+    5. udmak        0.375   uyan, çırak, şâkirt; uşak, ırgat
+    tümen in lexicon: yes ; rank among all candidates: 3
+
+==========================================================================
+ ALL NAMES
+==========================================================================
+頭曼  Touman                   do mɑnᶜ                    -> do man
+     tuman        0.142  p=0.410  duman, sis
+     temen        0.183  p=0.410  büyük iğne, çuvaldız
+     tümen        0.183  p=0.410  tümen tümen, pek çok
+
+冒頓  Modu / Modun             mək tuənᶜ                  -> mık tuın
+     katun        0.292  p=0.693  kadın, hatun, Afrasyab kızlarından olanların adı
+     keten        0.312  p=0.693  zahmet, sıkıntı,I, 404
+     mükin        0.312  p=0.693  kadın pabucu
+
+稽粥  Jizhou / Jiyu            kʰeiᴮ tśuk                 -> kei çuk
+     keçik        0.028  p=0.023  köprü, geçit,I, 390
+     kiçik        0.056  p=0.023  küçük, küçüklük
+     kiçük        0.083  p=0.023  küçuk
+
+軍臣  Junchen                  kun dźin                   -> kun cin
+     ikinç        0.356  p=0.773  sayıda 1^1110.I, 131, 132
+     kunçuy       0.356  p=0.773  hatundan birderece aşağı kadın, bige, prenses
+     akınçı       0.388  p=0.773  akıncı, geceleyin düşmanı basan asker, 1, 77, 134, 2
+
+伊稚斜  Yizhixie                 ʔi ḍiᶜ ja                  -> ’i di ya
+     devey        0.267  p=0.627  deve
+     tay          0.275  p=0.627  tay,I, 206, 207, 313
+     toy          0.275  p=0.627  ordu kuragı
+
+烏維  Wuwei                    ʔɑ wi                      -> ’a vi
+     av           0.125  p=0.317  av
+     va           0.125  p=0.317  "vay" anlamına söz söyleyen veya emreden kimsenin em
+     avut         0.212  p=0.317  avuç
+
+詹師廬  Zhanshilu                tśam ṣi liɑ                -> çam şi lia
+     çumuşluk     0.110  p=0.217  aptesane, ayakyolu
+     çumuşmak     0.310  p=0.217  suya dalmakta yarış etmek
+     çümüşmek     0.310  p=0.217  suya daha derin daldırmakta yarış etmek
+
+呴犁湖  Xulihu / Goulihu         huo lei gɑ                 -> huo lei ga
+     ulag         0.250  p=0.610  ulak, beyin emriyle koşa koşa giden postacının başka
+     ulaga        0.250  p=0.610  savaş atı
+     ulagu        0.250  p=0.610  neriğ kendisiyle bir şey ulanan nesne
+
+且鞮侯  Qiedihou                 tsɑᴮ te go                 -> tsa te go
+     satıg        0.292  p=0.693  satış, satma
+     tartıg       0.292  p=0.693  yük ipi, denk sargısı; blr iş çıkması üzerine hakanı
+     tarıtgu      0.292  p=0.693  (ekin) ekecek
+
+狐鹿姑  Hulugu                   ɣuɑ lok kɑ                 -> ğua lok ka
+     arkuk        0.238  p=0.573  iki duvar veya iki direk arasına çapraz olarak konul
+     erkek        0.238  p=0.573  her hayvanın erkeğl
+     arkag        0.297  p=0.573  argaç; bez, halı, kilim gibi şeyler dokunurken enlem
+
+壺衍鞮  Huyandi                  gɑ janᴮ te                 -> ga yan te
+     kayın        0.192  p=0.500  kardeş, hısım ve akraba
+     koyun        0.212  p=0.500  koyun, kucak
+     kanat        0.233  p=0.500  kanat
+
+虛閭權渠  Xulüquanqu               kʰɨɑ liɑ gyan gɨɑ          -> kıa lia gyan gıa
+     kalkang      0.213  p=0.540  kalkan
+     kırguy       0.273  p=0.540  atmaca
+     karguy       0.280  p=0.540  atmaca
+
+握衍朐鞮  Woyanqudi                ʔɔk janᴮ guo te            -> ’ok yan guo te
+     kayıng       0.138  p=0.370  kayın ağacı
+     koyun        0.337  p=0.370  koyun, kucak
+     kuyma        0.337  p=0.370  bir çeşit yağlı ekmek
+
+呼韓邪  Huhanye                  hɑ gɑn ja                  -> ha gan ya
+     ugança       0.371  p=0.807  gücü yetinceye kadar
+     ögünç        0.413  p=0.807  ögünç, öğünme.I, 132
+     kagun        0.429  p=0.807  kavun
+
+郅支  Zhizhi                   tśit tśe                   -> çit çe
+     çit          0.142  p=0.410  kamıştan veya dikenden yapılmış duvar veya hüğ, çard
+     çat          0.183  p=0.410  kuyu
+     öçüt         0.183  p=0.410  öç
+
+復株累若鞮  Fuzhulei Ruodi           buk ṭio lui ńɑk te         -> buk tio lui nyak te
+     no candidate
+
+搜諧若鞮  Souxie Ruodi             so gɛi ńɑk te              -> so gei nyak te
+     sogunmak     0.250  p=0.610  üşümek; sidikten ve benzerlerinden temizlenmek.
+     sagınmak     0.258  p=0.610  sağar gõrünmek
+     sıgınmak     0.258  p=0.610  sığınmak
+
+車牙若鞮  Cheya Ruodi              tśʰa ŋa ńɑk te             -> ça nga nyak te
+     açlınmak     0.404  p=0.823  açılmak
+     uçlanmak     0.404  p=0.823  uç peyda etmek
+     çakınmak     0.404  p=0.823  çakınmak, kendisi için çakmak
+
+烏珠留若鞮  Wuzhuliu Ruodi           ʔɑ tśo liu ńɑk te          -> ’a ço liu nyak te
+     açlınmak     0.251  p=0.610  açılmak
+     çalınmak     0.251  p=0.610  kendini yere atmak; kulağına söz erişmek; anklannnak
+     içlenmek     0.258  p=0.610  içlenmek, tanelenmek, içi olmak
+
+烏累若鞮  Wulei Ruodi              ʔɑ lui ńɑk te              -> ’a lui nyak te
+     alınmak      0.300  p=0.707  alınmak; kendi ba;ına alacağını almak.I, 22, 203
+     ulunmak      0.300  p=0.707  usanmak, bıkmak; kıvrılmak, dolanmak
+     ilenmek      0.310  p=0.707  kötü dua etmek, ilenmek; ayıplamak, tekdir etmek,I, 
+
+呼都而尸道皋若鞮  Huduershi Daogao Ruodi   hɑ tɑ ńə śi douᴮ kou ńɑk t -> ha ta nyı şi dou kou nyak te
+     no candidate
+
+攣鞮  Luandi                   lyan te                    -> lyan te
+     ulyan        0.138  p=0.370  kokulu bir bitklnin köküdür ki yenllir
+     yanut        0.281  p=0.370  karşılık, bedel, ıvaz, cevap
+     lüçnüt       0.312  p=0.370  imice; buğday ve buğdaya benzer şeyleri temizlemekte
+
+虛連題  Xulianti                 kʰɨɑ lianᴮ de              -> kıa lian de
+     kırındı      0.087  p=0.197  her şeyin kınntısı, kazıntısı, soyuntu su
+     kolan        0.125  p=0.197  kolan, bağırdak; yaban eşegi,I, 214, 263, 404, 415, 
+     kalın        0.138  p=0.197  kalabalık, çok, sürü, kalın, kesif, yıgarlı olan her
+
+單于  chanyu                   dźan wɑ                    -> can va
+     uçan         0.325  p=0.743  iki yelkenli gemi
+     cincü        0.367  p=0.743  inci.I, 31, 417
+     için         0.367  p=0.743  "ara, iç" anlamını bildiren birek
+
+撑犁孤塗單于  chengli gutu chanyu      ḍaŋ lei kuɑ dɑ dźan wɑ     -> dang lei kua da can va
+     no candidate
+
+撑犁  chengli                  ḍaŋ lei                    -> dang lei
+     dangal       0.056  p=0.057  saman kesmiği
+     tengil       0.183  p=0.057  ön ayakları çizgili
+     tünglük      0.212  p=0.057  pencere, ocak, baca gibi evdekl delikler,II, 18
+
+孤塗  gutu                     kuɑ dɑ                     -> kua da
+     kudı         0.083  p=0.197  kuyu, çukur; a;ağı, aşağıya
+     ekdi         0.125  p=0.197  sığır, koyun gibi hayvanların kesildiği yer, mezbaha
+     ekdü         0.125  p=0.197  kılıç kını ve benzeri şeyleri oymakta kullanılan ucu
+
+閼氏  yanzhi / ezhi            ʔɑt dźeᴮ                   -> ’at ce
+     at           0.212  p=0.537  ad, isim, unvart, lakap
+     ata          0.212  p=0.537  baba, ata
+     ataç         0.212  p=0.537  büyüklük gösteren çocuk
+
+屠耆  tuqi                     dɑ gɨ                      -> da gı
+     adıg         0.000  p=0.020  ayık
+     dag          0.062  p=0.020  atlara ve başkalarına vurulan dağ, dağlamak· III. 15
+     edgü         0.125  p=0.020  iyi.I, 34, 64, 79 ,114. 128. 177, 221, 319, 386, 428
+
+谷蠡  luli / guli              kok leᴮ                    -> kok le
+     kekre        0.092  p=0.197  develerin yediği acı bir ot
+     ükeklik      0.117  p=0.197  sandık yapmak için ayrılan ağaç
+     keklig       0.138  p=0.197  kinli, hınçlı
+
+當戶  danghu                   tɑŋ gɑᴮ                    -> tang ga
+     tang         0.142  p=0.410  şaşacak, şaşılacak nesne, danılacak şey, acayip şey
+     tanguk       0.142  p=0.410  hakanlara sefer ve benzeri zamanlarda yemek ve ipek 
+     tonga        0.142  p=0.410  bebür, kaplan cinsinden bir hayvan; kişi adı
+
+骨都侯  guduhou                  kuət tɑ go                 -> kuıt ta go
+     katut        0.138  p=0.370  katık,II, 284
+     ketüt        0.138  p=0.370  ekşi suratlı, buruşuk yüzlü
+     kedüt        0.212  p=0.370  çamaçır, giyecek, gelin ve güveyin hısımlarına armağ
+
+且渠  juqu                     tsɑᴮ gɨɑ                   -> tsa gıa
+     tas          0.156  p=0.433  her nesnenin kötüsü, bayağısı,I, 329
+     tes          0.183  p=0.433  obanma edatı
+     tezgi        0.183  p=0.433  düşman gelmesi yüzünden halk arasında olan ürkuntü, 
+
+徑路  jinglu                   keŋᶜ lɑᶜ                   -> keng la
+     kanglı       0.083  p=0.197  kagnı arabası (yük 1^).III, 379
+     köngül       0.083  p=0.197  gönül, kalp, yürek; anlayış
+     kongur       0.133  p=0.197  (yani kestane rengi) olmak
+
+服匿  funi                     buk ṇɨk                    -> buk nık
+     bakanak      0.062  p=0.130  çatal tırnaklıların iki tırnakları arası ve iki tırn
+     bakanuk      0.062  p=0.130  at tırnaklarının ortasındaki tümsecik et parçası
+     bakan        0.138  p=0.130  halka, toka
+
+甌脫  outuo                    ʔo tʰuɑt                   -> ’o tuat
+     tat          0.125  p=0.317  tat, yabancı; müslüman olmayan; üygur, Farslı, Acem,
+     tata         0.125  p=0.317  on adımdan görülebilecek yer parçası
+     tut          0.125  p=0.317  kılıç ve benzeri şeylerin üzerine çöken pas
+
+胡祿  hulu                     gɔ lok                     -> go lok
+     oglak        0.042  p=0.047  oğlak
+     aglak        0.083  p=0.047  ıssız, çorak, oturulmayan yer, boş.,I, 119, 468 § ag
+     agruk        0.133  p=0.047  pılı pırtı, ağırlık, yük
+
+匈奴  Xiongnu                  huoŋ nɑ                    -> huong na
+     ingen        0.267  p=0.627  dişi deve
+     öngin        0.267  p=0.627  başka, başkası
+     ıngan        0.267  p=0.627  dişi deve
+
+羯  Jie                      kɨat                       -> kıat
+     kata         0.062  p=0.130  kere, defa, kez
+     ikit         0.125  p=0.130  yalan
+     iktü         0.125  p=0.130  ekti, elde beslenen hayvan
+
+==========================================================================
+ 3 of 36 names with a candidate beat chance at p<=0.05.
+==========================================================================

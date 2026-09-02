@@ -1,0 +1,1689 @@
+<title>Reading Xiongnu Names</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+SC:wght@400;600&display=swap">
+<style>
+  :root{
+    --ground:#F1F3F2; --surface:#FFFFFF; --surface-2:#F7F9F8;
+    --ink:#17201E; --ink-2:#55625E; --ink-3:#8B9691;
+    --rule:#DBE1DF; --rule-strong:#C3CCC9;
+    --bronze:#2F6B5B; --bronze-soft:#E3EDE9;
+    --ochre:#8E6526; --ochre-soft:#F4EDDF;
+    --flag:#93433A; --flag-soft:#F6E7E4;
+    --shadow:0 1px 2px rgba(23,32,30,.05), 0 8px 24px -16px rgba(23,32,30,.18);
+  }
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+    --ground:#0F1514; --surface:#161F1D; --surface-2:#1B2523;
+    --ink:#E9EEEC; --ink-2:#9CA9A5; --ink-3:#6C7874;
+    --rule:#26312F; --rule-strong:#374542;
+    --bronze:#71B49E; --bronze-soft:#182B25;
+    --ochre:#C89B57; --ochre-soft:#272113;
+    --flag:#CB756A; --flag-soft:#2C1B18;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px -16px rgba(0,0,0,.6);}}
+  :root[data-theme="dark"]{
+    --ground:#0F1514; --surface:#161F1D; --surface-2:#1B2523;
+    --ink:#E9EEEC; --ink-2:#9CA9A5; --ink-3:#6C7874;
+    --rule:#26312F; --rule-strong:#374542;
+    --bronze:#71B49E; --bronze-soft:#182B25;
+    --ochre:#C89B57; --ochre-soft:#272113;
+    --flag:#CB756A; --flag-soft:#2C1B18;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px -16px rgba(0,0,0,.6);}
+  *{box-sizing:border-box}
+  body{margin:0; background:var(--ground); color:var(--ink);
+    font-family:Spectral,Georgia,serif; font-size:17px; line-height:1.72;
+    -webkit-font-smoothing:antialiased}
+  .wrap{max-width:1080px; margin:0 auto; padding:56px 28px 110px}
+  .col{max-width:64ch}
+  .sans{font-family:"IBM Plex Sans",system-ui,sans-serif}
+
+  .eyebrow{font-family:"IBM Plex Sans",sans-serif; font-size:11.5px; letter-spacing:.16em;
+    text-transform:uppercase; color:var(--bronze); font-weight:600; margin:0 0 20px}
+  h1{font-weight:500; font-size:clamp(32px,4.6vw,46px); line-height:1.14;
+    letter-spacing:-.015em; margin:0 0 10px; text-wrap:balance}
+  .sub{font-size:clamp(18px,2.2vw,21px); font-weight:300; font-style:italic;
+    color:var(--ink-2); margin:0 0 28px; line-height:1.45}
+  .byline{font-family:"IBM Plex Sans",sans-serif; font-size:14px; color:var(--ink-2);
+    border-top:1px solid var(--rule); border-bottom:1px solid var(--rule);
+    padding:14px 0; margin:0 0 36px}
+  .byline strong{color:var(--ink); font-weight:600}
+
+  h2{font-weight:600; font-size:24px; letter-spacing:-.01em; margin:52px 0 6px;
+    text-wrap:balance}
+  h2 .num{font-family:"IBM Plex Mono",monospace; font-size:15px; color:var(--bronze);
+    margin-right:12px; font-weight:500}
+  h3{font-family:"IBM Plex Sans",sans-serif; font-size:12px; letter-spacing:.14em;
+    text-transform:uppercase; color:var(--ink-3); font-weight:600; margin:34px 0 8px}
+  p{margin:0 0 17px}
+  a{color:var(--bronze)}
+  em{font-style:italic}
+  .han{font-family:"Noto Serif SC",serif; font-weight:600}
+  .ipa{font-family:"IBM Plex Mono",monospace; font-size:.92em; color:var(--bronze)}
+
+  sup.n{font-family:"IBM Plex Sans",sans-serif; font-size:10.5px; font-weight:600;
+    color:var(--bronze); vertical-align:super; line-height:0; padding:0 1px}
+  sup.n a{text-decoration:none}
+
+  .abstract{background:var(--surface); border:1px solid var(--rule); border-radius:3px;
+    padding:24px 26px; margin:0 0 8px; box-shadow:var(--shadow)}
+  .abstract h3{margin-top:0}
+  .abstract p:last-child{margin-bottom:0}
+  .abstract p{font-size:16px}
+
+  .box{background:var(--surface); border:1px solid var(--rule); border-radius:3px;
+    padding:20px 24px; margin:26px 0; box-shadow:var(--shadow)}
+  .box p:last-child{margin-bottom:0}
+  .keybox{border-left:3px solid var(--bronze); background:var(--surface);
+    padding:18px 22px; margin:26px 0; border-radius:0 3px 3px 0}
+  .keybox p:last-child{margin-bottom:0}
+
+  .tablewrap{overflow-x:auto; margin:22px 0 8px; border:1px solid var(--rule);
+    border-radius:3px; background:var(--surface); box-shadow:var(--shadow)}
+  table{border-collapse:collapse; width:100%; min-width:560px;
+    font-family:"IBM Plex Sans",sans-serif; font-size:14.5px}
+  thead th{font-size:10.5px; letter-spacing:.13em; text-transform:uppercase;
+    color:var(--ink-3); font-weight:600; text-align:left; padding:13px 15px 9px;
+    border-bottom:1px solid var(--rule-strong); background:var(--surface-2); white-space:nowrap}
+  tbody td{padding:11px 15px; border-bottom:1px solid var(--rule); vertical-align:baseline}
+  tbody tr:last-child td{border-bottom:none}
+  td.num{font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums;
+    white-space:nowrap}
+  .tnum{font-family:"IBM Plex Sans",sans-serif; font-weight:600; font-size:11px;
+    letter-spacing:.11em; text-transform:uppercase; color:var(--bronze);
+    margin-right:9px}
+  .prop{font-family:"IBM Plex Sans",sans-serif; color:var(--ochre); letter-spacing:.01em}
+  .pv{font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--ink-3);
+    white-space:nowrap}
+  td.ech{max-width:22ch; line-height:1.5}
+  td.lit{color:var(--ochre); font-family:"IBM Plex Mono",monospace; font-size:13px}
+  .good{color:var(--bronze); font-weight:500}
+  .han2{font-family:"Noto Serif SC",serif; font-weight:600; font-size:16px;
+    white-space:nowrap}
+  .han2 .py{display:block; font-family:"IBM Plex Sans",sans-serif; font-weight:400;
+    font-size:11.5px; letter-spacing:.03em; color:var(--ink-3); margin-top:3px}
+  .pill{display:inline-block; font-family:"IBM Plex Sans",sans-serif; font-size:11px;
+    font-weight:600; letter-spacing:.03em; padding:3px 9px; border-radius:11px;
+    white-space:nowrap; border:1px solid transparent}
+  .p-yes{color:var(--bronze); border-color:var(--bronze)}
+  .p-part{color:var(--ochre); border-color:var(--ochre)}
+  .p-no{color:var(--flag); border-color:var(--flag)}
+  .p-none{color:var(--ink-3); border-color:var(--rule-strong)}
+  .bad{color:var(--flag); font-weight:500}
+  .cap{font-family:"IBM Plex Sans",sans-serif; font-size:13px; color:var(--ink-3);
+    margin:0 0 30px; max-width:64ch; line-height:1.55}
+
+  ol.refs{font-family:"IBM Plex Sans",sans-serif; font-size:14px; line-height:1.6;
+    padding-left:22px; max-width:70ch}
+  ol.refs li{margin-bottom:11px; scroll-margin-top:24px}
+  ol.refs li:target{background:var(--surface-2); box-shadow:0 0 0 6px var(--surface-2)}
+  ol.notes{font-family:"IBM Plex Sans",sans-serif; font-size:15px; line-height:1.62;
+    padding-left:26px; max-width:68ch; counter-reset:none}
+  ol.notes li{margin-bottom:20px; scroll-margin-top:24px}
+  ol.notes li strong{color:var(--ink)}
+  ul{padding-left:22px; max-width:64ch}
+  li{margin-bottom:9px}
+
+  pre.tree{font-family:"IBM Plex Mono",monospace; font-size:12.5px; line-height:1.7;
+    background:var(--surface); border:1px solid var(--rule); border-radius:3px;
+    padding:20px 22px; overflow-x:auto; color:var(--ink-2); margin:18px 0 8px}
+  pre.tree .tc{color:var(--ink-3); font-style:italic}
+  code{font-family:"IBM Plex Mono",monospace; font-size:.9em; color:var(--bronze)}
+  h4.col{font-family:"IBM Plex Sans",sans-serif; font-size:13px; letter-spacing:.1em;
+    text-transform:uppercase; color:var(--ink-3); font-weight:600; margin:30px 0 6px}
+  hr{border:none; border-top:1px solid var(--rule); margin:56px 0}
+  .apx{background:var(--surface-2); border:1px solid var(--rule); border-radius:3px;
+    padding:30px 30px 34px; margin-top:20px}
+  :focus-visible{outline:2px solid var(--bronze); outline-offset:2px}
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+<div class="col">
+  <p class="eyebrow">Working paper · methods and data</p>
+  <h1>Reading Xiongnu names: a transcription channel for Chinese records of steppe languages</h1>
+  <p class="sub">Two new corpora, a statistical model of how Chinese scribes wrote foreign
+  names, and measured limits on what the surviving evidence can support.</p>
+  <div class="byline">
+    <strong>Aziz M. Uluğ, PhD</strong> &nbsp;·&nbsp; Cortechs.ai &nbsp;·&nbsp; 26 August 2026<br>
+    <span style="color:var(--ink-3)">Draft for discussion. Written for readers outside
+    computational linguistics; Appendix&nbsp;A explains every technical term; Appendix&nbsp;B collects the author's own speculative readings, which are not results.</span>
+  </div>
+</div>
+
+<div class="abstract col">
+  <h3>Abstract</h3>
+  <p>Chinese histories record hundreds of Inner Asian names — Xiongnu rulers, Turkic
+  titles, tribal designations — in Chinese characters chosen for their sound. Because
+  Chinese pronunciation has changed enormously in two thousand years, the modern Mandarin
+  readings of those characters bear little relation to what the scribes heard. This work
+  builds a statistical model of the transcription process itself, trains it on cases where
+  both sides are known, and measures what it can and cannot recover.</p>
+  <p>Four things came out. First, three machine-readable training sets. Two are corpora
+  that did not previously exist: 9,329 Chinese–Mongolian transcription pairs from the
+  <em>Secret History of the Mongols</em>, and 594 Chinese–Uyghur pairs from Ligeti's edition
+  of a Ming glossary. The third is 1,017 verified Chinese–Sanskrit pairs, separated out of a
+  27,110-entry Buddhist dictionary that mixes phonetic spellings with translations.
+  Second, two medieval Turkic dictionaries as machine-readable lexicons with glosses, for which no downloadable dataset could be found:
+  6,820 headwords with glosses from the Türk Dil Kurumu index to Kāşgarî's <em>Dīwān Lughāt
+  al-Turk</em> (1072–77), and 2,110 Cuman headwords with Latin glosses from Kuun's 1880 edition
+  of the <em>Codex Cumanicus</em>. Third, a working model — trained in-domain it reconstructs
+  31% of held-out Turkic words exactly and 84% within two sounds. Fourth, and most useful, two negative results with
+  measured ceilings: determining <em>which language</em> a name belongs to is not
+  supportable on available reference data, and full pronunciation reconstruction of the
+  Xiongnu names is not supportable at the density of evidence that survives —
+  1.4 observations per character, against the 60 that made the same method work on
+  Mongolian.</p>
+  <p>What is supportable is narrower and precise. Initial consonants carry across the
+  1,200-year gap between the Chinese sources at about 79% fidelity, and nasal endings at
+  99%; stop endings do not carry at all. The paper closes by arguing that Göktürk-era
+  material, where the source language is not in dispute, is a far better target than the
+  Xiongnu and would supply the training data this project lacked.</p>
+</div>
+
+<h2 class="col"><span class="num">1</span>The problem</h2>
+<div class="col">
+  <p>Chinese has no alphabet. To write a foreign name, a Chinese scribe picks characters
+  that <em>sound</em> approximately right in his own speech. The Han historians did this
+  constantly: the Shiji, Hanshu and Hou Hanshu are full of Xiongnu rulers, titles and
+  tribal names spelled out this way.</p>
+
+  <p>The difficulty is that Chinese pronunciation has moved a very long way since. Take
+  <span class="han">突厥</span>, the name of the Türk people. Today a Mandarin speaker
+  reads it <em>Tūjué</em>, which sounds nothing like <em>Türk</em>. But in the Tang
+  dynasty, when it was written, those characters were pronounced something like
+  <span class="ipa">*dwət-kuat</span> — and that <em>does</em> sound like Türk. The final
+  consonants that carry the whole resemblance, the <em>t</em> and the <em>k</em>,
+  disappeared from Chinese a thousand years ago.</p>
+
+  <div class="keybox">
+    <p>So the modern readings are not merely imprecise. They are systematically misleading,
+    and anyone who reasons from them is reasoning from a corrupted signal. The first
+    requirement of any serious attempt is to work with reconstructed period
+    pronunciations<sup class="n"><a href="#n1">1</a></sup> rather than modern ones.</p>
+  </div>
+
+  <p>Even with the right period readings, a second problem remains. The Chinese spelling
+  tells you what the <em>scribe</em> said, not what the <em>foreigner</em> said. The scribe
+  had a limited inventory of syllables, could not pronounce sounds his language lacked, and
+  dropped or added material to fit. Recovering the original from the transcription is an
+  inverse problem: you observe a degraded signal and want the source.</p>
+</div>
+
+<h2 class="col"><span class="num">2</span>What we built: the channel</h2>
+<div class="col">
+  <p>The core object is what we call a <strong>transcription channel</strong>. It is a
+  statistical model of the scribe: given a sound in a foreign name, which Chinese
+  characters was he likely to write?<sup class="n"><a href="#n2">2</a></sup></p>
+
+  <div class="box">
+    <p><strong>An analogy for readers from imaging or signal processing.</strong> The
+    channel is a forward model — a point spread function. The "object" is the spoken
+    foreign name; the "acquisition system" is a scribe with a restricted phoneme inventory
+    who blurs it, truncates its edges and merges detail he cannot resolve. Reconstruction
+    is deconvolution, and every result below is a statement about how much of the object
+    survives the transfer function.</p>
+  </div>
+
+  <p>The channel is <em>learned</em>, not designed. Feed it examples where both sides are
+  known — a foreign word and the Chinese characters used to write it — and it works out
+  the correspondences on its own, including which characters conventionally marked sounds
+  Chinese did not have.<sup class="n"><a href="#n3">3</a></sup></p>
+
+  <p>One design choice mattered more than any other. The obvious approach keys the model on
+  the <em>character</em>. That fails here, because there are thousands of characters and
+  only a handful of examples of each. Keying it instead on the character's <em>reconstructed
+  reading</em> pools evidence across every character pronounced the same way, and lifted
+  performance by 16 points at no extra data.<sup class="n"><a href="#n4">4</a></sup></p>
+</div>
+
+<h2 class="col"><span class="num">3</span>Three corpora and two lexicons</h2>
+<div class="col">
+  <p>A learned model needs examples, and for this problem almost none existed in
+  machine-readable form. Three transcription corpora were built — two extracted from sources that had never
+  been digitised, and one separated out of a dictionary that mixed usable examples with
+  unusable ones. Two further datasets of a different kind, medieval Turkic dictionaries rather
+  than transcription pairs, were built later for the tests in &sect;5; they are described at the
+  end of this section because they are outputs of the work in the same sense that the corpora
+  are.</p>
+</div>
+
+<h3 class="col">Corpus 1 — Secret History of the Mongols</h3>
+<div class="col">
+  <p>The <em>Secret History</em> is a thirteenth-century Mongolian chronicle that survives
+  in a remarkable form: the entire Mongolian text written out in Chinese characters, with a
+  romanised reading printed alongside. It is a continuous running transcription, not a
+  dictionary — which matters, because dictionaries mix phonetic spellings with translated
+  ones.</p>
+  <p><strong>9,329 unique pairs</strong>, 37,250 character tokens over 535 distinct
+  characters. Extracted from an aligned digital edition. As a check on the extraction,
+  93.4% of pairs agree within ±1 between the number of Chinese characters and the number of
+  syllables in the Mongolian — the expected signature of a genuine syllable-by-syllable
+  transcription.</p>
+</div>
+
+<h3 class="col">Corpus 2 — Ligeti's Sino-Uyghur vocabulary</h3>
+<div class="col">
+  <p>A Ming-dynasty Chinese–Uyghur glossary, edited and published by Louis Ligeti in 1966
+  and 1969. Ligeti prints no Chinese characters; he gives the Chinese transcription in a
+  French romanisation, which turned out to suit the reading-keyed model perfectly.</p>
+  <p><strong>594 unique pairs</strong>, 217 distinct Chinese syllables. Small, but it is
+  the only Turkic-language transcription corpus of any size in machine-readable form.</p>
+
+  <div class="box">
+    <p><strong>Why the coda markers matter.</strong> Ming Chinese had lost most final
+    consonants, so scribes marked foreign endings with an extra <em>character</em> instead:
+    <span class="han">兒</span> for a final <em>-r</em>, <span class="han">思</span> for a
+    final <em>-s</em>. These are the two most frequent syllables in the corpus, at 118 and
+    61 occurrences. The information the language had lost was re-encoded in the spelling
+    system — which is why the model works despite the loss.</p>
+  </div>
+</div>
+
+<h3 class="col">Corpus 3 — verified Buddhist Sanskrit transcriptions</h3>
+<div class="col">
+  <p>The largest body of Chinese transcription anywhere is Buddhist: for centuries Chinese
+  translators wrote out Sanskrit terms phonetically, and we know the Sanskrit exactly. A
+  digitised dictionary of this material already exists — the Fo Guang Shan / NTI
+  dictionary, 27,110 entries.</p>
+
+  <p>It cannot be used as it stands, and the reason is the interesting part. Chinese
+  rendered foreign words two entirely different ways, and the dictionary mixes them:</p>
+
+  <ul>
+    <li><strong>音譯</strong> — <em>phonetic</em>. <span class="han">釋迦牟尼</span> for
+    <em>śākyamuni</em>: the characters were chosen for sound, and mean nothing relevant.</li>
+    <li><strong>意譯</strong> — <em>semantic</em>. <span class="han">大乘</span> for
+    <em>mahāyāna</em>: literally "great vehicle", a translation of the meaning with no
+    relation to the sound.</li>
+  </ul>
+
+  <p>Only the first kind is usable. Training a sound model on translations would teach it
+  correspondences that do not exist. Separating them turned out to be genuinely hard, and
+  two approaches failed before one worked:</p>
+
+  <ul>
+    <li><strong>Character lists</strong> — collect the characters known to be used
+    phonetically, then accept any word made of them. This swallowed common characters like
+    <span class="han">佛</span>, <span class="han">天</span>, <span class="han">王</span>,
+    after which every entry passed and translations such as
+    <span class="han">福慧</span> = <em>puṇya</em> slipped into the training set.</li>
+    <li><strong>Character exclusivity</strong> — score each character by what fraction of
+    its uses are phonetic. This punished precisely the characters that do double duty,
+    which is most of them, and collapsed the set to 67 usable pairs.</li>
+    <li><strong>Phonetic verification</strong> — what worked. Line each character up with
+    its Sanskrit syllable and check the reconstructed Later Han reading against it.
+    <span class="han">摩</span> was <span class="ipa">*mɑ</span> and its syllable is
+    <em>ma</em> ✓. In <span class="han">福慧</span>, <span class="han">慧</span> was
+    <span class="ipa">*ɦuei</span> against <em>ṇya</em> ✗ — so the word is rejected.</li>
+  </ul>
+
+  <p><strong>1,017 verified pairs</strong>, from 27,110 candidates.</p>
+
+  <div class="box">
+    <p><strong>An independent check that it worked.</strong> The method also produces, as a
+    by-product, a table of which Chinese characters were used for which Sanskrit sounds —
+    845 character-to-sound mappings, induced from the data with no prior list supplied:</p>
+    <p style="font-family:'IBM Plex Mono',monospace; font-size:14px; line-height:1.9; margin-top:14px">
+      k &nbsp;&nbsp;← <span class="han">迦 俱 羯 伽 拘 緊 雞 計 髻 吉</span><br>
+      r &nbsp;&nbsp;← <span class="han">羅 利 盧 囉 樓 蘭 留 洛 婁 勒</span><br>
+      m &nbsp;← <span class="han">摩 曼 牟 蜜 莫 末 目 彌 忙 莽</span><br>
+      vowel ← <span class="han">阿 優 伊 鬱 鄔 烏 鴦 哩 一 盎</span>
+    </p>
+    <p style="margin-top:14px">This is the standard Buddhist transcription character
+    inventory, recovered from scratch. <span class="han">阿</span> for <em>a</em>,
+    <span class="han">伊</span> for <em>i</em>, <span class="han">烏</span> for <em>u</em>
+    fall out on their own. Getting that back is strong evidence the separation is finding
+    something real rather than an artefact of the filter.</p>
+  </div>
+
+  <p>This corpus is a different kind of output from the other two — it was separated out of
+  an existing digital source rather than extracted from an undigitised one. Its value is
+  that it is <em>verified</em>: every pair has been checked for phonetic plausibility, and
+  the 7,480 rejected entries are retained separately so the decision can be audited.</p>
+</div>
+
+<h3 class="col">Lexicons 1 and 2 — the <em>Dīwān Lughāt al-Turk</em> and the <em>Codex Cumanicus</em></h3>
+<div class="col">
+  <p>The three corpora above are all of the same shape: a foreign word paired with the Chinese
+  characters used to write it. The tests in &sect;5 needed something different — dictionaries of
+  Turkic itself, from near the period, against which a reading could be looked up. No
+  downloadable dataset of either was found, so both were extracted. Uppsala's Middle Turkic
+  Database is building digital editions of Middle Turkic sources under CC BY 4.0 and may in
+  time supersede this, but at the time of writing its corpus is Middle Karaim and covers
+  neither of these works.</p>
+
+  <p><strong>Dīwān Lughāt al-Turk</strong> (1072–77) is the earliest dictionary of any Turkic
+  language, compiled in Baghdad by Kāşgarlı Mahmud. The Türk Dil Kurumu index volume has a
+  machine-readable text layer; parsing it yields <strong>6,820 headwords</strong>, each with
+  Kāşgarî's Turkish gloss and his volume-and-page references, as
+  <code>dlt_lexicon.csv</code>.<sup class="n"><a href="#r11">11</a></sup></p>
+
+  <p><strong>The Codex Cumanicus</strong> (c. 1300) records Kipchak Turkic, collected by Italian
+  merchants and German missionaries — outsiders writing down a language they did not speak,
+  which is the same position the Chinese scribes were in. Géza Kuun's 1880 edition prints a
+  Cumano-Latin vocabulary at pages 395–455 of the scan; parsing that section yields
+  <strong>2,110 headwords</strong> with their Latin glosses and codex page references, as
+  <code>cuman_lexicon.csv</code>. The Persian and German vocabularies that follow were
+  deliberately skipped: the Persian one in particular would have injected Iranian words into a
+  Turkic lexicon and quietly inflated every match rate computed
+  from it.<sup class="n"><a href="#r12">12</a></sup></p>
+
+  <div class="box">
+    <p><strong>They differ in what can be done with them.</strong> Kuun's edition is from 1880
+    and is public domain, so <code>cuman_lexicon.csv</code> can be released with this work — it
+    is the only derived dataset here with no restriction on it at all. The Kāşgarî index is a
+    modern Türk Dil Kurumu edition, so <code>dlt_lexicon.csv</code> inherits whatever applies to
+    that edition; it is documented and reproducible from the source, but not redistributed here.
+    The extraction script is released in both cases, which is what makes the numbers checkable
+    either way.</p>
+  </div>
+
+  <p>Both are byproducts in origin and neither was the goal, but a 6,820-entry Kāşgarî and a
+  2,110-entry Cuman lexicon in CSV are useful well beyond this paper — for anyone who wants to
+  search medieval Turkic vocabulary by form rather than by page.</p>
+</div>
+
+<h2 class="col"><span class="num">4</span>What was measured</h2>
+<div class="col">
+  <p>Every figure below is on <strong>held-out data</strong> — examples the model never saw
+  during training.<sup class="n"><a href="#n5">5</a></sup> "Exact" means the whole word was
+  reconstructed correctly; "within 2" means no more than two individual sounds were
+  wrong.<sup class="n"><a href="#n6">6</a></sup></p>
+</div>
+
+<div class="tablewrap">
+<table>
+  <thead><tr><th>Trained on → tested on</th><th>Exact</th><th>Within 1</th><th>Within 2</th></tr></thead>
+  <tbody>
+    <tr><td>Mongolian → Mongolian (unseen chapters)</td><td class="num good">36.9%</td><td class="num">66.3%</td><td class="num">87.5%</td></tr>
+    <tr><td>Turkic → Turkic</td><td class="num good">30.6%</td><td class="num">68.2%</td><td class="num">83.5%</td></tr>
+    <tr><td>Sanskrit → Sanskrit</td><td class="num">25.0%</td><td class="num">57.9%</td><td class="num">77.0%</td></tr>
+    <tr><td>Sanskrit → <em>Turkic</em> (wrong training language)</td><td class="num bad">3.1%</td><td class="num bad">6.9%</td><td class="num bad">27.5%</td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table 1</span>Each row is one experiment: a channel is
+trained on part of a corpus and then asked to recover source words it has never seen.
+<strong>Row 1</strong> trains on some chapters of the <em>Secret History</em> and tests on
+chapters held back entirely — a document-level split, so no word from a test chapter
+influenced training. <strong>Rows 2 and 3</strong> do the same within the Turkic and Sanskrit
+corpora, but those are glossaries with no document structure, so the held-out portion is a
+random sample of pairs rather than a set of chapters; the model sees most of the pairs and is
+scored on the remainder. Rows 1–3 therefore measure how well the method works when the
+training and test material come from the same source and the same language. <strong>Row 4</strong>
+is the diagnostic: the channel is trained entirely on Sanskrit and then asked to read Turkic,
+so the source language is wrong. A model trained on Buddhist Sanskrit transcriptions barely
+functions on Turkic ones — 3.1% exact against 30.6% — which is the clearest evidence that the
+channel learns something specific to the language it was trained on, not a generic
+Chinese-to-anything mapping.</p>
+
+<div class="col">
+  <p>A second measurement explains everything else. Performance tracks one variable almost
+  perfectly: how many times the model has seen each unit.</p>
+</div>
+
+<div class="tablewrap">
+<table>
+  <thead><tr><th>Corpus</th><th>Observations per character</th><th>Exact</th><th>Within 2</th></tr></thead>
+  <tbody>
+    <tr><td>Mongolian, full</td><td class="num">60.8</td><td class="num">36.4%</td><td class="num">89.3%</td></tr>
+    <tr><td>Mongolian, 2,000 pairs</td><td class="num">23.8</td><td class="num">13.5%</td><td class="num">70.6%</td></tr>
+    <tr><td>Mongolian, 500 pairs</td><td class="num">9.5</td><td class="num">7.3%</td><td class="num">53.5%</td></tr>
+    <tr><td>Sanskrit, 858 pairs</td><td class="num">5.0</td><td class="num">8.8%</td><td class="num">39.2%</td></tr>
+    <tr><td><strong>Xiongnu names and titles</strong></td><td class="num bad">1.4</td><td class="num">—</td><td class="num">—</td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table 2</span>The Xiongnu corpus is 112 character-tokens over 81 distinct characters.
+At roughly one observation per character there is nothing to learn from — an insufficient
+statistics problem, not a modelling one.</p>
+
+<h2 class="col"><span class="num">5</span>What the evidence cannot support</h2>
+<div class="col">
+  <p>Two claims commonly made from this kind of material turned out not to hold up, and
+  establishing that carefully is arguably the most useful output of the work.</p>
+
+  <h3>The objection is not new, and not the author's</h3>
+  <p>A reader from historical linguistics will recognise everything in this section, and it is
+  worth saying plainly that none of it is this paper's invention. Gerhard Doerfer made the
+  argument in 1973, in <em>Lautgesetz und Zufall</em> — "Sound Law and Chance" — a study of
+  what he called <em>omnicomparatism</em>, the practice of relating languages across great
+  distances on the strength of resemblances.<sup class="n"><a href="#r5">5</a></sup>
+  Chance produces such resemblances in quantity, was Doerfer's case, and comparativists have a
+  repertoire of devices — he called them tricks — for making weak matches look strong. He
+  included deliberately absurd comparisons of his own to show how easily the devices work.</p>
+
+  <p>A review in <em>Anthropos</em> the following year pressed the point into a question this
+  project can answer with numbers.<sup class="n"><a href="#r13">13</a></sup> Sound laws, the
+  reviewer observed, are not deterministic but probabilistic, and the literature never says how
+  probabilistic they are permitted to be. <em>Is it a sound law if 49% of cases show the same
+  correspondence and 51% show something else?</em> Where does regularity stop? The reviewer
+  proposed three classes: deterministic laws, which hold without exception; strong
+  probabilistic laws, where one correspondence occurs in more than half of cases; and weak
+  probabilistic laws, where one correspondence is merely the most common.</p>
+
+  <p>Table 5 answers that question for this material — with confidence intervals, and with a
+  correction to the reviewer's own threshold that only counting could have revealed. The answer
+  is set out where the measurements are, in &sect;6.</p>
+
+  <p>The reviewer also pointed to where the mathematics already lay: the matching problem of
+  Montmort (1708), which asks how often two shuffled sequences agree by accident. The
+  permutation nulls used throughout this paper are that problem solved by simulation instead of
+  by formula. Nothing here is methodologically new. What is new is only that the numbers are
+  computed on this material rather than asserted — which is what Doerfer was asking for.</p>
+
+  <h3>Determining which language a name belongs to</h3>
+  <p>The obvious application is settling whether the Xiongnu ruling house spoke Turkic,
+  Yeniseian, Mongolic or something else. We built the comparison properly — score how well
+  each candidate language explains the transcription, and compare<sup class="n"><a href="#n8">8</a></sup>.</p>
+  <p>It failed its own control tests. Given Ming Uyghur transcriptions whose language is
+  <em>not</em> in dispute, the method identified them as Turkic 8.6% of the time against a
+  16.7% chance baseline — worse than guessing. A follow-up experiment handed the language
+  models the true source word, bypassing the Chinese entirely, to establish an upper bound.
+  The best result anywhere across 24 configurations was 69% against a 50% baseline, and two
+  configurations came out <em>below</em> chance, indicating systematic bias rather than mere
+  weakness.</p>
+  <p>The cause is not fixable by better modelling. Turkic, Mongolic and Tungusic are
+  phonotactically near-identical — they permit the same sound patterns — and roughly half
+  the available reference vocabulary is single-syllable words, where the best distinguishing
+  feature (vowel harmony) is undefined. This is a fact about the languages.</p>
+
+  <h3>Reconstructing the Xiongnu names in full</h3>
+  <p>At 1.4 observations per character, whole-word reconstruction tops out around 8% exact.
+  A near-miss during the work is worth recording: an earlier version passed a quality gate
+  based on same-domain accuracy and printed a confident table of Xiongnu reconstructions.
+  Checked against out-of-domain accuracy — the figure the Xiongnu material actually inherits
+  — the true reliability was 3.1%. The output looked entirely plausible. It was noise.</p>
+</div>
+
+<h3 class="col">Matching the readings to modern Turkic words</h3>
+<div class="col">
+  <p>There is an obvious next step, and it is the one every reader wants to take. Once
+  <span class="han">稽粥</span> is written out as <em>kei çuk</em>, it is hard not to hear
+  Turkish <em>küçük</em>, "small, younger" — a plausible enough thing to call a son. The
+  method is old and simple: look the reading up in a modern dictionary and see what it hits.</p>
+
+  <p>The trouble is that it always works. Modern Turkish has some twenty thousand words in
+  common use; a target with three consonants has hundreds of near neighbours in it. So the
+  question is never "is there a match" — there is always a match — but "is there more of a
+  match than a string that cannot mean anything would get?" The same permutation logic used
+  everywhere else here measures that: build pseudo-names by resampling Later Han syllables
+  from these same 39 names, so they have the right shape and the right sound inventory and no
+  meaning at all, then run them through the identical
+  search.<sup class="n"><a href="#n10">10</a></sup></p>
+
+  <p>Two objections arrive immediately, and both are testable rather than arguable. First:
+  most of the matches are loanwords — <em>kauçuk</em> is French <em>caoutchouc</em>, and a
+  second-century-BCE steppe name cannot echo a word Turkish borrowed in the nineteenth
+  century; so filter to native Turkic vocabulary. Second: search Turkish <em>and</em> Kazakh
+  together, since two dictionaries should beat one. Six lexicons were built and each was given
+  its own null.</p>
+</div>
+
+<div class="tablewrap">
+<table>
+  <thead><tr>
+    <th>Lexicon</th><th>Entries</th><th>Pseudo-names<br>finding a match</th>
+    <th>Median score<br>for a pseudo-name</th><th>Names beating<br>chance, p ≤ 0.05</th>
+  </tr></thead>
+  <tbody>
+    <tr><td>Turkish, common use</td><td class="num">21,721</td><td class="num">231 / 250</td><td class="num">0.156</td><td class="num">2 of 36</td></tr>
+    <tr><td>Kazakh</td><td class="num">53,182</td><td class="num">239 / 250</td><td class="num">0.183</td><td class="num">0 of 36</td></tr>
+    <tr><td>Union — Turkish + Kazakh</td><td class="num">73,406</td><td class="num">236 / 250</td><td class="num bad">0.117</td><td class="num">2 of 36</td></tr>
+    <tr><td>Turkish, loan-shaped words removed</td><td class="num">14,876</td><td class="num">233 / 250</td><td class="num">0.200</td><td class="num">2 of 36</td></tr>
+    <tr><td>Intersection — in both languages</td><td class="num">1,497</td><td class="num">219 / 250</td><td class="num good">0.329</td><td class="num">3 of 35</td></tr>
+    <tr><td>Intersection, loan-shaped removed</td><td class="num">1,153</td><td class="num">190 / 250</td><td class="num good">0.372</td><td class="num">3 of 34</td></tr>
+    <tr><td><strong>Dīwān Lughāt al-Turk</strong>, 1072–77</td><td class="num">6,337</td><td class="num">276 / 300</td><td class="num good">0.200</td><td class="num">3 of 36</td></tr>
+    <tr><td><strong>Codex Cumanicus</strong>, c. 1300 (Kuun 1880)</td><td class="num">2,067</td><td class="num">275 / 300</td><td class="num good">0.242</td><td class="num">3 of 36</td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table 3</span>A lower score is a closer match, so a
+<em>lower</em> median in column four means the lexicon is noisier — meaningless strings are
+finding better matches in it. Read that column as the price of admission. Even in the
+cleanest lexicon, three-quarters of guaranteed-meaningless strings still find a dictionary
+word. The last row is a different kind of lexicon and is discussed below.</p>
+
+<div class="col">
+  <p>The loanword objection is right, and the filter does what it should: dropping words that
+  begin <em>f-, l-, r-, z-, j-, v-, h-</em>, contain <em>f</em> or <em>j</em>, end in a voiced
+  stop, or break vowel harmony removes <em>domino</em>, <em>makedon</em>, <em>kantin</em> and
+  <em>linyit</em>, and the noise floor rises accordingly (0.156&nbsp;→&nbsp;0.200). It is a
+  phonotactic proxy, not an etymological dictionary, and it is porous — <em>kauçuk</em> and
+  <em>tango</em> both survive it, being back-harmonic and cluster-free. But cleaning the
+  lexicon did not turn up any name that was not already there.</p>
+
+  <p>The combining objection has a sharper answer, and it is the reverse of the intuition.
+  <strong>Pooling the two dictionaries makes the result worse.</strong> The union finds more
+  matches for the real names, as expected — but it finds more for the meaningless strings too,
+  and slightly faster: the noise floor falls from 0.156 to 0.117 and the number of names
+  clearing chance does not move. A larger haystack does not help you find a needle; it just
+  contains more hay. What <em>does</em> help is the opposite operation. Keeping only words
+  present in <em>both</em> languages cuts the lexicon to 1,497 entries and lifts the noise
+  floor to 0.329, because a word has to survive two independent borrowing histories to get in.</p>
+
+  <p>Except that this cure has its own disease. The intersection is over identical spellings,
+  and cognates diverge: Turkish <em>tanrı</em> and Kazakh <em>täñir</em> are the same word and
+  do not match as strings, so both fall out. The intersection keeps <em>domino</em> and
+  <em>kauçuk</em> — borrowed into both languages recently and spelled alike — while discarding
+  the deep Turkic inheritance it was built to isolate. It enriches for shared modern loans.</p>
+
+  <p>Which brings the two known answers back, now across all six lexicons:</p>
+
+  <ul>
+    <li><span class="han">撑犁</span> is the strongest datum in the corpus — the
+    <em>Hanshu</em> glosses it <span class="han">天</span> "heaven", so <em>tengri</em>, whose
+    modern Turkish descendant is <em>Tanrı</em>, is as close to a known answer as this material
+    offers. In every lexicon that contains <em>tanrı</em>, the search returns
+    <em>dengeli</em>, "balanced", at 0.03 and puts <em>tanrı</em> at 0.62 — twenty times worse.
+    In the two intersection lexicons <em>tanrı</em> is absent altogether.</li>
+    <li><span class="han">頭曼</span> has the most widely accepted etymology of any Xiongnu
+    name, <em>tuman / tümen</em>. Only in the smallest, most heavily filtered lexicon does
+    <em>tümen</em> appear in the top three at all — third, at 0.18, behind <em>duman</em>
+    "smoke" at 0.04 and <em>ataman</em> at 0.16.</li>
+  </ul>
+
+  <p>And the example that started this: <em>kei çuk</em> gives <em>küçük</em> at 0.083 — but
+  it gives <em>kaçak</em> "fugitive" and <em>kaçık</em> "crazy" at exactly the same 0.083, and
+  <em>kauçuk</em> at 0.056, which is better. The search cannot prefer the meaningful one,
+  because it does not know what any of them mean.</p>
+
+  <div class="keybox">
+    <p>So the honest summary is that the dictionary can be cleaned, and cleaning it helps —
+    the noise floor more than doubles between the raw union and the filtered intersection. It
+    still is not enough. In no lexicon does either known answer come first, and in the lexicon
+    where the noise floor is highest, the correct answer has been filtered out along with the
+    noise. A procedure that cannot recover the answers we already have cannot be trusted with
+    the ones we do not.</p>
+    <p>An earlier draft carried a column of dictionary matches alongside the name tables. It
+    has been removed. Of thirty-nine entries, exactly one cleared p ≤ 0.05 against modern
+    Turkish, so the column was thirty-eight blanks and one coin flip — a display of the noise
+    floor that read like a display of results. The few that did clear the bar are listed
+    below, where the count can be seen next to what chance predicts.</p>
+  </div>
+
+  <p>For the record, these are every name whose best match beat chance at p ≤ 0.05 in any
+  lexicon:</p>
+
+  <ul>
+    <li><strong>Modern Turkish</strong> — <span class="han">羯</span> (Jie) →
+    <em>kıta</em>, p = 0.05. One of thirty-six.</li>
+    <li><strong>Kazakh</strong> — <span class="han">頭曼</span> → <em>domna</em>
+    (a Russian loan, "blast furnace"), p = 0.04; <span class="han">羯</span> →
+    <em>ıkta</em>, p = 0.04. Two of thirty-six.</li>
+    <li><strong>Dīwān Lughāt al-Turk</strong> — <span class="han">稽粥</span> →
+    <em>keçik</em> "bridge, ford", p = 0.023; <span class="han">屠耆</span> →
+    <em>adıg</em> "bear", p = 0.02; <span class="han">胡祿</span> → <em>oglak</em> "kid,
+    young goat", p = 0.05. Three of thirty-six.</li>
+  </ul>
+
+  <p>One, two and three out of thirty-six, at a threshold of one in twenty, is one, two and
+  three coin flips. The list is given because a reader is entitled to see it, not because any
+  entry on it is a finding. <em>Domna</em>, a nineteenth-century Russian industrial borrowing
+  standing as the best match for the founder of the Xiongnu state, is a useful reminder of what
+  this procedure is actually measuring.</p>
+</div>
+
+<h3 class="col">The same search against medieval dictionaries</h3>
+<div class="col">
+  <p>Both objections above share a deeper one that neither addresses: modern Turkish is the
+  wrong lexicon in the first place. It is two thousand years downstream of the Xiongnu, and
+  every word in it has had that long to be replaced, borrowed or shifted. The obvious
+  correction is to search a dictionary from nearer the period.</p>
+
+  <p>Kāşgarî's <em>Dīwān Lughāt al-Turk</em>, compiled in Baghdad between 1072 and 1077, is
+  the earliest dictionary of any Turkic language.<sup class="n"><a href="#r11">11</a></sup> It
+  is still a thousand years after the Xiongnu, but it is a thousand years closer, it contains
+  no European loans whatever, and it is small — which, by the logic of the table above, raises
+  the noise floor for free. It also carries glosses, so a candidate arrives with its meaning
+  attached rather than being interpreted afterwards. The Turkish Language Society index volume
+  has a machine-readable text layer; 6,820 headwords were extracted from it, of which 6,337
+  are single words.<sup class="n"><a href="#n11">11</a></sup></p>
+
+  <p>The noise floor rose to 0.200, as predicted. More to the point, the two known answers came
+  back — both are in Kāşgarî, and both now appear.</p>
+
+  <p>A second medieval lexicon sharpens the picture further. The <em>Codex Cumanicus</em>,
+  compiled around 1300, records Kipchak Turkic — a different branch from Kāşgarî's Karakhanid
+  — and was compiled by Italian merchants and German missionaries, that is, by outsiders
+  writing down a language they did not speak, which is precisely the situation the Chinese
+  scribes were in. Géza Kuun's 1880 edition prints a Cumano-Latin vocabulary; 2,110 entries
+  were extracted from it, giving 2,067 search forms.<sup class="n"><a href="#r12">12</a></sup>
+  Being smaller again, it raises the noise floor again, to 0.242 — the highest of the six
+  lexicons tested.</p>
+</div>
+
+<div class="tablewrap">
+<table>
+  <thead><tr>
+    <th>Name</th><th>Reading</th><th>Lexicon</th><th>Rank</th><th>Candidate</th>
+    <th>Gloss in that dictionary</th>
+  </tr></thead>
+  <tbody>
+    <tr><td class="han2" rowspan="3">撑犁<span class="py">chengli</span></td>
+      <td class="num" rowspan="3">ḍaŋ lei</td>
+      <td>Modern Turkish</td><td class="num bad">—</td><td class="num">not returned</td>
+      <td style="color:var(--ink-3)"><em>dengeli</em> "balanced" came first</td></tr>
+    <tr><td>Dīwān Lughāt al-Turk</td><td class="num good">4th</td><td class="num">tengri</td>
+      <td><em>gök, sema</em> — "sky, heaven"</td></tr>
+    <tr><td>Codex Cumanicus</td><td class="num good">2nd</td><td class="num">tengri</td>
+      <td><em>deus</em> — "God"</td></tr>
+    <tr><td class="han2" rowspan="3">頭曼<span class="py">Touman</span></td>
+      <td class="num" rowspan="3">do mɑnᶜ</td>
+      <td>Modern Turkish</td><td class="num">—</td><td class="num">duman</td>
+      <td>"smoke"; <em>tümen</em> not in the top three</td></tr>
+    <tr><td>Dīwān Lughāt al-Turk</td><td class="num good">3rd</td><td class="num">tümen</td>
+      <td><em>pek çok</em> — "very many"</td></tr>
+    <tr><td>Codex Cumanicus</td><td class="num">2nd</td><td class="num">touman</td>
+      <td><em>nebula</em> — "mist"; <em>tümen</em> absent from this lexicon</td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table 4</span>The <em>Hanshu</em> glosses
+<span class="han">撑犁</span> as <span class="han">天</span> "heaven". Kāşgarî in Baghdad and
+the compilers of the Codex in the Crimea, working a thousand years later and with no knowledge
+of the Chinese record, gloss <em>tengri</em> as "sky, heaven" and as <em>deus</em>. The
+attestations are independent, and the search connects them — which is exactly what it failed
+to do against a modern dictionary, and it connects them better the older and smaller the
+lexicon gets.</p>
+
+<div class="col">
+  <p>The second row repays attention, because it cuts against the paper's own table. The
+  accepted etymology of <span class="han">頭曼</span> is <em>tümen</em>, "ten thousand", and
+  Table 8 marks it consistent. But <em>tümen</em> is absent from the Cuman vocabulary
+  altogether, and in every lexicon that has both, the form the search actually prefers belongs
+  to a different lexeme: modern Turkish <em>duman</em>, Kāşgarî's <em>tuman</em>
+  "<em>duman, sis</em>", Cuman <em>touman</em> "<em>nebula</em>" — smoke, fog, mist, one word
+  across three lexicons and a thousand years. The difference between <em>tuman</em> and
+  <em>tümen</em> is a vowel, and &sect;6 puts vowel recovery at 50%, so this does not settle
+  anything. It is worth recording only because the alternative is never mentioned in the
+  literature, and because a name meaning "mist" or "dust-cloud" is no less plausible for a
+  steppe ruler than one meaning "ten thousand".</p>
+</div>
+
+
+
+<div class="col">
+  <p>Two corrections were needed to get this far, and both are worth recording because both
+  were silently wrong before. Later Han Chinese had no <span class="ipa">r-</span>; step 15's
+  correspondence table shows a source <span class="ipa">r-</span> written with a Chinese
+  <span class="ipa">l-</span> character in 12 of 14 attestations across the three corpora. An
+  <span class="ipa">l</span> facing an <span class="ipa">r</span> is therefore not a mismatch
+  but the expected spelling, and pricing it by the generic rule was penalising the correct
+  answer. Separately, a bug in the segmenter was discarding the velar nasal
+  <span class="ipa">ŋ</span> whenever it appeared as a single character rather than as
+  <em>ng</em> — which removed <em>tengri</em> from consideration entirely. Both fixes came from
+  looking at why a known answer was missing, which is the only reliable way to find this class
+  of error.</p>
+
+  <div class="keybox">
+    <p><strong>What has and has not changed.</strong> Neither known answer ranks first.
+    <span class="han">撑犁</span> still goes to <em>dangal</em> "chaff-cutter" on a perfect
+    consonant match, and <span class="han">頭曼</span> to <em>tuman</em> "smoke" — and three of
+    thirty-six names clearing p ≤ 0.05 is still about what thirty-six coin flips give. So
+    &sect;5 stands: this does not reconstruct the Xiongnu names. What changed is narrower and
+    still worth having. Against a period-appropriate lexicon the correct answers are visible
+    in the top four instead of absent, which means the failure in the modern run was partly
+    the lexicon's fault and not only the method's. That is a difference between "the signal is
+    not there" and "we were looking in the wrong place", and it is worth knowing which.</p>
+  </div>
+</div>
+
+<h2 class="col"><span class="num">6</span>What <em>is</em> supportable</h2>
+<div class="col">
+  <p>The Chinese sources span 1,200 years, and a model trained on late material must reach
+  back to early material. That gap is measurable, because 164 characters have published
+  reconstructions in all three periods. Predicting the earlier reading from the later
+  one:</p>
+</div>
+
+<div class="tablewrap">
+<table>
+  <thead><tr>
+    <th>Part of the syllable</th>
+    <th>Recovered correctly<br>Ming → Later Han</th>
+    <th>95% confidence<br>interval</th>
+    <th>Chance baseline —<br>best blind guess</th>
+    <th>Lift — points gained<br>over that guess</th>
+    <th>Class of sound law<sup class="n"><a href="#r13">13</a></sup></th>
+  </tr></thead>
+  <tbody>
+    <tr><td>Nasal ending (-m, -n, -ng)</td><td class="num good">99.2%</td>
+      <td class="num">95.4 – 99.9</td><td class="num">35.4%</td><td class="num">+63.8</td>
+      <td><span class="pill p-yes">deterministic</span></td></tr>
+    <tr><td>Initial consonant</td><td class="num good">79.3%</td>
+      <td class="num">72.4 – 84.8</td><td class="num">9.1%</td><td class="num">+70.1</td>
+      <td><span class="pill p-yes">strong probabilistic</span></td></tr>
+    <tr><td>Vowel</td><td class="num">50.0%</td>
+      <td class="num">42.4 – 57.6</td><td class="num">15.2%</td><td class="num">+34.8</td>
+      <td><span class="pill p-part">weak probabilistic</span></td></tr>
+    <tr><td>Stop ending (-p, -t, -k)</td><td class="num bad">0.0%</td>
+      <td class="num">0.0 – 7.9</td><td class="num">35.4%</td><td class="num bad">−35.4</td>
+      <td><span class="pill p-no">no law</span></td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table 5</span>Ming → Later Han, n = 164 characters
+(nasal ending 118, stop ending 45). "Survives" is leave-one-out majority prediction of the
+earlier reading from the later one; intervals are Wilson score intervals; "chance baseline" is
+the unconditional majority class for that part — the score you would get by always guessing the
+commonest value, knowing nothing about the character in front of you.
+<strong>Lift is column two minus column four:</strong> how many percentage points knowing the
+later reading actually buys you. That is the honest test of whether a correspondence carries
+information, and it is not the same test as "is it above one half", as the last column
+explains. The classes in the last column are those proposed in the 1974 <em>Anthropos</em>
+review of Doerfer.<sup class="n"><a href="#r13">13</a>,<a href="#r5">5</a></sup>
+Do not read an aggregate coda figure: blending nasals and stops gives a flattering
+87% that means nothing, because the sample is 72% nasal-ending characters.</p>
+
+<div class="col">
+  <div class="keybox" style="border-left-color:var(--ochre)">
+    <p><strong>This table is an answer to Doerfer's question.</strong> &sect;5 quoted the
+    challenge put in 1974 by the unsigned reviewer of Doerfer's book in the journal
+    <em>Anthropos</em><sup class="n"><a href="#r13">13</a></sup> — a critic writing in
+    Doerfer's defence, pressing his argument further than Doerfer had: sound laws are probabilistic, nobody says how
+    probabilistic they may be, so <em>is it a law if 49% of cases show one correspondence and
+    51% show another?</em> That reviewer's proposed classes — deterministic, strong
+    probabilistic above one half, weak probabilistic below it — could not be applied then,
+    because nobody had the numbers. The last column applies them.</p>
+
+    <p>Three of the four components classify cleanly. Nasal endings, at 117 of 118, are
+    deterministic for any practical purpose. Initial consonants, at 79.3% with the interval
+    nowhere near one half, are a strong probabilistic law. Stop endings are not a law in any
+    sense: not one of 45 survived, and the interval tops out at 7.9%.</p>
+
+    <p>The fourth is the interesting one, and it exposes a flaw in the reviewer's own rule.
+    Vowels land at <strong>50.0%</strong> — 82 of 164, on the boundary to the decimal — and
+    the confidence interval, 42.4 to 57.6, straddles it. By his criterion the vowel cannot be
+    classified at all, and no larger sample would fix that, because the estimate is not
+    uncertain; it is genuinely at one half.</p>
+
+    <p>But one half is the right threshold only when there are two outcomes to choose between.
+    A vowel is a choice among many, and the honest comparison is not against 50% but against
+    what you would get knowing nothing — the majority class, here 15.2%. Against that, vowels
+    carry <strong>+34.8 points</strong> of real information. They are a weak probabilistic law
+    in the reviewer's third sense, not a coin flip. Stop endings, by the same measure, fall
+    <em>below</em> their baseline: knowing the Ming reading of a stop-final character makes you
+    worse off than guessing, because Old Mandarin merged -p, -t and -k into nothing and the
+    merger is not recoverable.</p>
+
+    <p>So the fifty-year-old question has a shape the fifty-year-old debate could not see: the
+    threshold is not a constant. It is the baseline for the component in question, and it moves
+    with how many outcomes that component has. That correction costs nothing to state and could
+    not have been stated without counting.</p>
+  </div>
+</div>
+
+
+
+<div class="col">
+  <p>So the boundary is precise. Claims about the <strong>initial consonant</strong> of a
+  Xiongnu syllable are supportable. Claims about a <strong>nasal ending</strong> are
+  supportable. Claims requiring a specific <strong>stop ending</strong> are not supportable
+  at all — the evidence for which stop it was does not survive.</p>
+
+  <p>Separately, the Later Han readings of the characters themselves are simply available
+  from published reconstructions, and are not in dispute. All 39 Xiongnu names, titles and
+  lexical items are set out in the two tables at the end of this section.<sup class="n"><a href="#n9">9</a></sup>
+  Three observations from it are worth flagging:</p>
+
+  <ul>
+    <li><span class="han">匈奴</span>, the ethnonym, was <span class="ipa">huoŋ nɑ</span> —
+    much closer to <em>Hun</em> than the modern <em>Xiongnu</em> suggests. This does not
+    settle the Xiongnu–Hun question, but the resemblance the modern reading hides, the
+    period reading restores.</li>
+    <li><span class="han">冒頓</span>, the empire's founder, was
+    <span class="ipa">mək tuənᶜ</span>. The widely repeated reading <em>Baγatur</em> requires
+    an initial <em>b-</em> and a final <em>-r</em>, neither of which is there. The first half of that is testable, and is tested immediately below.</li>
+    <li><span class="han">撑犁</span> was <span class="ipa">ḍaŋ lei</span>, and the Hanshu
+    glosses it <span class="han">天</span> "heaven" — so form and meaning are both fixed by
+    a contemporaneous source. Against Turkic <em>tengri</em> this is the strongest single
+    datum in the corpus. It is also, on closer inspection, the most treacherous: see
+    immediately below.</li>
+  </ul>
+</div>
+
+<div class="col">
+  <div class="box" style="border-left:3px solid var(--flag)">
+    <p><strong>Why <span class="han">撑犁</span> proves less than it appears to.</strong> The
+    match between <span class="ipa">ḍaŋ lei</span> and <em>tengri</em> is the single most
+    quoted piece of evidence for a Turkic Xiongnu, and this paper has leaned on it too. The
+    difficulty is not with the match, which is good, but with what follows from it.</p>
+
+    <p>The word is not confined to Turkic. Mongolic has <em>tenger</em> "sky"; Turkic has
+    <em>tengri</em>, surviving into modern Turkish as <em>Tanrı</em> "God"; and Georg has
+    argued that the Turko-Mongolic word is itself built on Proto-Yeniseian
+    <span class="ipa">*tǝŋgVr-</span> "high" with a Turkic suffix, making it a borrowing into
+    Turkic rather than an inheritance within
+    it.<sup class="n"><a href="#r8">8</a>,<a href="#r24">24</a></sup> Georg's derivation is one
+    argument among several and need not be accepted. What matters here holds either way: a word
+    attested across Turkic, Mongolic and — on Georg's account — Yeniseian cannot discriminate
+    between them.</p>
+
+    <p>So <span class="han">撑犁</span> establishes something real and something narrower than
+    is usually claimed. It shows that the Xiongnu used, for "heaven", a word that is also found
+    in Turkic and Mongolic — which is a genuine link to the later steppe world, and the only
+    Xiongnu word whose form and meaning are both fixed by a contemporaneous source. It does not
+    show which of those languages they spoke. That is the "names travel" problem of &sect;8
+    arriving in the one place the evidence looked strongest, and it is the reason &sect;5's
+    conclusion holds even here.</p>
+  </div>
+</div>
+
+<h3 class="col">A test the corpora can run: is <span class="ipa">m-</span> ever a <span class="ipa">b-</span>?</h3>
+<div class="col">
+  <p>The middle observation is worth pressing, because it is a claim the corpora can settle
+  rather than assert. Reading <span class="han">冒頓</span> as <em>Baγatur</em> requires the
+  <span class="ipa">m-</span> to be standing in for a <span class="ipa">b-</span>.
+  Proto-Turkic has no initial <span class="ipa">*m-</span> at all: the
+  <span class="ipa">m-</span> words in Old Turkic are either loans, or come from
+  <span class="ipa">*b-</span> assimilating to a nasal that immediately follows the vowel —
+  <em>*bän&nbsp;→&nbsp;men</em>, <em>*buŋ&nbsp;→&nbsp;muŋ</em>,
+  <em>*bin-&nbsp;→&nbsp;min-</em>.<sup class="n"><a href="#r4">4</a>,<a href="#r7">7</a></sup>
+  So on the Turkic reading the substitution is not optional; it is load-bearing.</p>
+
+  <p>How often did Chinese scribes actually make it? Every corpus in &sect;3 is a set of
+  transcriptions whose source word is known, which turns the question into a counting
+  exercise.</p>
+</div>
+
+<div class="tablewrap">
+<table>
+  <thead><tr>
+    <th>Corpus</th><th>Source words beginning <span class="ipa">b-</span></th>
+    <th>Written with a Chinese <span class="ipa">m-</span> character</th>
+  </tr></thead>
+  <tbody>
+    <tr><td>Mongolian — <em>Secret History</em></td><td class="num">738</td><td class="num good">0</td></tr>
+    <tr><td>Turkic — Ligeti glossaries</td><td class="num">78</td><td class="num good">0</td></tr>
+    <tr><td>Sanskrit — Later Han, verified</td><td class="num">22</td><td class="num">3</td></tr>
+    <tr><td><strong>Total</strong></td><td class="num"><strong>838</strong></td><td class="num"><strong>3</strong> (0.4%)</td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table 6</span>The reverse direction is as clean: Chinese <span class="ipa">m-</span>
+characters render a source <span class="ipa">m-</span> in 303 of 305 Mongolian cases, 90 of
+97 Sanskrit cases and 14 of 17 Turkic cases. The channel treats nasality as information to be
+preserved, not noise. The three Sanskrit exceptions are the only ones in the whole collection
+and may reflect prenasalised <span class="ipa">mb-</span> rather than a plain
+<span class="ipa">b-</span>.</p>
+
+<div class="col">
+  <p>The decisive detail is that the scribes had a choice. Later Han Chinese had a voiced
+  <span class="ipa">b-</span> series (<span class="han">並母</span>) and used it freely — 239
+  of the Mongolian <span class="ipa">b-</span> words were written with a
+  <span class="ipa">b-</span> character and 492 with a <span class="ipa">p-</span>. Whoever
+  wrote <span class="han">冒</span> had the alternative available and did not take it. The
+  economical reading is that he wrote an <span class="ipa">m</span> because he heard one.</p>
+
+  <p>That leaves three ways out, and they are worth stating in order of strain:</p>
+
+  <ul>
+    <li><strong>The name is not Turkic.</strong> Yeniseian, para-Mongolic and Iranian all
+    permit initial <span class="ipa">m-</span> without comment. This is the least strained
+    option — and, note, it is not an argument <em>for</em> any of them, only the removal of an
+    obstacle.</li>
+
+    <li><strong>It is Turkic with a secondary <span class="ipa">m-</span>.</strong> Since
+    <span class="han">冒頓</span> is <span class="ipa">*mək-tuən</span>, with a nasal in the
+    second syllable, the assimilation rule looks promising. But it does not reach that far
+    into a word: Old Turkic <em>bodun</em> "people" and <em>bıkın</em> "hip, flank" both carry
+    a nasal at the same distance and both keep their
+    <span class="ipa">b-</span>.<sup class="n"><a href="#r4">4</a></sup> The one Turkic-internal
+    route to an <span class="ipa">m-</span> appears not to apply here.</li>
+
+    <li><strong>It is a loan or a title rather than a native personal name.</strong> The
+    Turkic constraint governs inherited vocabulary; a borrowed word with
+    <span class="ipa">m-</span> is unremarkable. But this dissolves the objection only by also
+    dissolving the name's value as evidence for what the dynasty spoke.</li>
+  </ul>
+
+  <div class="keybox">
+    <p><strong>What this does and does not establish.</strong> It does not recover the name.
+    <span class="ipa">*mək-tuən</span> remains a reading, not a reconstruction, and &sect;5
+    stands. What it does is put a number on a substitution that is usually assumed silently:
+    3 in 838. Together with the absent <span class="ipa">-r</span>, that gives two independent
+    lines of evidence against the most-repeated etymology in the field — one from the initial,
+    one from the ending. Neither depends on the channel model; both are counts over corpora
+    that anyone can recount.</p>
+  </div>
+</div>
+
+<h3 class="col" id="record">The record — all 39 names in Later Han readings</h3>
+<p class="cap">All 39 names, titles and lexical items recorded in the Chinese histories,
+with the Later Han reading of each character (Schuessler 2009, c. 25–220&nbsp;CE) and a
+Turkish-orthography rendering for readers who do not read phonetic notation. The Later Han
+column is published scholarship, not model output; the model's contribution is what &sect;4–6 measure. Reference numbers in the
+proposal column point to the entry in the reference list where that proposal is stated or
+discussed; they credit the discussion, not the origin — most of these etymologies are older
+than the works cited.</p>
+
+<div class="tablewrap">
+<table>
+  <thead><tr><th>Written</th><th>Sounds like</th><th>As in</th></tr></thead>
+  <tbody>
+    <tr><td class="num">ç</td><td>ch</td><td>chur<strong>ch</strong></td></tr>
+    <tr><td class="num">c</td><td>j</td><td><strong>j</strong>am</td></tr>
+    <tr><td class="num">ş</td><td>sh</td><td><strong>sh</strong>ip</td></tr>
+    <tr><td class="num">j</td><td>zh</td><td>plea<strong>s</strong>ure</td></tr>
+    <tr><td class="num">ğ</td><td>a soft, almost silent g</td><td>Turkish da<strong>ğ</strong> "mountain"</td></tr>
+    <tr><td class="num">ı</td><td>an unrounded vowel, far back in the mouth</td><td>Turkish k<strong>ı</strong>z "girl"</td></tr>
+    <tr><td class="num">ng</td><td>ng, one sound</td><td>si<strong>ng</strong></td></tr>
+    <tr><td class="num">ny</td><td>ñ</td><td>Spanish se<strong>ñ</strong>or</td></tr>
+    <tr><td class="num">’</td><td>a glottal stop</td><td>the catch in uh<strong>-</strong>oh</td></tr>
+    <tr><td class="num">v</td><td>w, not v</td><td><strong>w</strong>ater</td></tr>
+    <tr><td class="num">ᴬ ᴮ ᶜ</td><td>Han tone categories</td><td>ignore when reading aloud</td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table 7</span>An approximation for readers who do not read
+phonetic notation, not a transcription. Two caveats. Where <em>v</em> falls inside a syllable
+rather than at its start it marks lip-rounding rather than a separate consonant, so
+<span class="ipa">*dwət-kuat</span> is closer to <em>düt-kuat</em> than to <em>dvet-kuat</em>.
+And the endings are the weakest part of every row below: &sect;6 shows that stop endings
+(-p, -t, -k) do not survive the period gap at all.</p>
+
+<h4 class="col">Rulers and the ruling clan</h4>
+<div class="tablewrap">
+<table>
+  <thead><tr>
+    <th>Name</th><th>Later Han</th><th>Turkish approx.</th><th>Reign / note</th>
+    <th>Proposal in the literature</th><th>Fit</th>
+  </tr></thead>
+  <tbody>
+      <tr><td class="han2">頭曼<span class="py">Touman</span></td><td class="num">do mɑnᶜ</td><td class="num" style="color:var(--ink)">do man</td><td class="num" style="color:var(--ink-2)">209 BCE</td><td class="lit">tuman / tümen<sup class="n"><a href="#r9">9</a>,<a href="#r17">17</a></sup> <span style="color:var(--ink-3)">Turkic</span></td><td><span class="pill p-yes">consistent</span></td></tr>
+      <tr><td class="han2">冒頓<span class="py">Modu / Modun</span></td><td class="num">mək tuənᶜ</td><td class="num" style="color:var(--ink)">mık tuın</td><td class="num" style="color:var(--ink-2)">209–174 BCE</td><td class="lit">bagatur / baγatur ?<sup class="n"><a href="#r6">6</a>,<a href="#r17">17</a></sup> <span style="color:var(--ink-3)">Turkic|Mongolic</span></td><td><span class="pill p-no">hard to reconcile</span></td></tr>
+      <tr><td class="han2">稽粥<span class="py">Jizhou / Jiyu</span></td><td class="num">kʰeiᴮ tśuk</td><td class="num" style="color:var(--ink)">kei çuk</td><td class="num" style="color:var(--ink-2)">174–160 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">軍臣<span class="py">Junchen</span></td><td class="num">kun dźin</td><td class="num" style="color:var(--ink)">kun cin</td><td class="num" style="color:var(--ink-2)">160–126 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">伊稚斜<span class="py">Yizhixie</span></td><td class="num">ʔi ḍiᶜ ja</td><td class="num" style="color:var(--ink)">’i di ya</td><td class="num" style="color:var(--ink-2)">126–114 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">烏維<span class="py">Wuwei</span></td><td class="num">ʔɑ wi</td><td class="num" style="color:var(--ink)">’a vi</td><td class="num" style="color:var(--ink-2)">114–105 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">詹師廬<span class="py">Zhanshilu</span></td><td class="num">tśam ṣi liɑ</td><td class="num" style="color:var(--ink)">çam şi lia</td><td class="num" style="color:var(--ink-2)">105–102 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">呴犁湖<span class="py">Xulihu / Goulihu</span></td><td class="num">huo lei gɑ</td><td class="num" style="color:var(--ink)">huo lei ga</td><td class="num" style="color:var(--ink-2)">102–101 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">且鞮侯<span class="py">Qiedihou</span></td><td class="num">tsɑᴮ te go</td><td class="num" style="color:var(--ink)">tsa te go</td><td class="num" style="color:var(--ink-2)">101–96 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">狐鹿姑<span class="py">Hulugu</span></td><td class="num">ɣuɑ lok kɑ</td><td class="num" style="color:var(--ink)">ğua lok ka</td><td class="num" style="color:var(--ink-2)">96–85 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">壺衍鞮<span class="py">Huyandi</span></td><td class="num">gɑ janᴮ te</td><td class="num" style="color:var(--ink)">ga yan te</td><td class="num" style="color:var(--ink-2)">85–68 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">虛閭權渠<span class="py">Xulüquanqu</span></td><td class="num">kʰɨɑ liɑ gyan gɨɑ</td><td class="num" style="color:var(--ink)">kıa lia gyan gıa</td><td class="num" style="color:var(--ink-2)">68–60 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">握衍朐鞮<span class="py">Woyanqudi</span></td><td class="num">ʔɔk janᴮ guo te</td><td class="num" style="color:var(--ink)">’ok yan guo te</td><td class="num" style="color:var(--ink-2)">60–58 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">呼韓邪<span class="py">Huhanye</span></td><td class="num">hɑ gɑn ja</td><td class="num" style="color:var(--ink)">ha gan ya</td><td class="num" style="color:var(--ink-2)">58–31 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">郅支<span class="py">Zhizhi</span></td><td class="num">tśit tśe</td><td class="num" style="color:var(--ink)">çit çe</td><td class="num" style="color:var(--ink-2)">56–36 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr style="background:var(--surface-2)"><td class="han2">若鞮<span class="py">Ruodi</span></td><td class="num">ńɑk te</td><td class="num" style="color:var(--ink)">nyak te</td><td class="num" style="color:var(--ink-2)">title element</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">復株累若鞮<span class="py">Fuzhulei Ruodi</span></td><td class="num">buk ṭio lui ńɑk te</td><td class="num" style="color:var(--ink)">buk tio lui nyak te</td><td class="num" style="color:var(--ink-2)">31–20 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">搜諧若鞮<span class="py">Souxie Ruodi</span></td><td class="num">so gɛi ńɑk te</td><td class="num" style="color:var(--ink)">so gei nyak te</td><td class="num" style="color:var(--ink-2)">20–12 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">車牙若鞮<span class="py">Cheya Ruodi</span></td><td class="num">tśʰa ŋa ńɑk te</td><td class="num" style="color:var(--ink)">ça nga nyak te</td><td class="num" style="color:var(--ink-2)">12–8 BCE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">烏珠留若鞮<span class="py">Wuzhuliu Ruodi</span></td><td class="num">ʔɑ tśo liu ńɑk te</td><td class="num" style="color:var(--ink)">’a ço liu nyak te</td><td class="num" style="color:var(--ink-2)">8 BCE–13 CE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">烏累若鞮<span class="py">Wulei Ruodi</span></td><td class="num">ʔɑ lui ńɑk te</td><td class="num" style="color:var(--ink)">’a lui nyak te</td><td class="num" style="color:var(--ink-2)">13 CE–18 CE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">呼都而尸道皋若鞮<span class="py">Huduershi Daogao Ruodi</span></td><td class="num">hɑ tɑ ńə śi douᴮ kou ńɑk te</td><td class="num" style="color:var(--ink)">ha ta nyı şi dou kou nyak te</td><td class="num" style="color:var(--ink-2)">18 CE–46 CE</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">攣鞮<span class="py">Luandi</span></td><td class="num">lyan te</td><td class="num" style="color:var(--ink)">lyan te</td><td class="num" style="color:var(--ink-2)">—</td><td class="lit">*lyuan-tlïγ ?<sup class="n"><a href="#r17">17</a></sup> <span style="color:var(--ink-3)">Turkic</span></td><td><span class="pill p-part">partial</span></td></tr>
+      <tr><td class="han2">虛連題<span class="py">Xulianti</span></td><td class="num">kʰɨɑ lianᴮ de</td><td class="num" style="color:var(--ink)">kıa lian de</td><td class="num" style="color:var(--ink-2)">—</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table 8</span><span class="han">若鞮</span> is not a ruler
+but the element every chanyu carries from <span class="han">復株累若鞮</span> onward; it is
+listed once, shaded, rather than repeated in six rows. The <em>Hou Hanshu</em> records that it
+was added to the title from <span class="han">呼韓邪</span>'s line and glosses it
+<span class="han">孝</span> "filial" — the only Xiongnu title element the Chinese sources
+translate. No published etymology is assessed for it here; a proposed reading is given in
+Appendix&nbsp;B and is the author's, not the literature's. Otherwise: twenty-one
+<em>chanyu</em> from Touman to Punu, plus the two forms of the
+ruling clan name (<span class="han">攣鞮</span> in the <em>Shiji</em> and
+<em>Hanshu</em>, <span class="han">虛連題</span> in the <em>Hou Hanshu</em>). Reign dates
+follow the standard chronologies. A dash in the proposal column means no widely cited
+etymology exists — most of the personal names have never been convincingly explained in any
+language.</p>
+
+<h4 class="col">Titles and lexical items</h4>
+<div class="tablewrap">
+<table>
+  <thead><tr>
+    <th>Term</th><th>Later Han</th><th>Turkish approx.</th><th>Type</th>
+    <th>Proposal in the literature</th><th>Fit</th>
+  </tr></thead>
+  <tbody>
+      <tr><td class="han2">單于<span class="py">chanyu</span></td><td class="num">dźan wɑ</td><td class="num" style="color:var(--ink)">can va</td><td class="num" style="color:var(--ink-2)">title</td><td class="lit">*darγwa ? / *tarqan ?<sup class="n"><a href="#r17">17</a>,<a href="#r23">23</a></sup> <span style="color:var(--ink-3)">contested</span></td><td><span class="pill p-part">partial</span></td></tr>
+      <tr><td class="han2">撑犁孤塗單于<span class="py">chengli gutu chanyu</span></td><td class="num">ḍaŋ lei kuɑ dɑ dźan wɑ</td><td class="num" style="color:var(--ink)">dang lei kua da can va</td><td class="num" style="color:var(--ink-2)">title</td><td class="lit">tengri qutu chanyu<sup class="n"><a href="#r17">17</a>,<a href="#r23">23</a></sup> <span style="color:var(--ink-3)">contested</span></td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">撑犁<span class="py">chengli</span></td><td class="num">ḍaŋ lei</td><td class="num" style="color:var(--ink)">dang lei</td><td class="num" style="color:var(--ink-2)">lexical</td><td class="lit">tengri<sup class="n"><a href="#r9">9</a>,<a href="#r17">17</a></sup> <span style="color:var(--ink-3)">Turkic|Mongolic</span></td><td><span class="pill p-yes">consistent</span></td></tr>
+      <tr><td class="han2">孤塗<span class="py">gutu</span></td><td class="num">kuɑ dɑ</td><td class="num" style="color:var(--ink)">kua da</td><td class="num" style="color:var(--ink-2)">lexical</td><td class="lit">*qut ?<sup class="n"><a href="#r9">9</a></sup> <span style="color:var(--ink-3)">Turkic</span><br>*(h)ala "son"<sup class="n"><a href="#r23">23</a>,<a href="#r24">24</a></sup> <span style="color:var(--ink-3)">Yeniseian</span></td><td><span class="pill p-part">partial</span></td></tr>
+      <tr><td class="han2">閼氏<span class="py">yanzhi / ezhi</span></td><td class="num">ʔɑt dźeᴮ</td><td class="num" style="color:var(--ink)">’at ce</td><td class="num" style="color:var(--ink-2)">title</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">屠耆<span class="py">tuqi</span></td><td class="num">dɑ gɨ</td><td class="num" style="color:var(--ink)">da gı</td><td class="num" style="color:var(--ink-2)">title</td><td class="lit">*toγrï ?<sup class="n"><a href="#r9">9</a>,<a href="#r17">17</a></sup> <span style="color:var(--ink-3)">Turkic</span></td><td><span class="pill p-no">hard to reconcile</span></td></tr>
+      <tr><td class="han2">谷蠡<span class="py">luli / guli</span></td><td class="num">kok leᴮ</td><td class="num" style="color:var(--ink)">kok le</td><td class="num" style="color:var(--ink-2)">title</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">當戶<span class="py">danghu</span></td><td class="num">tɑŋ gɑᴮ</td><td class="num" style="color:var(--ink)">tang ga</td><td class="num" style="color:var(--ink-2)">title</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">骨都侯<span class="py">guduhou</span></td><td class="num">kuət tɑ go</td><td class="num" style="color:var(--ink)">kuıt ta go</td><td class="num" style="color:var(--ink-2)">title</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">且渠<span class="py">juqu</span></td><td class="num">tsɑᴮ gɨɑ</td><td class="num" style="color:var(--ink)">tsa gıa</td><td class="num" style="color:var(--ink-2)">title</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">徑路<span class="py">jinglu</span></td><td class="num">keŋᶜ lɑᶜ</td><td class="num" style="color:var(--ink)">keng la</td><td class="num" style="color:var(--ink-2)">lexical</td><td class="lit">kingrak ? <span style="color:var(--ink-3)">Turkic</span></td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">服匿<span class="py">funi</span></td><td class="num">buk ṇɨk</td><td class="num" style="color:var(--ink)">buk nık</td><td class="num" style="color:var(--ink-2)">lexical</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">甌脫<span class="py">outuo</span></td><td class="num">ʔo tʰuɑt</td><td class="num" style="color:var(--ink)">’o tuat</td><td class="num" style="color:var(--ink-2)">lexical</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">胡祿<span class="py">hulu</span></td><td class="num">gɔ lok</td><td class="num" style="color:var(--ink)">go lok</td><td class="num" style="color:var(--ink-2)">lexical</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">匈奴<span class="py">Xiongnu</span></td><td class="num">huoŋ nɑ</td><td class="num" style="color:var(--ink)">huong na</td><td class="num" style="color:var(--ink-2)">ethnonym</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han2">羯<span class="py">Jie</span></td><td class="num">kɨat</td><td class="num" style="color:var(--ink)">kıat</td><td class="num" style="color:var(--ink-2)">ethnonym</td><td class="lit">—</td><td><span class="pill p-none">—</span></td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table 9</span>The lexical items are the important ones: they are the only Xiongnu words
+whose meaning the Chinese sources actually gloss. <span class="han">撑犁</span> is glossed
+"heaven" and <span class="han">孤塗</span> "son", which is why the pair has carried so much
+of the argument for a Turkic or Mongolic affiliation.</p>
+
+<div class="col">
+  <div class="box">
+    <p><strong>What the fit column means.</strong> <span class="pill p-yes">consistent</span>
+    the Later Han reading can be derived from the proposed source word without special
+    pleading. <span class="pill p-part">partial</span> part of the form matches and part
+    does not, or the match requires an assumption that is itself contested.
+    <span class="pill p-no">hard to reconcile</span> the proposal is widely repeated but the
+    reading does not support it — <span class="han">冒頓</span>
+    <span class="ipa">mək tuənᶜ</span> is a long way from <em>bagatur</em>, and
+    <span class="han">屠耆</span> <span class="ipa">dɑ gɨ</span> a long way from
+    <em>toğrı</em>. <span class="pill p-none">—</span> no proposal to assess.</p>
+    <p>These are my readings of the philological literature, not model output, and a
+    Turkologist may well grade some of them differently. They are included because the
+    grading is the part most often left implicit: proposals get repeated at full confidence
+    long after the reading that would support them has been published.</p>
+  </div>
+</div>
+
+<h2 class="col"><span class="num">7</span>Beyond the Xiongnu: a better target</h2>
+<div class="col">
+  <p>The Xiongnu are the hardest case available, for a reason that has nothing to do with
+  method: <em>nobody knows what language they spoke</em>, so there is no gold standard to
+  train or test against. Every other Inner Asian group recorded in Chinese is easier.</p>
+
+  <div class="keybox">
+    <p>The <strong>Göktürk</strong> material (552–744 CE) is a far better target, and I
+    would argue it is where this work should go next. Its language is not in dispute — the
+    Orkhon inscriptions are written in Old Turkic, and there is a full lexicon and grammar
+    for it. Many Göktürk names appear <em>both</em> in the runiform inscriptions and, in
+    Chinese transcription, in the Tang histories.</p>
+  </div>
+
+  <p>Those double attestations are exactly the training data this project lacked. Securely
+  identified examples include <span class="han">突厥</span> Türk,
+  <span class="han">阿史那</span> Ashina (the ruling clan), <span class="han">可汗</span>
+  <em>qaγan</em>, <span class="han">葉護</span> <em>yabghu</em>,
+  <span class="han">特勤</span> <em>tigin</em>, <span class="han">設</span> <em>šad</em>,
+  <span class="han">達干</span> <em>tarqan</em>, <span class="han">闕特勤</span> Kül Tigin,
+  <span class="han">毗伽</span> Bilge, and <span class="han">暾欲谷</span> Tonyuquq. A
+  systematic sweep of the Zhoushu, Suishu and the two Tang histories would plausibly yield
+  a few hundred pairs.</p>
+
+  <p>Two further advantages compound. The Göktürk material is Tang-era, so the relevant
+  Chinese layer is Early Middle Chinese — the period for which Pulleyblank's reconstructions
+  exist. And by the measurements in §6, the step from Tang back to Later Han preserves
+  initial consonants at <strong>93.9%</strong>, against 79.3% from Ming. A Tang-trained
+  channel is therefore much better positioned to reach the Xiongnu material than the
+  Ming-trained one used here.</p>
+
+  <p>To show what this looks like in practice, here are Göktürk-era items put through the
+  same reconstruction used for the Xiongnu names. These are Later Han readings applied to
+  Tang-era words, which is technically anachronistic — the correct layer for Tang material
+  is Early Middle Chinese — but the resemblances survive the mismatch, which is itself
+  informative.</p>
+</div>
+
+<div class="tablewrap">
+<table>
+  <thead><tr><th>Chinese, as written in<br>the Tang histories</th><th>Later Han reading of those<br>characters (Schuessler)</th><th>The same reading in<br>Turkish orthography</th><th>Independently identified as,<br>in established scholarship</th></tr></thead>
+  <tbody>
+    <tr><td class="han">葉護</td><td class="num">jap ɣuɑᶜ</td><td class="num">yap ğua</td><td><em>yabghu</em>, a princely title</td></tr>
+    <tr><td class="han">可汗</td><td class="num">kʰɑiᴮ gɑnᶜ</td><td class="num">kai gan</td><td><em>qaγan</em></td></tr>
+    <tr><td class="han">特勤</td><td class="num">dək gɨən</td><td class="num">dık gıın</td><td><em>tigin</em>, prince</td></tr>
+    <tr><td class="han">突厥</td><td class="num">tʰuət kyɑt</td><td class="num">tuıt kyat</td><td><em>Türk</em></td></tr>
+    <tr><td class="han">阿史那</td><td class="num">ʔɑ ṣiəᴮ nɑ</td><td class="num">’a şiı na</td><td><em>Ashina</em>, the ruling clan</td></tr>
+    <tr><td class="han">黠戛斯</td><td class="num">gɛt kɛt sie</td><td class="num">get ket sie</td><td><em>Qïrqïz</em> (Kyrgyz)</td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table 10</span><strong>Neither of the middle columns is
+model output.</strong> Column two is Schuessler's published Later Han reconstruction of those
+characters, applied here to Tang-era words — deliberately the wrong period, which is the point
+of the exercise; column three is only that reading written in Turkish letters. No model was
+trained on Xiongnu material and none could have been: &sect;4 puts the Xiongnu corpus at 1.4
+observations per character. The last column is not an output of this work either, and not the
+author's judgement. Each of these identifications is long settled in
+Turkological and Sinological scholarship, and settled on evidence independent of the Chinese
+transcriptions: the Orkhon inscriptions give <em>qaγan</em>, <em>tigin</em>, <em>yabghu</em>
+and <em>Türk</em> directly in the Old Turkic script, and several are corroborated again in
+Sogdian, Arabic and Byzantine sources.<sup class="n"><a href="#r7">7</a>,<a href="#r9">9</a></sup>
+They function here as ground truth — the answers are known, so the reconstruction can be
+marked right or wrong. <span class="han">葉護</span> → <em>yap ğua</em> against
+<em>yabghu</em>, and <span class="han">可汗</span> → <em>kai gan</em> against <em>qaγan</em>,
+are close enough to be read straight off the page. That is the difference a known source
+language makes.</p>
+
+<h3 class="col">Which groups this can and cannot reach</h3>
+<div class="col">
+  <p>The obvious next question is how widely this applies. Chinese records name a great many
+  steppe peoples, and they fall into three quite different categories.</p>
+
+  <p><strong>Tractable.</strong> Groups recorded in the Tang histories whose language is
+  known or strongly agreed: <span class="han">鐵勒</span> Tiele,
+  <span class="han">回紇</span> Uyghur, <span class="han">薛延陀</span> Sir-Tarduš,
+  <span class="han">葛邏祿</span> Qarluq, <span class="han">突騎施</span> Türgesh,
+  <span class="han">黠戛斯</span> Kyrgyz, <span class="han">沙陀</span> Shatuo, alongside the
+  Göktürk material. These have Chinese transcriptions, a securely identified source language,
+  and a reconstruction layer with published readings. They are the training data.</p>
+
+  <p><strong>Same problem as the Xiongnu.</strong> Groups in the earlier records whose
+  language is disputed — <span class="han">丁零</span> Dingling,
+  <span class="han">柔然</span> Rouran (sometimes identified with the Avars, contestedly),
+  <span class="han">烏桓</span> Wuhuan, <span class="han">鮮卑</span> Xianbei. Their names can
+  be <em>read</em> — <span class="han">柔然</span> was <span class="ipa">ńu ńan</span>,
+  <span class="han">烏桓</span> was <span class="ipa">ʔɑ ɣuɑn</span> — but reading is not the
+  same as reconstructing, and with the source language unknown there is no gold standard to
+  check against. Everything in §5 applies to them unchanged.</p>
+
+  <div class="keybox">
+    <p><strong>One of these is a methodological gift.</strong>
+    <span class="han">丁零</span> Dingling (Han sources) and <span class="han">鐵勒</span>
+    Tiele (Tang sources) are conventionally taken to be the same people. Their Later Han
+    readings are <span class="ipa">teŋ leŋ</span> and <span class="ipa">tʰet lək</span> —
+    the same name transcribed twice, six centuries apart, with two different character
+    choices. Pairs like this are exactly what is needed to calibrate the period bridge on
+    real data rather than on reconstruction tables. The same is true of
+    <span class="han">撑犁</span> and Yuan-era <span class="han">騰格理</span>, both glossed
+    "heaven" and both standing for <em>tengri</em>.</p>
+  </div>
+
+  <p><strong>Out of reach entirely.</strong> The Pechenegs, Cumans and Khazars are barely
+  present in Chinese sources at all — they are documented in Byzantine Greek, Arabic and
+  Persian. No Chinese transcription means nothing for a Chinese channel to work on. The
+  <em>method</em> transfers, but the model does not: recovering Pecheneg names would mean
+  building a Greek or Arabic transcription channel from scratch, trained on Greek or Arabic
+  renderings of names we independently know. That is the same project in a different script,
+  and it would need its own corpora.</p>
+
+  <p>I put all of this forward as a research direction rather than a finding. I have not
+  verified these identifications against the specialist literature, some are certainly
+  contested, and the Dingling–Tiele equation in particular is an inherited assumption I am
+  in no position to assess. Establishing which pairs are secure enough to serve as gold data
+  is exactly the judgement a Turkologist would supply, and it is the first thing such a
+  collaborator should be asked.</p>
+</div>
+
+<h2 class="col"><span class="num">8</span>Limitations</h2>
+<div class="col">
+  <ul>
+    <li><strong>No independent philological review.</strong> The computational method and
+    its evaluation are the author's to defend. The philology is not the author's work and has
+    not been checked for this paper: the Later Han readings are Schuessler's, the etymologies
+    assessed in Tables 8 and 9 are drawn from the published literature, and the identifications
+    in Table 10 are the established consensus. A specialist reading of those materials would
+    strengthen the paper and might revise the fit judgements in Tables 8 and 9, which are the
+    author's readings of that literature rather than settled results.</li>
+    <li><strong>Corpus validation is internal.</strong> The extraction rules are documented
+    and internally consistent (93.4% length agreement for Mongolian), but no external
+    reviewer has checked a sample against the sources.</li>
+    <li><strong>The Turkic corpus is Ming-era</strong>, roughly 1,200 years later than the
+    Xiongnu material. §6 measures what that costs.</li>
+    <li><strong>Reconstructions are inferences.</strong> Schuessler, Pulleyblank and Níng
+    are three different scholars with three notations; some apparent disagreement is
+    notational rather than substantive.</li>
+    <li><strong>Names travel.</strong> Even a perfect reconstruction would not settle
+    ethnicity — Turkic tribes bore Iranian names, Mongol rulers used Turkic titles.</li>
+    <li><strong>Licensing of the Ligeti corpus is unresolved</strong> and may restrict its
+    redistribution.</li>
+  </ul>
+</div>
+
+<h2 class="col"><span class="num">9</span>Conclusion</h2>
+<div class="col">
+  <p>The method works where the evidence is dense enough, and the density required is now
+  known. The Xiongnu material falls an order of magnitude short of it, and no amount of
+  modelling closes that gap — which is itself worth saying clearly in a field where
+  confident reconstructions from this evidence are routine and their uncertainty is rarely
+  stated.</p>
+  <p>What the work leaves behind is two reusable corpora, a documented and reproducible
+  method, and measured ceilings on three separate claims. The productive next step is not
+  more computation on the Xiongnu but a Göktürk-era corpus, where the source language is
+  known and the period gap is half as wide.</p>
+</div>
+
+<hr>
+
+<h2 class="col" id="apx"><span class="num">A</span>Appendix: the techniques, explained</h2>
+<p class="cap">Supplementary to the main text. Each entry corresponds to a numbered marker
+above.</p>
+<div class="apx">
+<ol class="notes">
+  <li id="n1"><strong>Reconstructed pronunciation.</strong> Nobody recorded Han-dynasty
+  Chinese. Its sound is inferred from rhyme dictionaries, from how Chinese wrote foreign
+  words whose pronunciation we know, from modern dialects and from borrowings into Japanese,
+  Korean and Vietnamese. The results are called <em>reconstructions</em> and are written with
+  an asterisk or in phonetic notation. This work uses Axel Schuessler's for Later Han
+  (c. 25–220 CE), Edwin Pulleyblank's for Early Middle Chinese (c. 600) and Níng's for Old
+  Mandarin (c. 1400).</li>
+
+  <li id="n2"><strong>Channel model.</strong> A probability table: for each source sound,
+  how often each Chinese spelling was used. Formally it estimates P(Chinese spelling | source
+  sound). The term comes from information theory, where a "channel" is anything that carries
+  a signal and distorts it. Running it backwards — asking which source sound best explains
+  an observed spelling — is the reconstruction step, and is why a channel alone is not
+  enough: many sources can explain the same spelling, so something must express which
+  sources are plausible words in the first place.</li>
+
+  <li id="n3"><strong>Training, and alignment by EM.</strong> "Training" here means counting
+  correspondences in examples. The complication is that the examples are not pre-aligned:
+  given <em>qatïr</em> written with three Chinese characters, nobody has marked which
+  character covers which sounds. <em>Expectation–Maximisation</em> solves this by
+  bootstrapping — guess an alignment, count correspondences, use those counts to guess a
+  better alignment, repeat until it stops changing. Typically eight to ten rounds here.</li>
+
+  <li id="n4"><strong>Keying and backoff.</strong> A model keyed on the character needs many
+  examples of <em>that character</em>. Keyed on the character's reconstructed reading, every
+  character pronounced alike contributes to the same bucket. <em>Backoff</em> is the fallback
+  chain when a bucket is too thin: try the full reading, else the initial-plus-vowel, else
+  the initial alone, else the overall average. This lifted coverage of Xiongnu characters
+  from 38% to 100%, and accuracy by 16 points.</li>
+
+  <li id="n5"><strong>Held-out testing.</strong> The model is trained on part of the data and
+  tested on a part it has never seen. Testing on training data measures memorisation, not
+  ability. For the Mongolian corpus we held out whole <em>chapters</em> rather than random
+  entries, because a random split leaks: neighbouring entries share names and formulae.</li>
+
+  <li id="n6"><strong>Exact match and edit distance.</strong> "Exact" is unforgiving — one
+  wrong sound fails the whole word. <em>Edit distance</em> counts how many single-sound
+  insertions, deletions or substitutions separate the guess from the truth, so "within 2"
+  means the reconstruction was at most two sounds off. Both are reported because exact match
+  alone hides whether the model is close or wildly wrong.</li>
+
+  <li id="n7"><strong>Domain shift.</strong> A model learns the statistics of its training
+  data, including quirks specific to that source. Deployed on data from a different source,
+  it can fail badly even though it appeared excellent in testing. This is the central
+  reliability problem in applied machine learning generally, and it is why the same-domain
+  result (25%) and the cross-language result (3.1%) had to be reported separately here.</li>
+
+  <li id="n8"><strong>Comparing languages, and null models.</strong> To ask which language
+  best explains a transcription, you score each candidate and compare — the ratio of two
+  such scores is a <em>Bayes factor</em>. Each candidate needs a model of what its words look
+  like: an <em>n-gram model</em>, which learns which short sound sequences that language
+  permits. Any such comparison needs a <em>null model</em> — what score would arise by
+  chance? Here that was done by permutation: pair each Chinese transcription with a randomly
+  chosen <em>different</em> foreign word and re-score, several hundred times, to see where
+  the real result falls in that distribution. And <em>negative controls</em> — running the
+  method on cases whose answer is already known — are what exposed the failure. Without
+  them the method would have produced confident, wrong answers.</li>
+
+  <li id="n9"><strong>The name table.</strong> All 39 Xiongnu names, titles and
+  lexical items with their Later Han readings, a Turkish-orthography pronunciation key, and
+  an assessment of whether each reading can be reconciled with proposals in the literature.
+  The Later Han column is not this project's output — it is taken directly from Schuessler's
+  published reconstructions. What the table adds is the assembly: the names collected in one
+  place, the readings joined to them character by character, and the fit to published
+  etymologies stated openly rather than assumed.</li>
+  <li id="n10"><strong>Searching a dictionary, and why it needs a null.</strong> Given a
+  reading written out in Turkish letters, the search compares it to every dictionary entry of
+  similar length and returns the closest. Closeness is scored on the <em>consonant skeleton</em>
+  rather than the whole word, because &sect;6 shows that is the part of the signal that
+  survives: initials come through at 79–94%, nasal endings at 99%, vowels at 50%, and stop
+  endings not at all. The costs follow those numbers — a voicing difference (k/g, t/d) is
+  cheap, a missing final stop is cheap, a change of place or manner is expensive, and a vowel
+  mismatch counts a quarter. The <em>null model</em> then runs the identical search on
+  pseudo-names assembled from the same Later Han syllables in the wrong order: same shape,
+  same sounds, no meaning. Comparing the two is what converts "that looks like a Turkish word"
+  into a number. Without it the search has no failure mode — it returns a confident answer for
+  any input whatsoever, including deliberate nonsense. The null is rebuilt for every lexicon,
+  which is the only way to compare lexicons at all: a bigger word list raises the raw number of
+  matches and the chance rate together, so counting matches without recomputing the null makes
+  every enlargement look like an improvement.</li>
+  <li id="n11"><strong>A reproducibility wrinkle worth naming.</strong> The headword count
+  depends on which version of the PDF text-extraction library is used: two runs of the same
+  script on the same file, on different machines, produced 6,820 and 6,880 entries — a 60-entry
+  disagreement about where lines break in the underlying page stream. That moves the noise
+  floor slightly (0.200 against 0.192) and nothing else: both runs put <em>tengri</em> fourth
+  at 0.233, <em>tümen</em> third at 0.183, and three names of thirty-six above chance. The
+  figures quoted here are from the second machine, which is the run the released data files
+  come from. It is a small thing, but it is the kind of small thing that is invisible until
+  someone else runs your code — which is the argument for releasing it.</li>
+</ol>
+</div>
+
+<hr>
+
+<h2 class="col" id="apxb"><span class="num">B</span>Appendix: names proposed by the author</h2>
+<div class="col">
+  <div class="box" style="border-left:3px solid var(--flag)">
+    <p><strong>These are not results. They are the author's guesses.</strong> Everything above
+    this heading is measurement: readings taken from published reconstructions, accuracies
+    computed on held-out data, and claims checked against nulls. What follows is of a different
+    kind. It is my own reading of the Later Han forms in Tables 3, 8 and 9 as modern Turkish
+    words — informed by the pronunciation and by what a steppe ruler might plausibly have been
+    called, and by nothing else.</p>
+    <p>&sect;5 measured exactly this operation and found it indistinguishable from chance; doing
+    it by hand does not improve on the algorithm but makes it worse, because a human cannot help
+    preferring the reading that means something, which is the selection effect the null model
+    exists to measure. Each entry below should be read as a suggestion offered for a Turkologist
+    to accept or dismiss, not as a claim this work supports. None of them is evidence for
+    anything.</p>
+  </div>
+</div>
+
+<div class="tablewrap">
+<table>
+  <thead><tr>
+    <th>Name</th><th>Later Han</th><th>Turkish approx.</th>
+    <th>Name proposed by the author, and its sense</th>
+  </tr></thead>
+  <tbody>
+      <tr><td class="han2">頭曼<span class="py">Touman</span></td><td class="num">do mɑnᶜ</td><td class="num" style="color:var(--ink)">do man</td><td><strong class="prop">Duman</strong> — dust cloud</td></tr>
+      <tr><td class="han2">稽粥<span class="py">Jizhou / Jiyu</span></td><td class="num">kʰeiᴮ tśuk</td><td class="num" style="color:var(--ink)">kei çuk</td><td><strong class="prop">Keyçuk</strong> — the wild, untamed one</td></tr>
+      <tr><td class="han2">軍臣<span class="py">Junchen</span></td><td class="num">kun dźin</td><td class="num" style="color:var(--ink)">kun cin</td><td><strong class="prop">Künçin</strong> — bright as the sun<br><span style="color:var(--ink-3); font-size:12.5px">Compare the regnal names of the Seljuk sultans Ghiyāth al-Dīn Kaykhusraw and ʿAlāʾ al-Dīn Kayqubād: <em>kay</em> means king, but carries an association with divine aurora or solar radiance.</span></td></tr>
+      <tr><td class="han2">詹師廬<span class="py">Zhanshilu</span></td><td class="num">tśam ṣi liɑ</td><td class="num" style="color:var(--ink)">çam şi lia</td><td><strong class="prop">Çamşılı</strong> — dazzling, radiant<br><span style="color:var(--ink-3); font-size:12.5px">Same association as <em>Künçin</em> above — the Seljuk <em>Kay-</em> names.</span></td></tr>
+      <tr><td class="han2">呴犁湖<span class="py">Xulihu / Goulihu</span></td><td class="num">huo lei gɑ</td><td class="num" style="color:var(--ink)">huo lei ga</td><td><strong class="prop">Gürleyen</strong> — one who roars like thunder</td></tr>
+      <tr><td class="han2">伊稚斜<span class="py">Yizhixie</span></td><td class="num">ʔi ḍiᶜ ja</td><td class="num" style="color:var(--ink)">’i di ya</td><td><strong class="prop">İdiya</strong> — master<br><span style="color:var(--ink-3); font-size:12.5px">Compare the epithet of the Ottoman sultan Murad I, <em>Hüdâvendigâr</em>, "the sovereign, the master".</span></td></tr>
+      <tr><td class="han2">烏維<span class="py">Wuwei</span></td><td class="num">ʔɑ wi</td><td class="num" style="color:var(--ink)">’a vi</td><td><strong class="prop">Abı</strong> — one who hunts or stalks<br><span style="color:var(--ink-3); font-size:12.5px">Compare <em>abcı</em> / <em>avcı</em>: <em>avcı</em> names an occupation, <em>abı</em> a trait. <em>Avcı</em> is also the epithet of the Ottoman sultan Mehmed IV.</span></td></tr>
+      <tr><td class="han2">且鞮侯<span class="py">Qiedihou</span></td><td class="num">tsɑᴮ te go</td><td class="num" style="color:var(--ink)">tsa te go</td><td><strong class="prop">Çatıgka</strong> — one ready for the clash<br><span style="color:var(--ink-3); font-size:12.5px">Compare Selçuk Bey, ancestral patriarch of the Seljuks, the name read as "one perpetually ready for the fight".</span></td></tr>
+      <tr><td class="han2">狐鹿姑<span class="py">Hulugu</span></td><td class="num">ɣuɑ lok kɑ</td><td class="num" style="color:var(--ink)">ğua lok ka</td><td><strong class="prop">Kurluga</strong> — the encloser, the binder<br><span style="color:var(--ink-3); font-size:12.5px"><span class="han">狐鹿姑</span> captured the Han general Li Guangli and held the Xiongnu tribes together under heavy Chinese pressure — a binder in fact as well as in name. Compare the Göktürk ruler Kapgan Kagan, <em>kapgan</em> "the gatherer, the encloser, the binder".</span></td></tr>
+      <tr><td class="han2">壺衍鞮<span class="py">Huyandi</span></td><td class="num">gɑ janᴮ te</td><td class="num" style="color:var(--ink)">ga yan te</td><td><strong class="prop">Kayantı</strong> — avalanche<br><span style="color:var(--ink-3); font-size:12.5px">Parallel in sense to the epithet of Bayezid I, <em>Yıldırım</em>, the thunderbolt — marking a ruler quick to act.</span></td></tr>
+      <tr><td class="han2">虛閭權渠<span class="py">Xulüquanqu</span></td><td class="num">kʰɨɑ liɑ gyan gɨɑ</td><td class="num" style="color:var(--ink)">kıa lia gyan gıa</td><td><strong class="prop">Kıyalıg Yanga</strong> — sovereign of the rocky flank</td></tr>
+      <tr><td class="han2">握衍朐鞮<span class="py">Woyanqudi</span></td><td class="num">ʔɔk janᴮ guo te</td><td class="num" style="color:var(--ink)">’ok yan guo te</td><td><strong class="prop">Okyan Kutuğtı</strong> — blessed sovereign of the arrow flank</td></tr>
+      <tr><td class="han2">呼韓邪<span class="py">Huhanye</span></td><td class="num">hɑ gɑn ja</td><td class="num" style="color:var(--ink)">ha gan ya</td><td><strong class="prop">Kaganya</strong> — kagan of the flank<br><span style="color:var(--ink-3); font-size:12.5px"><span class="han">呼韓邪</span> commanded the left flank before becoming ruler.</span></td></tr>
+      <tr><td class="han2">郅支<span class="py">Zhizhi</span></td><td class="num">tśit tśe</td><td class="num" style="color:var(--ink)">çit çe</td><td><strong class="prop">Çitçi</strong> — border-maker, one who carves the boundary</td></tr>
+      <tr style="background:var(--surface-2)"><td class="han2">若鞮<span class="py">Ruodi</span></td><td class="num">ńɑk te</td><td class="num" style="color:var(--ink)">nyak te</td><td><strong class="prop">Inakt</strong> — the faithful ones<br><span style="color:var(--ink-3); font-size:12.5px">The recurring element in the six titles below, not a name in itself: <em>ınaq</em> "trusted one" plus the Old Turkic plural <em>-t</em> used with titles (<em>tegin</em>&nbsp;→&nbsp;<em>tegit</em>, <em>tarqan</em>&nbsp;→&nbsp;<em>tarqat</em>). The <em>Hou Hanshu</em> records that it was added to the chanyu title from <span class="han">呼韓邪</span> onward and glosses it <span class="han">孝</span> "filial". Attested as <em>Inak: fidelis</em> in the <em>Codex Cumanicus</em>, p.&nbsp;182.</span></td></tr>
+      <tr><td class="han2">復株累若鞮<span class="py">Fuzhulei Ruodi</span></td><td class="num">buk ṭio lui ńɑk te</td><td class="num" style="color:var(--ink)">buk tio lui nyak te</td><td><strong class="prop">Bögü-Töl Inakt</strong> — Sacred Sage's Seed, of the Inakt</td></tr>
+      <tr><td class="han2">搜諧若鞮<span class="py">Souxie Ruodi</span></td><td class="num">so gɛi ńɑk te</td><td class="num" style="color:var(--ink)">so gei nyak te</td><td><strong class="prop">Kemiş-Ok Inakt</strong> — Arrow of Tribute, of the Inakt</td></tr>
+      <tr><td class="han2">車牙若鞮<span class="py">Cheya Ruodi</span></td><td class="num">tśʰa ŋa ńɑk te</td><td class="num" style="color:var(--ink)">ça nga nyak te</td><td><strong class="prop">Çöge-Ok Inakt</strong> — Arrow of High Eminence, of the Inakt</td></tr>
+      <tr><td class="han2">烏珠留若鞮<span class="py">Wuzhuliu Ruodi</span></td><td class="num">ʔɑ tśo liu ńɑk te</td><td class="num" style="color:var(--ink)">’a ço liu nyak te</td><td><strong class="prop">Bas-Tölü Inakt</strong> — Head Seed, of the Inakt</td></tr>
+      <tr><td class="han2">烏累若鞮<span class="py">Wulei Ruodi</span></td><td class="num">ʔɑ lui ńɑk te</td><td class="num" style="color:var(--ink)">’a lui nyak te</td><td><strong class="prop">Sıg-Kan Inakt</strong> — Prince of the Border Garrison, of the Inakt</td></tr>
+      <tr><td class="han2">呼都而尸道皋若鞮<span class="py">Huduershi Daogao Ruodi</span></td><td class="num">hɑ tɑ ńə śi douᴮ kou ńɑk te</td><td class="num" style="color:var(--ink)">ha ta nyı şi dou kou nyak te</td><td><strong class="prop">Öz-Uluğ Inakt</strong> — Great Core, of the Inakt</td></tr>
+      <tr><td class="han2">攣鞮<span class="py">Luandi</span></td><td class="num">lyan te</td><td class="num" style="color:var(--ink)">lyan te</td><td><strong class="prop">El-indi</strong> — state founder</td></tr>
+      <tr><td class="han2">虛連題<span class="py">Xulianti</span></td><td class="num">kʰɨɑ lianᴮ de</td><td class="num" style="color:var(--ink)">kıa lian de</td><td><strong class="prop">Kıyalığ El-indi</strong> — state founder of the rocky region</td></tr>
+      <tr><td class="han2">單于<span class="py">chanyu</span></td><td class="num">dźan wɑ</td><td class="num" style="color:var(--ink)">can va</td><td><strong class="prop">Kan Apa</strong> — senior ruler, elder ruler</td></tr>
+      <tr><td class="han2">撑犁<span class="py">chengli</span></td><td class="num">ḍaŋ lei</td><td class="num" style="color:var(--ink)">dang lei</td><td><strong class="prop">Tanglı</strong> — bearing divine light; sacred</td></tr>
+      <tr><td class="han2">當戶<span class="py">danghu</span></td><td class="num">tɑŋ gɑᴮ</td><td class="num" style="color:var(--ink)">tang ga</td><td><strong class="prop">Tanga</strong> — Siberian tiger or leopard<br><span style="color:var(--ink-3); font-size:12.5px">The hero of the <em>Alp Er Tunga</em> epic. Compare the Seljuk sultan Alp Arslan (<em>arslan</em>, lion) and the Mamluk sultan Baybars (<em>bars</em>, a large cat) — big-cat names for rulers are a long steppe habit.</span></td></tr>
+      <tr><td class="han2">閼氏<span class="py">yanzhi / ezhi</span></td><td class="num">ʔɑt dźeᴮ</td><td class="num" style="color:var(--ink)">’at ce</td><td><strong class="prop">Ece</strong> — queen</td></tr>
+      <tr><td class="han2">羯<span class="py">Jie</span></td><td class="num">kɨat</td><td class="num" style="color:var(--ink)">kıat</td><td><strong class="prop">Kıyat</strong> — floods</td></tr>
+      <tr><td class="han2">匈奴<span class="py">Xiongnu</span></td><td class="num">huoŋ nɑ</td><td class="num" style="color:var(--ink)">huong na</td><td><strong class="prop">Hung</strong> — the ethnonym, from the first character alone<br><span style="color:var(--ink-3); font-size:12.5px">The proposal takes <span class="han">匈</span> only, on the assumption that <span class="han">奴</span> "slave" is a Chinese pejorative addition rather than part of the name.</span></td></tr>
+      <tr><td class="han2">胡祿<span class="py">hulu</span></td><td class="num">gɔ lok</td><td class="num" style="color:var(--ink)">go lok</td><td><strong class="prop">Külük</strong> — glorious</td></tr>
+      <tr><td class="han2">骨都侯<span class="py">guduhou</span></td><td class="num">kuət tɑ go</td><td class="num" style="color:var(--ink)">kuıt ta go</td><td><strong class="prop">Kutluğ Beg</strong> — blessed lord<br><span style="color:var(--ink-3); font-size:12.5px">Compare Murad I's epithet <em>Hüdâvendigâr</em>, of similar sense, and <em>Qutalmış</em>, ancestor of the Seljuks of Rum.</span></td></tr>
+      <tr><td class="han2">且渠<span class="py">juqu</span></td><td class="num">tsɑᴮ gɨɑ</td><td class="num" style="color:var(--ink)">tsa gıa</td><td><strong class="prop">Kadı</strong> — judge<br><span style="color:var(--ink-3); font-size:12.5px">Compare Süleyman the Magnificent's Turkish epithet <em>Kanunî</em>, the lawgiver.</span></td></tr>
+      <tr><td class="han2">徑路<span class="py">jinglu</span></td><td class="num">keŋᶜ lɑᶜ</td><td class="num" style="color:var(--ink)">keng la</td><td><strong class="prop">Kıngırak</strong> — a large chopping knife (<em>satır</em>)<br><span style="color:var(--ink-3); font-size:12.5px">Compare Kılıç Arslan, where <em>kılıç</em> is sword.</span></td></tr>
+      <tr><td class="han2">服匿<span class="py">funi</span></td><td class="num">buk ṇɨk</td><td class="num" style="color:var(--ink)">buk nık</td><td><strong class="prop">Buknik</strong> — clay jar (<em>küp</em>)</td></tr>
+      <tr><td class="han2">甌脫<span class="py">outuo</span></td><td class="num">ʔo tʰuɑt</td><td class="num" style="color:var(--ink)">’o tuat</td><td><strong class="prop">Otuyat</strong> — the border watchtowers</td></tr>
+  </tbody>
+</table>
+</div>
+<p class="cap"><span class="tnum">Table 11</span>The author's proposals, drawn from Tables 3,
+8 and 9. The first three columns are the same evidence as those tables; the fourth is
+speculation and carries no support from anything measured in this paper. One pattern in it is
+worth singling out, because it is the only entry with independent corroboration: from
+<span class="han">呼韓邪</span> onward every chanyu title ends in <span class="han">若鞮</span>,
+and the <em>Hou Hanshu</em> states that this element was added from that reign and glosses it
+<span class="han">孝</span> "filial, devoted". The author reads the same element as
+<em>Inakt</em>, "the faithful ones" — a proposal that agrees with a gloss recorded by the Chinese
+source itself rather than with a modern dictionary, which is already a different order of
+evidence from the rest of this table.</p>
+
+<p class="cap">The word behind it is attested. Searching the two lexicons of &sect;3 for
+<em>inaq</em> returns <em>Inak</em>, glossed <em>fidelis</em> "faithful", in the
+<em>Codex Cumanicus</em> (Kuun 1880, p.&nbsp;182).<sup class="n"><a href="#r12">12</a></sup>
+It is absent from Kāşgarî's index, so the word belongs to the Kipchak tradition rather than
+the Karakhanid one. Old Turkic <em>ınaq</em> "trusted one, confidant" is generally derived,
+with <em>ınan-</em> "to trust" (whence modern <em>inanç</em>), from a root <em>ına-</em>
+"to rely on". So the sense the proposal needs — faithful, loyal — is documented in a
+c.&nbsp;1300 glossary, and it matches the <em>Hou Hanshu</em>'s <span class="han">孝</span>
+independently.</p>
+
+<p class="cap">Two formal objections were put to this reading. One of them has now been
+answered by measurement, and the other has decided which form the proposal should take.</p>
+
+<p class="cap"><strong>The suffix.</strong> A reading <em>ınaq-tı</em> is not available:
+<em>-tI</em> is not a noun-forming suffix, and the lexicons show it rather than a grammar
+having to assert it. Of the <strong>31</strong> Cuman headwords ending in <em>-tI</em>, almost
+all are glossed with Latin perfects — <em>Ayti: dixit</em>, <em>Azti: transgressus est</em>,
+<em>Öwtiti: detersit</em> — the definite past ending; the rest are numerals
+(<em>Alti: sex</em>) or Arabic loans. Kāşgarî's index has only <strong>six</strong>, none
+containing a suffix at all. A title cannot be a past-tense verb. But Old Turkic has a second
+candidate that fits exactly: <em>-t</em>, a plural used specifically with <em>titles</em> —
+<em>tegin</em>&nbsp;→&nbsp;<em>tegit</em>, <em>tarqan</em>&nbsp;→&nbsp;<em>tarqat</em>. On that
+reading the element is <strong>Inakt</strong>, "the faithful ones", and
+<span class="han">若鞮</span> is not one ruler's epithet but a title carried by the whole line
+from <span class="han">呼韓邪</span> onward — which is exactly how the Chinese sources use it.
+The six compound titles in the table are glossed on that reading, as
+<em>[personal name], of the Inakt</em>, rather than as compounds in which "faithful" modifies
+the name. An earlier draft did the latter and counted the faithfulness twice, once in the name
+and once in the title it was already attached to.</p>
+
+<p class="cap"><strong>The spelling.</strong> Against <em>Inakt</em> it was objected that Later
+Han Chinese had <span class="ipa">-t</span> final syllables and a scribe hearing a final
+<span class="ipa">-t</span> would have used one, rather than the open syllable
+<span class="han">鞮</span> <span class="ipa">te</span>. That is a claim about scribal habit, so
+it was counted. In the Sanskrit corpus — the same period — 770 pairs align one character to one
+syllable; where the source syllable ends in a stop, the scribe closed it with the same stop 48%
+of the time and used an <strong>open character 30%</strong> of the time. Nasal codas, by
+contrast, were closed 83% (-n) and 73% (-ŋ) of the time. An open character after a stop is
+ordinary, not exceptional, so the objection does not
+hold.<sup class="n"><a href="#r22">22</a></sup> The nasal-versus-stop asymmetry is the same one
+&sect;6 found surviving the period gap, appearing here in what the scribe chose to write.</p>
+
+<p class="cap"><strong>What is still unexplained</strong> is the initial vowel: if the source
+was <em>ınakt</em>, the opening <em>ı-</em> is not written, and
+<span class="han">若鞮</span> has no room for it. That objection stands. So the position is
+narrower than a claim and firmer than a guess — the sense is attested, the morphology is
+licensed, the spelling is normal, and one segment is unaccounted for. Clauson's entry on
+<em>ınaq</em> is where a Turkologist would take it further;
+<code>src/lookup_lexicons.py</code> and <code>src/step20_coda_spelling.py</code> reproduce
+every count quoted here.</p>
+
+<hr>
+
+<h2 class="col" id="apxc"><span class="num">C</span>Appendix: research log — corrections, withdrawn readings, and how the guessing actually works</h2>
+<div class="col">
+  <p>This appendix exists so that I can reconstruct later how the work was done, including the
+  parts that were wrong. None of it appears in the submitted paper or in Supplementary S1, where
+  the proposals are presented as they now stand rather than as a history of revisions. Here the
+  history is the point.</p>
+
+  <h3>C.1 &nbsp;The step-7 decoder cannot be quoted for an individual name</h3>
+  <p>This is the most important thing in this appendix, because I made the mistake myself and it
+  is an easy one to make again. Step 7's output file gives, for each of the 39 items, a ranked list
+  of readings with probabilities. For <span class="han">且渠</span> it gives <em>Çaka</em> at
+  0.583. It is tempting to read that as the model endorsing a reading. It is not.</p>
+  <p>The channel has two modes. A character can be <em>reading-anchored</em>, meaning the emission
+  distribution was learned for that specific character, or it can fall back to a table keyed on the
+  Later Han <strong>initial consonant class alone</strong>, discarding the vowel and the coda. Of
+  the 39 items, only <strong>5</strong> are reading-anchored throughout —
+  <span class="han">頭曼</span>, <span class="han">烏維</span>, <span class="han">單于</span>,
+  <span class="han">閼氏</span>, <span class="han">羯</span>. Thirty-four use backoff on at least
+  one character, and nine use it on every character.</p>
+  <p>The consequence is that seventeen characters of the record share one emission distribution:</p>
+  <pre class="tree">velar     17 chars  稽 渠 胡 湖 壺 戶 侯 姑 孤 骨 谷 韓 諧 皋 權 朐 徑   →  ka 0.34, ga 0.15, ku 0.08
+affricate  6 chars  且 粥 珠 臣 詹 郅                                  →  ca 0.18, ja 0.10, cā 0.08
+dental     9 chars  鞮 題 當 屠 撑 株 稚 脫 頓                          →  ta 0.23, da 0.11, ti 0.10
+liquid     6 chars  廬 攣 祿 累 蠡 閭                                  →  ra 0.37, la 0.17, rī 0.08</pre>
+  <p>So <span class="han">稽</span> <span class="ipa">kʰeiᴮ</span> and
+  <span class="han">渠</span> <span class="ipa">gɨɑ</span> get the same distribution, and
+  <span class="han">粥</span> <span class="ipa">tśuk</span> and <span class="han">且</span>
+  <span class="ipa">tsɑᴮ</span> get the same one. <span class="han">且渠</span> is affricate +
+  velar and decodes to <em>Çaka</em>; <span class="han">稽粥</span> is velar + affricate and
+  decodes to <em>Kaça</em>. They are mirror images of a single table entry. <em>Çaka</em> is not
+  evidence about <span class="han">且渠</span>; it is what the table returns for any
+  affricate-plus-velar string in the record.</p>
+  <p>Two further limits, both stated in step 7's own output notes and both easy to forget. The
+  probabilities are normalised over a retained beam, so they are relative rankings within that
+  beam and not posteriors. And the syllable inventory is Sanskrit-derived, so
+  <span class="ipa">q</span> and the front rounded vowels <span class="ipa">ö</span> and
+  <span class="ipa">ü</span> cannot be produced at all — which means a reading such as
+  <em>küçük</em> is not rejected by the decoder, it was never available to it. §5.2 of this paper
+  makes the general point; this is the specific mechanism behind it.</p>
+  <p><strong>Rule for later.</strong> Quote step 15's initial-correspondence counts, which are
+  direct observation, when asking whether a spelling is permitted. Never quote a step-7
+  probability in support of a particular reading.</p>
+
+  <h3>C.2 &nbsp;Readings I proposed and then withdrew</h3>
+  <p><span class="han">且渠</span>, first read <em>Kadı</em> "judge". Withdrawn because
+  <em>kadı</em> is an Arabic loan into Turkish and cannot stand in a Han-period title under any
+  account. This was the weakest thing I had written down. It is now read <em>Çaka</em> "the
+  striker", from the verb <em>çak-</em>, which is at least native — though there is no
+  <em>çaka</em> headword in any lexicon, only the verb and its derivatives, and the Chinese sources
+  do not record what the office did, so no sense can be tested.</p>
+  <p><span class="han">稽粥</span>, first read <em>Keyçuk</em> "the wild, untamed one". Withdrawn
+  because the shape and the sense came from two different words. The shape fits
+  <em>kiçig / kiçik / kiçük</em> "small, younger" — attested in Kāşgarî, in the
+  <em>Kutadgu Bilig</em> (<em>kiçig oğlan erken</em>, 1823), and in the <em>Codex Cumanicus</em> as
+  <em>Kečak</em> glossed <em>paucus</em>. The sense "wild" belongs to Old Turkic <em>keyik</em>,
+  which has no <span class="ipa">ç</span> in it at all. It is now read <em>Kiçük</em> "the
+  younger", which also fits the succession the Chinese sources record: 稽粥 is Modu's son.</p>
+  <p>Both withdrawals were prompted by running the lexicon search rather than by reasoning about
+  the readings, which is the general lesson: search first, then argue.</p>
+
+  <h3>C.3 &nbsp;How I actually generate a proposal, and why that is a weakness</h3>
+  <p>Three habits do most of the work, and it is worth being blunt about them because each one
+  widens the search space rather than constraining it.</p>
+  <p>The <em>epithet</em> habit: later Turkic rulers are commonly named by a common noun or a
+  natural force — Bayezid I <em>Yıldırım</em> the thunderbolt, Alp Arslan the lion, Mehmed IV
+  <em>Avcı</em> the hunter, Süleyman I <em>Kanunî</em> the lawgiver — so I treat a reading that
+  yields such a noun as more likely. The <em>career</em> habit: where the Chinese record says what
+  a ruler did, I prefer a reading that names the deed, which risks reading the biography back into
+  the name. The <em>compound</em> habit: a long transcription gets split into two or three Turkic
+  elements, and the longer the string the more ways there are to split it — which is why
+  <span class="han">呼都而尸道皋若鞮</span>, at eight characters, is the least constrained reading I
+  have.</p>
+  <p>One tic worth noticing: I proposed a solar image twice, for <span class="han">軍臣</span>
+  (<em>Künçin</em>, bright as the sun) and <span class="han">詹師廬</span> (<em>Çamşılı</em>,
+  dazzling). That is either a real pattern in steppe naming or evidence that I have a favourite
+  metaphor, and I cannot currently tell which. The same goes for the natural-force readings
+  <em>Gürleyen</em> and <em>Kayantı</em>.</p>
+
+  <h3>C.4 &nbsp;Earlier corrections worth remembering</h3>
+  <p>The <span class="ipa">-t</span> objection to <em>Inakt</em>. I initially argued that a scribe
+  wanting a final <span class="ipa">-t</span> would have used a <span class="ipa">-t</span>-final
+  character rather than the open <span class="han">鞮</span>. Step 20 measured it: 30% of
+  stop-final source syllables were written with an open character. My objection dissolved, and the
+  reading survived. This is the model for how an objection should be handled — turned into a count.</p>
+  <p>The <em>tengri</em> box. I first wrote it as though Georg's Yeniseian derivation settled
+  something. It does not need to be accepted: a word attested across Turkic, Mongolic and possibly
+  Yeniseian cannot discriminate between them either way, and that is the form the argument now
+  takes.</p>
+  <p>The modern-echo column. An early draft carried a "proposed modern equivalent" column for every
+  name. Almost all of it was noise, and printing it beside measured results implied a support the
+  nulls had already denied. Removed; only the handful of significant matches are named, next to the
+  table that measures them.</p>
+</div>
+
+<hr>
+
+<h2 class="col">Data and code</h2>
+<div class="col">
+  <p>Everything described here — the three corpora, the two lexicons, the channel models,
+  the evaluation scripts and the negative controls — is packaged as a single repository, so that any figure
+  in this paper can be regenerated from the raw inputs by running the numbered scripts in
+  order. The repository is the durable output; this paper is a description of it.</p>
+
+  <p>It will be deposited at
+  <a href="https://github.com/ulug2004/chinese-transcription-channel">github.com/ulug2004/chinese-transcription-channel</a>
+  and archived with a version DOI on first release.<sup class="n"><a href="#r22">22</a></sup>
+  Layout:</p>
+</div>
+
+<div class="col">
+<pre class="tree">chinese-transcription-channel/
+├── README.md                   what each output is, and how to regenerate it
+├── LICENSE                     code MIT · derived corpora CC-BY-4.0 where redistributable
+├── data/
+│   ├── derived/                <span class="tc">the corpora — the primary output</span>
+│   │   ├── shm_transcription_pairs.csv            9,329 Mongolian–Chinese pairs
+│   │   ├── ligeti_turkic_chinese_pairs.csv          594 Turkic–Chinese pairs
+│   │   ├── nti_transcription_pairs.csv            1,017 verified Sanskrit pairs
+│   │   ├── nti_rejected.csv                       7,480 rejected entries, retained for audit
+│   │   ├── aksara_table.csv                         845 induced akṣara → character mappings
+│   │   ├── xiongnu_rulers_reconstructed.csv          23 rulers and clan names
+│   │   ├── xiongnu_titles_lexicon_reconstructed.csv  16 titles and lexical items
+│   │   ├── uyghur_coda_characters.csv               173 characters with EMC readings
+│   │   ├── initial_correspondence.csv           source onset × Chinese initial
+│   │   ├── modern_echo_candidates.csv           dictionary matches, each with its p
+│   │   ├── lexicon_variants.csv                 six lexicons, each with its own null
+│   │   ├── dlt_lexicon.csv                      6,880 headwords + glosses from Kāşgarî
+│   │   ├── old_turkic_echo.csv                  the same search against that lexicon
+│   │   ├── cuman_lexicon.csv                    2,110 Cuman headwords + Latin glosses
+│   │   ├── cuman_echo.csv                       the same search against the Codex
+│   │   ├── coda_spelling.csv                    how a source coda was written in Chinese
+│   │   ├── channel_emissions_*.csv                  <span class="tc">trained channel tables</span>
+│   │   ├── learning_curve.csv                       accuracy vs. training size
+│   │   └── period_gap.csv                           Ming → Later Han survival by component
+│   └── external/               <span class="tc">third-party inputs, not redistributed;
+│                               fetch scripts and checksums provided</span>
+├── src/                        steps 1–20, plus lookup_lexicons.py, each rerunnable alone
+├── docs/
+│   ├── PROJECT_STATUS.md       every measured result with the script that produced it
+│   ├── design_notes.md         decision log, including approaches that were rejected
+│   └── paper_plain_language.html
+└── references/                 bibliography and corpus provenance audit</pre>
+</div>
+
+<div class="col">
+  <div class="box">
+    <p><strong>What is and is not redistributable.</strong> The derived corpora in
+    <code>data/derived/</code> are new alignments produced by this work and are released
+    openly. The sources they were extracted from are not: the Ligeti glossaries are under
+    copyright to Akadémiai Kiadó, and permission for redistribution of the extracted pairs
+    is unresolved at the time of writing.<sup class="n"><a href="#r15">15</a>,<a href="#r16">16</a></sup>
+    Until it is settled, <code>src/step12_extract_ligeti.py</code> is released but the Turkic
+    pair file is withheld pending clearance; the extraction is reproducible by anyone with
+    legitimate access to the journal volumes. Everything else ships.</p>
+  </div>
+</div>
+
+<h2 class="col">References</h2>
+<ol class="refs">
+  <li id="r1">Baley, D. (2025). <em>Chinese Transcription of Buddhist Terms in the Late Hàn Dynasty</em>,
+  v7. Zenodo. doi:10.5281/zenodo.7905399. Data paper: <em>Journal of Open Humanities Data</em>,
+  doi:10.5334/johd.110</li>
+  <li id="r2">Baxter, W. H. &amp; Sagart, L. (2014). <em>Old Chinese: A New Reconstruction</em>.
+  Oxford University Press.</li>
+  <li id="r3">Bonmann, S. et al. (2025). Linguistic evidence suggests that Xiōngnú and Huns spoke the
+  same Paleo-Siberian language. <em>Transactions of the Philological Society</em>.
+  doi:10.1111/1467-968X.12321</li>
+  <li id="r4">Clauson, G. (1972). <em>An Etymological Dictionary of Pre-Thirteenth-Century Turkish</em>.
+  Oxford: Clarendon Press.</li>
+  <li id="r5">Doerfer, G. (1973). <em>Lautgesetz und Zufall: Betrachtungen zum
+  Omnicomparatismus</em>. Innsbrucker Beiträge zur Sprachwissenschaft 10. Innsbruck: Institut
+  für Vergleichende Sprachwissenschaft.</li>
+  <li id="r6">Doerfer, G. (1973). Zur Sprache der Hunnen. <em>Central Asiatic Journal</em> 17: 1–50.</li>
+  <li id="r7">Erdal, M. (2004). <em>A Grammar of Old Turkic</em>. Leiden: Brill.</li>
+  <li id="r8">Georg, S. (2001). Türkisch/Mongolisch <em>tengri</em> 'Himmel, Gott' und
+  seine Herkunft. <em>Studia Etymologica Cracoviensia</em> 6: 83–100.</li>
+  <li id="r9">Golden, P. B. (1992). <em>An Introduction to the History of the Turkic Peoples</em>.
+  Wiesbaden: Harrassowitz.</li>
+  <li id="r10">Hú Zhènhuá &amp; Huáng Rùnhuá (1984). 《高昌舘杂字：明代汉文回鹘文分类词汇》.
+  Běijīng: Mínzú chūbǎn shè.</li>
+  <li id="r11">Kāşgarlı Mahmud (1072–77). <em>Dīwān Lughāt al-Turk</em>. Index volume
+  (<em>Dizin</em>), Türk Dil Kurumu Yayınları.</li>
+  <li id="r12">Kuun, G., ed. (1880). <em>Codex Cumanicus Bibliothecæ ad Templum Divi Marci
+  Venetiarum</em>. Budapest: Editio Scient. Academiæ Hung. Public domain.</li>
+  <li id="r13">[Unsigned review] (1974). Lautgesetz und Zufall [review of Doerfer 1973].
+  <em>Anthropos</em> 69: 263–271. JSTOR 40458521.</li>
+  <li id="r14">Lee, J. et al. (2023). Genetic population structure of the Xiongnu Empire at imperial
+  and local scales. <em>Science Advances</em> 9(15). doi:10.1126/sciadv.adf3904</li>
+  <li id="r15">Ligeti, L. (1966). Un vocabulaire sino-ouigour des Ming. <em>Acta Orientalia Academiae
+  Scientiarum Hungaricae</em> 19: 117–199, 257–316.</li>
+  <li id="r16">Ligeti, L. (1969). Glossaire supplémentaire au vocabulaire sino-ouigour du Bureau des
+  Traducteurs. <em>Acta Orientalia ASH</em> 22: 1–49, 191–243.</li>
+  <li id="r17">Pulleyblank, E. G. (1962). The consonantal system of Old Chinese. <em>Asia Major</em>
+  9: 58–144, 206–265.</li>
+  <li id="r18">Pulleyblank, E. G. (1991). <em>Lexicon of Reconstructed Pronunciation in Early Middle
+  Chinese, Late Middle Chinese, and Early Mandarin</em>. Vancouver: UBC Press.</li>
+  <li id="r19">Savelyev, A. &amp; Jeong, C. (2020). Early nomads of the Eastern Steppe and their
+  tentative connections in the West. <em>Evolutionary Human Sciences</em> 2, e20.</li>
+  <li id="r20">Schuessler, A. (2009). <em>Minimal Old Chinese and Later Han Chinese</em>. Honolulu:
+  University of Hawai'i Press. Data release: Zenodo, doi:10.5281/zenodo.14567004</li>
+  <li id="r21">Tan, Y. Y. (2019). <em>Consonant Endings of Míng Dynasty Mandarin as Reflected in the
+  Chinese Transcriptions of Uyghur Vocabulary</em>. MA thesis, University of Washington.</li>
+  <li id="r22">Uluğ, A. M. (2026). <em>chinese-transcription-channel</em>: corpora, channel models and
+  evaluation code for Chinese transcriptions of steppe names [software and data].
+  GitHub: <a href="https://github.com/ulug2004/chinese-transcription-channel">github.com/ulug2004/chinese-transcription-channel</a>.
+  Archived release to be deposited with Zenodo (DOI on first release).</li>
+  <li id="r23">Vovin, A. (2000). Did the Xiong-nu speak a Yeniseian language? <em>Central Asiatic
+  Journal</em> 44(1): 87–104.</li>
+  <li id="r24">Vovin, A. (2003). Did the Xiongnu speak a Yeniseian language? Part 2:
+  Vocabulary. In <em>Altaica Budapestinensia MMII</em>, Proceedings of the 45th Permanent
+  International Altaistic Conference, Budapest, pp. 389–394.</li>
+  <li id="r25">Wittek, A. et al. — ASJP Database v19 (2020). Zenodo, doi:10.5281/zenodo.3843469</li>
+</ol>
+
+<div class="col" style="margin-top:40px">
+  <p style="font-family:'IBM Plex Sans',sans-serif; font-size:13px; color:var(--ink-3); line-height:1.6">
+  Code, corpora and per-step measurement logs are held in the project repository. The training sets
+  are <code>shm_transcription_pairs.csv</code> (9,329 rows),
+  <code>ligeti_turkic_chinese_pairs.csv</code> (594 rows) and
+  <code>nti_transcription_pairs.csv</code> (1,017 rows), the last accompanied by
+  <code>aksara_table.csv</code> (845 character-to-sound mappings) and by the rejected
+  entries, retained for audit.</p>
+</div>
+</div>

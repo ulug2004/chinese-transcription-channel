@@ -1,0 +1,12 @@
+step 22 - the doubled-consonant junction
+
+Junctions where a written coda is followed by the same-place onset: 140
+  the source word has that consonant ONCE  :  121  (86%)
+  the source word has it twice             :   19  (14%)
+
+Reading: the double spelling is a Chinese convention, not a geminate. A
+sequence such as 骨都 kuət tɑ normally transcribes a source *kuta*, with one t.
+
+Caveat: 'twice' is detected by looking for the doubled letter anywhere in the
+Sanskrit form, so a geminate elsewhere in the word counts against the merger.
+The true merge rate is therefore at least the figure above, not at most it.

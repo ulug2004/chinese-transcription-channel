@@ -1,0 +1,79 @@
+==========================================================================
+ STEP 10 - learning curve: how much data does this need?
+==========================================================================
+
+Mongolian corpus: 7,530 train / 1,794 held out (6 unseen chapters)
+
+==========================================================================
+ B. LEARNING CURVE - Mongolian, evaluation set held FIXED
+==========================================================================
+
+  train pairs  obs/char  pos top-1  pos top-3   exact  within1  within2  mean ned
+          500       9.5      33.6%      56.2%    7.1%    27.8%    57.5%     0.334
+        1,000      15.4      35.2%      58.0%    8.8%    32.4%    60.3%     0.323
+        2,000      23.8      42.3%      64.9%   17.4%    45.7%    70.7%     0.249
+        4,000      39.8      45.7%      70.7%   26.1%    56.4%    78.6%     0.197
+        7,530      60.8      56.4%      78.9%   37.3%    70.5%    88.4%     0.142
+
+==========================================================================
+ A. SAME ARCHITECTURE, HAN-ERA DATA (the 1,017 Sanskrit pairs)
+==========================================================================
+
+  858 train / 152 test   (5.0 observations per character)
+  position top-1 32.6%   top-3 53.2%
+  whole-form exact 8.8%   within1 22.5%   within2 39.2%   mean ned 0.437
+
+  Baseline - SYLLABLE architecture on the same Sanskrit data (steps 4/7):
+    whole-form exact 8.2%   within1 17.4%   within2 32.8%   mean ned 0.410
+
+  ARCHITECTURE EFFECT at Han-era volume: +0.6 points on exact match.
+  Essentially nothing. The step-9 gain was NOT the segmental architecture -
+  it was the data volume. Segmental units remove the inventory ceiling, which
+  matters, but they do not buy accuracy when the data is thin.
+
+==========================================================================
+ WHAT THIS SAYS ABOUT THE XIONGNU MATERIAL
+==========================================================================
+
+  At 500 training pairs - roughly the volume of Han-era transcription
+  data that exists - the Mongolian curve gives exact 7.1%, within-2 57.5%,
+  mean normalised edit distance 0.334.
+
+  At 7,530 pairs it gives exact 37.3%, within-2 88.4%, ned 0.142.
+
+  Read the low end as the CEILING for the Xiongnu names under a perfect
+  pipeline at the data volume available. Any claim about a specific Xiongnu
+  reconstruction has to live inside that bound.
+
+--------------------------------------------------------------------------
+ THE BINDING VARIABLE IS OBSERVATIONS PER CHARACTER, NOT PAIRS
+--------------------------------------------------------------------------
+
+  Compare the corpora on that axis:
+    Mongolian, 500 pairs     :   9.5 observations per character
+    Mongolian, full corpus   :  60.8
+    Sanskrit, 858 pairs      :   5.0   <- sparser than the SMALLEST
+                                        Mongolian sample, because Buddhist
+                                        transcription uses a sprawling
+                                        character inventory while the Secret
+                                        History uses a tight conventionalised
+                                        one
+    Xiongnu names + titles   :   1.4   (112 character tokens over 81 distinct)
+
+  That last row is the whole problem. At roughly one observation per
+  character, a character-keyed channel cannot be estimated at all - there
+  is no amount of clever search or better prior that recovers from it.
+
+  CONSEQUENCE, and it is now empirically motivated rather than a guess:
+  for Han-era material the channel MUST generalise across characters via
+  their RECONSTRUCTED READING (Schuessler Later Han), not be keyed on the
+  character itself. Characters sharing a reading then pool their evidence,
+  and the ~90 Xiongnu characters collapse onto a far smaller set of
+  reading types, each with many observations drawn from the whole Buddhist
+  corpus. That is the only route that changes the arithmetic.
+
+  Caveat: the Mongolian curve is same-language, same-period. Applying a
+  channel across a 1,200-year phonological gap is strictly harder, so treat
+  the low end as optimistic rather than as an achievable target.
+
+Written to data/derived/learning_curve.csv

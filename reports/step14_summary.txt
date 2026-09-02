@@ -1,0 +1,104 @@
+==========================================================================
+ STEP 14 - the cost of the period gap
+==========================================================================
+
+characters with EMC + OM        : 173
+characters with all three eras  : 164
+
+Sample of the ladder:
+  char  Later Han    EMC (Tang)   Old Mandarin (Ming)
+  俺     -            ʔiam         ŋam
+  參     tsʰəm        tsʰəm        tsʰam
+  䩞     -            tɕʰiam       tʂʰiɛm
+  膽     tɑm          tam          tam
+  點     tem          tɛm          tiɛm
+  店     -            tɛm          tiɛm
+  坎     kʰəm         kʰəm         kʰiam
+  廉     liam         liam         liɛm
+
+--------------------------------------------------------------------------
+ PREDICTING THE EARLIER READING FROM THE LATER ONE
+ leave-one-out majority prediction; 'base' = unconditional majority
+--------------------------------------------------------------------------
+
+ Ming -> Tang   (n=173)
+   part        accuracy    base    lift
+   initial        78.6%    0.0%  +78.6
+   nucleus        63.0%   20.8%  +42.2
+   coda           54.3%   34.7%  +19.7
+
+ Tang -> Later Han   (n=164)
+   part        accuracy    base    lift
+   initial        93.9%    9.1%  +84.8
+   nucleus        58.5%   15.2%  +43.3
+   coda           99.4%   35.4%  +64.0
+
+ Ming -> Later Han   <-- the gap that matters   (n=164)
+   part        accuracy    base    lift
+   initial        79.3%    9.1%  +70.1
+   nucleus        50.0%   15.2%  +34.8
+   coda           87.2%   35.4%  +51.8
+
+--------------------------------------------------------------------------
+ CODA, BY CLASS - because the aggregate figure is an artefact
+--------------------------------------------------------------------------
+
+ Old Mandarin coda (rows) x Later Han coda (cols):
+           0     k     m     n     p     t     ŋ
+    0      1    26     0     0     5    14     0
+    m      0     0    15     0     0     0     0
+    n      0     0     0    58     0     0     1
+    ŋ      0     0     0     0     0     0    44
+
+ NASAL codas (-m, -n, -ng):  117/118 = 99.2% preserved exactly
+ STOP codas (-p, -t, -k):    0/45 preserved  -  Old Mandarin merged ALL of them to zero coda
+   distribution in Later Han: {'p': 5, 't': 14, 'k': 26}
+   best possible guess is the majority class 'k': 26/45 = 57.8%
+
+
+==========================================================================
+ WHAT THIS MEANS FOR THE XIONGNU NAMES
+==========================================================================
+
+ Ming -> Later Han, by component:
+   initial             79.3%
+   nucleus             50.0%
+   coda, nasal         99.2%
+   coda, stop          57.8%   (majority guess only - the
+                              three-way -p/-t/-k contrast is GONE)
+
+ The asymmetry is sharp and it is not the one an aggregate figure shows.
+ Nasal codas survive the 1,200-year jump intact. Stop codas are
+ irrecoverable: Old Mandarin merged -p, -t and -k into zero, so given a
+ Ming reading there is no evidence at all about which stop Later Han had.
+
+ BUT - and this is why step 13 worked at all - the Ming transcription
+ system COMPENSATED for that loss. Scribes marked foreign final consonants
+ with an extra CHARACTER rather than a coda: 兒 (eul) for -r, 思 (sseu) for
+ -s. Those were the two most frequent syllables in the Ligeti corpus
+ (eul 118, sseu 61). So the information sits in the SYLLABLE SEQUENCE, not
+ in the Chinese coda, and it is not lost by the period shift.
+
+ CONSEQUENCE for the Xiongnu names - a precise boundary:
+   * Initial place of articulation carries at ~79% across the gap.
+     ONSET-level claims are supportable.
+   * Nasal finals carry intact.
+   * Stop finals do not carry at all. Any claim resting on a Xiongnu name
+     having had a final -p, -t or -k cannot be supported from a Ming-trained
+     channel, and Han-era transcription used codas directly rather than
+     compensating characters, so that gap is real.
+   * Nucleus at 50% is the weakest link and limits whole-form work
+     independently of the coda question.
+
+ CAVEATS
+  1. n is 164 characters, and NOT a random sample - they are the nasal/stop-
+     coda characters Tan tabulated. 72% carry a nasal coda, which is why the
+     aggregate coda figure came out at a meaningless 87%. Split by class it
+     is interpretable; do not quote a single coda number.
+  2. Leave-one-out majority prediction is a weak learner. A real model would
+     do better, so read these as lower bounds.
+  3. Three different reconstruction traditions (Schuessler, Pulleyblank, Ning)
+     with different notational conventions; some disagreement is notational
+     rather than substantive.
+
+Written to data/derived/period_gap.csv

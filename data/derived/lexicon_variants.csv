@@ -1,0 +1,7 @@
+variant,entries,null_hits,null_n,null_median,names_beating_chance,names_with_candidate
+turkish,21721,231,250,0.156,2,36
+kazakh,53182,239,250,0.183,0,36
+union,73406,236,250,0.117,2,36
+turkish_native,14876,233,250,0.2,2,36
+intersect,1497,219,250,0.329,3,35
+intersect_nat,1153,190,250,0.372,3,34

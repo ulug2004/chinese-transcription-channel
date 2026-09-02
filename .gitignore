@@ -1,0 +1,44 @@
+# ---------------------------------------------------------------
+# Third-party sources - read locally, never redistributed
+# ---------------------------------------------------------------
+my_resources/
+Downloads/
+data/external/
+References/
+
+# ---------------------------------------------------------------
+# Derived data that inherits a restriction from its source
+# ---------------------------------------------------------------
+# Extracted from Ligeti's glossaries (Akademiai Kiado, copyright).
+# step12_extract_ligeti.py is released; the pairs are not.
+data/derived/ligeti_turkic_chinese_pairs.csv
+reports/ligeti_glossary_raw.txt
+reports/ligeti_page_*.png
+
+# Extracted from the Turk Dil Kurumu index volume, a modern edition.
+# step18_old_turkic.py is released; the lexicon is not.
+data/derived/dlt_lexicon.csv
+
+# These two carry Kasgari glosses copied out of that same edition, and
+# name_candidates.csv also quotes context verbatim from Clauson's EDPT
+# (Oxford, 1972). The scripts that build them are released; the files
+# are not. Regenerate locally with RUN-old-turkic.bat / RUN-candidates.bat.
+data/derived/old_turkic_echo.csv
+data/derived/name_candidates.csv
+
+# ---------------------------------------------------------------
+# Private working material, not part of the released record
+# ---------------------------------------------------------------
+my_notes.docx
+my_notes2.docx
+
+# ---------------------------------------------------------------
+# Local noise
+# ---------------------------------------------------------------
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*
+.~lock.*#
+*.tmp

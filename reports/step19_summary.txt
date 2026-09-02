@@ -1,0 +1,224 @@
+==========================================================================
+ STEP 19 - Xiongnu readings against the Codex Cumanicus (Kuun 1880)
+==========================================================================
+ source                    : Codex_Cumanicus_Kuun_1880.zip
+ scan pages used           : 395-455 (Vocabularium cumanico-latinum)
+ entries extracted         : 2110
+ normalised search forms   : 2067
+ names                     : 39
+
+ NULL: 275/300 meaningless pseudo-names found a match; median best score 0.242
+ for comparison - modern Turkish 0.156, Kazakh 0.183, Divanu Lugati't-Turk 0.200
+
+==========================================================================
+ THE TWO KNOWN ANSWERS
+==========================================================================
+ 撑犁  ḍaŋ lei  ->  dang lei   (Hanshu glosses it 天 'heaven')
+    1. tinger         0.206  Vervacatum
+    2. tengri         0.233  deus   <== the known answer
+    3. duvlat         0.388  imperium
+    4. dela           0.417  mustela foina
+    5. devl           0.417  non est
+    tengri in lexicon: yes ; rank: 2
+
+ 頭曼  do mɑnᶜ  ->  do man   (standard etymology)
+    1. taman          0.142  perfectum
+    2. touman         0.156  nebula
+    3. etarmen        0.367  facio
+    4. tiarmen        0.367  destino
+    5. tilaman        0.367  nolo
+    tümen in lexicon: NOT PRESENT ; rank: not returned
+
+==========================================================================
+ ALL NAMES
+==========================================================================
+頭曼  Touman                 do mɑnᶜ                  -> do man
+     taman          0.142  p=0.297  perfectum
+     touman         0.156  p=0.297  nebula
+     etarmen        0.367  p=0.297  facio
+
+冒頓  Modu / Modun           mək tuənᶜ                -> mık tuın
+     ketan          0.312  p=0.633  tela
+     kadan          0.388  p=0.633  clavus
+     katinda        0.388  p=0.633  apud
+
+稽粥  Jizhou / Jiyu          kʰeiᴮ tśuk               -> kei çuk
+     keçak          0.056  p=0.047  paucus
+     keç            0.156  p=0.047  tarde
+     kiçi           0.156  p=0.047  parvus
+
+軍臣  Junchen                kun dźin                 -> kun cin
+     kaurçina       0.388  p=0.760  vas latum
+     konç           0.388  p=0.760  crus
+     konçek         0.388  p=0.760  bracca
+
+伊稚斜  Yizhixie               ʔi ḍiᶜ ja                -> ’i di ya
+     toy            0.275  p=0.553  convivium
+     tuy            0.275  p=0.553  s. tu «pistum
+     tayag          0.283  p=0.553  clava
+
+烏維  Wuwei                  ʔɑ wi                    -> ’a vi
+     va             0.125  p=0.280  y
+     ovdi           0.212  p=0.280  laus
+     iv             0.250  p=0.280  sepulcrum
+
+詹師廬  Zhanshilu              tśam ṣi liɑ              -> çam şi lia
+     uçmisley       0.318  p=0.640  volando
+     çomlak         0.388  p=0.640  olla
+     makala         0.547  p=0.640  platea
+
+呴犁湖  Xulihu / Goulihu       huo lei gɑ               -> huo lei ga
+     ehar           0.233  p=0.490  planta
+     hor            0.233  p=0.490  defectus
+     areg           0.317  p=0.490  macer
+
+且鞮侯  Qiedihou               tsɑᴮ te go               -> tsa te go
+     tausti         0.117  p=0.187  perfecit
+     tusti          0.138  p=0.187  certavit
+     tasidi         0.192  p=0.187  rapuit
+
+狐鹿姑  Hulugu                 ɣuɑ lok kɑ               -> ğua lok ka
+     ioluktu        0.350  p=0.707  obviam venit
+     iarikte        0.372  p=0.707  illuminavit
+     ululuk         0.372  p=0.707  magnitudo
+
+壺衍鞮  Huyandi                gɑ janᴮ te               -> ga yan te
+     koyan          0.192  p=0.390  collocatus
+     uiaganda       0.275  p=0.390  vigilando
+     kinadi         0.329  p=0.390  torsit
+
+虛閭權渠  Xulüquanqu             kʰɨɑ liɑ gyan gɨɑ        -> kıa lia gyan gıa
+     koligian       0.316  p=0.637  galanga
+     kurgan         0.353  p=0.637  tumulus
+     iglading       0.376  p=0.637  ploravisti
+
+握衍朐鞮  Woyanqudi              ʔɔk janᴮ guo te          -> ’ok yan guo te
+     koyan          0.325  p=0.650  collocatus
+     karangi        0.375  p=0.650  obscurus
+     kayda          0.375  p=0.650  ubi
+
+呼韓邪  Huhanye                hɑ gɑn ja                -> ha gan ya
+     uiaganda       0.400  p=0.770  vigilando
+     kinadi         0.467  p=0.770  torsit
+     hanat          0.483  p=0.770  ala
+
+郅支  Zhizhi                 tśit tśe                 -> çit çe
+     çipçik         0.319  p=0.647  avis
+     çakuç          0.367  p=0.647  malleus
+     çakuçi         0.367  p=0.647  accusator
+
+復株累若鞮  Fuzhulei Ruodi         buk ṭio lui ńɑk te       -> buk tio lui nyak te
+     no candidate
+
+搜諧若鞮  Souxie Ruodi           so gɛi ńɑk te            -> so gei nyak te
+     saganmak       0.258  p=0.527  admonitio
+     segerçik       0.408  p=0.527  columbus
+     oskurmak       0.467  p=0.527  tussis
+
+車牙若鞮  Cheya Ruodi            tśʰa ŋa ńɑk te           -> ça nga nyak te
+     çapçaçik       0.571  p=0.907  valde mobilis
+
+烏珠留若鞮  Wuzhuliu Ruodi         ʔɑ tśo liu ńɑk te        -> ’a ço liu nyak te
+     açergansa      0.535  p=0.887  si moeret
+     çilnirler      0.542  p=0.887  intrant
+     çapçaçik       0.578  p=0.887  valde mobilis
+
+烏累若鞮  Wulei Ruodi            ʔɑ lui ńɑk te            -> ’a lui nyak te
+     erinçak        0.340  p=0.687  pigrita
+     iarilgadi      0.490  p=0.687  misertus est
+     örumçik        0.490  p=0.687  aranea
+
+呼都而尸道皋若鞮  Huduershi Daogao Ruodi hɑ tɑ ńə śi douᴮ kou ńɑk -> ha ta nyı şi dou kou nyak te
+     no candidate
+
+攣鞮  Luandi                 lyan te                  -> lyan te
+     rauand         0.292  p=0.590  rhabarbarum
+     aleyoh         0.346  p=0.590  laudate Jehovam
+     yalen          0.350  p=0.590  flamma
+
+虛連題  Xulianti               kʰɨɑ lianᴮ de            -> kıa lian de
+     kalan          0.125  p=0.280  penicillus
+     kolan          0.125  p=0.280  cingulum
+     karen          0.175  p=0.280  venter
+
+單于  chanyu                 dźan wɑ                  -> can va
+     çanak          0.383  p=0.753  scutella
+     açuv           0.475  p=0.753  amaritudo
+     çinay          0.475  p=0.753  uxor
+
+撑犁孤塗單于  chengli gutu chanyu    ḍaŋ lei kuɑ dɑ dźan wɑ   -> dang lei kua da can va
+     no candidate
+
+撑犁  chengli                ḍaŋ lei                  -> dang lei
+     tinger         0.206  p=0.430  Vervacatum
+     tengri         0.233  p=0.430  deus
+     duvlat         0.388  p=0.430  imperium
+
+孤塗  gutu                   kuɑ dɑ                   -> kua da
+     kadadi         0.156  p=0.307  clavavit
+     kadak          0.156  p=0.307  clavus
+     kaia           0.233  p=0.307  rupes
+
+閼氏  yanzhi / ezhi          ʔɑt dźeᴮ                 -> ’at ce
+     at             0.212  p=0.450  equus
+     teçe           0.212  p=0.450  apposite
+     öte            0.212  p=0.450  trans
+
+屠耆  tuqi                   dɑ gɨ                    -> da gı
+     da             0.212  p=0.450  et
+     tage           0.212  p=0.450  fortasse tagel idem
+     daui           0.233  p=0.450  d
+
+谷蠡  luli / guli            kok leᴮ                  -> kok le
+     kukel          0.042  p=0.030  gramen
+     kagal          0.183  p=0.030  lentus
+     kugir          0.233  p=0.030  w «pectus
+
+當戶  danghu                 tɑŋ gɑᴮ                  -> tang ga
+     tang           0.142  p=0.297  fasciculus
+     tarag          0.333  p=0.297  porticula
+     tayag          0.333  p=0.297  clava
+
+骨都侯  guduhou                kuət tɑ go               -> kuıt ta go
+     kadadi         0.287  p=0.580  clavavit
+     kerteg         0.312  p=0.580  talamus
+     tatig          0.312  p=0.580  sapor
+
+且渠  juqu                   tsɑᴮ gɨɑ                 -> tsa gıa
+     atas           0.156  p=0.307  cognominis
+     tas            0.156  p=0.307  pelvis tonsoria
+     taus           0.156  p=0.307  pavo
+
+徑路  jinglu                 keŋᶜ lɑᶜ                 -> keng la
+     kangil         0.083  p=0.153  liga
+     kongul         0.083  p=0.153  cor
+     kenglik        0.106  p=0.153  largitudo
+
+服匿  funi                   buk ṇɨk                  -> buk nık
+     öpkani         0.212  p=0.450  mend. pro öpkäsi
+     bekyn          0.275  p=0.450  beki (bekin)
+     bukûluk        0.281  p=0.450  magia
+
+甌脫  outuo                  ʔo tʰuɑt                 -> ’o tuat
+     ouat           0.150  p=0.300  caliga
+     toua           0.150  p=0.300  camelus
+     totak          0.156  p=0.300  labium
+
+胡祿  hulu                   gɔ lok                   -> go lok
+     ogolok         0.028  p=0.020  capella
+     aglik          0.083  p=0.020  albedo
+     egelik         0.083  p=0.020  bonitas
+
+匈奴  Xiongnu                huoŋ nɑ                  -> huong na
+     hun            0.389  p=0.767  fortasse «Cumanus
+     han            0.417  p=0.767  dominus
+     hangi          0.417  p=0.767  qualis
+
+羯  Jie                    kɨat                     -> kıat
+     kat            0.125  p=0.280  latus
+     kati           0.125  p=0.280  durus
+     koti           0.125  p=0.280  podex (ejus)
+
+==========================================================================
+ 3 of 36 names with a candidate beat chance at p<=0.05.
+==========================================================================

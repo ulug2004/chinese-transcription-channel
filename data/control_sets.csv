@@ -1,0 +1,8 @@
+id,language_family,language,chinese,pinyin_modern,known_form,source,period,role,notes
+S01,Iranian,Sogdian,石槃陀,Shipantuo,vandak,"Yoshida, Encyclopaedia Iranica",Tang,negative_control,
+S02,Iranian,Sogdian,安禄山,An Lushan,roxsn-,"Yoshida, Encyclopaedia Iranica",Tang,negative_control,Famous rebel; name analysed as Sogdian roxsan 'bright'.
+S03,Iranian,Sogdian,曹那寧盤,Cao Naningpan,nny-pm,"Yoshida, Encyclopaedia Iranica",Tang,negative_control,
+S04,Iranian,Sogdian,弗豆吒,Fudouzha,pwty-dayh,"Yoshida, Encyclopaedia Iranica",Tang,negative_control,
+S05,Iranian,Sogdian,遊莎延,Yousuoyan,ysw-yan,"Yoshida, Encyclopaedia Iranica",Tang,negative_control,
+K01,Indic,Sanskrit,釋迦牟尼,Shijiamouni,sakyamuni,NTI / Fo Guang Shan,Han-Tang,negative_control,Canonical transcription example.
+K02,Indic,Sanskrit,支婁迦讖,Zhiloujiachen,lokaksema,NTI / Fo Guang Shan,Late Han,negative_control,Translator active c.178-189 CE - same period as the Xiongnu material.

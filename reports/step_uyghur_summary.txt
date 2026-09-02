@@ -1,0 +1,45 @@
+==================================================================
+ TURKIC TRANSFER TEST
+==================================================================
+
+Extracting from the UW thesis (166 pages)...
+  appendix character rows : 173
+  body example word pairs : 182
+
+!! Correction: the thesis does NOT publish 1,040 Uyghur-Chinese pairs.
+   It analyses 1,040 terms from Hu & Huang (1984), a PRINT book. What is
+   actually here is the two counts above. corpus_audit.md was wrong.
+
+Appendix by coda: {'-m': 19, '-n': 60, '-ng': 46, '-p': 5, '-t': 15, '-k': 28}
+Characters carrying a Pulleyblank (1991) EMC reconstruction: 173
+  ^ worth noting: Pulleyblank is otherwise print-only and undigitised.
+
+------------------------------------------------------------------
+ Transfer test: does onset compatibility hold for Turkic?
+------------------------------------------------------------------
+  pairs scored              : 179  (skipped for no coverage: 3)
+  character positions scored: 415
+
+                              LOOSE classes   TIGHT classes
+  observed onset match      :     0.830           0.740
+  null 1 - shuffled onsets  :     0.450           0.399   (weak null)
+  null 2 - random re-pairing:     0.268           0.159   (strong null)
+  lift over strong null     :    +0.562          +0.581
+  permutation p             :    0.0050          0.0050   (200 permutations)
+  pairs at >=0.75 match     :  129/179 (72%)        102/179 (57%)
+
+  Null 1 shuffles onsets inside the same word, so it preserves that
+  word's onset inventory - a two-syllable word matches ~50% by accident.
+  Null 2 pairs each Chinese transcription with a DIFFERENT Uyghur word of
+  the same syllable count. That is the null that matters.
+
+  VERDICT: transfer is REAL and survives the strong null under TIGHT
+  equivalence classes. A mechanism built for Sanskrit predicts Turkic
+  transcriptions well above chance. The cross-lingual design holds -
+  proceed to the channel model.
+
+
+Written to data/derived/:
+  uyghur_coda_characters.csv    173 rows (incl. Pulleyblank EMC)
+  uyghur_chinese_pairs.csv      182 rows
+  uyghur_transfer_detail.csv    179 rows

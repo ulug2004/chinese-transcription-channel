@@ -1,0 +1,423 @@
+<title>Xiongnu Names in Later Han</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,500;0,600;1,300&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+SC:wght@400;600&display=swap">
+<style>
+  :root{
+    --ground:#F1F3F2; --surface:#FFFFFF; --surface-2:#F7F9F8;
+    --ink:#17201E; --ink-2:#55625E; --ink-3:#8B9691;
+    --rule:#DBE1DF; --rule-strong:#C3CCC9;
+    --bronze:#2F6B5B; --bronze-soft:#E3EDE9;
+    --ochre:#8E6526; --ochre-soft:#F4EDDF;
+    --flag:#93433A; --flag-soft:#F6E7E4;
+    --shadow:0 1px 2px rgba(23,32,30,.05), 0 8px 24px -16px rgba(23,32,30,.18);
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --ground:#0F1514; --surface:#161F1D; --surface-2:#1B2523;
+      --ink:#E9EEEC; --ink-2:#9CA9A5; --ink-3:#6C7874;
+      --rule:#26312F; --rule-strong:#374542;
+      --bronze:#71B49E; --bronze-soft:#182B25;
+      --ochre:#C89B57; --ochre-soft:#272113;
+      --flag:#CB756A; --flag-soft:#2C1B18;
+      --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px -16px rgba(0,0,0,.6);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ground:#0F1514; --surface:#161F1D; --surface-2:#1B2523;
+    --ink:#E9EEEC; --ink-2:#9CA9A5; --ink-3:#6C7874;
+    --rule:#26312F; --rule-strong:#374542;
+    --bronze:#71B49E; --bronze-soft:#182B25;
+    --ochre:#C89B57; --ochre-soft:#272113;
+    --flag:#CB756A; --flag-soft:#2C1B18;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px -16px rgba(0,0,0,.6);
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--ground); color:var(--ink);
+    font-family:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+    font-size:16px; line-height:1.65; -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1120px; margin:0 auto; padding:56px 28px 96px}
+  .col{max-width:66ch}
+
+  .eyebrow{
+    font-size:11.5px; letter-spacing:.16em; text-transform:uppercase;
+    color:var(--bronze); font-weight:600; margin:0 0 18px;
+  }
+  h1{
+    font-family:Spectral,Georgia,serif; font-weight:500; font-size:clamp(34px,5.2vw,54px);
+    line-height:1.1; letter-spacing:-.015em; margin:0 0 18px; text-wrap:balance;
+  }
+  .standfirst{
+    font-family:Spectral,Georgia,serif; font-size:clamp(17px,2vw,20px);
+    font-weight:300; line-height:1.55; color:var(--ink-2); margin:0 0 12px;
+  }
+  h2{
+    font-family:Spectral,Georgia,serif; font-weight:600; font-size:26px;
+    letter-spacing:-.01em; margin:56px 0 6px; text-wrap:balance;
+  }
+  h3{
+    font-size:12px; letter-spacing:.14em; text-transform:uppercase;
+    color:var(--ink-3); font-weight:600; margin:36px 0 10px;
+  }
+  p{margin:0 0 16px}
+  a{color:var(--bronze)}
+  strong{font-weight:600}
+
+  .note{
+    background:var(--surface); border:1px solid var(--rule); border-radius:3px;
+    padding:22px 24px; margin:32px 0; box-shadow:var(--shadow);
+  }
+  .note h3{margin-top:0}
+  .note p:last-child{margin-bottom:0}
+  .note ol{margin:0; padding-left:20px}
+  .note li{margin-bottom:10px}
+  .note li:last-child{margin-bottom:0}
+
+  .tablewrap{overflow-x:auto; margin:20px 0 8px; border:1px solid var(--rule);
+    border-radius:3px; background:var(--surface); box-shadow:var(--shadow)}
+  table{border-collapse:collapse; width:100%; min-width:760px}
+  thead th{
+    font-size:10.5px; letter-spacing:.13em; text-transform:uppercase;
+    color:var(--ink-3); font-weight:600; text-align:left;
+    padding:14px 16px 10px; border-bottom:1px solid var(--rule-strong);
+    background:var(--surface-2); white-space:nowrap;
+  }
+  tbody td{padding:13px 16px; border-bottom:1px solid var(--rule); vertical-align:baseline}
+  tbody tr:last-child td{border-bottom:none}
+  tbody tr:hover{background:var(--surface-2)}
+
+  .han{font-family:"Noto Serif SC",Spectral,serif; font-size:21px; font-weight:600;
+    letter-spacing:.02em; white-space:nowrap}
+  .pinyin{font-size:13px; color:var(--ink-3); display:block; margin-top:2px;
+    letter-spacing:.01em}
+  .reading{font-family:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+    font-size:15.5px; color:var(--bronze); font-weight:500; white-space:nowrap}
+  .yr{font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:13px;
+    color:var(--ink-2); font-variant-numeric:tabular-nums; white-space:nowrap}
+  .prop{font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:13.5px;
+    color:var(--ochre)}
+  .gloss{font-size:13.5px; color:var(--ink-2)}
+
+  .pill{display:inline-block; font-size:10.5px; letter-spacing:.07em;
+    text-transform:uppercase; font-weight:600; padding:3px 8px; border-radius:2px;
+    white-space:nowrap}
+  .p-yes{background:var(--bronze-soft); color:var(--bronze)}
+  .p-part{background:var(--ochre-soft); color:var(--ochre)}
+  .p-no{background:var(--flag-soft); color:var(--flag)}
+  .p-none{color:var(--ink-3)}
+
+  .rosetta{
+    border-left:3px solid var(--bronze); background:var(--surface);
+    padding:22px 24px; margin:28px 0; border-radius:0 3px 3px 0;
+  }
+  .rosetta .big{font-family:"Noto Serif SC",serif; font-size:27px; font-weight:600;
+    letter-spacing:.03em; margin-bottom:4px}
+  .rosetta .rd{font-family:"IBM Plex Mono",monospace; font-size:16px;
+    color:var(--bronze); margin-bottom:14px}
+  .split{display:grid; gap:14px; grid-template-columns:repeat(auto-fit,minmax(210px,1fr));
+    margin-top:16px}
+  .split div{background:var(--surface-2); border:1px solid var(--rule);
+    padding:14px 16px; border-radius:3px}
+  .split .k{font-family:"Noto Serif SC",serif; font-size:19px; font-weight:600}
+  .split .v{font-family:"IBM Plex Mono",monospace; font-size:14px; color:var(--bronze);
+    margin:3px 0 6px}
+  .split .d{font-size:13px; color:var(--ink-2); line-height:1.5}
+
+  .caption{font-size:13px; color:var(--ink-3); margin:0 0 34px; max-width:66ch}
+  hr{border:none; border-top:1px solid var(--rule); margin:52px 0}
+  .foot{font-size:13.5px; color:var(--ink-3); max-width:66ch}
+  .foot p{margin-bottom:12px}
+  .turk{font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:15px;
+    color:var(--ink); font-weight:500; white-space:nowrap}
+  .guide{display:grid; gap:0; grid-template-columns:repeat(auto-fill,minmax(268px,1fr));
+    border:1px solid var(--rule); border-radius:3px; overflow:hidden;
+    background:var(--surface); box-shadow:var(--shadow); margin:20px 0 8px}
+  .g{display:grid; grid-template-columns:56px 44px 1fr; align-items:baseline;
+    gap:10px; padding:11px 14px; border-bottom:1px solid var(--rule);
+    border-right:1px solid var(--rule)}
+  .g .sym{font-family:"IBM Plex Mono",monospace; font-size:17px; font-weight:500;
+    color:var(--bronze)}
+  .g .tk{font-family:Spectral,serif; font-size:19px; font-weight:600; color:var(--ink)}
+  .g .en{font-size:12.5px; color:var(--ink-2); line-height:1.45}
+  .gsec{grid-column:1/-1; font-size:10.5px; letter-spacing:.14em;
+    text-transform:uppercase; color:var(--ink-3); font-weight:600;
+    padding:14px 14px 8px; background:var(--surface-2);
+    border-bottom:1px solid var(--rule-strong)}
+  .worked{display:grid; gap:12px; grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+    margin:20px 0}
+  .worked div{border:1px solid var(--rule); border-radius:3px; padding:14px 16px;
+    background:var(--surface)}
+  .worked .a{font-family:"Noto Serif SC",serif; font-size:20px; font-weight:600}
+  .worked .b{font-family:"IBM Plex Mono",monospace; font-size:13.5px; color:var(--bronze); margin:3px 0}
+  .worked .c{font-family:Spectral,serif; font-size:20px; font-weight:600; margin:2px 0 5px}
+  .worked .d{font-size:12.5px; color:var(--ink-2); line-height:1.5}
+  :focus-visible{outline:2px solid var(--bronze); outline-offset:2px}
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <div class="col">
+    <p class="eyebrow">Shiji · Hanshu · Hou Hanshu</p>
+    <h1>Xiongnu names in Later Han</h1>
+    <p class="standfirst">What the Chinese characters in the Shiji, Hanshu and Hou Hanshu
+    actually sounded like when they were written — not the Mandarin readings that have
+    been standing in for them.</p>
+    <p class="caption">39 names, titles and lexical items, each character mapped to its
+    Later Han reading from Schuessler's tables. Full coverage: every character resolved,
+    five of them only after Unihan variant matching.</p>
+  </div>
+
+  <div class="note col">
+    <h3>Read this carefully — the columns are not the same thing</h3>
+    <ol>
+      <li><strong>The Later Han reading is the Chinese, not the name.</strong> It tells you
+      how a Han scribe pronounced the characters he chose. Transcription is lossy: Chinese
+      lacked sounds the source had, dropped final consonants it couldn't render, and broke
+      clusters into extra syllables. 撑犁 was pronounced <em>ḍaŋ lei</em>; the name behind
+      it was something else, close to but not identical with that.</li>
+      <li><strong>These are mechanical per-character joins.</strong> No model, no inference
+      — just Schuessler's reading for each character, in order.</li>
+      <li><strong>The assessment column is philological judgement, not output.</strong> It
+      asks one narrow question: can the Later Han reading be reconciled with what the
+      literature has proposed? It is not a verdict on the proposal.</li>
+    </ol>
+  </div>
+
+
+
+  <h2>What “Later Han” means here</h2>
+  <div class="col">
+    <p>Chinese characters have been read aloud differently in every century. The
+    character 突 that spells the first syllable of <em>Türk</em> is <em>tū</em> in Mandarin
+    today; a Tang scribe said something like <em>thwot</em>. Working out what a character
+    sounded like at a particular date is its own scholarly discipline, and the results are
+    called <em>reconstructions</em> — not recordings, but inferences from rhyme
+    dictionaries, foreign transcriptions, dialect evidence and internal patterning.</p>
+
+    <p>The reconstructions here are <strong>Axel Schuessler's</strong>, for the layer he
+    calls <strong>Later Han Chinese</strong> — the language of roughly 25–220 CE. That
+    period is the point: it is when the Shiji, Hanshu and Hou Hanshu were being written, so
+    it is the pronunciation the scribes who chose these characters actually had. Published
+    as <em>Minimal Old Chinese and Later Han Chinese</em> (2009), and released by Schuessler
+    himself as machine-readable data in December 2024, which is what made this table
+    possible.</p>
+
+    <p>So a cell reading <em>ḍaŋ lei</em> for 撑犁 means: <em>around the year 100, a
+    Chinese speaker pronounced these two characters roughly “dang lei”.</em> Nothing more.
+    The Mandarin reading of the same characters is <em>chēnglí</em>, which is about two
+    thousand years of sound change away — and that gap is exactly why the Mandarin forms
+    have been misleading everyone who read them as if they were the names.</p>
+
+    <p>Two other reconstruction systems appear where they are cited: <strong>Pulleyblank</strong>
+    for Early Middle Chinese (c. 600 CE, the Tang layer) and <strong>Níng</strong> for Old
+    Mandarin (c. 1400, the Ming layer). Different scholars, different notations, different
+    centuries — worth keeping straight when comparing.</p>
+  </div>
+
+  <h2>How to read the Later Han column</h2>
+  <p class="col">Turkish is a better key than English here, because Turkish has actual
+  letters for sounds English can only describe — <strong>ı</strong>, <strong>ğ</strong>,
+  <strong>ş</strong>, <strong>ç</strong>, <strong>c</strong>. Only the symbols that
+  actually occur in these 39 items are listed.</p>
+
+  <div class="guide">
+    <div class="gsec">Vowels</div>
+    <div class="g"><span class="sym">ɑ</span><span class="tk">a</span><span class="en">back <em>a</em>, English <em>father</em></span></div>
+    <div class="g"><span class="sym">a</span><span class="tk">a</span><span class="en">front <em>a</em>; Turkish spells both the same</span></div>
+    <div class="g"><span class="sym">e</span><span class="tk">e</span><span class="en">English <em>bed</em></span></div>
+    <div class="g"><span class="sym">ɛ</span><span class="tk">e</span><span class="en">slightly opener <em>e</em></span></div>
+    <div class="g"><span class="sym">i</span><span class="tk">i</span><span class="en">English <em>machine</em></span></div>
+    <div class="g"><span class="sym">o</span><span class="tk">o</span><span class="en">English <em>more</em></span></div>
+    <div class="g"><span class="sym">ɔ</span><span class="tk">o</span><span class="en">opener <em>o</em>, English <em>thought</em></span></div>
+    <div class="g"><span class="sym">u</span><span class="tk">u</span><span class="en">English <em>boot</em></span></div>
+    <div class="g"><span class="sym">ə</span><span class="tk">ı</span><span class="en">schwa; English <em>sofa</em></span></div>
+    <div class="g"><span class="sym">ɨ</span><span class="tk">ı</span><span class="en">Turkish <em>ı</em> exactly; no English equivalent</span></div>
+
+    <div class="gsec">Consonants Turkish has a letter for</div>
+    <div class="g"><span class="sym">ŋ</span><span class="tk">ng</span><span class="en">English <em>sing</em>; Turkish <em>denk</em></span></div>
+    <div class="g"><span class="sym">ś ṣ</span><span class="tk">ş</span><span class="en">English <em>ship</em></span></div>
+    <div class="g"><span class="sym">ź</span><span class="tk">j</span><span class="en">Turkish <em>jandarma</em>; French <em>jour</em></span></div>
+    <div class="g"><span class="sym">dź</span><span class="tk">c</span><span class="en">Turkish <em>cam</em>; English <em>jam</em></span></div>
+    <div class="g"><span class="sym">tś</span><span class="tk">ç</span><span class="en">Turkish <em>çay</em>; English <em>chair</em></span></div>
+    <div class="g"><span class="sym">ɣ</span><span class="tk">ğ</span><span class="en">Turkish <em>ğ</em> exactly; a soft back <em>g</em></span></div>
+    <div class="g"><span class="sym">ń</span><span class="tk">ny</span><span class="en">Spanish <em>ñ</em>; English <em>canyon</em></span></div>
+    <div class="g"><span class="sym">j</span><span class="tk">y</span><span class="en">Turkish <em>yol</em>; a glide, not a vowel</span></div>
+    <div class="g"><span class="sym">w</span><span class="tk">v</span><span class="en">English <em>water</em></span></div>
+    <div class="g"><span class="sym">ʔ</span><span class="tk">’</span><span class="en">the catch in Turkish <em>kur’an</em>, English <em>uh-oh</em></span></div>
+
+    <div class="gsec">No Turkish equivalent</div>
+    <div class="g"><span class="sym">ḍ ṭ ṇ</span><span class="tk">d t n</span><span class="en">retroflex — same sounds with the tongue curled further back</span></div>
+    <div class="g"><span class="sym">kʰ tʰ pʰ</span><span class="tk">k t p</span><span class="en">aspirated. Turkish <em>k t p</em> are already aspirated, so the contrast with plain <em>k t p</em> is invisible in Turkish spelling</span></div>
+    <div class="g"><span class="sym">ᴮ ᶜ</span><span class="tk">—</span><span class="en">Chinese tone categories. Ignore them: they describe the Chinese syllable and say nothing about the foreign name</span></div>
+  </div>
+  <p class="caption">The Turkish column below applies this table mechanically. It is a
+  reading aid, not a transcription system — it collapses the retroflex series and the
+  aspiration contrast, because Turkish has no letters for either.</p>
+
+  <h2>Three worth reading aloud</h2>
+  <div class="worked">
+    <div>
+      <div class="a">撑犁</div><div class="b">ḍaŋ lei</div><div class="c">dang lei</div>
+      <div class="d">Against <em>tengri</em>. Glossed 天 "heaven" in the Hanshu, so the
+      meaning is fixed too. The vowel differs; the skeleton d-ng-l matches t-ng-r.</div>
+    </div>
+    <div>
+      <div class="a">頭曼</div><div class="b">do mɑnᶜ</div><div class="c">do man</div>
+      <div class="d">Against <em>tuman / tümen</em>, "ten thousand". <em>do-man</em> and
+      <em>tuman</em> differ only in the first vowel and the voicing of the first stop —
+      and Later Han <em>d</em> for a foreign <em>t</em> is routine.</div>
+    </div>
+    <div>
+      <div class="a">呼韓邪</div><div class="b">hɑ gɑn ja</div><div class="c">ha gan ya</div>
+      <div class="d">No proposal in the literature I extracted — but <em>ha-gan</em> sits
+      uncomfortably close to <em>kağan / qaγan</em>. Worth checking against the
+      specialist literature before making anything of it.</div>
+    </div>
+  </div>
+
+  <h2>The glossed phrase</h2>
+  <p class="col">One item stands apart. The Hanshu doesn't just transcribe it, it
+  <em>translates</em> it — 撑犁 as 天 "heaven", 孤塗 as 子 "son". A foreign phrase with a
+  contemporaneous Chinese gloss is the closest thing this corpus has to a bilingual line.</p>
+
+  <div class="rosetta">
+    <div class="big">撑犁孤塗單于</div>
+    <div class="rd">ḍaŋ lei kuɑ dɑ dźan wɑ</div>
+    <div class="split">
+      <div>
+        <div class="k">撑犁</div>
+        <div class="v">ḍaŋ lei</div>
+        <div class="d">Glossed 天 "heaven". Reconciles closely with Turkic/Mongolic
+        <em>tengri</em> — <em>ḍaŋ-lei</em> against <em>taŋ-ri</em>. The strongest single
+        datum on the Turkic side of the debate.</div>
+      </div>
+      <div>
+        <div class="k">孤塗</div>
+        <div class="v">kuɑ dɑ</div>
+        <div class="d">Glossed 子 "son". Vovin's Yeniseian <em>*qut</em> is one syllable
+        where the Chinese has two, so <em>kuɑ-dɑ</em> fits a disyllabic *quta better than
+        *qut. The strongest datum on the Yeniseian side.</div>
+      </div>
+      <div>
+        <div class="k">單于</div>
+        <div class="v">dźan wɑ</div>
+        <div class="d">The supreme title. Pulleyblank's Middle Chinese *dan-ɣwa sits behind
+        this; proposals include *darγwa and *tarqan. No consensus.</div>
+      </div>
+    </div>
+    <p style="margin:18px 0 0; font-size:13.5px; color:var(--ink-2)">The two halves of one
+    phrase point to different language families. That is the Xiongnu problem in miniature,
+    and it is why a single verdict on the corpus was never likely.</p>
+  </div>
+
+  <h2>The Chanyu line</h2>
+  <p class="caption">Rulers in sequence, Shiji 110 and Hanshu 94. 若鞮 <em>ńɑk te</em>
+  recurs as a suffix across five consecutive reigns and is glossed "filial" in the Hanshu —
+  another foreign morpheme the Chinese sources translate rather than merely transcribe.</p>
+
+  <div class="tablewrap">
+  <table>
+    <thead><tr>
+      <th>Name</th><th>Later Han</th><th>Turkish spelling</th><th>Reign</th><th>Proposed in literature</th><th>Reconcilable?</th>
+    </tr></thead>
+    <tbody>
+      <tr><td class="han">頭曼<span class="pinyin">Touman</span></td><td class="reading">do mɑnᶜ</td><td class="turk">do man</td><td class="yr">–209</td><td class="prop">tuman / tümen <span class="gloss">Turkic</span></td><td><span class="pill p-yes">consistent</span></td></tr>
+      <tr><td class="han">冒頓<span class="pinyin">Modu / Modun</span></td><td class="reading">mək tuənᶜ</td><td class="turk">mık tuın</td><td class="yr">209–174</td><td class="prop">baγatur <span class="gloss">Turkic/Mongolic</span></td><td><span class="pill p-no">hard to reconcile</span></td></tr>
+      <tr><td class="han">稽粥<span class="pinyin">Jizhou</span></td><td class="reading">kʰeiᴮ tśuk</td><td class="turk">kei çuk</td><td class="yr">174–160</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">軍臣<span class="pinyin">Junchen</span></td><td class="reading">kun dźin</td><td class="turk">kun cin</td><td class="yr">160–126</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">伊稚斜<span class="pinyin">Yizhixie</span></td><td class="reading">ʔi ḍiᶜ ja</td><td class="turk">’i di ya</td><td class="yr">126–114</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">烏維<span class="pinyin">Wuwei</span></td><td class="reading">ʔɑ wi</td><td class="turk">’a vi</td><td class="yr">114–105</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">詹師廬<span class="pinyin">Zhanshilu</span></td><td class="reading">tśam ṣi liɑ</td><td class="turk">çam şi lia</td><td class="yr">105–102</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">呴犁湖<span class="pinyin">Xulihu</span></td><td class="reading">huo lei gɑ</td><td class="turk">huo lei ga</td><td class="yr">102–101</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">且鞮侯<span class="pinyin">Qiedihou</span></td><td class="reading">tsɑᴮ te go</td><td class="turk">tsa te go</td><td class="yr">101–96</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">狐鹿姑<span class="pinyin">Hulugu</span></td><td class="reading">ɣuɑ lok kɑ</td><td class="turk">ğua lok ka</td><td class="yr">96–85</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">壺衍鞮<span class="pinyin">Huyandi</span></td><td class="reading">gɑ janᴮ te</td><td class="turk">ga yan te</td><td class="yr">85–68</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">虛閭權渠<span class="pinyin">Xulüquanqu</span></td><td class="reading">kʰɨɑ liɑ gyan gɨɑ</td><td class="turk">kıa lia gyan gıa</td><td class="yr">68–60</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">握衍朐鞮<span class="pinyin">Woyanqudi</span></td><td class="reading">ʔɔk janᴮ guo te</td><td class="turk">’ok yan guo te</td><td class="yr">60–58</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">呼韓邪<span class="pinyin">Huhanye</span></td><td class="reading">hɑ gɑn ja</td><td class="turk">ha gan ya</td><td class="yr">58–31</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">郅支<span class="pinyin">Zhizhi</span></td><td class="reading">tśit tśe</td><td class="turk">çit çe</td><td class="yr">56–36</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">復株累若鞮<span class="pinyin">Fuzhulei Ruodi</span></td><td class="reading">buk ṭio lui ńɑk te</td><td class="turk">buk tio lui nyak te</td><td class="yr">31–20</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">搜諧若鞮<span class="pinyin">Souxie Ruodi</span></td><td class="reading">so gɛi ńɑk te</td><td class="turk">so gei nyak te</td><td class="yr">20–12</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">車牙若鞮<span class="pinyin">Cheya Ruodi</span></td><td class="reading">tśʰa ŋa ńɑk te</td><td class="turk">ça nga nyak te</td><td class="yr">12–8</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">烏珠留若鞮<span class="pinyin">Wuzhuliu Ruodi</span></td><td class="reading">ʔɑ tśo liu ńɑk te</td><td class="turk">’a ço liu nyak te</td><td class="yr">8 BCE–13</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">烏累若鞮<span class="pinyin">Wulei Ruodi</span></td><td class="reading">ʔɑ lui ńɑk te</td><td class="turk">’a lui nyak te</td><td class="yr">13–18</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">呼都而尸道皋若鞮<span class="pinyin">Huduershi Daogao Ruodi</span></td><td class="reading">hɑ tɑ ńə śi douᴮ kou ńɑk te</td><td class="turk">ha ta nyı şi dou kou nyak te</td><td class="yr">18–46</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h2>Clan, titles, vocabulary</h2>
+  <p class="caption">Institutional vocabulary is better evidence than personal names —
+  names cross linguistic boundaries constantly, offices somewhat less so. Several of these
+  are glossed in the Chinese sources, which pins meaning as well as form.</p>
+
+  <div class="tablewrap">
+  <table>
+    <thead><tr>
+      <th>Item</th><th>Later Han</th><th>Turkish spelling</th><th>Kind</th><th>Proposed in literature</th><th>Reconcilable?</th>
+    </tr></thead>
+    <tbody>
+      <tr><td class="han">攣鞮<span class="pinyin">Luandi · ruling clan</span></td><td class="reading">lyan te</td><td class="turk">lyan te</td><td class="gloss">clan</td><td class="prop">*lyuan-tlïγ <span class="gloss">Turkic</span></td><td><span class="pill p-part">partial</span></td></tr>
+      <tr><td class="han">虛連題<span class="pinyin">Xulianti · same clan, Hou Hanshu</span></td><td class="reading">kʰɨɑ lianᴮ de</td><td class="turk">kıa lian de</td><td class="gloss">clan</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">單于<span class="pinyin">chanyu · supreme ruler</span></td><td class="reading">dźan wɑ</td><td class="turk">can va</td><td class="gloss">title</td><td class="prop">*darγwa / *tarqan</td><td><span class="pill p-part">partial</span></td></tr>
+      <tr><td class="han">撑犁<span class="pinyin">chengli · glossed 天 heaven</span></td><td class="reading">ḍaŋ lei</td><td class="turk">dang lei</td><td class="gloss">lexical</td><td class="prop">tengri <span class="gloss">Turkic/Mongolic</span></td><td><span class="pill p-yes">consistent</span></td></tr>
+      <tr><td class="han">孤塗<span class="pinyin">gutu · glossed 子 son</span></td><td class="reading">kuɑ dɑ</td><td class="turk">kua da</td><td class="gloss">lexical</td><td class="prop">*qut <span class="gloss">Yeniseian</span></td><td><span class="pill p-part">partial</span></td></tr>
+      <tr><td class="han">屠耆<span class="pinyin">tuqi · glossed 賢 worthy</span></td><td class="reading">dɑ gɨ</td><td class="turk">da gı</td><td class="gloss">title</td><td class="prop">*toγrï <span class="gloss">Turkic</span></td><td><span class="pill p-no">hard to reconcile</span></td></tr>
+      <tr><td class="han">閼氏<span class="pinyin">yanzhi · chief consort</span></td><td class="reading">ʔɑt dźeᴮ</td><td class="turk">’at ce</td><td class="gloss">title</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">谷蠡<span class="pinyin">luli · Kings of Left and Right</span></td><td class="reading">kok leᴮ</td><td class="turk">kok le</td><td class="gloss">title</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">當戶<span class="pinyin">danghu</span></td><td class="reading">tɑŋ gɑᴮ</td><td class="turk">tang ga</td><td class="gloss">title</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">骨都侯<span class="pinyin">guduhou</span></td><td class="reading">kuət tɑ go</td><td class="turk">kuıt ta go</td><td class="gloss">title</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">且渠<span class="pinyin">juqu</span></td><td class="reading">tsɑᴮ gɨɑ</td><td class="turk">tsa gıa</td><td class="gloss">title</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">徑路<span class="pinyin">jinglu · sacred sword</span></td><td class="reading">keŋᶜ lɑᶜ</td><td class="turk">keng la</td><td class="gloss">lexical</td><td class="prop">kingrak <span class="gloss">Turkic</span></td><td><span class="pill p-yes">consistent</span></td></tr>
+      <tr><td class="han">服匿<span class="pinyin">funi · a vessel</span></td><td class="reading">buk ṇɨk</td><td class="turk">buk nık</td><td class="gloss">lexical</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">甌脫<span class="pinyin">outuo · border watch-post</span></td><td class="reading">ʔo tʰuɑt</td><td class="turk">’o tuat</td><td class="gloss">lexical</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">胡祿<span class="pinyin">hulu · quiver</span></td><td class="reading">gɔ lok</td><td class="turk">go lok</td><td class="gloss">lexical</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">匈奴<span class="pinyin">Xiongnu · the ethnonym</span></td><td class="reading">huoŋ nɑ</td><td class="turk">huong na</td><td class="gloss">ethnonym</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+      <tr><td class="han">羯<span class="pinyin">Jie · the Jinshu couplet</span></td><td class="reading">kɨat</td><td class="turk">kıat</td><td class="gloss">ethnonym</td><td class="prop">—</td><td><span class="pill p-none">—</span></td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h2>Three things worth noticing</h2>
+
+  <div class="col">
+    <h3>匈奴 was <em>huoŋ nɑ</em></h3>
+    <p>Not "Xiongnu". The Mandarin form has moved a long way; the Later Han reading is
+    much closer to <em>Hun</em>. That does not settle the Xiongnu–Hun identification — an
+    ethnonym can resemble another by accident, and the 2026 Paleo-Siberian argument rests
+    on quite different evidence — but the resemblance that reading obscures, this one
+    restores.</p>
+
+    <h3>冒頓 does not look like Baγatur</h3>
+    <p><em>mək tuənᶜ</em> has no initial <em>b-</em> and no final <em>-r</em>. The Baγatur
+    reading for the empire's founder is widely repeated and the Later Han evidence does not
+    support it. Something like <em>*Mekdun</em> or <em>*Moktun</em> is what the characters
+    give.</p>
+
+    <h3>撑犁 is the strongest thing in the corpus</h3>
+    <p><em>ḍaŋ lei</em> against <em>tengri</em>, with the Hanshu glossing it 天 "heaven".
+    Form and meaning both constrained, from a contemporaneous source. Compare the Yuan-era
+    transcription of the same word, 騰格理 <em>teṅgeri</em>, glossed 天 as well — the same
+    word, the same gloss, twelve hundred years apart.</p>
+  </div>
+
+  <hr>
+
+  <div class="foot col">
+    <h3>What this is not</h3>
+    <p>It is not a reconstruction of the names. Recovering the source forms would need a
+    transcription channel run backwards, and the measurements say that is not supportable
+    at Han-era data density: 1.4 observations per character, against the 60 that made the
+    same method work on Yuan Mongolian. Whole-form reconstruction tops out around 8% exact
+    at this density.</p>
+    <p>What <em>is</em> supportable is narrower. Initial place of articulation carries
+    across the period gap at about 79%, and nasal finals at 99% — so onset-level and
+    nasal-final claims stand. Stop finals do not carry at all: Old Mandarin merged
+    <em>-p</em>, <em>-t</em> and <em>-k</em> into nothing, 0 of 45 preserved.</p>
+    <p>Readings from Axel Schuessler, <em>Minimal Old Chinese and Later Han Chinese</em>
+    (2009), released as data by the author in 2024 — see “What ‘Later Han’ means here”
+    above. Middle Chinese comparisons from Pulleyblank (1991) where cited. Proposals
+    attributed as marked; the reconcilability assessments and the Turkish renderings are
+    mine, and are judgements rather than measurements.</p>
+  </div>
+</div>

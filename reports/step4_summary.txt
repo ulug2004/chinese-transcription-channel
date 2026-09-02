@@ -1,0 +1,69 @@
+====================================================================
+ STEP 4 - transcription channel model
+====================================================================
+
+Training pairs loaded          : 1017
+Distinct characters            : 624
+Distinct source syllables      : 422
+
+Aksara prior: 126 onsets seeding the emission table
+
+Running EM:
+  iter 1: log-likelihood      -8802.1   aligned positions 2619
+  iter 2: log-likelihood      -7232.7   aligned positions 2621
+  iter 3: log-likelihood      -7218.1   aligned positions 2622
+  iter 4: log-likelihood      -7216.3   aligned positions 2622
+  iter 5: log-likelihood      -7216.3   aligned positions 2622
+  iter 6: log-likelihood      -7216.3   aligned positions 2622
+  iter 7: log-likelihood      -7216.3   aligned positions 2622
+  iter 8: log-likelihood      -7216.3   aligned positions 2622
+
+--------------------------------------------------------------------
+ Evaluation
+--------------------------------------------------------------------
+  held-out 20% of the Sanskrit pairs  (n=531 positions)
+      exact syllable  top-1  62.1%   top-3  89.6%
+      onset only      top-1  84.0%
+
+  Baley Late Han gold set: 391 usable pairs (of 409 rows)
+  Baley Late Han (independent, never trained on)  (n=631 positions)
+      exact syllable  top-1  46.4%   top-3  73.2%
+      onset only      top-1  79.6%
+
+--------------------------------------------------------------------
+ Out-of-domain: does the channel predict TURKIC onsets?
+--------------------------------------------------------------------
+  pairs 182, positions scored 443
+  channel top-1 onset predicts Turkic : 0.621
+  random re-pairing null              : 0.196
+  lift                                : +0.425   p=0.0050
+
+  The channel - trained only on Sanskrit - carries to Turkic.
+
+--------------------------------------------------------------------
+ Xiongnu names through the channel (NO source-language prior yet)
+--------------------------------------------------------------------
+  頭曼     -> da maṇ                         [lit: tuman / tümen]
+  冒頓     -> kra ta*                        [lit: bagatur / baγatur ?]
+  攣鞮     -> ra* ta*                        [lit: *lyuan-tlïγ ?]
+  單于     -> tam vār                        [lit: *darγwa ? / *tarqan ?]
+  撑犁     -> ta* di                         [lit: tengri]
+  孤塗     -> ka* kra                        [lit: *qut ?]
+  屠耆     -> ta* jī                         [lit: *toγrï ?]
+  匈奴     -> a* nuṣ                      
+  羯      -> kar                         
+
+  * marks a character decoded via the Later Han backoff, not seen directly
+    in Buddhist transcriptions. backoff used: 65, still unresolved: 0
+
+  !! These are CHANNEL-ONLY outputs. The channel asks 'what source syllable
+  most often produced this character?' - trained on Sanskrit. It has no idea
+  what a Turkic or Yeniseian word may look like. Sanskrit-shaped output here
+  is expected and is NOT a reconstruction. Adding P(name | language) is what
+  turns this into evidence, and that is step 5.
+
+Emission table covers 844 characters (3078 direct rows, 1010 backoff rows)
+
+Written to data/derived/:
+  channel_emissions.csv            P(syllable | character), top 5 each
+  xiongnu_channel_candidates.csv   ranked candidates per name

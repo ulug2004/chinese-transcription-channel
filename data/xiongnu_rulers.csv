@@ -1,0 +1,24 @@
+id,entry_type,chinese,pinyin_modern,period,year_start,year_end,source_text,attestation_confidence,lhan_schuessler,emc_baxter_mc,proposed_reading,proposed_language,proposed_meaning,proposer,reading_confidence,verification_status,notes
+R01,ruler,頭曼,Touman,Qin/Early Western Han,,-209,Shiji 110; Hanshu 94A,high,PENDING,PENDING,tuman / tümen,Turkic,'ten thousand' (military unit),commonly cited,medium,UNVERIFIED,First Chanyu named in Chinese sources. Turkic tümen match is phonetically attractive but the title/numeral is itself widely borrowed across Inner Asia - weak as ethnic evidence.
+R02,ruler,冒頓,Modu / Modun,Western Han,-209,-174,Shiji 110; Hanshu 94A,high,PENDING,PENDING,bagatur / baγatur ?,Turkic|Mongolic,"'hero, brave'",various; contested,low,UNVERIFIED,Founder of the empire. The Bagatur reading requires a substantial phonetic leap; several scholars reject it. Alternative readings proposed in Iranian and Yeniseian. HIGH PRIORITY test case.
+R03,ruler,稽粥,Jizhou / Jiyu,Western Han,-174,-160,Shiji 110; Hanshu 94A,high,PENDING,PENDING,,,,,,UNVERIFIED,"Personal name of the Chanyu titled 老上 Laoshang. Note 老上 is a Chinese epithet, NOT a transcription - exclude it from the transcription corpus."
+R04,ruler,軍臣,Junchen,Western Han,-160,-126,Shiji 110; Hanshu 94A,high,PENDING,PENDING,,,,,,UNVERIFIED,Characters are semantically meaningful in Chinese ('army'+'subject') - risk that this is partly a Chinese rendering rather than pure transcription. Flag for the calque-vs-transcription filter.
+R05,ruler,伊稚斜,Yizhixie,Western Han,-126,-114,Shiji 110; Hanshu 94A,high,PENDING,PENDING,,,,,,UNVERIFIED,"Three-character transcription - good candidate, semantically opaque in Chinese."
+R06,ruler,烏維,Wuwei,Western Han,-114,-105,Shiji 110; Hanshu 94A,high,PENDING,PENDING,,,,,,UNVERIFIED,
+R07,ruler,詹師廬,Zhanshilu,Western Han,-105,-102,Shiji 110; Hanshu 94A,high,PENDING,PENDING,,,,,,UNVERIFIED,"Also titled 兒單于 Er Chanyu ('child Chanyu') - that is a Chinese epithet, exclude."
+R08,ruler,呴犁湖,Xulihu / Goulihu,Western Han,-102,-101,Hanshu 94A,high,PENDING,PENDING,,,,,,UNVERIFIED,
+R09,ruler,且鞮侯,Qiedihou,Western Han,-101,-96,Hanshu 94A,high,PENDING,PENDING,,,,,,UNVERIFIED,侯 hou may be a Chinese rank suffix rather than part of the name - segment carefully.
+R10,ruler,狐鹿姑,Hulugu,Western Han,-96,-85,Hanshu 94A,high,PENDING,PENDING,,,,,,UNVERIFIED,
+R11,ruler,壺衍鞮,Huyandi,Western Han,-85,-68,Hanshu 94B,high,PENDING,PENDING,,,,,,UNVERIFIED,鞮 di recurs across several Chanyu names - possible shared morpheme or title element. Worth a dedicated analysis.
+R12,ruler,虛閭權渠,Xulüquanqu,Western Han,-68,-60,Hanshu 94B,high,PENDING,PENDING,,,,,,UNVERIFIED,Four characters - longest Chanyu name; useful for testing segmentation.
+R13,ruler,握衍朐鞮,Woyanqudi,Western Han,-60,-58,Hanshu 94B,high,PENDING,PENDING,,,,,,UNVERIFIED,Contains the recurring 鞮 element.
+R14,ruler,呼韓邪,Huhanye,Western Han,-58,-31,Hanshu 94B,high,PENDING,PENDING,,,,,,UNVERIFIED,Submitted to Han; the best-documented Chanyu. Name recurs later among Southern Xiongnu.
+R15,ruler,郅支,Zhizhi,Western Han,-56,-36,Hanshu 70; 94B,high,PENDING,PENDING,,,,,,UNVERIFIED,Rival Chanyu who moved west; relevant to any Xiongnu-Hun connection argument.
+R16,ruler,復株累若鞮,Fuzhulei Ruodi,Western Han,-31,-20,Hanshu 94B,high,PENDING,PENDING,,,,,,UNVERIFIED,若鞮 ruodi appears as a recurring suffix in this dynasty phase - Hanshu glosses it as meaning 'filial'. STRONG candidate: a glossed foreign word.
+R17,ruler,搜諧若鞮,Souxie Ruodi,Western Han,-20,-12,Hanshu 94B,high,PENDING,PENDING,,,,,,UNVERIFIED,Contains 若鞮 suffix.
+R18,ruler,車牙若鞮,Cheya Ruodi,Western Han,-12,-8,Hanshu 94B,high,PENDING,PENDING,,,,,,UNVERIFIED,Contains 若鞮 suffix.
+R19,ruler,烏珠留若鞮,Wuzhuliu Ruodi,Western Han / Xin,-8,13,Hanshu 94B,high,PENDING,PENDING,,,,,,UNVERIFIED,Contains 若鞮 suffix.
+R20,ruler,烏累若鞮,Wulei Ruodi,Xin,13,18,Hanshu 94B,high,PENDING,PENDING,,,,,,UNVERIFIED,Contains 若鞮 suffix.
+R21,ruler,呼都而尸道皋若鞮,Huduershi Daogao Ruodi,Xin/Eastern Han,18,46,Hou Hanshu 89,high,PENDING,PENDING,,,,,,UNVERIFIED,Longest attested name. Contains 若鞮 suffix.
+C01,clan,攣鞮,Luandi,Western Han,,,Shiji 110; Hanshu 94A,high,PENDING,PENDING,*lyuan-tlïγ ?,Turkic,'tribe with skewbald horses' ?,cited in overview literature,low,UNVERIFIED,The Xiongnu ruling clan. Hou Hanshu gives the variant 虛連題 Xulianti - TWO transcriptions of one name is a rare and valuable constraint on the reconstruction. HIGH PRIORITY.
+C02,clan,虛連題,Xulianti,Eastern Han,,,Hou Hanshu 89,high,PENDING,PENDING,,,,,,UNVERIFIED,Variant transcription of 攣鞮 (C01). Pair these two for a doubly-attested target.

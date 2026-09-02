@@ -1,0 +1,171 @@
+========================================================================
+ STEP 16 - modern Turkic echoes of the Xiongnu readings, against a null
+========================================================================
+ lexicons: Turkish 21721 entries, Kazakh 53182 entries
+ names   : 39
+
+ NULL (Turkish): 278/300 pseudo-names found a match under 0.60; median best score 0.160, 5th percentile 0.028
+ NULL (Kazakh): 288/300 pseudo-names found a match under 0.60; median best score 0.156, 5th percentile 0.028
+
+ A pseudo-name is built by resampling Later Han syllables from these same
+ names, so it has the right shape and the right sound inventory and cannot
+ mean anything. p = fraction of pseudo-names scoring at least as well.
+
+------------------------------------------------------------------------
+頭曼  Touman                      LH do mɑnᶜ                       TR do man
+     Turkish  duman [0.04], idman [0.04], domino [0.06]   p=0.107
+     Kazakh   domna [0.00], duman [0.04], domino [0.06]   p=0.040  <== beats chance
+
+冒頓  Modu / Modun                LH mək tuənᶜ                     TR mık tuın
+     Turkish  makedon [0.14], makedonya [0.22], mektubun [0.23]   p=0.440  (chance level)
+     Kazakh   mıktan [0.04], aumaktan [0.05], maktan [0.06]   p=0.140
+
+稽粥  Jizhou / Jiyu               LH kʰeiᴮ tśuk                    TR kei çuk
+     Turkish  kauçuk [0.06], kaçak [0.08], kaçık [0.08]   p=0.140
+     Kazakh   kauçuk [0.06], kauçuktı [0.12], ketik [0.31]   p=0.183
+
+軍臣  Junchen                     LH kun dźin                      TR kun cin
+     Turkish  kantin [0.24], kanadına [0.28], kanadını [0.28]   p=0.683  (chance level)
+     Kazakh   kandan [0.28], kanden [0.28], kiından [0.28]   p=0.787  (chance level)
+
+伊稚斜  Yizhixie                    LH ʔi ḍiᶜ ja                     TR ’i di ya
+     Turkish  diye [0.08], aday [0.12], daya [0.12]   p=0.270  (chance level)
+     Kazakh   adiya [0.04], ideya [0.04], diyu [0.08]   p=0.140
+
+烏維  Wuwei                       LH ʔɑ wi                         TR ’a vi
+     Turkish  av [0.12], vadi [0.15], avcı [0.21]   p=0.390  (chance level)
+     Kazakh   veto [0.28], vot [0.28], fag [0.36]   p=0.787  (chance level)
+
+詹師廬  Zhanshilu                   LH tśam ṣi liɑ                   TR çam şi lia
+     Turkish  çamaşır [0.18], çekişli [0.28], açmalı [0.30]   p=0.570  (chance level)
+     Kazakh   müşeli [0.30], meşel [0.31], meşeule [0.31]   p=0.803  (chance level)
+
+呴犁湖  Xulihu / Goulihu            LH huo lei gɑ                    TR huo lei ga
+     Turkish  ihale [0.17], ahali [0.18], ahilik [0.18]   p=0.523  (chance level)
+     Kazakh   halge [0.08], auhaula [0.17], ahual [0.18]   p=0.343  (chance level)
+
+且鞮侯  Qiedihou                    LH tsɑᴮ te go                    TR tsa te go
+     Turkish  ateist [0.10], otistik [0.14], test [0.14]   p=0.283  (chance level)
+     Kazakh   tasta [0.12], tastak [0.12], tastau [0.12]   p=0.393  (chance level)
+
+狐鹿姑  Hulugu                      LH ɣuɑ lok kɑ                    TR ğua lok ka
+     Turkish  oğlak [0.12], uğrak [0.24], ahlak [0.26]   p=0.313  (chance level)
+     Kazakh   ağalık [0.12], lakka [0.18], halıkka [0.20]   p=0.407  (chance level)
+
+壺衍鞮  Huyandi                     LH gɑ janᴮ te                    TR ga yan te
+     Turkish  giyen [0.14], giyin [0.14], kayan [0.17]   p=0.440  (chance level)
+     Kazakh   kaynat [0.10], kaynatu [0.10], küyente [0.12]   p=0.357  (chance level)
+
+虛閭權渠  Xulüquanqu                  LH kʰɨɑ liɑ gyan gɨɑ             TR kıa lia gyan gıa
+     Turkish  kalkan [0.38], kalkma [0.38], kalmayınca [0.39]   p=0.873  (chance level)
+     Kazakh   kılkıng [0.21], ekologiya [0.24], kuäligining [0.24]   p=0.630  (chance level)
+
+握衍朐鞮  Woyanqudi                   LH ʔɔk janᴮ guo te               TR ’ok yan guo te
+     Turkish  kıyamet [0.26], kıymet [0.28], kıyafet [0.30]   p=0.700  (chance level)
+     Kazakh   koyıng [0.12], kuyang [0.12], kayıng [0.14]   p=0.447  (chance level)
+
+呼韓邪  Huhanye                     LH hɑ gɑn ja                     TR ha gan ya
+     Turkish  günay [0.18], güney [0.20], hakan [0.23]   p=0.537  (chance level)
+     Kazakh   kunay [0.25], keney [0.28], künäyi [0.28]   p=0.720  (chance level)
+
+郅支  Zhizhi                      LH tśit tśe                      TR çit çe
+     Turkish  çete [0.14], çit [0.14], çita [0.14]   p=0.467  (chance level)
+     Kazakh   uçetçik [0.12], uçet [0.14], çukça [0.37]   p=0.393  (chance level)
+
+復株累若鞮  Fuzhulei Ruodi              LH buk ṭio lui ńɑk te            TR buk tio lui nyak te
+     no candidate under threshold in any lexicon
+
+搜諧若鞮  Souxie Ruodi                LH so gɛi ńɑk te                 TR so gei nyak te
+     Turkish  sakinlik [0.30], sakınmak [0.31], güneybatı [0.34]   p=0.770  (chance level)
+     Kazakh   segizayak [0.25], sotanaktık [0.32], askındat [0.33]   p=0.710  (chance level)
+
+車牙若鞮  Cheya Ruodi                 LH tśʰa ŋa ńɑk te                TR ça nga nyak te
+     Turkish  çiğneyip [0.40], çobanlık [0.41], çiğnemek [0.42]   p=0.887  (chance level)
+     Kazakh   ongğaktık [0.51], angğalakta [0.51], engbektet [0.52]   p=0.957  (chance level)
+
+烏珠留若鞮  Wuzhuliu Ruodi              LH ʔɑ tśo liu ńɑk te             TR ’a ço liu nyak te
+     Turkish  açılmıyor [0.39], çiğneyip [0.39], çalındığı [0.41]   p=0.877  (chance level)
+     Kazakh   alayaktık [0.42], auılnaylık [0.42], layıktat [0.42]   p=0.947  (chance level)
+
+烏累若鞮  Wulei Ruodi                 LH ʔɑ lui ńɑk te                 TR ’a lui nyak te
+     Turkish  linyit [0.25], liyakat [0.25], alınacak [0.29]   p=0.693  (chance level)
+     Kazakh   layıkta [0.24], layıktı [0.24], örnekti [0.26]   p=0.680  (chance level)
+
+呼都而尸道皋若鞮  Huduershi Daogao Ruodi      LH hɑ tɑ ńə śi douᴮ kou ńɑk te   TR ha ta nyı şi dou kou nyak te
+     no candidate under threshold in any lexicon
+
+攣鞮  Luandi                      LH lyan te                       TR lyan te
+     Turkish  lanet [0.14], alıntı [0.18], lando [0.24]   p=0.440  (chance level)
+     Kazakh   ilant [0.20], lenta [0.20], ulant [0.20]   p=0.603  (chance level)
+
+虛連題  Xulianti                    LH kʰɨɑ lianᴮ de                 TR kıa lian de
+     Turkish  kılan [0.11], akalın [0.12], eklenti [0.12]   p=0.297  (chance level)
+     Kazakh   kalandı [0.05], kulandı [0.05], külända [0.05]   p=0.150
+
+單于  chanyu                      LH dźan wɑ                       TR can va
+     Turkish  cana [0.18], acun [0.23], acın [0.23]   p=0.570  (chance level)
+     Kazakh   navay [0.52], nan [0.56], onan [0.56]   p=0.957  (chance level)
+
+撑犁孤塗單于  chengli gutu chanyu         LH ḍaŋ lei kuɑ dɑ dźan wɑ        TR dang lei kua da can va
+     no candidate under threshold in any lexicon
+
+撑犁  chengli                     LH ḍaŋ lei                       TR dang lei
+     Turkish  dengeli [0.03], dingil [0.08], dangalak [0.12]   p=0.057
+     Kazakh   dıngıl [0.08], dangılda [0.12], dıngılda [0.14]   p=0.343  (chance level)
+
+孤塗  gutu                        LH kuɑ dɑ                        TR kua da
+     Turkish  kadı [0.12], kaide [0.12], kedi [0.12]   p=0.390  (chance level)
+     Kazakh   kuda [0.04], kada [0.08], kadau [0.08]   p=0.140
+
+閼氏  yanzhi / ezhi               LH ʔɑt dźeᴮ                      TR ’at ce
+     Turkish  tacı [0.06], atıcı [0.08], itici [0.12]   p=0.213  (chance level)
+     Kazakh   at [0.21], ata [0.21], atu [0.21]   p=0.627  (chance level)
+
+屠耆  tuqi                        LH dɑ gɨ                         TR da gı
+     Turkish  ad [0.21], ada [0.21], adak [0.21]   p=0.630  (chance level)
+     Kazakh   deuge [0.12], edige [0.12], adı [0.15]   p=0.447  (chance level)
+
+谷蠡  luli / guli                 LH kok leᴮ                       TR kok le
+     Turkish  kokulu [0.06], kakaolu [0.08], kukla [0.08]   p=0.140
+     Kazakh   kökele [0.06], akkala [0.08], akkula [0.08]   p=0.183
+
+當戶  danghu                      LH tɑŋ gɑᴮ                       TR tang ga
+     Turkish  tango [0.14], utangaç [0.26], denge [0.28]   p=0.467  (chance level)
+     Kazakh   tengge [0.08], tenggede [0.14], tenggege [0.14]   p=0.343  (chance level)
+
+骨都侯  guduhou                     LH kuət tɑ go                    TR kuıt ta go
+     Turkish  gittik [0.21], gittikçe [0.23], kattığı [0.26]   p=0.630  (chance level)
+     Kazakh   uıktat [0.09], uıktatu [0.09], iıktat [0.11]   p=0.343  (chance level)
+
+且渠  juqu                        LH tsɑᴮ gɨɑ                      TR tsa gıa
+     Turkish  atası [0.16], tas [0.16], tasa [0.16]   p=0.497  (chance level)
+     Kazakh   töseg [0.08], atıs [0.13], atısu [0.13]   p=0.343  (chance level)
+
+徑路  jinglu                      LH keŋᶜ lɑᶜ                      TR keng la
+     Turkish  kangal [0.04], kanguru [0.27], kongre [0.27]   p=0.107
+     Kazakh   köngil [0.08], köngili [0.08], köngildi [0.14]   p=0.343  (chance level)
+
+服匿  funi                        LH buk ṇɨk                       TR buk nık
+     Turkish  bakın [0.11], bakan [0.14], bikini [0.14]   p=0.297  (chance level)
+     Kazakh   bakan [0.14], bekin [0.14], bekinu [0.14]   p=0.477  (chance level)
+
+甌脫  outuo                       LH ʔo tʰuɑt                      TR ’o tuat
+     Turkish  itaat [0.08], toto [0.08], tutu [0.08]   p=0.270  (chance level)
+     Kazakh   otat [0.08], otta [0.08], ottau [0.08]   p=0.343  (chance level)
+
+胡祿  hulu                        LH gɔ lok                        TR go lok
+     Turkish  gol [0.14], egeli [0.18], gala [0.18]   p=0.467  (chance level)
+     Kazakh   egelik [0.08], igilik [0.08], igilikti [0.14]   p=0.343  (chance level)
+
+匈奴  Xiongnu                     LH huoŋ nɑ                       TR huong na
+     Turkish  engin [0.27], ongun [0.27], hemen [0.37]   p=0.707  (chance level)
+     Kazakh   angina [0.24], engen [0.27], ngen [0.27]   p=0.680  (chance level)
+
+羯  Jie                         LH kɨat                          TR kıat
+     Turkish  kıta [0.00], kota [0.06], kıt [0.06]   p=0.050  <== beats chance
+     Kazakh   ıkta [0.00], akta [0.06], kata [0.06]   p=0.040  <== beats chance
+
+========================================================================
+ 3 of 78 name-language pairs produced a best match that beats chance at p<=0.05.
+ Everything else is at or near the rate a meaningless string achieves.
+========================================================================

@@ -1,0 +1,177 @@
+======================================================================
+ STEP 5 - which language best explains the transcription?
+======================================================================
+
+Phonotactic priors from ASJP v19 (all in one transcription system):
+  Turkic       72 doculects    3370 forms
+  Yeniseian     8 doculects     469 forms
+  Mongolic     16 doculects     791 forms
+  Iranian     105 doculects    4216 forms  (includes AVESTAN, OLD_PERSIAN)
+  Indic       206 doculects    7323 forms  (includes SANSKRIT, PALI)
+  Tungusic     29 doculects    1380 forms
+
+Equalising priors: every family subsampled to 469 forms (the smallest, Yeniseian),
+averaged over 5 independent draws. This removes corpus size as a
+confound - otherwise the comparison rewards whichever language has the
+thinnest data, because its model is flatter.
+
+  fitted: Turkic (3370 avail), Yeniseian (469 avail), Mongolic (791 avail), Iranian (4216 avail), Indic (7323 avail), Tungusic (1380 avail)
+
+Channel table: 826 characters with candidate syllables
+
+======================================================================
+ PRIOR CEILING - what can the phonotactic priors do on their own?
+======================================================================
+
+Given the TRUE source word (bypassing Chinese and the channel entirely),
+which language do the priors choose? This bounds everything downstream.
+
+  true Uyghur word forms  (n=182, expect Turkic, chance 16.7%)
+      Turkic       56   30.8%  <-- expected
+      Mongolic     41   22.5%
+      Tungusic     31   17.0%
+      Yeniseian    26   14.3%
+      Iranian      17    9.3%
+      Indic        11    6.0%
+
+  true Sanskrit word forms  (n=249, expect Indic, chance 16.7%)
+      Indic        91   36.5%  <-- expected
+      Tungusic     78   31.3%
+      Mongolic     26   10.4%
+      Iranian      24    9.6%
+      Yeniseian    17    6.8%
+      Turkic       13    5.2%
+
+----------------------------------------------------------------------
+ CEILING IS LOW. The priors cannot reliably identify a language even when
+ handed the actual word. The bottleneck is the PRIOR, not the channel.
+ Root causes:
+   - ASJP is a deliberately coarse 41-symbol alphabet; it discards exactly
+     the detail that separates neighbouring families.
+   - equalising to 469 forms per family (the Yeniseian floor) leaves very
+     little data to fit a 3-gram on.
+   - Swadesh entries are SHORT; a 5-segment word carries little phonotactic
+     signal either way.
+   - Turkic, Mongolic and Tungusic are phonotactically near-identical
+     (vowel harmony, agglutinating, similar inventories and syllable shape).
+     Generic n-grams cannot separate them from one short word, and no amount
+     of channel improvement will fix that.
+
+ WHAT WOULD FIX IT - targeted linguistic constraints instead of n-grams:
+   * vowel harmony consistency  - strong in Turkic, absent in Yeniseian
+   * initial-segment constraints - Old Turkic bans initial l-, r-, n-,
+     and bans initial clusters; Yeniseian permits both
+   * permitted codas and syllable shapes
+   These are few-parameter features that work on short words, which is
+   exactly the regime here. Generic n-grams are the wrong tool.
+
+ Also consider narrowing the question to the live debate - Turkic vs
+ Yeniseian - rather than six families at once. Yeniseian is the most
+ phonotactically distinct of the set, and binary chance is 50%.
+----------------------------------------------------------------------
+
+======================================================================
+ CONTROLS - full pipeline, from Chinese characters
+======================================================================
+
+  Ming Uyghur transcriptions  (n=128, expected: Turkic)
+      Indic        36   28.1%
+      Mongolic     25   19.5%
+      Tungusic     25   19.5%
+      Yeniseian    23   18.0%
+      Turkic       11    8.6%  <-- expected
+      Iranian       8    6.2%
+      accuracy on the expected language: 8.6%   (chance = 16.7%)
+
+  Buddhist Sanskrit transcriptions  (n=140, expected: Indic)
+      Tungusic     50   35.7%
+      Indic        43   30.7%  <-- expected
+      Yeniseian    17   12.1%
+      Mongolic     11    7.9%
+      Iranian      10    7.1%
+      Turkic        9    6.4%
+      accuracy on the expected language: 30.7%   (chance = 16.7%)
+
+  Sogdian names in Chinese sources  (n=5, expected: Iranian)
+      Mongolic      2   40.0%
+      Tungusic      2   40.0%
+      Indic         1   20.0%
+      accuracy on the expected language: 0.0%   (chance = 16.7%)
+
+----------------------------------------------------------------------
+ CONTROLS FAIL. The method cannot reliably recover languages it should
+ already know, so any verdict it gives on the Xiongnu is worthless.
+ Do not report the numbers below as evidence of anything.
+----------------------------------------------------------------------
+
+======================================================================
+ XIONGNU MATERIAL
+======================================================================
+
+name     best       2nd          logBF  form         literature
+----------------------------------------------------------------------
+頭曼       Iranian    Turkic        0.43  daman        tuman / tümen
+冒頓       Tungusic   Indic         2.06  5ata         bagatur / baγatur ?
+稽粥       Yeniseian  Indic         0.88  kaCa         
+軍臣       Yeniseian  Tungusic      0.58  kakCa        
+伊稚斜      Yeniseian  Turkic        1.16  itaya        
+烏維       Tungusic   Mongolic      0.49  ubi          
+詹師廬      Tungusic   Indic          0.3  jaSira       
+呴犁湖      Yeniseian  Indic         0.11  adiga        
+且鞮侯      Mongolic   Tungusic       1.9  Cadaga       
+狐鹿姑      Yeniseian  Mongolic      2.79  a5aga        
+壺衍鞮      Tungusic   Indic         0.12  kayata       
+虛閭權渠     Yeniseian  Mongolic      2.62  elakaga      
+握衍朐鞮     Indic      Tungusic      0.25  ayakuta      
+呼韓邪      Yeniseian  Indic         1.67  hokuya       
+郅支       Tungusic   Indic         0.41  jaCi         
+復株累若鞮    Indic      Tungusic      3.35  patarajati   
+搜諧若鞮     Tungusic   Mongolic      0.54  Sukujata     
+車牙若鞮     Mongolic   Yeniseian     2.25  Cagajada     
+烏珠留若鞮    Tungusic   Yeniseian     0.24  ujalojata    
+烏累若鞮     Tungusic   Mongolic      0.08  urijata      
+呼都而尸道皋若鞮 Indic      Mongolic      0.34  hotuuSinakajati 
+攣鞮       Indic      Iranian       3.65  rati         *lyuan-tlïγ ?
+虛連題      Tungusic   Mongolic      1.15  omraNta      
+單于       Indic      Turkic        0.13  tujvar       *darγwa ? / *tarqan ?
+撑犁孤塗單于   Indic      Tungusic      0.52  tadika5atamvar tengri qutu chanyu
+撑犁       Tungusic   Indic          0.2  tadi         tengri
+孤塗       Indic      Yeniseian     0.77  ka5a         *qut ?
+閼氏       Yeniseian  Tungusic      0.63  eji          
+屠耆       Tungusic   Turkic        0.06  taji         *toγrï ?
+谷蠡       Indic      Yeniseian     1.33  kara         
+當戶       Yeniseian  Mongolic      1.97  taga         
+骨都侯      Yeniseian  Mongolic      0.46  katuga       
+且渠       Mongolic   Yeniseian     1.54  Caga         
+徑路       Indic      Yeniseian     4.34  kalo         kingrak ?
+服匿       Indic      Iranian       1.84  pani         
+甌脫       Yeniseian  Tungusic      0.73  ata          
+胡祿       Indic      Yeniseian     1.33  kara         
+匈奴       Indic      Mongolic       2.4  anu          
+羯        Indic      Yeniseian     1.52  ka           
+
+Distribution over 39 items:
+  Indic       13   33.3%
+  Tungusic    11   28.2%
+  Yeniseian   11   28.2%
+  Mongolic     3    7.7%
+  Iranian      1    2.6%
+
+Items with a decisive margin (log BF >= 2.3, i.e. 10:1): 6/39
+
+READ NOTHING INTO THE ABOVE - the controls failed.
+
+CAVEATS that limit every number above:
+  1. Priors are ASJP Swadesh-list BASIC VOCABULARY. Personal names and titles
+     have different phonotactics from everyday words. This is the single
+     biggest weakness.
+  2. Priors come from modern or medieval attestations, not Xiongnu-era forms.
+     OLD_TURKIC and CHAGATAI help on the Turkic side; Yeniseian has no old
+     attestation at all, which disadvantages it unfairly.
+  3. The channel was trained on Sanskrit. It transfers (step 4), but it has
+     seen no Turkic or Yeniseian transcription conventions.
+  4. Names travel across languages. A Turkic-looking royal name is compatible
+     with a non-Turkic-speaking population.
+  5. n is tiny.
+
+Written to data/derived/language_comparison.csv
