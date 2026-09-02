@@ -1,0 +1,17 @@
+step 23 - how a source syllable in -r was written
+
+Pairs usable after syllabification: 754
+Source syllables ending in -r: 37
+
+  Chinese coda open     21  (57%)
+  Chinese coda t        14  (38%)
+  Chinese coda p         1  (3%)
+  Chinese coda n         1  (3%)
+
+Reading: Later Han has no -r coda, so the scribe had to choose. He left the
+syllable open most often, and used a -t coda next. A -n coda for a source -r is
+the rarest option in the sample. That bears directly on 頓 tuənᶜ, whose -n is
+written: reading it as a source *tur* requires the rarest of the four choices.
+
+Caveat: the syllabifier is a heuristic and the sample is small; treat the
+percentages as orders of magnitude, not as estimates with tight intervals.
