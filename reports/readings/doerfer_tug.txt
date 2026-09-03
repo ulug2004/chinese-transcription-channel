@@ -1,0 +1,23 @@
+Doerfer, Türkische und Mongolische Elemente im Neupersischen.
+Blocks where a tug-shaped headword sits near a banner gloss or
+near entry number 968/969. German; OCR diacritics unreliable.
+Source: Turkische und Mongolische Elemente im Neupersischen. Unter besonderer Berucksichtigung alterer neupersischer Geschichtsquellen.pdf
+
+--- pdf page 275 ---
+gloss words: roßschweif, schweif, feldzeichen, banner
+direction words: none
+entry number 968/969 in view: False
+
+pers. sangüq, sangüq auf eine tu. (altaz.) Form *sanfuq zurückzugehen, die
+als Nebenform zu sanjaq durchaus denkbar wäre. Allerdings habe ich diese
+Form in dem mir zur Verfügung stehenden tu. Material nicht finden kön-
+nen. Vielleicht darf man bei sangüq daher eher an eine Kontamination
+von sangaq 'Feldzeichen' und tüq (r^ tüg) 'Roßschweifbanner' (s. ^^)
+denken.
+Tu. oder Pers. -> Kurd.: Kurd 659 senceq {sänjäq] 'flag, stjag, znamja'.
+Tu. -> Ar. Ties/^Umari 377 sangaq sultäm asfar mudahhah 'ein vergoldetes
+:
+gelbes Sultan-Feldzeichen', Iyäs 105 rafa^ü '^alä ra'sihi sangaq 'sie erhoben das
+Feldzeichen über sein Haupt' (weitere Belege 29, 38, 192, 196), Dozy 691
+sangaq 'etendard, banniere', 846 sangaq 'dans le sens de sangaqdär (voyez),
+

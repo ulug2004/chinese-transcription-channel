@@ -1,0 +1,29 @@
+step 32 - Pulleyblank's Lexicon on the Xiongnu words
+
+Entry blocks naming a Xiongnu context: 259
+
+What matched, and how often:
+   \bjie\b        112
+   \bhu\b         108
+   \bhun\b        23
+   xiongnu        10
+   hulu           4
+   modun          1
+   tuqi           1
+
+A keyword with a very high count is probably matching inside other words;
+check it in the blocks file before trusting it.
+
+Items of the record these blocks appear to touch: 8 of 40
+   且渠             via juqu, pinyin of the whole item
+   冒頓             via modun
+   匈奴             via pinyin of the whole item, xiongnu
+   單于             via chanyu, pinyin of the whole item
+   屠耆             via pinyin of the whole item
+   撑犁孤塗單于         via chanyu
+   羯              via jie, pinyin of the whole item
+   胡祿             via hulu, pinyin of the whole item
+
+Next: for each item above, compare Pulleyblank's assigned reading with the
+value Appendix A prints. Where they differ, the paper is printing the first
+row of Schuessler's table against an explicit assignment in the Lexicon.

@@ -1,0 +1,35 @@
+step 31 - a source liquid inside a consonant cluster
+
+Verified pairs whose source form has a liquid before a consonant: 63
+  liquid unwritten                       54  (86%)
+  extra character, with an l- onset       6  (10%)
+  extra character, no l- onset            3  (5%)
+
+Reading: Later Han has no liquid coda, so a source -rC- can only be
+represented by spending a further character on an l- syllable. Where the
+character count does not exceed the source syllable count, no character was
+spared and the liquid is unwritten. That is the step the Körklü reading of
+谷蠡 asks for at 谷 kok = körk.
+
+Caveat: 'extra character' is inferred from counts, not from an alignment of
+each character to each syllable, so a pair that compresses elsewhere and
+expands here can be misclassified. The unwritten figure is therefore a floor.
+
+Clusters seen:
+  rm     12
+  rv     11
+  rṣ     9
+  ry     9
+  rt     3
+  rp     3
+  rk     3
+  rth    2
+  rc     2
+  rbh    2
+  rb     1
+  rh     1
+  rṇ     1
+  rś     1
+  ll     1
+  rgh    1
+  lv     1

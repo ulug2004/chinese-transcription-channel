@@ -1,0 +1,25 @@
+step 33 - Doerfer on tug, across all volumes
+
+Turkische und Mongolische Elemente im Neupersischen. Unter besonderer 
+   pages 677, text 1845877 characters
+   entry numbers: 100 to 1953, 601 entries
+   headword hits 18, gloss hits 11, entry-969 pages 1, 969 among entries: True
+
+Turkische und Mongolische Elemente im Neupersischen. Unter besonderer 
+   pages 677, text 1835832 characters
+   entry numbers: 119 to 1963, 686 entries
+   headword hits 5, gloss hits 5, entry-969 pages 0, 969 among entries: False
+
+Türkische und Mongolische Elemente im Neupersischen_ Band -- Gerhard D
+   pages 646, text 1525292 characters
+   entry numbers: 100 to 1993, 1183 entries
+   headword hits 5, gloss hits 3, entry-969 pages 1, 969 among entries: True
+
+Türkische und Mongolische Elemente im Neupersischen_ Unter -- Gerhard 
+   pages 604, text 0 characters
+   entry numbers: none found
+   headword hits 0, gloss hits 0, entry-969 pages 0, 969 among entries: False
+   [!] no usable text layer; this volume is a scan and needs OCR
+
+Entry 969 appears on a page in: Turkische und Mongolische Elemente im Ne, Türkische und Mongolische Elemente im Ne
+See reports\readings\doerfer_entry_969.txt

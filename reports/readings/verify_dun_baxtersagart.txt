@@ -1,0 +1,121 @@
+baxtersagart -- searched for 頓 in the name 冒頓
+Source: Old Chinese _ A New Reconstruction -- William H_ Baxter, Laurent Sagart -- Illustrated, FR, 2014 -- IRL Press at Oxford University Press -- isbn13 9780199945375.pdf
+
+--- p145  [character: 冒] ---
+in its entry for 午 wǔ:
+(503) 午∶啎 也 。五 月 陰 气 午 逆 陽，冒 地 而 出
+午 [nguX] < *[m] .qʰˤaʔ] means 啎 [nguH < *ŋˤak-s] ‘oppose’. In the fifth
+
+--- p215  [reading: twon] ---
+-on 痕 一 開 — — — Kon
+-won 魂 一 合 Pwon Twon Tswon Kwon
+to occur freely before the main vowel, as in (817) above, as Karlgren had originally
+
+--- p215  [reading: twon] ---
+done. But Jaxontov (1960b) suggested an alternative hypothesis: that the -w- in syl-
+lables like Twan, Tswan, Twon, and Tswon is a secondary development from an origi-
+nal rounded vowel. According to his hypothesis, syllables like MC Twan and Tswan
+
+--- p215  [reading: twon] ---
+nal rounded vowel. According to his hypothesis, syllables like MC Twan and Tswan
+came from OC *Ton and *Tson, respectively; syllables like Twon and Tswon came
+from OC *Tun and *Tsun. Between Old Chinese and Middle Chinese, there was a
+
+--- p215  [reading: twon] ---
+diphthongization of the rounded vowels *o and *u before acute codas (in our system,
+*-j, *-n, *-t, and *-r, column 2 in Table 5.2): e.g., *Ton > Twan, *Tun > Twon. We call
+this the rounded-vowel hypothesis, and it is a crucial element of the six-vowel system.
+
+--- p216  [reading: twon] ---
+*-ən Pwon ? ? Kon Kwon
+*-un Pwon Twon Tswon Kwon —
+TABLE 5.11 OC rhymes in *-ŋ (incomplete) and the
+
+--- p217  [reading: twon] ---
+6 -(w)on < *-ən 文 Wén Pwon — — Kon Kwon
+7 -won < *-un Pwon Twon Tswon Kwon —
+distribution. There are no convincing examples of MC -en from the 文 Wén group in
+
+--- p217  [context: hun ] ---
+In fact, the only example of a syllable like Ton or Tson in the entire Guǎngyùn is
+(819) 吞 tūn < thon ‘to swallow’ (pMǐn: *thun A),
+which also has the alternate reading
+
+--- p218  [reading: twon] ---
+文 Wén
+6 -won < *-un Pwon Twon Tswon Kwon —
+
+--- p278  [reading: twon] ---
+Old Chinese rhymes 263
+敦 煌 Dūnhuáng < twon-hwang < *tˤur-ɦˤwaŋ (< *tˤur + *[ɢ]ʷˤaŋ)
+The Chinese name of this famous outpost on the old Silk Road is evidently based
+
+--- p278  [reading: twon] ---
+to the *-r coda:
+(1054) 敦 *tˤur > twon > dūn ‘solid, thick’
+敦 *tˤur > twoj > duī ‘manage, direct’
+
+--- p278  [reading: twon] ---
+《 西 域 傳 》 (Account of the western regions) in the Hòu Hàn shū 《 後 漢 書 》:
+(1056) 安 敦 Āndūn < 'an-twon
+Admittedly, this transcription is several centuries later than the others, and probably
+
+--- p278  [reading: twon] ---
+reflects a period or dialect where *-r had already become *-n, as strongly implied by
+the fact that the second character 敦 *tˤur > *tˤun > twon > dūn ‘solid, thick’, with an
+
+--- p298  [context: hun ] ---
+or *-ər (see discussion in section 5.5.1.1):
+(1105) 吞 *l̥ˤən > thon > tūn ‘to swallow’, pMǐn *thun A (note also the Mandarin
+pronunciation tūn, which would normally reflect MC thwon).
+
+--- p310  [reading: twon] ---
+Old Chinese rhymes 295
+(1129) 敦 *tˤur > *tˤun > twon > dūn ‘solid, thick’
+敦 *tˤur > *tˤuj > twoj > duī ‘manage, direct’
+
+--- p351  [reading: twon] ---
+敦 duī twoj < *tˤur (dialect: *-r > *-j) ‘manage, direct’: 263, 295;
+see also dūn < twon, 敦 煌 Dūnhuáng < twon.hwang
+對 duì twojH < *[t]ˤ[u]p-s ‘respond’: 309
+
+--- p351  [reading: twon] ---
+對 duì twojH < *[t]ˤ[u]p-s ‘respond’: 309
+敦 dūn twon < *tˤur ‘solid, thick’: 263, 295: see also duī < twoj, 敦 煌
+Dūnhuáng < twon.hwang
+
+--- p351  [reading: twon] ---
+敦 dūn twon < *tˤur ‘solid, thick’: 263, 295: see also duī < twoj, 敦 煌
+Dūnhuáng < twon.hwang
+燉 dūn twon, see 敦 煌 Dūnhuáng < twon.hwang
+
+--- p351  [reading: twon] ---
+Dūnhuáng < twon.hwang
+燉 dūn twon, see 敦 煌 Dūnhuáng < twon.hwang
+敦 煌 Dūnhuáng twon.hwang < *tˤur.[ɢ]ʷˤaŋ ‘Dūnhuáng’ (place name): 263, 295
+
+--- p351  [reading: twon] ---
+燉 dūn twon, see 敦 煌 Dūnhuáng < twon.hwang
+敦 煌 Dūnhuáng twon.hwang < *tˤur.[ɢ]ʷˤaŋ ‘Dūnhuáng’ (place name): 263, 295
+also written 燉 煌; see also 敦 dūn < twon, duī < twoj
+
+--- p351  [reading: twon] ---
+敦 煌 Dūnhuáng twon.hwang < *tˤur.[ɢ]ʷˤaŋ ‘Dūnhuáng’ (place name): 263, 295
+also written 燉 煌; see also 敦 dūn < twon, duī < twoj
+遯 dùn dwonH < *lˤu[n]ʔ-s ‘withdraw’: 251
+
+--- p358  [reading: twon] ---
+荒 huāng xwang < *m̥ ˤaŋ ‘wasteland; uncultivated land’: 152
+煌 huáng hwang, see 敦 煌 Dūnhuáng < twon.hwang
+黃 huáng hwang < *N-kʷˤaŋ ‘yellow’: 81, 117, 118
+
+--- p414  [context: shan-yü] ---
+66. Chinese dictionaries consistently give the pronunciation of 單 于 as chányú, but in Western
+sinological literature it is usually transcribed as “shan-yü” (in Wade-Giles romanization) or
+“shanyu” (in pīnyīn), a habit that can probably be traced to Giles’s Chinese-English dictionary
+
+--- p414  [context: shanyu] ---
+sinological literature it is usually transcribed as “shan-yü” (in Wade-Giles romanization) or
+“shanyu” (in pīnyīn), a habit that can probably be traced to Giles’s Chinese-English dictionary
+(1892:1050), which gives 單 the pronunciation “shan²” (which would be “shán” in pīnyīn) in
+

@@ -1,0 +1,21 @@
+Later Han table: 7661 characters
+
+A.  Later Han, Sanskrit source (770 pairs used, 247 dropped on a vowel-count mismatch, 167 characters absent from the table)
+
+A1.  source vowel written by which Later Han vowel class
+Traceback (most recent call last):
+  File "C:\Users\ulug2\OneDrive\Desktop\claude\names\src\step35_vowel_bogu_baga.py", line 275, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ulug2\OneDrive\Desktop\claude\names\src\step35_vowel_bogu_baga.py", line 238, in main
+    show(tally, "A1.  source vowel written by which Later Han vowel class",
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+         ["a", "front", "round", "vocalic-r"])
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ulug2\OneDrive\Desktop\claude\names\src\step35_vowel_bogu_baga.py", line 116, in show
+    print("  " + "source".ljust(12) + "".join(c.rjust(w) for c in cols) + "total".rjust(9))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ulug2\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u025b' in position 46: character maps to <undefined>

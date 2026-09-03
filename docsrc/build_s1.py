@@ -4,7 +4,7 @@ sys.path.insert(0,".")
 from s1_rows import REMARK
 
 CSV="/root/art/author_proposals.csv"
-rows=list(csv.DictReader(io.open(CSV,encoding="utf8")))
+rows=list(csv.DictReader(io.open(CSV,encoding="utf-8-sig")))
 by={r["chinese"]:r for r in rows}
 
 RULERS=["頭曼","冒頓","稽粥","軍臣","詹師廬","呴犁湖","伊稚斜","烏維","且鞮侯","狐鹿姑","壺衍鞮",
