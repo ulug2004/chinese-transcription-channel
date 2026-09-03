@@ -1,0 +1,60 @@
+p90| Lexicon 81
+p90| dong 75:8 M14949 Y. turf L. towrf E. towrjh
+p90| K1175f ridge pole
+p90| dong 15:8 M01670 Y. turf L. towrjv E. towrjh
+p90| K1175a freeze
+p90| dong 19:9 M02390 Y. turf L. tfiowrf E. dowrj'
+p90| K1188m move
+p90| d6ng 46:6 M08038B Y. [tury] L. tfiowrf E. dowrjh
+p90| cavern; southern non-Chinese people
+p90| (now written . See also t6ng
+p90| dong 9:6 M00601B Y. [turjv] L. tfiowrp E. dowrjh
+p90| K1176J southern non-Chinese people, same
+p90| as See also long
+p90| dong 61:6 M10594B Y. [turjx] L. tfiowrf E. dowrjh
+p90| K1176k fear. See also t6ng
+p90| dong 85:6 M17386 Y. turjv L. tfiowrf E. dowrjh
+p90| K1176H cave, grotto
+p90| dou 10:9 M01386 Y. tow L. taw E. taw
+p90| K117a helmet; pocket, bag
+p90| d6u 64:4 Ml 1888 Y. taw" L. tow' T7 tow'
+p91| 82 Lexicon
+p91| du 109:8 M23457 Y. tu L. tawk E. tawk
+p91| K1031n oversee, control
+p91| du 145:8 M34374 Y. [tiT] L. tawk E. tawk
+p91| K10310 seam in the back of a garment
+p91| du 75:15 M15821 Y. [tu'] L. tfiawk E. dawk
+p91| K1023H coffer, box, coffin
+p91| du 78:15 M16601 Y. [tu'] L. tfiawk E. dawk
+p91| K10231 stillborn, abortion
+p91| du 80:4 M 16730 Y. tu' L. tfiawk E. dawk
+p91| K1016a poison
+p91| du 85:15 M18591 Y. tu' L. tfiawk E. dawk
+p91| K1023J ditch, canal, drain
+p91| du 91:13 M19906 Y. tu' L. tfiawk E. dawk
+p91| K1023k tablet, writing slip, document
+p91| du 93:15 M20196 Y. tu' L. tfiawk E. dawk
+p91| K10231 calf
+p91| du 94:13 M20725 Y. tu' L. tfiawk E. dawk
+p91| K12241 alone
+p91| du 145:13 M34650B Y. [tu'j L. tfiawk E. dawk
+p92| Lexicon 83
+p92| dii 38:4 M06082 Y. tiT L. tu5v E. toh
+p92| K795o jealous
+p92| du 38:5 M06121
+p92| K795n jealous, same as „
+p92| du 66:13 M13406A Y. tu- L. tu9v E. toh
+p92| K790d ruin. See also yl
+p92| du 142:18 M33896 Y. tus L. tu3- E. toh
+p92| K795r wood-boring insect, bookworm; vermin
+p92| du 130:3 M29270A Y. ur L. tfiua' E. do'
+p92| stomach. See also dfi
+p92| du 53:6 M09313B Y. tus L. tfiu^ E. doh
+p92| KSOla measure; degree, rule, standard. See
+p92| also duo
+p92| du 75:3 M14477 Y. tu" L. tfiu^ E. do'
+p92| K62g kind of pear; stop up, block; surname
+p92| du 85:9 M17765 Y. UT L. tfiu5v E. doh
+p92| KSOlb to ford, cross
+p92| du 167:9 M40607 Y. UT L. tfius- E. doh
+p92| inlay, gild; metal plating

@@ -1,0 +1,714 @@
+Schuessler 2009, lines with the Mandarin syllable 'li'.
+Columns run: GSR, character (not OCRd), Mandarin, MC, LHan, OCM.
+
+--- pdf page 1 ---
+sive investigation in primary and secondary sources, this completely new dictionary
+tions, as emended by Li Fang-kuei, are
+places Old Chinese squarely within the Sino-Tibetan language family (including
+widely cited as points of reference for
+
+--- pdf page 10 ---
+I
+'competing' systems of [OC) reconstruction (Karlgren, Pulleyblank, Li) whose inherent likelihood and
+mutual interrelationships can baffle the outsider" (JIES 23, 3e4, 1995: 401).
+ix
+
+--- pdf page 12 ---
+relying heavily on interpretations of phonetic series and morphological speculations. The
+transcription of LHan forms are much simpler than Karlgren 's/Li 's traditionally quoted MC
+in that it avoids most of the diacritical clutter and is written in the way modern Chinese
+dialects are recorded. It also antedates MC by almost half a millennium. At the very least,
+
+--- pdf page 12 ---
+into consideration for the conservative LHan forms for this manual.
+• This manual also provides the traditional MC readings of graphs (i.e., Li Fang-kuei's
+emendations to GSR's 'Ancient Chinese') which are often cited for phonological reference.
+Unlike GSR, I will note the Qieyun system's so-called ch6ngniu doublets and Divisions (see
+
+--- pdf page 20 ---
+Middle Chinese
+Karlgren's MC (,Ancient Chinese') of GSR with Li Fang-kuei's emendations (Li 1971: 4-7;
+1974-1975: 224-227) will be used here with some additional adjustments (see also 2.2):
+(1) The tones will be indicated by superscript letters ABCD; see section 2.2.
+
+--- pdf page 20 ---
+(4) i" will be written i.
+(5) In Karlgren's/Li's MC, the rounded medial is represented as -u-in some syllables (I)uo,
+gju~n); as -w-in others (mwan, kjwan, kjwei); in some syllable types rather inconsistently:
+there are both kjuen and kjwen; kuat, but the qusheng counterpart kwaic. To eliminate this
+
+--- pdf page 20 ---
+there are both kjuen and kjwen; kuat, but the qusheng counterpart kwaic. To eliminate this
+confusion, I will write MC w for Karlgren's/Li's medial was well as u, thus pwan (not puan),
+kjwiin, kjw~n, etc. Some syllables have a well-established uo where I will keep it (kuo, SUOI).
+In the Introduction where I specifically cite Karlgren's/Li's MC forms, the u may still appear.
+
+--- pdf page 20 ---
+kjwiin, kjw~n, etc. Some syllables have a well-established uo where I will keep it (kuo, SUOI).
+In the Introduction where I specifically cite Karlgren's/Li's MC forms, the u may still appear.
+After labial initials, the medial u/w is redundant - one could write pan for puan, or plit for
+pwlit. The Div. I u/w is written systematically and well established; it will be retained here
+
+--- pdf page 20 ---
+pwlit. The Div. I u/w is written systematically and well established; it will be retained here
+(puan); but the win Div. II is not applied consistently: Li writes pwai (in analogy to ywai); but
+phiin in analogy to kan, and not parallel to kwan; or puk (not pwuk). Therefore, the w will
+usually be omitted in such Div. II syllables (pat, puk), as is done by some writers.
+
+--- pdf page 20 ---
+(6) The strong palatal medial in ch6ngniu Div. IV (here '3/4'; see Intro. 2.4) is represented
+by ji in Li's system (e.g., pjian 4 vs. pjan 3). But in some syllable types, it is written simply as
+i without the j which is so characteristic of Div. III, 3/4 syllables: pi 4, si, kwi. In light of MC
+syllables like kjwie 4 (vs. kjwe), the omission of j looks odd, therefore one could write more
+
+--- pdf page 20 ---
+syllables like kjwie 4 (vs. kjwe), the omission of j looks odd, therefore one could write more
+logically kjiwi instead (parallel to jiwi, and contrasting with Li's kjwi 3). In the EDOel wrote
+kjiwi, etc., but here I will remain close to Li's system and write kwi 4. The numbers 3 and 4
+which are referring to the ch6ngniu division are always added for clarity (pi 4, pji 3).
+
+--- pdf page 20 ---
+logically kjiwi instead (parallel to jiwi, and contrasting with Li's kjwi 3). In the EDOel wrote
+kjiwi, etc., but here I will remain close to Li's system and write kwi 4. The numbers 3 and 4
+which are referring to the ch6ngniu division are always added for clarity (pi 4, pji 3).
+(7) Like Karlgren, Li omits the medial j in syllables with the single vowel i (zwi, parallel to
+
+--- pdf page 20 ---
+which are referring to the ch6ngniu division are always added for clarity (pi 4, pji 3).
+(7) Like Karlgren, Li omits the medial j in syllables with the single vowel i (zwi, parallel to
+kwi 4), but Li inserts aj with other finals, e.g., zjwe (Karlgren zwie).
+Later Han Chinese
+
+--- pdf page 20 ---
+(7) Like Karlgren, Li omits the medial j in syllables with the single vowel i (zwi, parallel to
+kwi 4), but Li inserts aj with other finals, e.g., zjwe (Karlgren zwie).
+Later Han Chinese
+The LHan transcription follows for the most part Me. Note, however, the distinction between
+
+--- pdf page 23 ---
+Hao-ku Ulrich Unger, Hao-ku. Sinologische Rundbriefe
+HCT Li Fangkuei 1977, A Handbook of Comparative Tai
+HJAS Harvard Journal of Asiatic Studies
+HK Hong Kong
+
+--- pdf page 23 ---
+JCLTA Journal of the Chinese Teachers' Language Association
+JDSW Jihgdian shlwen ~$~X by Lu Deming [li1~FIJl
+JGWZ UXiaoding *$':5E, Jiagu wenzljishi Ej3'f;4'XT~f*
+JIES Journal of Indo-European Studies
+
+--- pdf page 30 ---
+Pulleyblank 1962: 72-73; 1984: 238ff.
+LI Hing-kuei *1J1i 1971. Sbanggu yIn yanjiu 1: i l1l~Jf~. Tsing Hua 1 of Chinese
+Studies, n.s. IX, 1&2: 1-61 (see p. 21f). In English: Gil Mattos, translator, Li Fang
+kuei, Studies on Archaic Chinese. MS 31 (1974-1975): 219-287 (see p. 226f).
+
+--- pdf page 30 ---
+LI Hing-kuei *1J1i 1971. Sbanggu yIn yanjiu 1: i l1l~Jf~. Tsing Hua 1 of Chinese
+Studies, n.s. IX, 1&2: 1-61 (see p. 21f). In English: Gil Mattos, translator, Li Fang
+kuei, Studies on Archaic Chinese. MS 31 (1974-1975): 219-287 (see p. 226f).
+Pan Wuyun ~'I'B-~ 2000. Hanyu lishIyrnyunxue 1:i~m 9::1l{fJl~, p. 83ff.
+
+--- pdf page 31 ---
+2.2 MC notational systems
+Today 'MC' usually means Karlgren's 'Ancient Chinese' as emended by Li Fang-kuei (1971;
+1974-1975) who simplified Karlgren's MC by eliminating some non-distinctive diacritics
+he replaced Karlgren's i by j; he indicated aspiration by h (phj-for Karlgren's p'i-); etc. Those
+
+--- pdf page 31 ---
+he replaced Karlgren's i by j; he indicated aspiration by h (phj-for Karlgren's p'i-); etc. Those
+who cite Karlgren/Li have often further eliminated non-contrastive features, such as non
+phonemic distinctions between medial wand u after labials (see the note on Transcriptions in
+the front matter).
+
+--- pdf page 31 ---
+There are alternative proposals for MC, most notably Pulleyblank 1984; 1991. In spite of
+improvements over Karlgren I Li, Pulleyblank's MC does not have as much practical value
+because the author introduced his own complex notations (-ejk, -.,ep, puawI], and the like), and
+because many words which occur only in OC texts are of course not listed in an inventory of
+
+--- pdf page 31 ---
+transparent phonetic value needed to be assigned to some ordinary English letters. In the end,
+the Karlgren/Li version appears to be the most often cited.
+2.3 Middle Chinese tones
+1JZW: J::W
+
+--- pdf page 32 ---
+a,
+Li's system are a, ii, l?, e. Only grave (labial and guttural; see 1.4) and retroflex initials
+(~-, t~-, .s-) can occur in this Division, but no dentals and palatals.
+• Div. III: includes words with a palatal post-initial glide, i.e., Karlgren's MC medial 'yod'
+
+--- pdf page 32 ---
+• Div. III: includes words with a palatal post-initial glide, i.e., Karlgren's MC medial 'yod'
+i = Li 's j; words in this Division have in Mandarin medial i, or affricate, sibilant or denti
+labial initials, e.g., liang, jiang, chong, fen, etc). There are no dental initials (t th d n).
+• Div. IV: includes syllables with a prominent medial i after the same initials as in Div. I
+
+--- pdf page 33 ---
+INTRODUcrION
+(Karlgren/Li write w in some syllables, u in others); syllables without this bilabial medial are
+called kaikou F7fI Cl 'open mouth' (MC kjat), kan). The MC w is, however, of a completely
+different nature from medialj. The latter is tied to Division III, but the medial bilabial can
+
+--- pdf page 33 ---
+Karlgren considered the finals of ~ Iqiin and k'iiin (in his MC notation) the same -
+considered them 'doublets', and the ch6ngniu distinctions spurious. Li took note of the
+ch6ngniu doublets in his emendations to Karlgren's MC, thus his kjan for Div. 3/3, a stronger
+medial kjian in Div. 3/4. Traces of this ch6ngniu 3 vs. 4 distinction have been uncovered in
+
+--- pdf page 34 ---
+them in Div. III because of the parallelism and complementary distribution with medial j
+syllables after non-labial initials. While Karlgren / Li write, therefore, wi! ~ 'thing' as MC
+mjw~t, Pulleyblank (Early MC) and Norman (CDC) are certainly correct in postulating EMC
+and CDC mut; the word was the same in LHan. However, QYS forms are customarily quoted
+
+--- pdf page 36 ---
+notation, kOl), gOl), gOl), krOl).
+Li's XS principle was formulated in simple terms: (1) every OC rime category had one
+a,
+vowel (and not variants correlating to QYS Divisions, such as a, a, B). (2) In a XS series
+
+--- pdf page 38 ---
+*tan, zjanC < *dans. Thus the set of palatal consonants is removed from the DC inventory,
+and phonetic series in question conform now to Li's XS principle. This is confirmed by the
+near absence of palatals from foreign transcriptions in the Middle Han period and earlier
+an
+
+--- pdf page 38 ---
+(Coblin ms. 1993: 15); for .f§or.e*ig n palatals Chinese dental affricates are used (LH *khu
+= = li:®t =
+dzia Kuca [Hanshu]; LH tshiaB-mat Calmadana; LH khu-dziu Kujula).
+4.4 Me medial wand u
+
+--- pdf page 39 ---
+4.5.1 In not a few phonetic series MC 1-interchanges with velar, labial, or retroflex initials.
+Following Karlgren (1933: 57f; 1954) and Li (1971), all investigators assume OC consonant
+E
+clusters in such series. Consider series 36-5/609 which includes jilm ~ 'look at' and Jan
+
+--- pdf page 41 ---
+Since MC Div. I1IV and II share the same DC final (4.5.3), only two syllable types remain in
+DC (Li's Div. III j is written in for clarity, though recent DC proposals have eliminated it):
+(A) Div. I1IV/II -an (B) Div. III -jan
+gra ve k kh g I) ? h kj khj gj IJj ?j hj
+
+--- pdf page 41 ---
+type B corresponds to QYS Div. III (including 3/3 and 3/4 withj).
+In Karlgren's I Li's MC, all Div. III syllables are characterized by a medialjwhich in the past
+has been projected back into DC. A medial j in an DC reconstruction like *~jan or *tjan nicely
+explains both the palatalization as well as the vowel fronting in the MC equivalent tsjan.
+
+--- pdf page 42 ---
+Pan Wuyun *tan >tan *tan > tsjan
+Karlgren, Li *tan >tan *tjan > tsjan
+Baxter 1992 *ton >ton *tjon > tsyen
+5 OLD CHINESE THROUGH THE XIESHENG SYSTEM
+
+--- pdf page 43 ---
+'id. '). Karlgren's Archaic Chinese set of voiced stops is thus replaced by a single phoneme *1-:
+Arch. Ch. *gi-, *di-, *bi = OC *1- (Li OC *r-) =MCji-
+Arch. Ch. *g'i-, *d'i-, *b'i- = OC *g-, *d-, *b- = MC g-I y-, d-, b-
+Thus phonetic series with dental initials fall into two sets, one with OC initial dental stops (T
+
+--- pdf page 43 ---
+In an OC T series, only initials from sets 1 and 2 can occur; in an L series only, sets 2 and 3.
+This distinction accords with Li 's XS principle. For an example, compare GSC 9-11 with
+9-17; both are particularly large XS where the absence of any irregular initials cannot be
+chance. Co-occurrence of MC ji-and t-is exceptional. Some XS are ambiguous (e.g., only d-),
+
+--- pdf page 44 ---
+'tiME
+classical copula wei (GSR 575; Karlgren *diw;;)r) should be something like *lui. Li
+reconstructed it *r;;)d, Tibeto-Burmanists took it as something like *w;;)i. An emerging
+consensus (Baxter, Sagart, this writer, and others) interprets this syllable type as OC *wi
+
+--- pdf page 44 ---
+clear. Also some other phonetic series probably had *j-rather than *1-, such as yang .$ *jal),
+as opposed to yang ~ *lal); yi lj)\ *jak and all its members; yan !lI *jam < *r-jam 'salt'.
+OCM only: I suspect that MC ji-can also reflect earlier (PCH, OC?) *w-which was lost
+through labial dissimilation when followed by a back vowel; e.g., ~ you; see previous page.
+
+--- pdf page 49 ---
+words in MC open syllables ended with a final consonant *-g, *-d, *-b, or *-r in Karlgren's /
+Li's oc.
+Karlgren's successors have projected MC tone categories back into OC where rimes and XS
+confirm their existence. This revealed that final consonant contacts occur only with a limited
+
+--- pdf page 50 ---
+The absence of voiced final stops and the presence of segmental phonemes for later tones
+are now widely accepted. The only influential authority to retaine the voiced finals was Li
+Fang-kuei. This was perhaps prompted by his, and a general Chinese, skepticism toward the
+idea that the MC tones could derive from a toneless form of Chinese. However, Li left the
+
+--- pdf page 50 ---
+Fang-kuei. This was perhaps prompted by his, and a general Chinese, skepticism toward the
+idea that the MC tones could derive from a toneless form of Chinese. However, Li left the
+question open, retained the voiced finals, and added the symbols -x and -h to his syllables to
+indicate sources of later tones Band C.
+
+--- pdf page 53 ---
+However, TB morphemes and phonemes are not projected into OCM. Thus hUD!k OCM
+*hm~i? 'fire' was not OC *sm;;li?, as TB *sme or *smai may suggest, since there is within
+Chinese no evidence for an *s-in this word, only for a voiceless nasal. Or: It is suggested
+that in some words morphological voicing of an initial consonant was due to an earlier
+
+--- pdf page 54 ---
+= J-t
+show: shr-li ~ffiflJ LH ~i-lic Skt. srI; p6-lu6-men ~M r~ LH ba-la-m:m 'brahmana' (fan
+'brahman' is an earlier transcription, or one that simply ignores some element in a cluster).
+7.3 Palatalization of certain velar consonants
+
+--- pdf page 56 ---
+± ±
+"phonetic." However, in the OB the element was actually shi 'male' (Li Xiaoding
+1.159), neither til nor shi can have been phonetic, mou was originally a semantic compound.
+M)
+
+--- pdf page 59 ---
+ye
+Considering all these caveats, a pun like sang wang ~Li:tt "'Burial' means to
+'disappear"', for instance, does by itself not necessarily prove an oe *sm cluster in sang; nor
+does she '@r LH sac as a gloss for kil Mi LH khoc prove a velar in she.
+
+--- pdf page 59 ---
+the XS principle beyond a certain limit into this area can lead to over-interpretation -
+something that most investigators have understood (Karlgren, Li, Baxter).
+9.1 Premises
+One's approach to the interpretation of phonetic series, graphs and data is guided by many
+
+--- pdf page 61 ---
+Many phonetic series include MC features which leave us in a gray area where the application
+of the XS principle and its premises are debatable. Karlgren and Li applied it in some cases
+more comprehensively than is proposed here for OCM. For example:
+Co-occurrence of MC 1)-and 1-in a series is rare, as in the much-discussed ~ which writes
+
+--- pdf page 67 ---
+York.
+Li Fang Kuei (Ll Fang-gui) $1J:t!. 1971. "Shanggu yIn yanjiii 1:. ilifWf~ (Studies on
+Archaic Chinese phonology)." Tsing Hua Journal of Chinese Studies n.s. 9: 1-61.
+---.1974-75. Fang-kuei Li: Studies on Archaic Chinese. Translated by Gilbert Mattos. MS
+
+--- pdf page 67 ---
+Archaic Chinese phonology)." Tsing Hua Journal of Chinese Studies n.s. 9: 1-61.
+---.1974-75. Fang-kuei Li: Studies on Archaic Chinese. Translated by Gilbert Mattos. MS
+31: 219-287.
+Ll Xiao-ding $~5E. 1965. Jiaguwen z1jfsh1 EflftX* ~~. Taipei.
+
+--- pdf page 68 ---
+Packard, Jerome L. ,ed.1998. New approaches to Chinese word formation. Berlin, New York.
+Pan Wu-yun rI'I'R~. 1987. "Yueminyu zhong de shilnggu H~IllYu jieci ceng iJ:!!"i¥J"iffi!:j:lI¥JJ::il1J
+"iffimr-Fli (A layer of OC loan words in Vietnamese)." YYWZX 3: 38-47.
+---.2000. Hanyil lishiyinyiinxue1J"iffiM92.ifM~. Shanghai.
+
+--- pdf page 69 ---
+Unger, Ulrich. 1982-1995. Hao-ku. SinologischeRundbriefe. Nos. 1-51. Munster.
+Wang Li ::£,11. 1958. Hanyu shlgao tl~5I::tf.Ij. Beijing.
+---.1982. T6ngyuan zidian IOJVJ*~. Beijing.
+Wang, William S-Y., ed. 1995. The Ancestry of Chinese. JCLMonograph 8.
+
+--- pdf page 76 ---
+1-29 = K. 58 Mand. Me LHan oeM
+ae Iii li wU 1)UOB 1)aB 1)a? OCB *I)a?
+[T] Sin Sukchu SR I)U (1:.); MGZY u (1:.) [u]; ONW 1)0 <> [D] PMin *l)hOB2
+[E] TB *l-I)a, *b-I)a > WT ll)a, WB l)aB, PL *l)a2, Lushai paL_l)aH < I)aa
+
+--- pdf page 82 ---
+ae III IjwoB lioB ra? = g 1-54/76a
+f lu luo 10 ra = li::I1i 1-51169dj OCB *g-rja1
+1-56 =K. 94 Mand. Me LHan oeM
+a tx woman nll I).jwoB l).ioB nra? OCB *nrja1
+
+--- pdf page 92 ---
+k til hu yuoC yuoC gwakh
+[T] MHan 1lI~ yuaCtsQu? = waxsab <> [E] WT 'gogs-pa 'to prevent'
+fg fi~ hub, ywek, yuak, gwrak or wak,
+yue 'i'jwak ?yok ?wak
+
+--- pdf page 106 ---
+u cMng qtlI) draI) 3-351721 n
+cheng qtlI) [f] m~ <;Ial)-li Xiongnu tengri 'sky'
+81
+
+--- pdf page 109 ---
+d rang nzjal)B nOl)B nal)t
+c. [E] S. daal)Bl < *?d-« *?n-?) 'potash, lye', Li Ngam ?nal)Bl
+lil
+rang nzjal)c nOl)c nal)h [E] WT gnal) 'to concede'
+
+--- pdf page 110 ---
+[f] Sin Sukchu SR ljal) U::); MGZY (lyang » lyang <-.1:::) Djal)]; MTang lial) < lal), ONW lal)
+[D] PMin *~:>I)B/C 'two',li:>I)B 'a tael' >NMin Ji!lnyang S:>I)CI 'two', liol)BI 'tael'
+1 m 7m a rrange liang IjaI)B/c lioI)B/c raI)?/h
+chariot liang IjaI)c lioI)C raI)h
+
+--- pdf page 110 ---
+a to meas. liang IjaI) lioI) raI)
+[D] PMin *li:>1) 'measure' > Fuzh liOl)A2 <> [E] WT 'gral)-ba 'to count'
+II:
+a measure liang IjaI)c lioI)c raI)h [E] WT gral)s 'number'
+
+--- pdf page 110 ---
+a ~ liang IjaI) lioI) raI)
+[D] PMin *li:>1) 'beam' > Amoy niiiA2, Fuzh liol)A2
+b ~ liang IjaI) lioI) raI)
+3-47 = K. 702 Mand. oeM
+
+--- pdf page 123 ---
+ff-j
+k' zhl <;ljiB <;li~B dr~?
+h' !f,'f single te ! d~k d~k dak = 5-12/919f!/H
+[T] Sin Sukchu SR d~j (A.), LR d~j7; MGZY thiy (A.) [d~j]; ONW d~k.
+
+--- pdf page 123 ---
+fEll
+Z regulate zhi <;li(C) <;li~(C) dr~, dr~h < r-l~, r-l~h
+[T] Sin Sukchu SR d~i (:*); MGZY ci (:*) [d~i]; MTang <;Ii, ONW dig; OCB *lrjg
+El
+
+--- pdf page 125 ---
+.m
+a 11 ljiB liB < li;}B r;}( OCB *C-rj;}7
+[1'] ONW li;} <> [E] ST *TW;}: TB *rwa > WB Twa 'town, village'
+d J!. 11 ljiB li;}B r;}( OCB *C-rj;}7
+
+--- pdf page 125 ---
+a 11 ljiB liB < li;}B r;}( OCB *C-rj;}7
+[1'] ONW li;} <> [E] ST *TW;}: TB *rwa > WB Twa 'town, village'
+d J!. 11 ljiB li;}B r;}( OCB *C-rj;}7
+[1'] ONW li;} <> [E] TB *riy 'draw, paint, write, delimit'
+
+--- pdf page 125 ---
+[1'] ONW li;} <> [E] ST *TW;}: TB *rwa > WB Twa 'town, village'
+d J!. 11 ljiB li;}B r;}( OCB *C-rj;}7
+[1'] ONW li;} <> [E] TB *riy 'draw, paint, write, delimit'
+e- ~f-' 11 ljiB li;}B r;}(
+
+--- pdf page 125 ---
+d J!. 11 ljiB li;}B r;}( OCB *C-rj;}7
+[1'] ONW li;} <> [E] TB *riy 'draw, paint, write, delimit'
+e- ~f-' 11 ljiB li;}B r;}(
+ft
+
+--- pdf page 125 ---
+[1'] ONW li;} <> [E] TB *riy 'draw, paint, write, delimit'
+e- ~f-' 11 ljiB li;}B r;}(
+ft
+11 ljiB li;}B T;}( OCB *C-rj;}7
+
+--- pdf page 125 ---
+ft
+11 ljiB li;}B T;}( OCB *C-rj;}7
+:f!Il.
+c If lji Ii;} r;}
+
+--- pdf page 125 ---
+hi If lji Ii;} r;} or C-r;} (because of Min)
+OCB *C-rj;} (*phr;) - *p~-r;} » *r;} ? <> [1'] ONW li;} <> [D] Min: Jianou seA2
+mn if. mlii mai me mr;;,
+ffi! mlii mai
+
+--- pdf page 125 ---
+a
+See IntTO. 9.2.1. OCB *C-rj;}7 <> [1'] ONW li;} <> [D] Min: Jianyou seC2
+4-38 = K. 945 Mand. Me LHan oeM
+a J1J nal n~iB n;}B n;;,(
+
+--- pdf page 127 ---
+b ~ ciii tsh~i tsh~ tsh~
+[N] MC tsh~i can derive from OCM *tsh1'l; OCM tsh1'li would be MC tshiei. See EDOC 8.2.5.
+4-46 Mand. Me LHan oeM
+• cai dz~i dz~ dz~ [f] ONW dzai (dzei ?)
+
+--- pdf page 138 ---
+{:f( to hatch fil bj::luc buc b::lkh
+'To hatch' [Li] <> [D] PMin buc: Fuzh POUC2, XUlmen puC2
+[E] TB: Chepang bhyuk-sa 'to hatch' <>Tai: S. vakD2 'to hatch'
+#:f\ fil bjuC buoc boh = 10-391l36k flft
+
+--- pdf page 145 ---
+PWa *krih 'girl'; Bahnar North kadri, PNBahn. *kadri 'female'
+li&
+ji gje(C) 3
+120
+
+--- pdf page 151 ---
+f Ii liei, lje Ie, lie re, re
+9 ~Irope li lje lie re
+band shl, shai ~jeB, ~aiB s.i eB ' .s eB sre?, sre? = 7-28/871g ~
+h II shf ~je ~ie sre
+
+--- pdf page 151 ---
+itch lub luaB loiB roi?
+pq IUfMtA a,li lieiB/C,lje leB/c, lie re?/h, re
+See GYSX p. 292 for more graphs in this XS series.
+7-23 = K.1241r Mand. Me LHan oeM
+
+--- pdf page 168 ---
+h beat ping bieI) beI) beI) [f] BTD Skt. bim[bisara]
+{li)H£&
+ij ping bieI) beI) beI) [f] BTD Skt. bim[bisara]
+[E] AA: Khmer bfila !piil)! 'swollen, pot-bellied, earthen water pot'
+
+--- pdf page 191 ---
+[T] Sin S. SR dUI) (3:jZ); MGZY tung (3:jZ) [dul)] <> [E] Area word: WT dOI)-po -Idol)-po < *N-
+101) 'tube', Chepang thOI) 'tube'. <> PTai *kl-: S. kb:>I)Cl 'tube, cylinder'; Li 101), IN t'lul)
+o ~m song zjwol]C ziol]c s-lol]h
+[T] Sin Sukchu SR zjul) (*), PR sUI); MGZY zyung (*) [zjul)]; ONW zuol)
+
+--- pdf page 195 ---
+II ~ katf bI)c *krfiI)h 8J yak g::lk *grfik {:g pau p::lU *prfi
+J! ~fu]c ~::lI)c *trfiI)h JT\ tsauB tS::lUB *tsrfi?
+¥§. kauc buc *krfikh
+IV ~ niek neuk *nifik '-kieu keu *kifi
+
+--- pdf page 196 ---
+efg ef~ hilO ya'*u B gouB gfi?
+~14-lI1039h~; 13-2/1244c
+h $JJ a6 I)au I)ou I)fi
+13-2 = K.1244c Mand. MC LHan OCM
+
+--- pdf page 196 ---
+=
+14-111039h ~; ~ 13-lI1040g f$
+13-3 = K. 1041 1ijf GSR 1041 P etc. constitute a separate series, see 16-8.
+Mand. MC LHan OCM
+
+--- pdf page 197 ---
+!&
+lI03a shOu sj~u su hju? or nhiu ? OCB *xjiw
+LT] Sin Sukchu SR ~iw (3ft); MGZY shiw (3ft) llIiw]; ONW su
+[N] SW says that !-j is phonetic, but it may have been chosen for other unknown reasons.
+
+--- pdf page 200 ---
+pleased jiau jau lau
+13-30 = K. 1079 The initial could be either OCM *li-or *j-; the default initial is here *j-(~*li-).
+Mand. Me LHan oeM
+a EI3 you ji~u ju ju
+
+--- pdf page 206 ---
+[T] Sin Sukchu SR dziw ($:); MGZY tsiw ($:) [dziw]; MTang dzeu < dziu, ONW dzu. MHan
+li8.t khu-dziuc = K ujula
+it
+bc c trample ZU, cll tsjuk, tshjuk tsiuk, tshiuk tsuk, tshuk
+
+--- pdf page 218 ---
+16 oeM rime *-au Xiao btl 1li:g~
+GSR 1129 - 1171
+Baxter 1992: 526 if. (§10.2.l6)
+
+--- pdf page 222 ---
+16 OeM *-au 1li:g~ (GSR 1129-1171)
+1242a W( satiate yu ?jwoC ?ah = 1-28/6Ie 1ti'
+16-11 = K. 1142 Mand. Me LHan oeM
+
+--- pdf page 223 ---
+16 oeM *-au 1li*~ (GSR 1129-1171)
+f ~ Xlao xieuB heuB hHiu?
+[f] Sin Sukchu SR xjew <-.1:::), PR xjaw; MGZY hyaw (1:) [xjew]
+
+--- pdf page 230 ---
+ll.~ kiwek kuek *kwek :1* liek leuk *ri§.uk ~ diek deuk *liftk
+.li* liek lek *rek
+jl miek mek *mek
+II ~kek kek *kr~k ~ khtlk khak *khr§.k ~ I]Ak I]ok *I]r§.uk ~ yAk gok *grfik
+
+--- pdf page 240 ---
+Pkt. veluriya <> [E] ? TB: WT brgyal « b-r(-)yal) 'to sink down (senseless), faint'
+$I leave If lje liai rai = 18-10/24a'li
+rrl ,!1%~ll.JM ?a-jik-~an-lia[il Alexandria
+$I differ from Ii IjeC liaic raih
+
+--- pdf page 264 ---
+[T] Sin Sukchu SR kwa CA..); MGZY gwa C\) [kwa] <> [D] PMin *kuot
+o ~li hua ywaiC yuas gwrats or grots
+[T] Sin Sukchu SR ywa (:*); MGZY Xway (:*) [ywaj] <> [D] PMin *huac
+p ~8 guo kwat kuot kwat
+
+--- pdf page 271 ---
+eghi ffl~~~ft yun jwenB 3 winB wr;;)n? R! OCB *wrj:m(?)
+d:li xiin ! xj\Wn hyan hwan
+j ~ft yun jw;;)n wun w;;)n = 34-14/460c Ifi.
+~m yun jw;;)nc
+
+--- pdf page 271 ---
+ywanC yuanC wens
+256hk lI2 > ~1 huan ywan yuan wen
+[f] Sin Sukchu SR ywan (3jZ); MGZY Xwan (3jZ) [ywan]; ONW yuan
+246
+
+--- pdf page 274 ---
+lim OCB *phin. <> ill [f) ONW phian
+li
+pian, phjian 4, phian, phen,
+bian pien(B) pen (B) pen, pen?
+
+--- pdf page 284 ---
+a ~ sh~m sjiinC sanc nhans
+[T] Sin Sukchu SR ~jen (:*); MGZY (zhyan » shyan (:*) li;jen] [T] ONW san
+b shan sjiinC sanc nhans
+e sh~m sjiinC sanc nhans (*nh- !) ~ 24-36/217a?t.
+
+--- pdf page 285 ---
+b f,I xian sjan sian san or sen = 24-45/193f 1lJJ
+1lI xian sien, sjan sen, sian sen, sen = 23-21120ge
+24-43 = K. 208 Mand. Me LHan oeM
+m
+
+--- pdf page 294 ---
+ef yuan IJjWBn, I)wan I)yan I)wan
+9 wan I)wan, I)wan I]uan I]ron 3t 1O-1lI124g *1)0
+hi wan I)wan I)uan I)wan
+j wan I]wan(C) I)uan(C) I)wan, I)wans
+
+--- pdf page 297 ---
+p man man man mron
+• [T] MHan !lPJ!lI ?a-man Armenia
+q IUan, ~wanC, ~uanC srons
+shuan ~jwanC
+
+--- pdf page 302 ---
+26 oeM *-i, *-::li g~{f~ (GSR 547-605)
+26-7 = K. 553 Mand. Me LHan oeM
+a ~ shl dZic dfic < giC ! gih
+
+--- pdf page 302 ---
+f ~ kuf gjwi 3 gwi gwri
+h .~ sturdy kuf gjwi 3 gwi gwr::li R! OCB *gWrj::lj
+a horse que khiwet khuet khwi't 'kind of horse'
+~ kuf khiwei khuei khwi'
+
+--- pdf page 302 ---
+k III que khiwet khuet khwi't
+[N) Li writes syllables like a to 9 as Me kwi, gwi; I write kjiwi 4, gjiwi 4 in order to make
+them parallel with rimes *-it and *-in. Li does not provide an example for kjwi 3; he may
+have considered the 3/3 - 3/4 distinction spurious.
+
+--- pdf page 302 ---
+[N) Li writes syllables like a to 9 as Me kwi, gwi; I write kjiwi 4, gjiwi 4 in order to make
+them parallel with rimes *-it and *-in. Li does not provide an example for kjwi 3; he may
+have considered the 3/3 - 3/4 distinction spurious.
+277
+
+--- pdf page 303 ---
+26 oeM *-i, *-~i m~ff~ (GSR 547-605)
+26-11 = K. 124li Mand. MC LHan OCM
+M
+xf xi wei hue(i) hwf j hwe?
+
+--- pdf page 303 ---
+26-13 = K. 604 Mand. MC LHan OCM
+f1t lI/¥
+ad yf ?i 4 ?i ?i
+W [f] Sin Sukchu SR ?i (.1jl); MGZY Yi (.1jl) [?ji]; STCA n, ONW ?ii; BTD Skt. f-. MHan W
+
+--- pdf page 304 ---
+tf thiei thei till
+[D) PMin *th;)i - *thu:li <> [E) WB hle-kaB 'stairs, ladder', TGTM Mhli, Chepang h1:lY?
+ti thieic See 8-12/850hr ~Ij~.
+[f) ONW thei <> [D) PMin *thieC = tr fi (thieiC)
+
+--- pdf page 304 ---
+:i!!
+596d ~, 595d chf <;li <;li dri 'tarry' OCB *drj:lj
+[f) ONW di
+~ zhl <;lic <;lic drih 'wait'
+
+--- pdf page 304 ---
+~ zhl <;lic <;lic drih 'wait'
+596c W chf <;li <;li dri = 26-14/5901 :I!£
+26-17 = K. 551 In some graphs ~ seems to have been confused with 5FJ. *-i is the default
+final.
+
+--- pdf page 304 ---
+~ = 26-18/1237c ~
+gh ~~ yf ji ji li
+j ~ a tree yf ji ji li OCB lj:lj
+f 1~ ti, yf thieiB/C, ji theiB/C tlUt, tillh ! OCB *thij?
+
+--- pdf page 304 ---
+gh ~~ yf ji ji li
+j ~ a tree yf ji ji li OCB lj:lj
+f 1~ ti, yf thieiB/C, ji theiB/C tlUt, tillh ! OCB *thij?
+= 26-15/591m ~
+
+--- pdf page 304 ---
+k ~ sprout tf diei dei di =26-15/591g
+a grain tf diei dei di = 26-15/59li
+-mow yf ji ji li
+26-18 = K. 1237c Mand. Me LHan oeM
+
+--- pdf page 304 ---
+a grain tf diei dei di = 26-15/59li
+-mow yf ji ji li
+26-18 = K. 1237c Mand. Me LHan oeM
+c yf ji ji l:li OCB lj:lj = 26-17/551a ~
+
+--- pdf page 304 ---
+26-18 = K. 1237c Mand. Me LHan oeM
+c yf ji ji l:li OCB lj:lj = 26-17/551a ~
+[f) ONW i <ji
+26-18A Mand. Me LHan oeM
+
+--- pdf page 304 ---
+1f; ill, yi dieic, jiC deic, jiC lih, lih ?
+SW: 'a long-haired animal'. The OC final could also have been l;)ih, l:lih, or If(t)s, li(t)s. The
+OB form of this graph is thought to write 21-29K. 319d ~ (K. Takashima).
+26-19 = K. 560 Mand. Me LHan oeM
+
+--- pdf page 304 ---
+a * shr siB siB lhi? ! OCB *hljij? [f) ONW si
+[E) ? TB *d-liy 'bow' > Bahing li, Limbu li 'bow', Lepcha sa-If, Nung th:lli, WB leB
+279
+
+--- pdf page 305 ---
+Ii lic See 21-37.
+hi li li li ri
+[T] Sin Sukchu SR Ijej (}jL), PR, LR Ii; MGZY Ii (}jL) [Ii]; ONW Ii
+[0] PMin *li - *l;}i <> MY: *raF
+
+--- pdf page 305 ---
+[T] Sin Sukchu SR Ijej (}jL), PR, LR Ii; MGZY Ii (}jL) [Ii]; ONW Ii
+[0] PMin *li - *l;}i <> MY: *raF
+li Ii Ii ri
+280
+
+--- pdf page 305 ---
+[0] PMin *li - *l;}i <> MY: *raF
+li Ii Ii ri
+280
+
+--- pdf page 306 ---
+9 ~~ If Iiei, Ii lei, Ii n, ri [T]
+[T] ONW lei. if~ xfn-lf LH sin-li Turk. Syr (Pulleyblank 1983: 455) <> [D] PMin *le
+[E] KT: PTai *thl;}iA! 'to plow', Kam khaj 'plow' <> PMY *FaPA
+jkm .~~ If liei lei n
+
+--- pdf page 306 ---
+26-26 = K. 592 Mand. Me LHan oeM
+a ~ wife qf tshiei tshei tsh:'li ! OCB *tsh;;)j
+[T] Sin Sukchu SR ts'jej (-'f), PR ts'i; MGZY tshi (-'f) [ts'i]; ONW tshei
+[E] MK: Khmer *-sai: khsai Iksajl 'be female' 3f Mid. Khmer kansai Ik;;)nsayl 'wife'
+
+--- pdf page 309 ---
+26 oeM *-i, *-;;li m~.gB (GSR 547-605)
+26-37 = K. 565 Mand. Me LHan oeM
+t:,it
+
+--- pdf page 312 ---
+27 oeM *-:li ~~~ (1) (GSR 541-605)
+!W
+h louse jl kjeiB kiiB bi? [E] ? TB-KN *m-kei 'to bite'
+
+--- pdf page 312 ---
+[D] PMin *ghi > Fuzh maA2_khiA2, Xiamen goA2_khiA2; Vue GUlmgzh kheiA2_naB
+ij ~¥l jf kjei kii k:li
+k ~ jf kjei kii k:li
+[E] TB: WT bkres 'be hungry', JP kyet31 'hungry', Chepang kray-vb. 'hunger', Mru krai
+
+--- pdf page 312 ---
+ij ~¥l jf kjei kii k:li
+k ~ jf kjei kii k:li
+[E] TB: WT bkres 'be hungry', JP kyet31 'hungry', Chepang kray-vb. 'hunger', Mru krai
+~ jf ! gjei gii g:li
+

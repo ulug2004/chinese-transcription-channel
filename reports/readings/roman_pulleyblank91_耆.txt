@@ -1,0 +1,203 @@
+pulleyblank91 -- lines containing a Later Han syllable of 耆
+Source: Lexicon of Reconstructed Pronunciation_ In Early Middle -- Edwin G_ Pulleyblank -- University of British Columbia Press, Vancouver [B_C_], 1991 -- isbn13 9780774803663.pdf
+Keys: gɨ, ki, tśi
+
+--- pdf page 2  (matched ki) ---
+standard literary language of both North and South China, the preceding
+period of division. Pulleyblank's reconstruction is a thorough reworking
+of that of Bernhard Karlgren, completed in the twenties, and in some
+
+--- pdf page 10  (matched ki) ---
+recording sound, it has become possible to overcome this limitation so that
+we can hear voices from the past speaking in their own accents. For earlier
+times, however, written records provide our only means of access to past
+
+--- pdf page 10  (matched ki) ---
+efforts of scholars progress continues to be made.
+The most important kind of evidence for getting access to the linguistic
+standards of specific historic periods of Chinese is provided by rhyming
+
+--- pdf page 10  (matched ki) ---
+standards of specific historic periods of Chinese is provided by rhyming
+dictionaries that, without the use of alphabetic notation of any kind, were
+designed to give a key to contemporary pronunciation. This they did both
+
+--- pdf page 12  (matched ki) ---
+:
+to the old southern capital at Jiankang (Nanking) and its surrounding
+territory, which had been the most prestigious cultural centre in the time of
+
+--- pdf page 12  (matched ki) ---
+ancestor of modern dialects. It differed quite considerably from EMC,
+making many fewer distinctions. It is for this reason that one must insist on
+reconstructing it separately from the Qieyun.
+
+--- pdf page 13  (matched ki) ---
+of speech. The first was the Menggu ziyun a rhyme
+dictionary making use of the hPhags-pa alphabet. Though it contains some
+artificial features that show the influence of the Chinese rhyme table
+
+--- pdf page 15  (matched ki) ---
+frictionless velar continuant or glide [mj (which is sometimes written as [y]
+though the latter is strictly speaking a voiced fricative) or, less frequently,
+the velar nasal [rj], and in many Mandarin dialects it is always represented
+
+--- pdf page 21  (matched ki) ---
+gave rise to VV finals in LMC, we should expect them to have already had
+such a structure, which is not implied simply by the marking of the retroflex
+feature. One way to account for this would be to suppose that the retroflex
+
+--- pdf page 26  (matched ki) ---
+easily ascertained in standard dictionaries but there is a sizeable minority of
+cases in which problems arise. These are of several different kinds.
+One such case is where a graph traditionally had a reading pronunciation
+
+--- pdf page 27  (matched ki) ---
+through the vernacular.
+A special kind of problem is presented by readings of graphs used in old
+transcriptions of foreign words. Ideally one wishes to use such
+
+--- pdf page 28  (matched ki) ---
+Buddhist transcriptions where it represents the Indian (Sanskrit or Prakrit)
+syllables ka or ks. In the Guangyun it has the reading E. kia which
+according to the expected regular development ought to give Mandarin jie.
+
+--- pdf page 28  (matched ki) ---
+from the fact that there was no native word in current use pronounced E.
+kia. An even clearer case is that of \&, the corresponding transcription
+character for Indian kha or khd, read E. khia in the Guangyun, which is
+
+--- pdf page 34  (matched ki) ---
+ao 167:11 M40799a Y. aw L. ?aw E. ?aw
+kettle, cooking pot; boil food; also ao
+ao 167:13 M40922 Y. aw L. ?aw E. ?aw
+
+--- pdf page 34  (matched ki) ---
+ao 167:13 M40922 Y. aw L. ?aw E. ?aw
+kettle, cooking pot; boil food
+ao 17:3 MOlSlOa Y. jaw L. Tjaiw E. ?aiw/?e:w
+
+--- pdf page 34  (matched ki) ---
+ao 167:11 M407995 Y. aw L. ?aw E. ?aw
+kettle, cooking pot; boil food; also ao
+do 30:11 M04142 Y. aw' L. rjaw E. naw
+
+--- pdf page 38  (matched ki) ---
+bao 140:5 M30789 Y. paw L. paiw E. paiw/peiw
+K1113c bud; kind of rush for weaving mats or
+sandals; dense growth;
+
+--- pdf page 39  (matched ki) ---
+bao 196:4 M46730 Y. [pow"] L. puaw' E. paw'
+K1060b bustard, Otis dybowskii
+bao 184:5 M44109 Y. paw" L. paiw' E. paiw'/peiw'
+
+--- pdf page 43  (matched ki) ---
+bi 196:12 M47326B Y. [pi-] L. pjiaj- E. pjiajh
+K341i kind of pheasant. See also bie.
+bi 38:13 M06770 Y. piv L. pjiaj- E. pejh
+
+--- pdf page 49  (matched ki) ---
+bo 18:8 M02049b Y. paw L. paiwk E. paiwk/pce:wk
+K1228a flay, skin, peel; also bao
+bo 19:7 M02351 Y. po' L. pfiut E. bat
+
+--- pdf page 50  (matched ki) ---
+bo 167:17 M41049 Y. [paw', po'] L. pfiak E. bak
+K771r kind of large bell. Also E. pak, cf. bo
+bo 173:5 M42248b Y.[paw' po'] L. pfiaiwk E. baiwk/bceiwk
+
+--- pdf page 50  (matched ki) ---
+bo 167:10 M40718 Y. [paw ] L. pak E. pak
+K771g hoe; kind of large bell
+bo 187:4 M44619 Y. paw" L. paiwk E. paiwk/pceiwk
+
+--- pdf page 51  (matched ki) ---
+bu 25:0 M02774 Y. pu" L. pswk E. pswk
+K1210a divine by cracking a bone or shell
+bu 30:7 M03676 Y. pu" L. pfiua" E. boh
+
+--- pdf page 53  (matched ki) ---
+can 78:8 M16506 Y. tshan' L. tsfian E. dzan
+K155c injure; kill; cruel; fragment, remnant;
+deficient
+
+--- pdf page 56  (matched ki) ---
+chai 140:6 M30876A Y. [tshaf] L-t§haj(?) E.tp^j'C?)
+K960i kind of iris. Ih&fdnqie is quite
+anomalous and the L. and E. readings are
+
+--- pdf page 59  (matched ki) ---
+chang 145:8 M34357 Y. tgharj' L. sfiiarj E. d?iarj
+K725d lower garment, skirt
+chang 195:14 M46563 Y. [tsharj'] L. sfiiarj E. cfciarj
+
+--- pdf page 59  (matched ki) ---
+chang 195:14 M46563 Y. [tsharj'] L. sfiiarj E. cfciarj
+K725v kind of fish
+ch&ng 72:5 M13867 Y. tsharjv L. ti^iarj' E. t^iarj'
+
+--- pdf page 63  (matched ki) ---
+K835c' Chinese tamarisk, Tamarix sinensis
+cheng 142:13 M33664 Y. tgkirj L. t^iajrj E. d^iajrj
+razor clam
+
+--- pdf page 63  (matched ki) ---
+cheng 96:7 M20988 Y. [tshirj'] L. trfiiajrj E. driajrj
+K835s kind of precious stone
+cheng 115:7 M25081 Y. tshirj' L. trfiiajrj E. driajrj
+
+--- pdf page 64  (matched ki) ---
+chT 194:11 M45901 Y. [tshi] L. t rhi E. ti^ia/tr11!
+K23b kind of demon; chimei mountain
+demon
+
+--- pdf page 64  (matched ki) ---
+chT 196:5 M46805 Y. tshi L. tshi E. tphi
+K590s sparrowhawk; kind of owl; chTyi
+leather wine bottle
+
+--- pdf page 68  (matched ki) ---
+chu 53:12 M09479 Y. tshy' L. trfiya E. drua
+K127m kitchen
+chu 157:15 M37972 Y. tshy' L.trfiy9 E. drua
+
+--- pdf page 71  (matched ki) ---
+found in the Jiyun, though it is there said
+to mean a kind of bamboo
+chui 30:4 M03373B Y. tghujv L. tshyjx E. tphwi3h/tehwih
+
+--- pdf page 71  (matched ki) ---
+chun 167:8 M40557A Y. tghyn" L. gfiyn E. d?win
+K464g kind of bell. See also dui
+
+--- pdf page 73  (matched ki) ---
+ci 18:6 M01969B Y. tshzv L. tshzN E- tshiah/tshih
+K868d sharp point, needle; stab; kill (by
+stabbing); criticize; investigate. See also qi
+
+--- pdf page 74  (matched ki) ---
+cou 130:9 M29670 Y. [ts^w*] L. tshswv E. tshswh
+K1229c fine lines on the skin
+cou 140:11 M31815B Y. [ts^w^] L. tshswv E. tshawh
+
+--- pdf page 75  (matched ki) ---
+cu 157:12 M37876 Y. [tshyv] L. tshiwk E. tshuwk
+K1093b kick; tread. Also E. tsuwk
+cu 9:7 M00664 Y. tshy" L. tshywk E. tshuawk
+
+--- pdf page 76  (matched ki) ---
+cui 124:8 M28732 Y. tshujs L. tshyjv E. tshwih
+K490i kingfisher; emerald green
+cui 61:8 M10726 Y. tshujs [sic] L. tsfini^ E. dzwih
+
+--- pdf page 76  (matched ki) ---
+cun 107:7 M22866 Y. tshyn L. tshyn E. tshwin
+chapped, cracked skin
+cun 157:7 M37574 Y. [tshyn] L. tshyn E. tshwin
+
+--- pdf page 81  (matched ki) ---
+dang 118:12 M26503 Y. [tarf] L. tfiarf E. darj'
+K720o' kind of large bamboo
+dang 140:12 M32002 Y. tarjv L. tfiarjv E. darj'
+

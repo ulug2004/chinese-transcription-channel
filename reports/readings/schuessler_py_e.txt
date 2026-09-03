@@ -1,0 +1,720 @@
+Schuessler 2009, lines with the Mandarin syllable 'e'.
+Columns run: GSR, character (not OCRd), Mandarin, MC, LHan, OCM.
+
+--- pdf page 7 ---
+6 OCM rime *-::>1) Zheng bil ~$ ................................ '" ....................... 114
+7 OCM rime *-e Zhfbil 3t$ .............................................................. 119
+8 OCM rime *-ek Xfbi! ~:g~ ................................................................ 129
+9 OCM rime *-el) Geng bi! fJl::g~ ............................................................ 135
+
+--- pdf page 8 ---
+Table 4-1: OCM rimes *-{)I), *-~k, *-~ in QYS categories ........................................... 91
+Table 7-1: Comparison of OC *-i, *-e and *-ai in QYS Divisions .............................. 119
+Table 8-1: OCM rimes *-el), *-ek, *-e in QYS categories ......................................... 129
+Table 10-1: OCM rimes *-01), *-ok, *-0 in QYS categories ........................................ 145
+
+--- pdf page 8 ---
+Table 7-1: Comparison of OC *-i, *-e and *-ai in QYS Divisions .............................. 119
+Table 8-1: OCM rimes *-el), *-ek, *-e in QYS categories ......................................... 129
+Table 10-1: OCM rimes *-01), *-ok, *-0 in QYS categories ........................................ 145
+Table 13-1: OCM rimes *-ul), *-uk, *-u in QYS categories ........................................ 170
+
+--- pdf page 8 ---
+Table 17-1: Comparison of OCM rimes *-ek, *-ak, *-auk, *-uk .................................. 205
+Table 20-1: OCM rimes *-en, *-et, *-e(t)s in QYS categories ..................................... 225
+Table 21-1: OCM rimes *-an, *-at, *-a(t)s, *-ai in QYS categories .............................. 230
+Table 25-1: OCM rimes *-on / *-wan, *-ot / *-wat, *-oi / *-wai in QYS categories ........ 264
+
+--- pdf page 10 ---
+'think, be' 'liE dLw~r wjij bt(~)-wij wi
+'little bird' 1E ~Lw~r btU[j] P: kwj~l tui
+After Karlgren, the field seems to have fallen apart. The occasional user of OC material
+probably finds it difficult or impossible to tell which OC proposals are just an author's latest
+
+--- pdf page 10 ---
+'competing' systems of [OC) reconstruction (Karlgren, Pulleyblank, Li) whose inherent likelihood and
+mutual interrelationships can baffle the outsider" (JIES 23, 3e4, 1995: 401).
+ix
+
+--- pdf page 12 ---
+into consideration for the conservative LHan forms for this manual.
+• This manual also provides the traditional MC readings of graphs (i.e., Li Fang-kuei's
+emendations to GSR's 'Ancient Chinese') which are often cited for phonological reference.
+Unlike GSR, I will note the Qieyun system's so-called ch6ngniu doublets and Divisions (see
+
+--- pdf page 13 ---
+should be considered to supersede the latter.
+3E.g., GSR 1143m cao ~ should be Me tshauA, not tshauB; GSR 866i M 'some sort of wine' should be
+read tI, not tfin Pan's edition. In many instances, dictionaries disagree on Mandarin readings; I usually
+follow Pan, but in cases of competing pronunciations I often rely on Gildili Hilnyil cfdian.
+
+--- pdf page 17 ---
+GSCENTRIES
+[E] comments on etymology, especially foreign connections (cognates or loans); details
+and the key to abbreviations are found in the EDOC
+[N] introduces further notes or comments
+
+--- pdf page 17 ---
+4 ~ 5 ~k 6 ~I)
+7 e 8 ek 9 el)
+10 0 11 ok 12 01)
+13 u 14 uk 15 ul)
+
+--- pdf page 17 ---
+-- 18 ai 19 oi
+20 et, e(t)s 21 at, a(t)s 22 ot,o(t)s
+23 en 24 an 25 on
+26 i 27 ~i 28 ui
+
+--- pdf page 20 ---
+(2) Glottal stop will be represented by 1.
+(3) e (e) will be written e.
+(4) i" will be written i.
+(5) In Karlgren's/Li's MC, the rounded medial is represented as -u-in some syllables (I)uo,
+
+--- pdf page 20 ---
+(6) The strong palatal medial in ch6ngniu Div. IV (here '3/4'; see Intro. 2.4) is represented
+by ji in Li's system (e.g., pjian 4 vs. pjan 3). But in some syllable types, it is written simply as
+i without the j which is so characteristic of Div. III, 3/4 syllables: pi 4, si, kwi. In light of MC
+syllables like kjwie 4 (vs. kjwe), the omission of j looks odd, therefore one could write more
+
+--- pdf page 20 ---
+(7) Like Karlgren, Li omits the medial j in syllables with the single vowel i (zwi, parallel to
+kwi 4), but Li inserts aj with other finals, e.g., zjwe (Karlgren zwie).
+Later Han Chinese
+The LHan transcription follows for the most part Me. Note, however, the distinction between
+
+--- pdf page 20 ---
+consonants are listed in the Introduction 4.6.
+Some notational changes to Baxter's system are self-evident, e.g., OCM *kw for Baxter's kW;
+since the source of some MC kw- is ambiguous, it could derive from *kw, *kuV or *kw < k+w.
+Though aspirated initials ph kh th tsh are unit phonemes in LHan and MC, their OC sources are
+
+--- pdf page 21 ---
+or zjwen < s-win vs. sjwen < swin.
+Baxter's (and OCM's) six OC vowels are a i u e ~ o. The six vowels are written without
+additional marks in OCM syllables that correspond to MC Div. III (e.g., ~ OCM *taI] > LHan
+tsoI], MC tsjaI]). In MC Div. I/IV and II syllables (no medial j), which seem to have been lax
+
+--- pdf page 21 ---
+Baxter's (and OCM's) six OC vowels are a i u e ~ o. The six vowels are written without
+additional marks in OCM syllables that correspond to MC Div. III (e.g., ~ OCM *taI] > LHan
+tsoI], MC tsjaI]). In MC Div. I/IV and II syllables (no medial j), which seem to have been lax
+(huan ~) in Later Han Chinese, the OCM vowels are marked with an accent circumflex (as in
+
+--- pdf page 21 ---
+alue~o
+E.g., 1i OCM I]a? > LHan I]oB, MC I]UOB; or ilt OCM *I]ai? > LHan I]OiB, MC I]aB; note that
+the MC circumflex a represents a darker a, as in French lache, and is not (directly) related to
+the symbolic OCM one.
+
+--- pdf page 22 ---
+AN Austronesian (languages)
+aux. auxiliary (e.g., verb)
+BEFEO Bulletin de 1 'Ecole Franraise d 'Extreme Orient
+Beida Beijfng Daxue: Hanyu fangyan dhui ii~:tJ13~"-1 If!!
+
+--- pdf page 22 ---
+ditr. ditransiti ve
+E east(ern); early
+[E] introduces etymological comments
+EAC Dobson, Early Archaic Chinese
+
+--- pdf page 22 ---
+E east(ern); early
+[E] introduces etymological comments
+EAC Dobson, Early Archaic Chinese
+EOC Early Old Chinese, Shang and early Western Zhou
+
+--- pdf page 23 ---
+JDSW Jihgdian shlwen ~$~X by Lu Deming [li1~FIJl
+JGWZ UXiaoding *$':5E, Jiagu wenzljishi Ej3'f;4'XT~f*
+JIES Journal of Indo-European Studies
+JP Ji'ng-po i1:~ (a Tibeto-Burman language)
+
+--- pdf page 23 ---
+M- Min dialects
+M- Middle (e.g., MM = Middle Mon)
+MC Middle (or ancient) Chinese (ca. AD 600)
+MGZY Menggu zlyiin
+
+--- pdf page 24 ---
+=
+Oxx Old xx (e.g., OC Old Chinese)
+OB Shang dynasty oracle bone inscriptions
+OC Old (or archaic) Chinese
+
+--- pdf page 24 ---
+QY QieyUn t}J 'iii
+QY(S) Qieyun system, i.e., MC (or 'ancient Chinese') reconstructions
+R. Rime section
+R! final confirmed by rime in the Shijing or Chuci
+
+--- pdf page 26 ---
+publications and documents from the 17th century onward have used transcriptions in the
+Latin alphabet (e.g., Francisco Varo, late 1600; see Coblin 2006). Pre-missionary transcrip
+tions of Chinese in Korean (by Sin Sukchu) and 'Phags-pa alphabets (derived from Tibetan)
+reach back to the early Ming (14th century) and late Yuan (Mongol) period (13th century
+
+--- pdf page 27 ---
+INTRODUCTION
+Sin Sukchu or Sin S. (EMing = Early Ming period Chinese); SR 'standard reading,' i.e.,
+the reading pronunciation; PR 'popular reading' is the vernacular; LR 'left reading' (by a
+different recorder).
+
+--- pdf page 28 ---
+known dialects or Sinitic sister languages). The reconstruction of MC is based on rime
+dictionaries and rime tables; see section 2 below. MC is projected back into OC, i.e., MC
+forms must by default be assumed to have been the same in OC unless there is OC evidence
+that requires adjustments. OC evidence is provided by the (fortunately many) graphs which are
+
+--- pdf page 28 ---
+definition of a 'monosyllabic language'. It is sometimes hypothesized that OC may also have
+had 'sesquisyllabic' (Matisoff) or 'iambic' (Sagart) words, i.e., with an unstressed pre-syllable.
+What matters for MC and OC phonology is that a Chinese graph writes a syllable which
+linguists analyze as consisting of segmental and supra-segmental phonemes. For example, the
+
+--- pdf page 28 ---
+= final
+= rime (rhyme), rime category (i.e., the final without
+medial(s), tone and vowel gradations like ii, 13)
+j = medial, medial glide U, w) or medial vowel (u, i)
+
+--- pdf page 28 ---
+B = tone
+Syllables can have an additional medial u or w, called h6kou ir D 'closed mouth', i.e.,
+'rounded mouth' (2.4). Thus MC kjal) has a h6kou counterpart MC kjwal), or MC kiln vs.
+kwan, etc. A syllable without medial w/u (like kjal)B) is called kaikou 00 D 'open mouth'.
+
+--- pdf page 29 ---
+grave consonants are alllabials (p ph b m) and gutturals (velars k kh g I), and
+laryngeals h x y 7), i.e., where in articulation the tongue is not involved
+acute consonants are all others: dentals (t n s ts etc.), retroflex (t~, ~ ... ), palatals (tsj ... ),
+lateral (1), i.e., those where the tongue is involved
+
+--- pdf page 29 ---
+acute consonants are all others: dentals (t n s ts etc.), retroflex (t~, ~ ... ), palatals (tsj ... ),
+lateral (1), i.e., those where the tongue is involved
+After acute initials, the OC final *-un, for example, developed a high glide in front of the
+dental final (OC *run> LHan luin, MC ljwen), but after grave initials, no glide emerged, or
+
+--- pdf page 31 ---
+'rising' tone; C qusheng 'departing' or 'falling' tone; D rusheng 'entering' tone,
+i.e., a short-stopped syllable ending in p, t, or k. A 'tone D' syllable can be viewed as toneless
+so that only three of the traditional four 'tones' remain.
+I will use these letters for tone notations as is done in modern dialect studies, and add them
+
+--- pdf page 31 ---
+MC still had voiced initial consonants like gdbz, but their later devoicing caused a split into
+so-called yin ~ (MC ?j:;)mA1) tones after voiceless initials (e.g., 7-), and yang ~ (MC jial)A2)
+tones after most voiced initials (e.g., ji-), resulting in a post-MC category of four yin series
+6
+
+--- pdf page 31 ---
+so-called yin ~ (MC ?j:;)mA1) tones after voiceless initials (e.g., 7-), and yang ~ (MC jial)A2)
+tones after most voiced initials (e.g., ji-), resulting in a post-MC category of four yin series
+6
+
+--- pdf page 32 ---
+see 4.1.
+• Div. II: also has no palatal medial, but (th*e MC vowels have a special timbre which caused
+a rather recent palatalization of velars jia < ka); MC Div. II vowels in Karlgren's /
+a,
+
+--- pdf page 32 ---
+a,
+Li's system are a, ii, l?, e. Only grave (labial and guttural; see 1.4) and retroflex initials
+(~-, t~-, .s-) can occur in this Division, but no dentals and palatals.
+• Div. III: includes words with a palatal post-initial glide, i.e., Karlgren's MC medial 'yod'
+
+--- pdf page 32 ---
+(~-, t~-, .s-) can occur in this Division, but no dentals and palatals.
+• Div. III: includes words with a palatal post-initial glide, i.e., Karlgren's MC medial 'yod'
+i = Li 's j; words in this Division have in Mandarin medial i, or affricate, sibilant or denti
+labial initials, e.g., liang, jiang, chong, fen, etc). There are no dental initials (t th d n).
+
+--- pdf page 32 ---
+i = Li 's j; words in this Division have in Mandarin medial i, or affricate, sibilant or denti
+labial initials, e.g., liang, jiang, chong, fen, etc). There are no dental initials (t th d n).
+• Div. IV: includes syllables with a prominent medial i after the same initials as in Div. I
+(Mand. tian, diao, etc.). Because of this and because of complementarity (no main vowel e
+
+--- pdf page 32 ---
+• Div. IV: includes syllables with a prominent medial i after the same initials as in Div. I
+(Mand. tian, diao, etc.). Because of this and because of complementarity (no main vowel e
+in Div. I, only main vowel e in Div. IV), Div. IV belongs structurally to Div. I. Therefore
+one can combine them into 'Div. I1IV'.
+
+--- pdf page 32 ---
+(Mand. tian, diao, etc.). Because of this and because of complementarity (no main vowel e
+in Div. I, only main vowel e in Div. IV), Div. IV belongs structurally to Div. I. Therefore
+one can combine them into 'Div. I1IV'.
+A defining feature of a Division is the presence or absence of a medial yod j or i: there is no
+
+--- pdf page 33 ---
+These doublets occur only in certain rimes after grave initials (see 1.4 above). Grave initials
+tend to have more finals (e.g., MC kjnn, kjiin, kjiiin) than acute initials (only tsjan).
+i!
+Karlgren considered the finals of ~ Iqiin and k'iiin (in his MC notation) the same -
+
+--- pdf page 33 ---
+Chinese dialects, medieval transcriptions, and Chinese loans in Vietnamese and Korean.
+There is a trace even in Mandarin: ji'~ (GSR 538e), Karlgren's Anc. Ch. g'iwi-, is actually in
+Ilf
+ch6ngniu Div. 4 (Karlgren says that ji for the expected gui is 'irregular'), vs. kui (GSR
+
+--- pdf page 34 ---
+Some MC features did not exist in AD 600 but have been projected back from the rime
+tables of later centuries. When these tables were compiled, the main vowel e (as opposed to je)
+always combined with a preceding i, there was only ie as in tiiin 7( thien. The rime tables
+placed these syllables into a fourth row, Division IV, which according to Karlgren was
+
+--- pdf page 34 ---
+before, the final was simply -en, as transcriptions of foreign words indicate and the syllable
+structure of MC would require. Thus 7( was really MC then; the vowel e warped into ie only
+later (on warping, see 7.6 below). Thus the MC Div. IV syllables are really of the Div. I type,
+and can be combined into Div. I1IV, as was already noted.
+
+--- pdf page 34 ---
+for reference, because they contain all the linguistic information of the Chinese philological
+tradition. Thus mjw;)t tells the reader that historically (i.e., in MC) the initial of wU ~ is m-,
+the rime category is ..;,t, the syllable belongs to Div. III (-j-), and it is a h6kou syllable (-u-). A
+frontish vocalic glide has developed between the vowel u and the following dental, thus
+
+--- pdf page 36 ---
+11. tI
+creation, as their MC forms already suggest, e.g., HinB, .. tjan, .. tsjan, fjanc.
+The Han period dictionary Shuowenjiezi m)(~~* (SW) by Xu Shen gtft~ (d. 149 BC)
+explains the role of a particular element in a graph, whether Xu takes it to be phonetic or
+
+--- pdf page 36 ---
+a number of conclusions about OC, including:
+• One set of words in MC -jBI) (e.g., kjBI) occurs in XS series consistently with words in
+OC *-al), another set (e.g., • kjBl) in OC *-el) series, hence two distinct OC rimes must have
+merged in MC (see Table 2-1 under Rime 2).
+
+--- pdf page 36 ---
+• One set of words in MC -jBI) (e.g., kjBI) occurs in XS series consistently with words in
+OC *-al), another set (e.g., • kjBl) in OC *-el) series, hence two distinct OC rimes must have
+merged in MC (see Table 2-1 under Rime 2).
+• The MC final -jan must have been an-like in OC: note Jf. tanB, .. tjan, §I tsjan, tl fjanc.
+
+--- pdf page 37 ---
+vowels/final consonants alternating in a rare, even unique and therefore unsystematic way;
+zhur1E
+note, for example, 'bird' which was borrowed for the word wei 'to be' (9.2.6). These
+cases leave much room for interpretation and speculation, and generate, of course, the most
+
+--- pdf page 37 ---
+Studying MC in alphabetic transcription, without reference to graphs, already reveals several
+features of pre-MC, i.e., ~C. The MC initial consonants are distributed over the QYDivisions
+(2.4) unevenly, resulting in an unbalanced phonological system. The tabulation on the next
+page shows:
+
+--- pdf page 38 ---
+The tabulation in 4.1 shows that the MC initial y-(only in Div. I1IV, II) is in complementary
+distribution with MC gj-(only in Div.III). The earlier, i.e., OC source of y-was *g-:
+Mand. MC OCM Mand. MC OCM
+T 9t
+
+--- pdf page 38 ---
+an
+(Coblin ms. 1993: 15); for .f§or.e*ig n palatals Chinese dental affricates are used (LH *khu
+= = li:®t =
+dzia Kuca [Hanshu]; LH tshiaB-mat Calmadana; LH khu-dziu Kujula).
+
+--- pdf page 39 ---
+*
+~.E twan *ton tUl) *tOl)
+fit k:m *k;;)n Ii bl) *k;;)l)
+gt
+
+--- pdf page 39 ---
+Following Karlgren (1933: 57f; 1954) and Li (1971), all investigators assume OC consonant
+E
+clusters in such series. Consider series 36-5/609 which includes jilm ~ 'look at' and Jan
+'indigo'. How to apply the XS principle (Karlgren's OC forms):
+
+--- pdf page 39 ---
+'indigo'. How to apply the XS principle (Karlgren's OC forms):
+(a) ji~m ~ (kam) < *k1am -Ian E (lam) < *lam
+E
+(b) jHm ~ (kam) < *kam -Ian (lam) < *glam
+
+--- pdf page 39 ---
+(a) ji~m ~ (kam) < *k1am -Ian E (lam) < *lam
+E
+(b) jHm ~ (kam) < *kam -Ian (lam) < *glam
+(c) jHm ~ (kam) < *klam - Ian E (lam) < *glam
+
+--- pdf page 39 ---
+(b) jHm ~ (kam) < *kam -Ian (lam) < *glam
+(c) jHm ~ (kam) < *klam - Ian E (lam) < *glam
+Karlgren (who used GSR 766 :fr for illustration) opted for the consonant cluster (c) because
+this best complied with his principle in making the OC forms most similar, and because of
+
+--- pdf page 39 ---
+this best complied with his principle in making the OC forms most similar, and because of
+E
+support from Tai where 'indigo' has initial *gr-. He needed two initial OC *g-, though, in
+order to account for minimal pairs in which one aspirated consonant survived in MC, one
+
+--- pdf page 39 ---
+unaspirated disappeared:
+E fI:
+Ian MC lam (Div. I) < *glam vs. xiiin MC yamB (Div. II) < *g'lam
+Bodman, followed by OCB and OCM, symbolized the distinction by hyphenating the suspected
+
+--- pdf page 43 ---
+OC *w-, as required by the rule of economy, and confirmed by Buddhist transcriptions of Indic
+words in Han-period transliterations where this initial consistently represents Indic v, e.g., yue
+jfl! jwut 3 < *wat for Indic vat.
+The process of elimination and historical phonology both lead to the conclusion that the
+
+--- pdf page 43 ---
+.m.
+Mand. Ii Then, initial 1-being replaced by j-has parallels, e.g., Burmese (r, 1> j, note
+Yangon 'Rangoon'), and Spanish. By the Middle Han period a high medial glide (i or j) had
+emerged in later Div. III syllables as a result of vowel warping (see 7.6). This medial became
+
+--- pdf page 43 ---
+perhaps also ~ OC *wu? (?) > wiu? (?) > LH 0iuB = juB (MC ji;}uB); see below.
+Foreign loans and cognates confirm the OC *1 (e.g., ye ~ MC jiap < *lap 'leaf' ~ TB *lap
+'id. '). Karlgren's Archaic Chinese set of voiced stops is thus replaced by a single phoneme *1-:
+Arch. Ch. *gi-, *di-, *bi = OC *1- (Li OC *r-) =MCji-
+
+--- pdf page 43 ---
+9-17; both are particularly large XS where the absence of any irregular initials cannot be
+chance. Co-occurrence of MC ji-and t-is exceptional. Some XS are ambiguous (e.g., only d-),
+some include exceptional graphs, but the distinction is a strongly marked tendency.
+18
+
+--- pdf page 44 ---
+OCM only: I suspect that MC ji-can also reflect earlier (PCH, OC?) *w-which was lost
+through labial dissimilation when followed by a back vowel; e.g., ~ you; see previous page.
+5.1.2 Karlgren's MC has two voiced palatals, zj-and dzj-. This QYS distinction has often
+§ffir:!:i
+
+--- pdf page 44 ---
+in such words, which is parallel to *s-l (MC zj-); 4-32/967 is a suggestive XS.
+5.1.5 OC voiceless sonorants (i.e., nasals, r, 1, j, w) are clearly revealed by phonetic series.
+MC initials th_, sj-co-occur in XS with n-andji-, th_ also with 1-; MC x-(x-) co-occurs with m
+sn-, xm-.
+
+--- pdf page 45 ---
+syllables (Karlgren's MC -iei, -ien, etc.); they represent the equivalent of Div. III (yod)
+syllables in association with the high front vowels *i and *e. Above (2.4) we have provided an
+illustration for the ch6ngniil arrangement in the rime tables:
+Div. Mand. MC ch6ngniil doublets
+
+--- pdf page 45 ---
+According to Baxter, these fall now into the following OCM rime patterns with the two main
+vowels *a and *e:
+I * van < *gan IV J! kienc < *kens
+1*
+
+--- pdf page 45 ---
+5.2.2 In certain rimes Div. 3/3 reflects an DC non-front vowel (without *r), thus MC -jau 3 <
+*-au (133) vs. -jiau 4 < *-iau (HY); and MC -je 3 < *-ai (El) vs. -jie 4 < *-e (.w). Baxter
+accounts for the many other instances of Div. 3/3 by postulating an OC medial *r (hence ~
+*kran?). Such grave initial syllables would then be parallel to retroflex initial syllables in Div.
+
+--- pdf page 45 ---
+Baxter's medial *r in Div. 3/3 is different from the Div. II medial *r. The latter alternates in
+XS with other initials, e.g., MC 1-< *r-interchanges with Div. II k-, ~-, and others (*r-- *kr--
+20
+
+--- pdf page 46 ---
+syllables of the type MC mi 3/4 - (would be OCB *mjij, OCM *mi)
+By comparison we find with OC rime *e, *-ai (SSYP, p. 318)
+16 syllables of the type MC mje III < OCB *mjaj, OCM *mai
+3 syllables of the type MC mje 3/3 < OCB *mrjej, OCM *mre
+
+--- pdf page 47 ---
+after all, supplied for such a purpose.
+Further elimination of OC *-r-: In the OC rimes *-en (R. 23) and *-e(t)s (R. 20), MC bekbu
+Div. II ywan (normally < *[g]wran) and ywaiC (normally < *[g]wrats) are very common, I
+take these to derive from OC *wen and *we(t)s, also after aspirated *kh-. The rarer MC yiwen
+
+--- pdf page 48 ---
+foreign word when additional sounds are omitted, as if final -h reflects some trailing off:
+E.&t
+khu-dziuh Kujula
+iWi \)1'1 kou-buoh Ka~ol)pll (Kabul)
+
+--- pdf page 48 ---
+disregarded in transcriptions, except that LHan syllables in tone B tend to avoid Indic long
+vowels, their brevity is probably a trace of the final glottal stop (e.g., gr~t~ suB-do-was Skt.
+suddhavasa). Non-dental qusheng (*-h) has a slight tendency to represent Indic long vowels
+mi%rU
+
+--- pdf page 48 ---
+mi%rU
+(e.g., hyoi-sah-lih Skt. Vaisali). All this suggests that the OC and MHan segmental
+features were strong and prominent -? and -X; but they were giving way to phonemic tones in
+LHan (BTD).
+
+--- pdf page 50 ---
+(a) Karlgren's *-g are eliminated; instead of *-ag, *-~g, *-eg, *-og, *-og, *-ug we have now OC
+*-a, *-~, *-e, *-u, *-au, *-0. Those with rime and XS contact with *-k are set up by most
+investigators as OC *-ks, here OCM *-kh. An additional consequence is the combination of
+GSR *-a, *-0 (nos. 32-107) with some *-ag (nos. 801-807 and elsewhere) into the now
+
+--- pdf page 50 ---
+Bodman had proposed and Baxter has worked out a six-vowel system for oc: a, ~ (Baxter
+1992 i), e, i, 0, u; diphthongs OCB aj, ~j, uj, aw, jaw, iw, also ej (OCM ai, ~i, ui, au, iau, iu;
+OCB ej = OCM e). As a result, Baxter's system of OC rime categories overlaps exactly with the
+traditional ones which had been identified by Chinese scholars and adopted by Karlgren. The
+
+--- pdf page 50 ---
+1992 i), e, i, 0, u; diphthongs OCB aj, ~j, uj, aw, jaw, iw, also ej (OCM ai, ~i, ui, au, iau, iu;
+OCB ej = OCM e). As a result, Baxter's system of OC rime categories overlaps exactly with the
+traditional ones which had been identified by Chinese scholars and adopted by Karlgren. The
+system is furthermore confirmed by TB cognates (see EDOC). All that is necessary to update
+
+--- pdf page 50 ---
+GSR *-0, *-ag = OCM *-a; except some GSR *-ag in MC tone C
+= OCM *-akh (OCB *-aks), i.e., MC tone C
+GSR *-ak, *-al) = OCM *-ak, *-al)
+25
+
+--- pdf page 51 ---
+GSR *-u, *-ug = OCM *-0, except some GSR *-u(g) with MC tone C
+= OCM *-okh (OCB *-oks), i.e., MC tone C
+GSR *-uk, *-ul) = OCM *-ok, *-01)
+GSR *-og = OCM *-u, except some GSR *og with MC tone C
+
+--- pdf page 51 ---
+GSR *-og = OCM *-u, except some GSR *og with MC tone C
+= OCM *-ukh (OCB *-uks), i.e., MC tone C
+GSR *-ok, -(1) = OCM *-uk, *-ul)
+GSR *-og = OCM *-au (OCB *-aw); except some GSR *-og with MC tone C
+
+--- pdf page 51 ---
+GSR *-og = OCM *-au (OCB *-aw); except some GSR *-og with MC tone C
+= OCM *-aukh (OCB *-awks), i.e., MC tone C
+GSR *-ok = OCM *-auk (OCB *-awk)
+GSR *-gg = OCM *-g (OCB 1992 *-i)
+
+--- pdf page 51 ---
+GSR *-gg = OCM *-g (OCB 1992 *-i)
+= OCM *-gkh (OCB 1992 *-iks), i.e., MC tone C
+GSR *-gk, *-gl) = OCM *-gk, *-gl)
+GSR *-eg = OCM *-e; except some GSR *-eg with MC tone C
+
+--- pdf page 51 ---
+GSR *-gk, *-gl) = OCM *-gk, *-gl)
+GSR *-eg = OCM *-e; except some GSR *-eg with MC tone C
+= OCM *-ekh (OCB *-eks), i.e., MC tone C
+GSR *-ek, *el) = OCM *-ek, *-el)
+
+--- pdf page 51 ---
+GSR *-eg = OCM *-e; except some GSR *-eg with MC tone C
+= OCM *-ekh (OCB *-eks), i.e., MC tone C
+GSR *-ek, *el) = OCM *-ek, *-el)
+GSR *-a, *-ar =OCM *-ai
+
+--- pdf page 52 ---
+with this question: Is there possibly a phonological connection between two or more
+elements under consideration? (E.g., jib ~ phonetic in tan ~?) The answer is mostly yes,
+and then OC forms are reconstructed (rightly or not) on a possibility. For OCM, we ask:
+are the indications, is the evidence, compelling for postulating a phonological link? The
+
+--- pdf page 53 ---
+INTRODUCTION
+(4) Simplicity. E.g., OCM retains final *-an where Baxter and Starostin suggest *-ar (though
+they may be right). Or OCM Ie ~ is OCM *rauk, but it could well have been *g-rauk.
+(5) Because the comparative method of historical reconstruction cannot be applied, we are left
+
+--- pdf page 53 ---
+(9) Foreign cognates or loans are only taken into consideration in cases where they could
+clarify which of a number of choices within OC would be the likely one, e.g., initial *hm
+in hUD !k 'fire' and huI £R 'snake', thus ruling out the theoretical alternative *hI]-.
+However, TB morphemes and phonemes are not projected into OCM. Thus hUD!k OCM
+
+--- pdf page 54 ---
+LHan's notation is phonemic, has shed some ofthe complexities ofMC and follows the
+transcriptional conventions used for CH dialects (e.g., -au, -ai, -iau; -yaIJ for MC -jwaIJ).
+7.2 No consonant clusters
+Like MC and CH dialects, Mid-Han and LHan had no consonant clusters, as transcriptions
+
+--- pdf page 54 ---
+a
+palatalization of velars did not occur in all rimes (e.g., jf MC kjet < OCM *kit), nor with
+aspirated kh_, nor with voiced g-in tone A (Schuessler 1996).
+7.4 Tones and vowel length
+
+--- pdf page 55 ---
+It piB J4!. pie ~muo ~ mu::> >mu ~muo 1.!¥ bu
+7E siB iD ~ie Ws io T tsi::>B l1X tshioB tJ< tsh(i)u
+OC i e a ::> 0 u
+LS ~kei mke ii" koB ~ k::> ~kOB ~kou
+
+--- pdf page 55 ---
+7E siB iD ~ie Ws io T tsi::>B l1X tshioB tJ< tsh(i)u
+OC i e a ::> 0 u
+LS ~kei mke ii" koB ~ k::> ~kOB ~kou
+MHan *meiB fif! be ;ffi poc ¥,f: m::> fJ: moB .pou
+
+--- pdf page 55 ---
+high glide was assimilated to u after labial initials (~ HS [mio >] muo), but was assimilated
+to i after acute initials (T HS [tsi::>B >] tsi::>B). Uncertainties remain, e.g. tJ< qiii < MC tshj::>U
+could have been MHan tshu (the high vowel u does not bend), or it could have been MHan tshiu
+(after acute initials the glide is i). The two stages in LS are suggested by transcriptions and
+
+--- pdf page 55 ---
+rime patterns.
+Syllables with diphthongs or final consonants are subject to the same vowel bending, e.g.
+Mand.<MC < LHan < OC
+~ dong tuol) toul) tUI) NWC (ca. AD 400) toul); cf.*_ in Table 1-4
+
+--- pdf page 56 ---
+~ f6 bjw~t but
+E jf kjiet 4 kit kit
+jjf Ihio lieu leu < leiau riiiu leveling might have occurred
+8 HAN PERIOD SOURCES ON PHONOLOGY
+
+--- pdf page 57 ---
+like .... JfnP", xu, MC sjuet, LHan suit, *swit (that is, in the sense of 'care about' as in wu xu .j;J
+JfiIP 'don't care', and not like xu JfiIP, MC sw~t, LHan su~t, *sOt 'to rub'), i.e., with final
+*-it, and not like its phonetic yao il, MC ?ieuB, LH ?euB, *?iO? with the vowel *-u.
+32
+
+--- pdf page 58 ---
+that originally the graphs for 'self' and 'nose' were the same (which is indeed true), nothing
+E'"
+more. Therefore this statement does not prove complex initials. But elsewhere he has the gloss
+§ ~ zi d6 IUD bi"self is read like nose," which has been discussed in sinological
+
+--- pdf page 58 ---
+taken out of context and completely misinterpreted:
+SW 109 (under huang ~): ... §~ili:!1 ... §~E'" ~ili-'pJ~il1:=.T~"'T ... zi
+0
+shI ye. .. zi d6 rUD bi. jrn s6 yI shI sheng zI wei bi zJ.
+
+--- pdf page 60 ---
+gu ti
+'dwell', phonetic *ka? 'antiquity'), to purely semantic (e.g., jilin ~ 'pointed': graph for
+'small' on top of 'big'). Many graphic choices fall between these ends, like lIwhich still shares
+the rime with zI. The greater the semantic or mental overlap of a graphic element with the
+
+--- pdf page 62 ---
+after all.
+9.2.6 wei tE'l1E*l (28-111575)
+Strict phonetic application of the XS principle led to Karlgren's conclusion that wei tE'l1E*l
+'to be' must have been Arch. Ch. *diw~r (OCM *wi) with an initial dental stop consonant,
+
+--- pdf page 62 ---
+9.2.6 wei tE'l1E*l (28-111575)
+Strict phonetic application of the XS principle led to Karlgren's conclusion that wei tE'l1E*l
+'to be' must have been Arch. Ch. *diw~r (OCM *wi) with an initial dental stop consonant,
+since the graph was originally invented for zhurtE *~iw~r (OCM *tui) 'little bird' (so SW
+
+--- pdf page 63 ---
+*=
+points to one side, i.e., the jaw, just as ben 'root' is mii 'tree' with a stroke pointing to
+its lower end. (In 'jaw', the elongated stroke may suggest the tongue, perhaps.) 'Jaw', like
+'mouth', is associated with words meaning 'hold in the mouth, hold back, resent'. 'Hold/keep
+
+--- pdf page 64 ---
+foreign connections:jiang is indirectly connected with Khmer Capll1a Ical)1 'to dress (wood,
+stone), rough out, trim .. .' (i.e., do carpentry work), while the WT word is probably cognate to
+1f
+fang 'method' ~ fang 'imitate, conform'.
+
+--- pdf page 64 ---
+The wordji §t MC kieic 'calculation, accounting' is often reconstructed with an OC final
+labial, i.e., *-ps, because shf+ *gip 'ten' is suspected to be phonetic. Karlgren refrained from
+proposing an OC form b+eca use he graph for ji is not a rime word in poetry, the SW (1002) is
+silent on the question if is phonetic. Because shf'ten' can in a word for 'calculate' playa
+
+--- pdf page 67 ---
+REFERENCES
+---. 1954b. "De l'ori f g 6 i J n * e * d . e s tons en vietnamien." JA 242: 68-82.
+Ho Dah-an (He D!l-iin) 1993. "Linguistic layers of the Wu dialect during the Six
+Dynasties." BIHP64:4: 867-875.
+
+--- pdf page 67 ---
+31: 219-287.
+Ll Xiao-ding $~5E. 1965. Jiaguwen z1jfsh1 EflftX* ~~. Taipei.
+Liang Sengbao ~1'1!11 •. 1925. S1 sheng yunpu I2!IJl~~. Taipei [reprint].
+Loewe, Michael, ed. 1993. Early Chinese Texts. A Bibliographical Guide. Berkeley, Cal.
+
+--- pdf page 68 ---
+Karlgren, GSR, with pinyin and stroke index.) Shanghai.
+Pulleyblank, E. G. 1962. "The consonantal system of Old Chinese." AM 9: 58-144,206-265.
+---. 1963. "An interpretation of the vowel systems of Old Chinese and Written Burmese."
+AM 10: 200-221.
+
+--- pdf page 71 ---
+a r:j gil kuoB b B < kaB ka?
+[T] Sin Sukchu SR ku (1:.); MGZY gu (1:.) [ku); ONW ko <> [E] WT rga-ba 'old'; JP l~ga
+m f5 gil kuoB kaB ka? OCB *ka?
+q .\lli gil kuoB kaB ka? PTai *klioA1 'salt'
+
+--- pdf page 71 ---
+[T] Sin Sukchu SR ku (*); MGZY gu (*) [ku]
+E
+u bitter kil khuOB khaB kha? TB *kha 'bitter'
+[T] Sin Sukchu SR k'u (1:.); MGZY khu (1:.) [k'u]; ONW kho <> [D] PMin *khOB
+
+--- pdf page 71 ---
+[T] Sin Sukchu SR k'u (1:.); MGZY khu (1:.) [k'u]; ONW kho <> [D] PMin *khOB
+E
+bad gil kuoB kaB ka?
+t!
+
+--- pdf page 71 ---
+[T] Sin Sukchu SR ku (*); MGZY gu <:*) [ku); ONW ko
+e' ml gu kuoc kac ka(k)h
+1258a r~ he yak gak gak
+f' 1!fMl ge kac kac< kaic kaih
+
+--- pdf page 71 ---
+[D] Y-Taishan ku::>icl, Kaiping kuaic1; K-Meix 55kec; PMin *kaic 'bamboo stalk' > 'piece,
+item' <> [E] PTai *kaiB1, Saek khal4 « galA) > khan4 classifier
+a' - ~ > I~ hU yuo g::> < ga ga 'dewlap' > 'beard'
+m
+
+--- pdf page 71 ---
+.@ final particle ju kjwo, kji kia ka
+o'p'q' j:$:E$:rgj ju kjwo kia ka :j@ * l-9/S03f
+n'r's' {$~~ ju kjwoC kiac kah OCB *k(r)jas <> [D] PMin *kyC
+t'i5
+
+--- pdf page 72 ---
+ag ~ if gu kuOB koB ka?
+(E] PWa *klo? 'bronze-drum', PTai *kbl]Al 'drum', Saek tb:Jl]Al <> [D] PMin *koB
+1-3 =K. 51 Mand. MC LHan OCM
+a JR gu kuOB koB ka?
+
+--- pdf page 72 ---
+a JR gu kuOB koB ka?
+(E] KS *kwa1• S. khaaAI < *kh_ 'leg, thigh'
+b f~ gu kuOB koB ka? Kan. khas 'sheep'
+1-4 =K.52 Mand. MC LHan OCM
+
+--- pdf page 72 ---
+tT] Sin Sukchu SR yu (1::); MGZY Xu (1::) [yu]; ONW yo
+(E] TB *(C-)ga 'door'; LB *?ga1 'door' ~ ga3 'open', NNaga *gaA 'door', WT sgo 'door'
+c ~ hii vuoB goB ga? WB kaB 'stretched, widen'
+~ hii vuoB goB ga? TB-Lu. khaarR < khaar? 'a weir'
+
+--- pdf page 72 ---
+tT] Sin Sukchu SR k'y ($;); MGZY kbyu (:'*> [k'y]; ONW khl2l < khio (?)
+(E] WT skyag-pa, bskyags 'to spend, layout, expend' ~ skyag - rkyag 'dirt, excrement'; WB
+kyaC 'fall, become low, expand' ~ khyaC 'throw down, put down'
+U!
+
+--- pdf page 73 ---
+M
+e jit gjwo(C), gio(C), ga, gah
+gjak giok gak
+h)jf jue gjak giok gak
+
+--- pdf page 73 ---
+1-10 = K. 74 Mand. MC LHan OCM
+a.$. chiS, tshja, tsha, k-Iha, [E] Cf. Toch. B kokale
+jii kjwo kio ka OCB *k(r)ja
+[f] Sin Sukchu SR t~'je (~); MGZY chya (~) [t~'je]; ONW tsha
+

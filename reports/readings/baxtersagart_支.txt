@@ -1,0 +1,138 @@
+baxtersagart -- entries mentioning 支
+Source: Old Chinese _ A New Reconstruction -- William H_ Baxter, Laurent Sagart -- Illustrated, FR, 2014 -- IRL Press at Oxford University Press -- isbn13 9780199945375.pdf
+
+--- pdf page 10 ---
+5.4.3 *e with back codas 231
+5.4.3.1 *-e (⊂ traditional 支 Zhī) 232
+5.4.3.2 *-ek(-s) (⊂ traditional 錫 Xī) 233
+
+--- pdf page 10 ---
+5.5.3 *e with acute codas 274
+5.5.3.1 *-ej: > *-e (⊂ traditional 支 Zhī)? 275
+5.5.3.2 *-et(-s) (⊂ traditional 月 Yuè) 275
+
+--- pdf page 10 ---
+5.5.3.3 *-en (⊂ traditional 元 Yuán) 277
+5.5.3.4 *-er > *-en (⊂ traditional 元 Yuán) or *-ej (> *-e, ⊂ traditional 支
+Zhī?) 278
+
+--- pdf page 29 ---
+of such adjacent rhymes that had probably merged in some dialects are 東 Dōng
+(MC tuwng) ~ 冬 Dōng (MC towng), 支 Zhī (MC tsye) ~ 脂 Zhī (MC tsyij) ~ 之 Zhī
+(MC tsyi), 刪 Shān (MC sraen) ~ 山 Shān (MC srean), 仙 Xiān (MC sjen) ~ 先 Xiān
+
+--- pdf page 34 ---
+finals, which call for special comment.
+An example of a rhyme with chóngniǔ finals is the 支 Zhī rhyme, in which there
+are two homonym groups for syllables with MC initial p-: one with the head word 碑
+
+--- pdf page 34 ---
+-X -H
+-je, -jwe, -jie, -jwie 支 tsye 紙 tsyeX 寘 tsyeH
+-ij, -wij, -jij, -jwij 脂 tsyij 旨 tsyijX 至 tsyijH
+
+--- pdf page 38 ---
+īhZ
+支
+.51
+
+--- pdf page 92 ---
+(203) 瘈 *ke[t] -s > tsyejH > zhì ‘mad (dog)’
+(204) 支 or 枝 *ke > tsye > zhī ‘branch (of tree), limb’; pMǐn *ki A
+(205) 善 *[g] e[n]ʔ > dzyenX > shàn ‘good’
+
+--- pdf page 94 ---
+escaped this change:
+(215) 支 or 枝 *ke > tsye > zhī ‘branch (of tree)’, pMǐn *ki A
+指 *mə.kijʔ > tsyijX > zhǐ ‘finger; point’, Jiàn’ōu /ki 6/
+
+--- pdf page 155 ---
+Guǎngzhōu /tʃʰi 5/; the phonetic is
+支 *ke > tsye > zhī ‘branch (of tree), limb’, pMǐn *ki A
+Old Chinese *s.qʰ- normally evolves to MC s- when no *r medial follows. The
+
+--- pdf page 222 ---
+is similar to that faced by the Qīng-dynasty philologists regarding the Qièyùn rhymes
+支 Zhī, 脂 Zhī, and 之 Zhī. In their own speech, these had all merged, and it would
+have been difficult for them to notice that they were distinct in the Shījīng, except for
+
+--- pdf page 226 ---
+reconstruct with the rhyme *-e is virtually identical to the set of words traditionally assigned
+to the 支 Zhī rhyme group; in such cases we will sometimes write “*-e = 支 Zhī.” But in
+many cases our reconstructed rhymes correspond to only part of a traditional group: for
+
+--- pdf page 233 ---
+(877) *Paj }
+Pje (支 三) 靡 *m(r)ajʔ > mjeX > mǐ ‘fall over’
+*Praj
+
+--- pdf page 247 ---
+Baxter-Sagart *-e *-ek *-ek-s *-eŋ
+rhyme group = 支 Zhī = 錫 Xī = 耕 Gēng
+Middle Chinese -ej 齊 -ek 錫 -ejH 霽 -eng 青
+
+--- pdf page 247 ---
+Table 5.35 compares our reconstruction with earlier ones.
+5.4.3.1 *-e (⊂ traditional 支 Zhī)
+The Middle Chinese reflexes of *-e42 are summarized in Table 5.36.
+
+--- pdf page 247 ---
+稗 *C.[b]ˤre-s > beaH > bài ‘weed resembling grain’
+*Ke Tsye ~ Kjie [1] 支 *ke > tsye > zhī ‘branch (of tree), limb’
+*Kre Kje 技 *[g]reʔ > gjeX > jì ‘skill’
+
+--- pdf page 273 ---
+The phonetic element 亘 xuān < sjwen < *swar < *s-[q] ʷar is used by Zhī Lóujiāchèn
+支 婁 迦 讖 (“?Lokakṣema the Yuèzhī 月 支”; see Zürcher 2007:35), a Buddhist transla-
+tor active in Luòyáng in the late second century CE, to represent the Indic syllable svar in
+
+--- pdf page 289 ---
+Baxter-Sagart *-ej *-et *-et-s *-en *-er
+rhyme group ⊂ 支 Zhī? ⊂ 月 Yuè ⊂ 元 Yuán ⊂ 元 Yuán ~ ⊂ 支 Zhī?
+Middle Chinese -ej 齊 -et 屑 -ejH 霽 -en 先 -en 先 ~ ej 齊
+
+--- pdf page 290 ---
+Old Chinese rhymes 275
+5.5.3.1 *-ej: > *-e (⊂ traditional 支 Zhī)?
+We tentatively reconstruct *-ej in words that show some properties of *-ij and some
+
+--- pdf page 293 ---
+probably become *kʷˤ- by Hàn times).
+5.5.3.4 *-er > *-en (⊂ traditional 元 Yuán) or *-ej (> *-e, ⊂ traditional 支 Zhī?)
+Depending on the dialect represented, the Middle Chinese reflexes of *-er are either the
+
+--- pdf page 391 ---
+枝 zhī tsye < *ke ‘branch (of tree)’: 77, 79
+支 zhī tsye < *ke ‘branch (of tree), limb’: 77, 79, 140, 232
+觶 zhī tsye < *tar ‘ritual vessel’: 258
+
+--- pdf page 413 ---
+the Shuōwén, and we would be surprised to find it in early documents.
+42. In addition to *-e, it is possible that the traditional 支 Zhī group includes some words that
+should be reconstructed with *-ej; see section 5.5.3.1 below.
+
+--- pdf page 414 ---
+form of Indic represented is probably not Sanskrit but a Central Asian pronunciation with -bh-
+> -w- intervocalically. According to Zürcher (2007:35), 支 婁 迦 讖 Zhī Lóujiāchèn (MC tsye
+luw-kja-tsrhimH) was an Indoscythian, often credited with bringing Mahāyāna Buddhism to
+
+--- pdf page 426 ---
+中 央 研 究 院.
+Mei, Tsu-lin [Méi Zǔlín 梅 祖 麟]. 2001. Xiàndài Wúyǔ hé “支 Zhī 脂 Zhī 鱼 Yú 虞 Yú, gòng wéi
+bú yùn” 现 代 吴 语 和 “支 脂 鱼 虞, 共 为 不 韵.” Zhōngguó yǔwén 中 国 语 文 2001.3–15.
+
+--- pdf page 426 ---
+Mei, Tsu-lin [Méi Zǔlín 梅 祖 麟]. 2001. Xiàndài Wúyǔ hé “支 Zhī 脂 Zhī 鱼 Yú 虞 Yú, gòng wéi
+bú yùn” 现 代 吴 语 和 “支 脂 鱼 虞, 共 为 不 韵.” Zhōngguó yǔwén 中 国 语 文 2001.3–15.
+Mei, Tsu-lin [Méi Zǔlín 梅 祖 麟]. 2012. The causative *s- and nominalizing *-s in Old Chinese
+
+--- pdf page 438 ---
+397n29 See also borrowing
+Lái Guólóng 來 國 龍, 391n80 Lokakṣema (Zhī Lóujiāchèn 支 婁 迦 讖), 258
+Lakkia language, lowering of vowels, after pharyngealized initials,
+
+--- pdf page 446 ---
+Yú Xǐngwú 于 省 吾, 390n66 *s- + sonorant, 112
+Zhī Lóujiāchèn 支 婁 迦 讖. See Lokakṣema
+Zēng Hóu Yǐ 曾 侯 乙 tomb, 388n52 Zhōu 周 vessels,
+

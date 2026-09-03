@@ -1,0 +1,421 @@
+Schuessler 2009, lines with the Mandarin syllable 'zhi'.
+Columns run: GSR, character (not OCRd), Mandarin, MC, LHan, OCM.
+
+--- pdf page 7 ---
+4 OCM rime *-::> Zhfbi! Z$ ...................................................... ··· ...... 91
+5 OCM rime *-::>k Zhi bi! ~$ ............................................................... 107
+6 OCM rime *-::>1) Zheng bil ~$ ................................ '" ....................... 114
+7 OCM rime *-e Zhfbil 3t$ .............................................................. 119
+
+--- pdf page 49 ---
+~ zhf to weave tsj~k ~i~k tj~k tj~k t~k
+zhi cloth tsiC ~i~g tj~gh tj~ks t~kh
+~ zhi remember tsiC ~i~g tj~gh tj~ks t~kh
+962 Z zhf walk tsi ~i~g tj~g tj~ t~
+
+--- pdf page 49 ---
+zhi cloth tsiC ~i~g tj~gh tj~ks t~kh
+~ zhi remember tsiC ~i~g tj~gh tj~ks t~kh
+962 Z zhf walk tsi ~i~g tj~g tj~ t~
+~ zhi aim tsiC ~i~g tj~gh tj~s t~h
+
+--- pdf page 49 ---
+962 Z zhf walk tsi ~i~g tj~g tj~ t~
+~ zhi aim tsiC ~i~g tj~gh tj~s t~h
+(A reminder: Baxter 1992 actually wrote i for ~, and he has since eliminated the OC medial j.)
+If .~ MC tsiC were compatible with MC ts~k in OC, they must have had a final consonant
+
+--- pdf page 94 ---
+Xiam. tsiO?D2 dzok dak [D] PMin *dzbk
+[f] Sin Sukchu SR ~i CA.); MGZY zhi CA.) [~i]; MTang zek < dzek, ONW dzek
+m
+e shuo! zjak dzak dak
+
+--- pdf page 94 ---
+2-19 =K. 791 Mand. Me LHan oeM
+a Jk. zhi tsjak tsak tak = *tjak?
+[E] LB *kyik, WB khyac 'burnt'
+Jk. zhe tsjaC tsaC takh = *tjakh?
+
+--- pdf page 122 ---
+4-26 =K. 961 Mand. Me LHan oeM
+ag ll:Nli: zhi' tsiB tSgB > tsiB tg?
+m:1E:
+hj zhi' tsiB tSgB tg?
+
+--- pdf page 122 ---
+m:1E:
+hj zhi' tsiB tSgB tg?
+k :fli: zhi'! ~hiB ~higB thrg?
+~ see 4-29
+
+--- pdf page 122 ---
+hj zhi' tsiB tSgB tg?
+k :fli: zhi'! ~hiB ~higB thrg?
+~ see 4-29
+m ~ si zic ziac s-lgh? OCB *sdjgs?
+
+--- pdf page 122 ---
+zb' 1f,f2§ time shi zi dzg dg? (tone!)
+[f] Sin Sukchu SR ~i (f), PR, LR ~l; MGZY zhi (f) [~i]; MTang zi < dzi, ONW dza
+j' JIt;J shi zi dzg dg OCB *djg
+y 'I~ shi ziB dzgB dg? OCB *dja?
+
+--- pdf page 122 ---
+[f] MTang zi < dZi, ONW dzg
+v ~ zhi' tsiB tSgB tg?
+P ~ chi <;Iji <;Iig drg
+[f] BTD ltrafi!f pic-Io-9ig Skt. vaira~i-
+
+--- pdf page 122 ---
+qrst W=lfIll=;fRf~ zhl <;IjiB <;IigB drg?
+U ~ zhi <;IjiB <;IigB drg?
+97
+
+--- pdf page 123 ---
+ef ~U zhl tsiC ts~C t~h
+zhi ts~C, ki~C? [D] PMin *kic
+d chf tsh~ th~
+4-28 = K. 963 Mand. Me LHan oeM
+
+--- pdf page 123 ---
+h f~ si ziB Zi~B s-l~?
+[T] Sin Sukchu SR Z1 (1:); MGZY zhi (1:) [Z1]
+ik~;ffi si ziB Zi~B s-l~?
+Ell
+
+--- pdf page 123 ---
+fEll
+Z regulate zhi <;li(C) <;li~(C) dr~, dr~h < r-l~, r-l~h
+[T] Sin Sukchu SR d~i (:*); MGZY ci (:*) [d~i]; MTang <;Ii, ONW dig; OCB *lrjg
+El
+
+--- pdf page 124 ---
+a ;¥ ci zi zi < zi~ s-l~ = 4-53/972j ~5J
+[f] Sin Sukchu SR z1 (1jZ), LR Z1; MGZY zhi (1jZ) [Z1]
+4-34 =! 2 K :m . 9 60 Mand. Me LHan oeM
+acd d ~ ~ j<~ ~
+
+--- pdf page 125 ---
+a ~ er niiB niB < n;}B n;)(
+[1'] Sin Sukchu SR ri U:), PR, LR q; MGZY Zhi (1:.) [ri]; ONW n;}B
+[E] TB *r-na 'ear / hear' > WT rna-ba 'ear'
+de nfJfn1l er, er niiC
+
+--- pdf page 126 ---
+a fffi er iizi ii~ > iii n~
+[T] Sin Sukchu SR ri (.3f), PR, LR r1; MGZY Zhi (.3f) [ri]; ONW n~
+cdef ;tjTijJfffff gOO" er iizi ii~ n~
+9 jifij er iizi, iizjuk ii~, iiuk n~, nuk
+
+--- pdf page 128 ---
+cf zi zi::l s-l::l = 4-33/968 M
+[T] Sin S. SR z1 (3jZ), LR Z1; MGZY zhi (3jZ) [Z1] <> [E] ST *s-la: WT zla-ba, zlas 'to say, tell'
+k sl zic zi::lc s-l::lh
+sl zic zi::lc s-lakh =5-19/92Iae
+
+--- pdf page 133 ---
+H
+take place zhi 9iC 9i~C dr~kh
+f.i
+b zhf tj~k ~ik tr~k ONW tik
+
+--- pdf page 133 ---
+b zhf tj~k ~ik tr~k ONW tik
+g:]I zhi ~iC ~i~C tr~kh
+[f] MTang ~i, ONW ti;l <> [E] TB: WT 'jog-pa, bzag 'to put, place, arrange'
+108
+
+--- pdf page 134 ---
+5 OCM *-;}k .:g~ (GSR 903-935)
+h 1H zhi ~ic <;ii;}c dr;}kh
+[1'] MTang <;Ii, ONW di;}
+iiJ1i
+
+--- pdf page 134 ---
+iiJ1i
+cd zhi zj;}k dzik d;}k
+m
+e zhi, zhi zj;}k, ~ic dZik, ~i;}c d;}k, dr;}kh [1'] ONW dzik
+
+--- pdf page 134 ---
+m
+e zhi, zhi zj;}k, ~ic dZik, ~i;}c d;}k, dr;}kh [1'] ONW dzik
+ki f!;f de t;}k t;}k t~k
+[1'] ONW t;}k. MHan :m1! siok-t;}k Soyd or soyilik
+
+--- pdf page 134 ---
+[E] ? ST: tak 'one' in Western Himalayan languages, e.g., Darmiya taku 'one'
+~i hem zhi <;ij;}k ~ik dr;}k
+5-13 = K. 920 There is no paleographic connection with 5-10/957 (Unger, Hao-ku 78, 2003: 84)
+Mand. MC LHan OCM
+
+--- pdf page 134 ---
+a zhf, shi tsj;}k tsik t;}k
+gi •• zhi tsj;}k tsik t;}k
+f ~ to weave zhf tsj;}k tsik t;}k [1'] ONW tsik
+[E] TB *tak > WT 'thag-pa 'to weave' ~ thags 'texture, web'; LB *takl*dak 'weave, spin'
+
+--- pdf page 134 ---
+[E] TB *tak > WT 'thag-pa 'to weave' ~ thags 'texture, web'; LB *takl*dak 'weave, spin'
+~ material zhi tsiC tS;}c t;}kh [1'] ONW tS;}c
+[E] WT btags 'thag- 'woven' ~ thags 'texture, web', JP da?31 < dak31 'woven material'
+e ~ zhf, de tsj;}k, d;}k tSik, d;}k t;}k, d~k
+
+--- pdf page 134 ---
+e ~ zhf, de tsj;}k, d;}k tSik, d;}k t;}k, d~k
+k ~ remember zhi tsiC tS;}c t;}kh
+~ know shi sj;}k sik Ih;}k
+[1'] Sin Sukchu SR ~i CA.); MGZY shi CA.) Wi]; ONW sik
+
+--- pdf page 134 ---
+j '~8Xi shi, sj;}k, sjiC, sik, sic, Ih;}k(h),
+zhi tshi C tsh;} th;}kh
+M
+chi tshic tsh;} th;}kh
+
+--- pdf page 134 ---
+5-14 = K. 916 Mand. LHan
+a ~ zhi ~ik [1'] ONW tik
+[E] LB *Ntak 'ascend' > WB tak 'go up, ascend, advance, increase', WB ;}-thak 'upper part,
+prior time', WT Itag-pa 'the upper part / place'
+
+--- pdf page 134 ---
+prior time', WT Itag-pa 'the upper part / place'
+1257d .. zhi tj;}k (tsjet) ~ik tr;}k Coblin 1983: 222
+5-15 = K. 917 Mand. LHan
+a W)c chi ~hik
+
+--- pdf page 145 ---
+tz
+d zhi tsjeC tseC < kiec keh
+[E] Tai: S. keekDl 'wicked, perverted'
+ih- Jl)tD5t~ qf gjie 4 gie ge [T] ONW gie
+
+--- pdf page 148 ---
+a ~ er nZJe fie l)e OCB *IJie
+[fl-Sin Sukchu SR ri (:>JL), PR, LR r1; MGZY Zhi (:>JL) [ril; ONW fie. MHan l:iTh5llim-fie
+Skt. Lumbini <> [Dl Xiang: IJa <> [El Area word: TB: JP IJ!!p3 « i]ai ?), tJa33_i]aP3 'baby',
+Mru IJia 'child'. AA: PSBahn. *IJe 'baby'
+
+--- pdf page 148 ---
+ti
+zhi <;ljiik <;liek drek
+mn ~l~ df tiek tek tek
+0 _hoof df tiek tek tek
+
+--- pdf page 149 ---
+a shi zjeB dzeB de?
+[f) Sin Sukchu SR ~i (1::), PR ~l; MGZY zhi (1::) [~i); ONW dze.
+[E) TB *day: WT de 'that'; JPn55_de?55 'this, there', n55_de5l 'so (many ... ), thus'
+d ~ shl zjeB dzeB de?
+
+--- pdf page 150 ---
+7-16 = K.1238b Mand. Me LHan oeM
+b ~ zhi <;ljeB <;lieB dre? - zhl , zh~ti 7-17 ~
+This graph is perhaps phonetic in 32-21/372 ~ *drin?
+7-17 Mand. Me LHan oeM
+
+--- pdf page 150 ---
+7-17 Mand. Me LHan oeM
+~ zhi,zhai <;ljeB, <;laiB <;lieB, <;leB dre? - zh17-16 ~
+[E] MK *draay > OMon *dray 'hog deer' ( .... WB darai 'hog deer'), Biat cfraai 'swamp deer',
+PVM *k-cfe: 'deer'
+
+--- pdf page 150 ---
+a you, part. er nzjeB neB ne?
+[T] Sin Sukchu SR ri (..i), PR q; MGZY Zhi (..i) [ri]; ONW fie. OCB *njaj? (1992: 453), *nj
+m: :lj? <> [E] TB: Chepang ni 'you' ~ nil) 'you' (plural), WB fiafiB
+luxuriant nl nieiB neB ne?
+
+--- pdf page 238 ---
+w;.
+o zhi <;ljeB <;leB, <;liaiB drai? < r-Iai? = 18-9/4z IlIh
+[E] KS *lai4 'to fall'
+q ~ 1 change yf jie je < Jal lai OCB *ljaj
+
+--- pdf page 258 ---
+sheath shi zjiiiC dzes des
+b ~ zhi c;ljiiiC c;les dres
+f rI chi, zhr tshjiiiC, tsjeB tshas, tseB ? thes, te?
+233
+
+--- pdf page 259 ---
+21-17 = K. 335 Mand. Me LHan oeM
+ab $U~ zhi tsjliiC tsas tats or kets ?
+[f] Sin Sukchu SR t~i (:*); MGZY ji (:*) [t~i]; ONW tSei
+c ~ che ~shjlit, tshjliiC ~shiat, tshias that(s) or *e?
+
+--- pdf page 259 ---
+21-18 = K. 334 Mand. Me LHan oeM
+a ~ zhi ~jaiC ~ias drats < r-Iats
+[E] KT: KS *?dlaai B 'wild pig', PHlai *lat
+21-19 = K. 287 Mand. Me LHan oeM
+
+--- pdf page 259 ---
+edg zh6 tjat ~iat trat [f] ONW tat
+ij BfJTW zh6, zhi tsjat, tsjaiC tsat, tsas tat, tats OCB *tjats
+Ian -:to.",.m';:' .}fh. shi zjaiC dzas dats OCB *djats
+n otJT zha tdit
+
+--- pdf page 302 ---
+h t~ shi fiB, fic giB, giC gi? R! = 26-l4/590q
+ffl Sin Sukchu SR ~i (*), PR ~l; MGZY zhi <-1:::*) [~il; MTang dii > ii, ONW dii
+*~ qf gji 3 gi gri OCB grj::lj
+[El ? TB: WB kriB 'great, big'
+
+--- pdf page 304 ---
+mJ,
+595g 596e f~ zhi <;lic <;lic drih OCB *drj:ljs
+m
+595h sewBI zhi <;lic <;lic or <;lis drih or dr:lts = 29-15/413 ~
+
+--- pdf page 304 ---
+m
+595h sewBI zhi <;lic <;lic or <;lis drih or dr:lts = 29-15/413 ~
+~ 29-17/402 ~ *drit
+:i!!
+
+--- pdf page 305 ---
+26 oeM *-i, *-;}i H~.:g~ (GSR 547-605)
+e zhi dri? !
+[E] WB rac 'pheasant', WT sreg-pa 'partridge', Lushai vaL-hritL, SChin-Areng tari', Mru rik,
+Garo grit 'pheasant'
+
+--- pdf page 305 ---
+m ti, thieiC, theiC, lhih,
+zhi, si ~liB, ZiB <;liB, ziB dri? < r-Ii?, s-Ii?
+ml
+ij ~ more shen sjenB sinB lhin? 'how much the more'
+
+--- pdf page 321 ---
+29 oeM rime *-it, *-its, *-is Zhi btl ji.:g~
+GSR 393 - 415
+Baxter 1992: 434 if. (§ 10.1.6)
+
+--- pdf page 325 ---
+• to slip zhl ~ic ~is trits - 30-10/493c
+d '1'1 angry zhi tsiC , t.h iC tsis, ~his tits, thrits - 30-10/493d 'II
+e ~ til tieic tes tfts
+29-17 = K. 402 Mand. Me LHan oeM
+
+--- pdf page 325 ---
+fA zhl c;ljet GY c;lit FY - (drit) ~ 29-151413 ttl&
+fgh f9c~~ zhi c;ljet c;lit drit < r-lit OCB *lrjit
+e ~ chi ~hjet ~hit rhit < r-lhit ?
+~j( die, chi diet, ~hjet det, ~hit 1ft, rhit < r-lhit ?
+
+--- pdf page 326 ---
+a B ri nzjet nit nit
+[f) Sin Sukchu SR ri CA.); MGZY Zhi (A) [ri); ONW flit.
+[E) TB *nyiy > OTib. giii, WT iii-rna 'sun', iiin (-mo) 'day'
+m
+
+--- pdf page 326 ---
+agi =i\ = li t er nzic filS nis
+[f) Sin Sukchu SR ri (*), PR, LR q; MGZY Zhi (*) [ri); ONW fli
+it [f) Han BTD JfoJ~Jitnt ?a-ka-flis-~ac Skt. akani~~a. MHan ~Bffi flis-~i Nesef
+[E) TB *g-nis > WT giiis
+
+--- pdf page 327 ---
+dziet dzet dzit
+dg- f~P~iH~ zhi t~jet t~it tsrit OCB *tsrjit
+m
+923c ~ detest ji dzjet dzit dzit = 29-28/494a
+
+--- pdf page 332 ---
+30-10 = K. 493 Mand. Me LHan OeM
+a :J{ solid zhi tsjet tsit t;:)t
+hostage zhi tsiC tsis t;:)ts
+b ~ zhi tsjet tsit t;:)t
+
+--- pdf page 332 ---
+a :J{ solid zhi tsjet tsit t;:)t
+hostage zhi tsiC tsis t;:)ts
+b ~ zhi tsjet tsit t;:)t
+WI
+
+--- pdf page 332 ---
+hostage zhi tsiC tsis t;:)ts
+b ~ zhi tsjet tsit t;:)t
+WI
+c zhl ~ic ~is tr;:)ts - 29-16/4ISa:il
+
+--- pdf page 332 ---
+[E] TB: WT 'dred-pa 'to slip, slide, glide'; Kanauri *bret
+d zhi tsi c, ~ic tsis, ~his t;:)ts, thr;:)ts - 29-16/4ISd 11
+30-11 = K. 509 Some or all OC finals could have been -ts.
+Mand. Me LHan oeM
+
+--- pdf page 345 ---
+li:
+x zhi tsjeC tses tes
+Tli:
+Yu-tian -dien wo-den [T] Hwatiina (Khotan)
+
+--- pdf page 380 ---
+ae shi zpp dzip < gip gip = 37-1I687a f8-
+[T] Sin Sukchu SR ~i CA.); MGZY zhi CA.) [~i]; ONW dzip <> [D) PMin *dzep
+[E) TB *gip > WB kyip, Mikir kep < kip <> PMiao *g~uD
+f:?t zhf tsjgp tsip < kip kip
+
+--- pdf page 380 ---
+37-7 = K. 684 Mand. Me LHan oeM
+a -$ zhi tjgp ~ip trgp = 37-8/685f ~
+37-8 =K. 685 The OC vowel could be *i or *g.
+Mand. Me LHan oeM
+
+--- pdf page 380 ---
+Mand. Me LHan oeM
+a ¥it zhi tsjgp tsip tgp [T] ONW tsip
+kmn ~W~ zhi tsiC tsih tgts < tgpS
+[E) ? TB: WT chab 'power, authority'
+
+--- pdf page 380 ---
+a ¥it zhi tsjgp tsip tgp [T] ONW tsip
+kmn ~W~ zhi tsiC tsih tgts < tgpS
+[E) ? TB: WT chab 'power, authority'
+355
+
+--- pdf page 381 ---
+37 oeM *-::lP, *-ip m.g~ (OSR 675-696)
+f ~ zhi tj::lp ~ip tr::lp
+= 37-7/684a $ [f] ONW tip
+m
+
+--- pdf page 381 ---
+9 zhe ! <;lj::lp <;lip dr::lp
+h ~ zhi, zhe tsj::lp, tsjap, tsip, tsap, tip, tep,
+• niep nep nIp
+j zhi tiC tis tr::lts < tr::lps
+
+--- pdf page 381 ---
+• niep nep nIp
+j zhi tiC tis tr::lts < tr::lps
+m
+0 dian tiemC temC tims
+
+--- pdf page 382 ---
+a A fU nZJ:)p nip n:)p < nup OCB njup
+[f] Sin Sukchu SR ri CA.), PR, LR ry?; MGZY Zhi CA.) [ri]; ONW nip
+[E] TB *nup > WT nub-pa 'to fall, sink, set'
+e f7'g inside nei nw~iC nu:)s nuts < nups
+
+--- pdf page 444 ---
+$~ 7-5/865 ~ 26-16/595
+zhi ffl m ~ 11-13 / 1218 ~ 11-1311218
+H 7-5/865 26-16/596 HI III
+5-12/919 rI Mf 12-8/ 1188 11-1211224
+
+--- pdf page 444 ---
+li 5-12/919 21-15/315 B 26-16 / 595 Jfj 12-8/ 1188 m~ 1 3-57/ 1092
+111: 5-12/919 zhi m2 6-15/591 fI 12-8/ 1188 13-47/ 1114
+:1:][ 5-12/919 ~ 4-27/962 .¥. 28-111 575 Jti. 12-8/1188 1 m f!I! 1 3-30/ 1079
+it itt 29-15/413
+
+--- pdf page 444 ---
+f{ 30-10 / 493 -ga 10-181128
+zhi m~ 7-17 ill 30-10/493 A- 13-22/ 1090 ~ 10-181128
+J!: 4-26/961 7-14/866 iI 30-10/493 1* 13-19 / 1084 *13 10-181128
+t~ 7-12/877 13-19/1084
+

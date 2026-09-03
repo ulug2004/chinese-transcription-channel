@@ -1,0 +1,43 @@
+baxtersagart -- entries mentioning 車
+Source: Old Chinese _ A New Reconstruction -- William H_ Baxter, Laurent Sagart -- Illustrated, FR, 2014 -- IRL Press at Oxford University Press -- isbn13 9780199945375.pdf
+
+--- pdf page 173 ---
+搰 *[g] ˤut > hwot > hú ‘dig out’
+The word 車 chē < tsyhae ‘chariot’ has a variant reading jū < kjo as ‘chariot’ (still
+used as the name of the piece in Chinese chess). In the late meaning ‘spinning wheel’,
+
+--- pdf page 173 ---
+used as the name of the piece in Chinese chess). In the late meaning ‘spinning wheel’,
+車 was borrowed by Written Burmese as khya 3. These elements indicate the presence of
+a guttural—velar or uvular—in the onset. The word is also presumably cognate with 輿
+
+--- pdf page 173 ---
+yo > yú ‘vehicle, carriage; carry on shoulders’, which excludes a velar. We reconstruct:
+(642) 車 *[t.qʰ](r)A > tsyhae > chē ‘chariot’; cf. pHmong *tshju̯a A ‘spinning
+wheel’, VN xa [sɑ A1]; cf.
+
+--- pdf page 173 ---
+wheel’, VN xa [sɑ A1]; cf.
+車 *C.q(r)a > kjo > jū ‘chariot’
+輿 *m-q(r)a > yo > yú ‘vehicle, carriage; carry on shoulders’
+
+--- pdf page 239 ---
+Other common words with MC -jae < OC *-a (written *-A) include:
+(891) 車 *[t.qʰ](r)A > tsyhae > chē ‘chariot’;38 cf.
+車 *C.q(r)a > kjo > jū ‘chariot’
+
+--- pdf page 239 ---
+(891) 車 *[t.qʰ](r)A > tsyhae > chē ‘chariot’;38 cf.
+車 *C.q(r)a > kjo > jū ‘chariot’
+輿 *m-q(r)a > *ɢ(r)a > yo > yú ‘vehicle, carriage; carry on shoulders’
+
+--- pdf page 346 ---
+巢 cháo dzraew < *[dz]ˤraw ‘nest’: 296
+車 chē tsyhae < *[t.qʰ](r)A ‘chariot’: 158, 224; see also jū < kjo
+撤 chè drjet < *m-tʰret ‘remove, take away’: 128; see also chè < trhjet
+
+--- pdf page 362 ---
+舅 jiù gjuwX < *[g](r)uʔ ‘mother’s brother’: 106, 123
+車 jū kjo < *C.q(r)a ‘chariot’: 158, 224; see also chē < tsyhae
+且 jū tsjo < *tsa ‘[final particle]’: 145; see also qiě < tshjaeX
+

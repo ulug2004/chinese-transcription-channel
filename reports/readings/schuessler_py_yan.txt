@@ -1,0 +1,649 @@
+Schuessler 2009, lines with the Mandarin syllable 'yan'.
+Columns run: GSR, character (not OCRd), Mandarin, MC, LHan, OCM.
+
+--- pdf page 23 ---
+f. (ff.) following page(s)
+FY (1) Fiing yan 1J1!I by Y ling Xiong m$; (2) the modern journal Fiingyan 1J15
+G- Gim dialects
+gr grave consonants
+
+--- pdf page 30 ---
+2.1 The rime dictionary Qieyun
+The basis for MC is the rime dictionary Qieyun W~ (QY) by Lu Fll-yan ~1:t (completed
+}jf!fJl
+in AD 601). Best known among the later enlarged versions are the Gulingyun (GY; AD
+
+--- pdf page 31 ---
+The nature and linguistic value of the Qieyun and the language it represents has long been a
+matter of debate which colors one's attitude towards MC as well as Oe. Lii Hl-yan's preface
+makes some points clear: the QieyUn was written for those interested in literary pursuits, "for
+use in writing literature and in vocalizing literary texts" (Coblin, JCL 24.1: 95). It incorporated
+
+--- pdf page 33 ---
+I * han van 'g guan kwan
+II •~ yan ngan IHJ guan kwan
+III jian kjlmC ~ qulin khjwtmB
+IV ~ jian kienc "* qulin khiwenB
+
+--- pdf page 33 ---
+I 0 * han van
+II 0 • ~ yan t)an
+o
+III 0 jian kjlm 3/3 ~ jilin, MC kjiinB 3
+
+--- pdf page 33 ---
+Div. I no MC medial yod - han, MC van, OCM *gan
+Div. II from OC medial *r - ~ yan, MC t)an, *t)ran
+from OC medial *r - ra~ jian, MC kan, *kren
+Div. III MC medial yod -.j ian, MC kjnnC, *kans
+
+--- pdf page 35 ---
+zi 'self' only. Much more common was the inverse process in which a classifier was added
+to a graph that was borrowed for its sound, as yan ~ MC qjlln 'speech' was added as
+wu::a:
+classifier to MC I]uo 'I' serving now as phonetic to write the word yU ~ MC qjwoB•
+
+--- pdf page 44 ---
+clear. Also some other phonetic series probably had *j-rather than *1-, such as yang .$ *jal),
+as opposed to yang ~ *lal); yi lj)\ *jak and all its members; yan !lI *jam < *r-jam 'salt'.
+OCM only: I suspect that MC ji-can also reflect earlier (PCH, OC?) *w-which was lost
+through labial dissimilation when followed by a back vowel; e.g., ~ you; see previous page.
+
+--- pdf page 44 ---
+§ffir:!:i
+been thought artificial, but it is confirmed by the fanqie of Yan Shfgu ~ (581-645)
+(Coblin 1991: 20f), and in the Chinese of the Miao people of JfnshulxHmg in Hunan who
+distinguish shen 1$ (dzj-) c;:i1)A2 from shiU (zj-) d~iac2 (Pan 2000: 49).
+
+--- pdf page 45 ---
+I 0* han van 1*
+II O~ yan I)an (also 0 jirm Anc. Ch. kan: MC kEnB)
+III oJ! jHm kjnnC o ~ jirm Anc. Ch. Iqan: MC kjanB 3
+IV OJ! jian kien o ~ qHin Anc. Ch. k'ian: MC khjianB 4
+
+--- pdf page 56 ---
+M1 3l§-§
+cong A, B sheng "A is the classifier, B is phonetic"; for example, ~ yU, cong yan,
+wu sheng [SW 961] '''to tell': yan 'word' is the classifier, w6 'I' is phonetic." Occasionally, a
+graph may serve as an 'abbreviated' phonetic, as in SW2532 :VitM*imt~§ shU cong mu
+
+--- pdf page 56 ---
+cong A, B sheng "A is the classifier, B is phonetic"; for example, ~ yU, cong yan,
+wu sheng [SW 961] '''to tell': yan 'word' is the classifier, w6 'I' is phonetic." Occasionally, a
+graph may serve as an 'abbreviated' phonetic, as in SW2532 :VitM*imt~§ shU cong mu
+shu sheng sheng "shu 'comb': 'wood' is the classifier, shU is the abbreviated phonetic"; only
+
+--- pdf page 56 ---
+M1 3 M
+of a graphic element; for example, SW989: :g:gljj\§ zhao ... cong yan cong
+zhao, zhao yi sheng "zhao 'to tell' ... has the classifiers yan 'word' and zhao 'to call', zhao is
+also phonetic." The phonetic role may be less obvious, or wrongly assumed, in a graph like
+
+--- pdf page 56 ---
+of a graphic element; for example, SW989: :g:gljj\§ zhao ... cong yan cong
+zhao, zhao yi sheng "zhao 'to tell' ... has the classifiers yan 'word' and zhao 'to call', zhao is
+also phonetic." The phonetic role may be less obvious, or wrongly assumed, in a graph like
+mt
+
+--- pdf page 58 ---
+0
+(LH kio), yan xing suoyIj jj ren yeo "'Carriage', the ancients called it kia. It sounds like
+'dwell' kia, because one says that when travelling it is that whereby one causes a person to
+'dwell' [in it]."
+
+--- pdf page 69 ---
+Xu Shen t't,tJ\. ca. 149. Shuowenjiezi -mxWf:f: (SW); see Dfng Fubao.
+Yang Xiong m!l (Han period). Fling yan 111!J. Cited edition: Fangyan jiaojian IU tongjian 11
+1!JfX~m~~ Index du Fang yen, text etabli par [Zhou Zumo], Centre franco-chinois
+d'etudes sinologiques. Taipei, 1968.
+
+--- pdf page 269 ---
+smile huan see 25-7
+~~ yan I)ienc I)enc I)ens OCB *I]ens
+[D) PMin *I]hianc
+]t hail xi~m sienc senc sens OCB *s(k)ens
+
+--- pdf page 270 ---
+f qilin khien khen khen
+gh gfi}f yan IJien IJen IJen OCB *I]en
+flf jf kiei, kien ke, ken ke,ken
+23-4 =K.196 Mand. Me LHan oeM
+
+--- pdf page 270 ---
+yM
+refined xian yan gen gren
+23-7 =K.185 Mand. Me LHan oeM
+a * jian kanB kenB kren?
+
+--- pdf page 272 ---
+23-15 = K. 243 Mand. Me LHan oeM
+a ~ swallow yan tienc tenC tens 'a swallow (bird)'
+[T] ONW ten <> [D] X-Changsha ienB, W-Wenzh IB(tone!)
+[E] Tai: Saek ?eenC2 - ?eenC2 'swallow', S. ?eenBI *
+
+--- pdf page 272 ---
+[E] Tai: Saek ?eenC2 - ?eenC2 'swallow', S. ?eenBI *
+~rest yan tienc tenC tens = 24-12/253b
+~Pl.N. yan tien ten ten
+c lijjW gullet yan tienc tenC tens - 32-9/370h U!t:l
+
+--- pdf page 272 ---
+~rest yan tienc tenC tens = 24-12/253b
+~Pl.N. yan tien ten ten
+c lijjW gullet yan tienc tenC tens - 32-9/370h U!t:l
+de ~~ yan tienc tenC tens
+
+--- pdf page 272 ---
+~Pl.N. yan tien ten ten
+c lijjW gullet yan tienc tenC tens - 32-9/370h U!t:l
+de ~~ yan tienc tenC tens
+23-16 = K. 242 Mand. Me LHan oeM
+
+--- pdf page 272 ---
+c lijjW gullet yan tienc tenC tens - 32-9/370h U!t:l
+de ~~ yan tienc tenC tens
+23-16 = K. 242 Mand. Me LHan oeM
+ac ~m Xlan xienB henB hent
+
+--- pdf page 278 ---
+de fY:~ an ranc ranc rans
+gi ~~ yan ranc ranc rrans
+LE] TB: KN-Lushai ?aarH 'fowl', Tiddim ?aakM 'fowl' < *?aar
+f ~ late yan ?anC, ranc ranc, ranc rans or rrans
+
+--- pdf page 278 ---
+LE] TB: KN-Lushai ?aarH 'fowl', Tiddim ?aakM 'fowl' < *?aar
+f ~ late yan ?anC, ranc ranc, ranc rans or rrans
+bright yan ranc ranc rrans
+rest yan fienc, ranc renC, ranc rens, rrans =24-12/253b~
+
+--- pdf page 278 ---
+f ~ late yan ?anC, ranc ranc, ranc rans or rrans
+bright yan ranc ranc rrans
+rest yan fienc, ranc renC, ranc rens, rrans =24-12/253b~
+e
+
+--- pdf page 278 ---
+bright yan ranc ranc rrans
+rest yan fienc, ranc renC, ranc rens, rrans =24-12/253b~
+e
+h rat rat rat
+
+--- pdf page 279 ---
+24-12 = K. 253 Mand. Me LHan oeM
+a ~ tranquil yan ?anC ?anC ?dins = 24-11I146f ~
+b ~ rest yan ?ienc ?enC ?ens
+= 23-15/243 a ~; 24-11I146f ~ <> [f] ONW 1en
+
+--- pdf page 279 ---
+a ~ tranquil yan ?anC ?anC ?dins = 24-11I146f ~
+b ~ rest yan ?ienc ?enC ?ens
+= 23-15/243 a ~; 24-11I146f ~ <> [f] ONW 1en
+IJf
+
+--- pdf page 279 ---
+IJf
+d yan ?jlmB/C ?ionB/C ?an?, ?ans
+[E] ? TB: Lushai zaalH < jaal 'to lie down, recline' ~ zal1L < jal1/h 'lay on the back'
+1IIfE
+
+--- pdf page 279 ---
+1IIfE
+gj yan ?jlmB ?ionB ?an?
+h III) yan ?jlmC ?ionc ?ans
+ml
+
+--- pdf page 279 ---
+gj yan ?jlmB ?ionB ?an?
+h III) yan ?jlmC ?ionc ?ans
+ml
+yan ?ienB ?enB ?en?
+
+--- pdf page 279 ---
+ml
+yan ?ienB ?enB ?en?
+ffI
+m ya ?at ?at ?rat
+
+--- pdf page 279 ---
+nA
+a yan ?jnnB ?ionB ?an?
+24-14 = K. 200 Mand. Me LHan oeM
+7ilfi
+
+--- pdf page 279 ---
+7ilfi
+a suffix yan jan 3 ! ian ?an >an [f] ONW 1an, -an
+7ilfi
+how yan ?jan 3 ?ian ?an
+
+--- pdf page 279 ---
+7ilfi
+how yan ?jan 3 ?ian ?an
+[f] Sin Sukchu SR 1jen, jen (3f); ONW 1an
+1!
+
+--- pdf page 279 ---
+1!
+yan ?jan 3 ?ian ?an
+b ~ xian xjan 3 hian han
+24-15 = K. 145, 186 MC LHan OCM
+
+--- pdf page 279 ---
+Hi
+186a yan l)anc l)anc l)ranS
+[f] ONW I]iin <> [E] TB: WT I]al]-pa 'goose', WB l]anB <> PTai *hanBI < *hl]-'goose'
+24-16 = K. 251 Mand. Me LHan oeM
+
+--- pdf page 279 ---
+24-16 = K. 251 Mand. Me LHan oeM
+a ~ speak yan IJjnn l)ion l)an
+[f] Sin Sukchu SR jen (3f); MGZY ngen (3f) [I]£n]; ONW I]an; Han BTD I]an
+~g content yin IJj;m l)i;m
+
+--- pdf page 279 ---
+l)~n
+e l1§ yan IJjanc 3 l)ianc l)ans or I)rans
+f M yin IJjen 3 l)in
+l)r~n
+
+--- pdf page 279 ---
+24-17 • = K . 252 Mand . Me LHan oeM
+a yan IJjnnc I)ionc l)ans
+d iN. yan,yan IJjnn I)ion I)an,I)an?,l)ans
+IJjanB/c I)ianB/c
+
+--- pdf page 279 ---
+a yan IJjnnc I)ionc l)ans
+d iN. yan,yan IJjnn I)ion I)an,I)an?,l)ans
+IJjanB/c I)ianB/c
+e iA xian xjnnC hlonc hl)ans OCB *hI]jans
+
+--- pdf page 279 ---
+• = 2 4-18/250a ~
+h yan IJjnn B, IJjan B 3 I)lonB I)an? 'hilltop'
+~ yan (!) IJjat 3 I)iat I)at
+MX e
+
+--- pdf page 279 ---
+h yan IJjnn B, IJjan B 3 I)lonB I)an? 'hilltop'
+~ yan (!) IJjat 3 I)iat I)at
+MX e
+j l)at I)ot I)at
+
+--- pdf page 280 ---
+ab g~ Yflll I]jiinc 3 I)ianc I)ans or I)rans OCB *I)rjans
+c ~ yan I)an I)an I)ran
+d ~ y~lll I)anc I)anc I)ans
+24-20 = K. 150 Mand. Me LHan oeM
+
+--- pdf page 282 ---
+24-29 = K. 197 Mand. Me LHan oeM
+a ~r yan, yim jianB/C janB/C jan?, jans - 33-19/4S0k ~
+[f] ONW ian; Han BTD jan <> [E] TB: WT yar-ba 'to disperse, ramble, stray'
+b qian khjan 3 khian khrian OCB khrjan
+
+--- pdf page 282 ---
+24-30 = K. 203 Mand. Me LHan oeM
+abc ~j[m yan Jlan jan Ian
+~ [f] ONW ian, BTD Skt. jina <> [E] Old Sino-Viet. Ian <> Tai: S. lianB2 'delay, extend'
+ef ~m shan sjan san lhan
+
+--- pdf page 282 ---
+a ~ desire xian zjanC, dzjanC zianc s-lans
+oblong yan jian jan Ian
+24-32 = K. 213 Mand. Me LHan oeM
+a ~ carriage lian IjanB lianB ran? or ren? ? = 24-34/2ISa fit
+
+--- pdf page 289 ---
+m
+III ac ~ c;1jwiln c;1yan *dron ~ sjwilt suat *Ihot sjuiliC suas *lhots ~ zjwe dzye <dzuai
+fd jiwiln4 juan *lon *doi
+II lUI kwan kuan *krfin ISO kwat kuat *kwrat ~ ywaiC guas !I\% kwa kuai *kr6i
+
+--- pdf page 292 ---
+n quan khjwtlnB, kyanB, khwan?,
+yuan ?jwtlnA ! ?yan ?wan = 25-18/ 261 ~
+~ quan khjwtlnC kyanC khwans
+25-11A Mand. Me LHan oeM
+
+--- pdf page 293 ---
+c f'~ resent yuan ?jwenC ?yanC ?ons OCB *?jons
+f'~ enemy yuan ?jW13n(C) ?yan(C) ?on, ?ons
+ek ~9I yuan ?jW13n ?yon ?on
+f ~ wan ?wan ?uan ?on
+
+--- pdf page 293 ---
+bgj ~~~ wan ?jW13nB ?yonB ?on? OCB *?jon?
+[T] MHan :k3lB daC-?yan or -?ion perhaps Great Yavana = 'IaovE~ (Ferghana)
+h m~ yuan! ?jW13nB ?yonB ?on?
+yuan ?jW13nB ?yanB ?on?
+
+--- pdf page 294 ---
+,7jj
+p yuan, ?jwBn, ?yan, lon,
+yUn ?jw~n fun fun
+q ~ yuan, ?jWBnB, ?yanB, ?on?,
+
+--- pdf page 294 ---
+25-18 = K. 261 Mand. Me LHan oeM
+a ~ yuan ?jWBn ?yan ?on
+[Tl Sin Sukchu SR 'i'yen (3f); MGZY 'wyan (3f) [?yenl
+25-19 = K. 257 After initials? and I) the MC rime 1wiin does not occur, therefore 1]jwrm
+
+--- pdf page 294 ---
+Mand. Me LHan oeM
+a yuan IJjWBn I)yan I)on OCB *Nkjon
+[Tl Sin Sukchu SR l)yen (3f); MGZY xwyan (3f) [fiyenl; ONW l)uan
+This is probably the same word as 25-20/258 *l)wan Llli: 'source', hence the OCM reading.
+
+--- pdf page 294 ---
+This is probably the same word as 25-20/258 *l)wan Llli: 'source', hence the OCM reading.
+d yuan IJjWBn I)yan I)wan
+ef yuan IJjWBn, I)wan I)yan I)wan
+9 wan I)wan, I)wan I]uan I]ron 3t 1O-1lI124g *1)0
+
+--- pdf page 294 ---
+d yuan IJjWBn I)yan I)wan
+ef yuan IJjWBn, I)wan I)yan I)wan
+9 wan I)wan, I)wan I]uan I]ron 3t 1O-1lI124g *1)0
+hi wan I)wan I)uan I)wan
+
+--- pdf page 295 ---
+25-20 = K. 258 Mand. MC LHan OCM
+ac ffi{>7Jj yuan lJ.iWl3n I)yan I)wan 'source'
+ffi{ a plain yuan IJ.iwtm I)yan I)wan! OCB *I)Wjan
+This is a later substitution for 25-211259 31 'high plain', q.v. <> [Tl ONW I)uan
+
+--- pdf page 295 ---
+ac ffi{>7Jj yuan lJ.iWl3n I)yan I)wan 'source'
+ffi{ a plain yuan IJ.iwtm I)yan I)wan! OCB *I)Wjan
+This is a later substitution for 25-211259 31 'high plain', q.v. <> [Tl ONW I)uan
+e ~ yuan IJ.iwlm I)yan I)wan
+
+--- pdf page 295 ---
+This is a later substitution for 25-211259 31 'high plain', q.v. <> [Tl ONW I)uan
+e ~ yuan IJ.iwlm I)yan I)wan
+,It
+9 yuan IJ.iwtm I)yan I)wan
+
+--- pdf page 295 ---
+,It
+9 yuan IJ.iwtm I)yan I)wan
+df ~iJi yuan IJ.iwlmC l)yanC I)ons OCB *qjons
+h- ~1J huan ywlin yuan gwlin
+
+--- pdf page 295 ---
+25-21 = K. 259 Mand. Me LHan oeM
+a ~ yuan IJ.iwtm I)yan I)wan
+This is the original graph for 25-201258 J* 'high plain' (Duan SW 5152).
+25-22 = K. 170 Mand. Me LHan OCM
+
+--- pdf page 297 ---
+[E] Tai: S. leenA2 'marsh, mire'
+b yan jiwan 4 juan Ion :It 25-28/171 ~
+c qlan II jiwan 4 juan Ion
+[T] Sin Sukchu SR jen (~); MGZY ywyan (~) [jyen] <> [D] M-Xiamen ien35
+
+--- pdf page 297 ---
+[T] Sin Sukchu SR jen (~); MGZY ywyan (~) [jyen] <> [D] M-Xiamen ien35
+d yan jiwanB juanB Ion?
+e chuan dfjwan han m-lon
+[T] Sin Sukchu SR d~en (:If); MGZY cwyan (~) [d~en] <> [D] PMin *s.Iziun - *s.Izion
+
+--- pdf page 344 ---
+32 oeM *-in ~.g~ (GSR 361-392)
+*~ yan ?ien ?en ?In = 32-10/483h ~
+h UIZ3 gullet yan ?ien ?en ?In
+swallow yim ?ienC ?enC ?Ins - 23-15/243c lIJ!i\
+
+--- pdf page 344 ---
+*~ yan ?ien ?en ?In = 32-10/483h ~
+h UIZ3 gullet yan ?ien ?en ?In
+swallow yim ?ienC ?enC ?Ins - 23-15/243c lIJ!i\
+drum yfn, yuan ?jien, ?iwen ?in, ?wen ?in, ?wfn
+
+--- pdf page 344 ---
+~~ yfn ?jien 4 ?in ?in
+h ~ yan ?ien ?en ?In = 32-9/370i ~1liI
+32-11 = K. 125lf MC LHan OCM
+fP
+
+--- pdf page 351 ---
+[E] WT dl]ul 'silver', WB I]we, PL *C-I]wel
+~ eye yan l)anB l)enB I)r~n?
+[f] Sin Sukchu SR IJ.ian <-1:.), PR jan, LR jen; MGZY yan (.1::) [jan]; ONW I]an
+~ knob en l)~nB l)~nB I)~n?
+
+--- pdf page 351 ---
+~ eye yan l)anB l)enB I)r~n?
+[f] Sin Sukchu SR IJ.ian <-1:.), PR jan, LR jen; MGZY yan (.1::) [jan]; ONW I]an
+~ knob en l)~nB l)~nB I)~n?
+33-2 = K. 443 Mand. Me LHan oeM
+
+--- pdf page 352 ---
+~thunder yin ?j~nB ?i~nB ?~n?
+~red yan ?an ?en ?rfln
+e ~ yIn ?j~n ?i~n ?~n
+33-10 = K. 449 Mand. Me LHan oeM
+
+--- pdf page 354 ---
+[D] Min *unB = 32. . 20/37lc !l!51
+k ~ yan jiiinB janB? jant
+m
+= 24-29/l97a [T] ONW ian
+
+--- pdf page 363 ---
+jk ~ k yun jiwenB juinB jun?
+n tit yan jiwanB jyanB jon?
+m gft shun dzjwenB zuinB m-Ijun?
+[D] PMin *QzionB <> [E] ST *mlyu-n: TB *m-lyun > Kanauri *myun 'to swallow'
+
+--- pdf page 371 ---
+yin I)j;)m I)im I);)m
+h yan I)jum I)iom I)am OCB *ng(r)jam
+[f) Sin Sukchu SR jem (~), PR, LR jen; MGZY ngem (~) [I]£m); ONW I]am
+yan I)am I)am I)ram - 36-6/613fg ~~
+
+--- pdf page 371 ---
+[f) Sin Sukchu SR jem (~), PR, LR jen; MGZY ngem (~) [I]£m); ONW I]am
+yan I)am I)am I)ram - 36-6/613fg ~~
+[f) ONW I]am <> [E) TB: WT rI]ams-pa 'height'
+k yan I)jumB l)iomB I)am? OCB *ng(r)jom? (7)
+
+--- pdf page 371 ---
+[f) ONW I]am <> [E) TB: WT rI]ams-pa 'height'
+k yan I)jumB l)iomB I)am? OCB *ng(r)jom? (7)
+m xian xjamB hiamB ham? (or hl)am?)
+346
+
+--- pdf page 372 ---
+m iii: han XamB hamB bam?
+n .. salt yan Jlam jam jam < r-jam
+[f] Sin Sukchu SR jem (~), PR, LR jen; MGZY yem (~) [jem]; ONW iam. BTD Skt. yama,
+-slim[-bi] <> [0] PMin *ziem 'a white encrustation formed from saltwater or brine'
+
+--- pdf page 373 ---
+36-8 Mand. Me LHan oeM
+a yan ?jamB 3 ?iamB ?am?
+= 36-9/615ab ~~ [f] ONW 1am. MHan 'iI!~ ?tamB-soC Abzoae, J\6pcnot
+an ?~mB ?::lmB ?am? [f] ONW 10m
+
+--- pdf page 373 ---
+an ?~m, ?~p ?::lm, ?::lP ?am, ?ap
+b yan ?jamB 3, ?jBmB ?iamB ?am?
+e yan ?jam 3 ?iam ?am
+e yan, ?jamB 3, ?iamB, ?am?,
+
+--- pdf page 373 ---
+b yan ?jamB 3, ?jBmB ?iamB ?am?
+e yan ?jam 3 ?iam ?am
+e yan, ?jamB 3, ?iamB, ?am?,
+an ?~mB ?::lmB ?am?
+
+--- pdf page 373 ---
+e yan ?jam 3 ?iam ?am
+e yan, ?jamB 3, ?iamB, ?am?,
+an ?~mB ?::lmB ?am?
+348
+
+--- pdf page 374 ---
+36 oeM *-am, *-em ~~ (GSR 606-627)
+d yan, yl'm ?jam(B) 3, ?iam(B) tam?
+?jtlmB
+ye ?jtlp ?iap tap
+
+--- pdf page 374 ---
+a ##= yl'm ?jamB 3, k::lmB ?iamB tam? =:f!/:; 36-8 iit
+b :t# yan ?jamB 3 ?iamB tam?
+=#; 36-8 iit [f] ONW ?am
+c ¥It yan ?jamB, ?jtlmB ?iamB tam?
+
+--- pdf page 374 ---
+=#; 36-8 iit [f] ONW ?am
+c ¥It yan ?jamB, ?jtlmB ?iamB tam?
+d !It yan ?~mB ?::ImB ?~m?
+36-10 = K. 616 Mand. Me LHan oeM
+
+--- pdf page 374 ---
+c ¥It yan ?jamB, ?jtlmB ?iamB tam?
+d !It yan ?~mB ?::ImB ?~m?
+36-10 = K. 616 Mand. Me LHan oeM
+ad ~C yim ?jiam(C) 4 ?iam(C) ?em, ?ems
+
+--- pdf page 374 ---
+IR
+c satiate yan ?jiamC 4 ?iamC ?ems
+content yan ?jHim 4 ?iam ?em
+cover yan lamB ?emB ?rem?
+
+--- pdf page 374 ---
+c satiate yan ?jiamC 4 ?iamC ?ems
+content yan ?jHim 4 ?iam ?em
+cover yan lamB ?emB ?rem?
+press ye ?jap 4 ?iap ?ep
+
+--- pdf page 374 ---
+content yan ?jHim 4 ?iam ?em
+cover yan lamB ?emB ?rem?
+press ye ?jap 4 ?iap ?ep
+!M
+
+--- pdf page 374 ---
+!M
+e yan ?jiam 4 ?iam ?em
+9 !l yan, ?jiamB 4, ?iamB, ?em?,
+ye ?jap 4 ?iap ?ep
+
+--- pdf page 374 ---
+e yan ?jiam 4 ?iam ?em
+9 !l yan, ?jiamB 4, ?iamB, ?em?,
+ye ?jap 4 ?iap ?ep
+-f .~ yan ?jiamB 4 ?iamB ?em?
+
+--- pdf page 374 ---
+ye ?jap 4 ?iap ?ep
+-f .~ yan ?jiamB 4 ?iamB ?em?
+m
+h ya tap tap ?dip
+
+--- pdf page 374 ---
+function shan zjam dzam dam
+yan jiam jam lam
+349
+
+--- pdf page 375 ---
+n!~ dilln tiemB temB tern?
+e ~t!i yan jiam jam lem
+%!i shlln sjamB samB lhem? = 36-14/617i Ym
+15
+
+--- pdf page 375 ---
+36-14 = K. 617 Mand. Me LHan OeM
+a ~ 1 blaze yan jiam 4 [JY] jam lam
+[f] ONW iam <> [E) ST and area word: TB *(s-}lyam > Tamang me-lahm 'flame' (me 'fire'),
+Lepcha lim 'to flame up' 3E a-lim 'flame'; JP lam31 'to flash'
+
+--- pdf page 375 ---
+~ 2 brilliant tan darn darn lam
+~3 blaze yan jam 3 [GY] warn warn
+[N] Early Me wiam (Pulleyblank) <> [E] TB: Lushai vaamL / vamF 'red-hot glowing' <> Tai:
+S. weemA2 in w;,;,mA2-weemA2 'brilliant, glowing (of fire)' <> Sino-Vietn. viem
+
+--- pdf page 375 ---
+S. weemA2 in w;,;,mA2-weemA2 'brilliant, glowing (of fire)' <> Sino-Vietn. viem
+C ~1::19< yan jiam B ,jiamC jam B lam? or jam? ? = ~U
+def ~IJM}~ Ylln jiamB jamB lam? or jam? ? = ~
+[E] ST *r-jam 'sharp' = 38-16/646a ..
+
+--- pdf page 375 ---
+[0] Yue-Gulingzh tha:mB 'insipid'
+p ~ tan, yan darn, jiam darn, jam lam, lam
+m ~ tan, dan dam(C) darn (C) lam, lams
+n ~ dan damB damB lam?
+
+--- pdf page 386 ---
+yb'c' ~2~Jfi yin ?j:)mc ?imC ?:)ms
+d' ~ yan ?jiamB 4 ?iamB ?em? [E] MY *?i:mA 'bitter'
+h' ~ lin ?~m ?:)m ?flm
+i' ~ yIn ?j:)mB ?lmB ?:)m? = 38-8/654a iX
+
+--- pdf page 386 ---
+k IFul jilin, klim kern krflm
+yan ?limB ?emB ?rflm?
+~ gan k~mB bmB kflm?
+[f] Sin Sukchu SR kam (J::), PR kan; MGZY gam (J::) [kam]; ONW kom
+
+--- pdf page 386 ---
+k ~@ dan Iflm?, lflms
+mn !mil yan jiam J. am, warn.? lam
+[f] MHan Vim(a)
+:tM
+
+--- pdf page 386 ---
+:tM
+o bright yan jiamC jamC (a late word)
+361
+
+--- pdf page 387 ---
+38-10 = K. 673 Mand. Me LHan oeM
+a ~ yan l)am, lJj~m l)em, l)im l)r~m, l)~m
+W yan l)am l)em l)r~m
+38-IOA ffA yin lJj~m l)im - SW3659
+
+--- pdf page 387 ---
+a ~ yan l)am, lJj~m l)em, l)im l)r~m, l)~m
+W yan l)am l)em l)r~m
+38-IOA ffA yin lJj~m l)im - SW3659
+38-11 = K. 658 Mand. Me LHan oeM
+
+--- pdf page 389 ---
+a spread tan d~m d;;)m lam
+•!I s harp yan jiiimB jamB lem? = s ee 36-14 &U:E~
+j di~m diemB demB lem? or Ifm? OCB *lim?
+I ~ diim diemB demB lem?
+
+--- pdf page 438 ---
+11 34-15/461 !1l® 1-34/37 • 1 m 36-2/607 ~ 33-19/450 ~ 3-38/720
+34-15/461 IE 36-10 / 616 :*iI 38-5/672 yan m ~ 3-38/720
+• 34-15/461 38-5/672 3-38/72
+I j fJ I 3 3 4 4 - - 1 1 5 5 / / 4 4 6 6 1 1 y ;. a f 1-34/37 W 3 38 8 - - 1 1 0 0 / / 6 6 7 7 3 3 f ~ i 3 3 6 6 - - 1 1 3 4 / / 1 6 2 1 4 7 7 , :m a 3 3 - - 3 3 8 8 / / 7 7 2 2 0 0
+
+--- pdf page 438 ---
+~ 32-8/392 1-34/37 ~ 23-15/243 • 3-39/732
+~ 32-7/392 J5f 1-34/37 yan ~ 23-15/243 ri 3-39/732
+@ 32-8/392 ff- 36-9/615 nlZSl 32-9/370
+ya yang
+
+--- pdf page 438 ---
+f.W 38-16/646 see ai, Iii 11 36-10/616 ~ 24-17/252 tffC 16-10 / 1141
+xiin yAn ~ 36-10/616 ~ 24-19/199 ~~ 16-10 / 1141
+wI! :ti 36-8/614 O~ 24-19/199 :t7( 16-10/ 1141
+34-6/422 ~ 36-8/614
+
+--- pdf page 438 ---
+ill ~~ 24-12/253 yang :x:.
+32-35/383 yan nJ.. :$ 16-7/1167
+24-13 / 254 3-39/732
++ ~ =R+ 3
+

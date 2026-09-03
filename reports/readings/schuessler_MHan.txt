@@ -1,0 +1,592 @@
+Every line tagged MHan in Schuessler 2009.
+These are the Han-period transcriptions he records.
+OCR note: l) is eng, 0 is often o, 1 and ! are often l.
+
+--- pdf page 12 ---
+Originally I suggested that LHan represents a hypothetical conservative strain of the
+language of about the 2nd century AD. After completing this manual it occurred to me that a
+more fitting name for this language should be Mid-Han Chinese (MHan), as that stage still
+had all those features which survived as archaisms in later dialects, and which have been taken
+
+--- pdf page 16 ---
+text, LHan is usually placed in brackets, thus [ka] LHan ka unless otherwise
+identified.
+MHan Middle Han transcriptions of foreign names and words (Pulleyblank 1962; Coblin
+ms. 1993)
+
+--- pdf page 17 ---
+=
+BTD Buddhist Transcriptional Dialect (later Han period) (Coblin)
+MHan = Middle Han (pre-BTD) (Coblin ms. 1993; Pulleyblank 1962); sources are
+mostly the Hanshu and the Hou-Hanshu (HHanshu)
+
+--- pdf page 27 ---
+Tang, ca. AD 77 5) forms are also added. Buddhist transcriptions from the Eastern Han period
+(2nd cent. AD) have been investigated by Coblin (1982, 1983, 1993); they are utilized here
+for the reconstitution of Later Han Chinese. Earlier Middle Han (MHan) transcriptions of
+foreign names and words are quoted from Coblin ms. 1993; his source was primarily
+
+--- pdf page 48 ---
+suddhavasa). Non-dental qusheng (*-h) has a slight tendency to represent Indic long vowels
+mi%rU
+(e.g., hyoi-sah-lih Skt. Vaisali). All this suggests that the OC and MHan segmental
+features were strong and prominent -? and -X; but they were giving way to phonemic tones in
+
+--- pdf page 54 ---
+7 LATER HAN CHINESE
+Later Han Chinese (LHan, LH) represents an older strain of the language of the Eastern Han
+period from perhaps the 1 st century AD. It includes features of Middle Han Chinese (MHan),
+which must have been present in some LHan speech because they survive in the modern MIn
+
+--- pdf page 54 ---
+dialects as well as in the language of Later Han period writers from Shandong. Thus MIn
+:WZ*),
+dialects still have traces of the OC / MHan diphthong -oi (in rimes as in and of
+X.
+
+--- pdf page 54 ---
+LHan, which is provided in this manual, could perhaps also be called Mid-Han; it can be
+converted to that of Eastern Han mainstream literature using the following paradigms:
+LHan older (MHan) LHan mainstream literature
+koB o > :> in open syllables
+
+--- pdf page 54 ---
+aspirated kh_, nor with voiced g-in tone A (Schuessler 1996).
+7.4 Tones and vowel length
+Tones are marked with letters (B, C) as in MC (see 2.3); for the tonal development in MHan
+and LHan, see 5.3.1. LHan may have preserved earlier segmental features in weakened form,
+
+--- pdf page 55 ---
+OC i e a ::> 0 u
+LS ~kei mke ii" koB ~ k::> ~kOB ~kou
+MHan *meiB fif! be ;ffi poc ¥,f: m::> fJ: moB .pou
+til theiB Il\'ifde ± toB :;f dz::> ji do mdouB
+
+--- pdf page 55 ---
+high glide was assimilated to u after labial initials (~ HS [mio >] muo), but was assimilated
+to i after acute initials (T HS [tsi::>B >] tsi::>B). Uncertainties remain, e.g. tJ< qiii < MC tshj::>U
+could have been MHan tshu (the high vowel u does not bend), or it could have been MHan tshiu
+(after acute initials the glide is i). The two stages in LS are suggested by transcriptions and
+
+--- pdf page 70 ---
+GSR 32 -106
+Baxter 1992: 478 ff. (§1O.2.4)
+The DC / Han period value *-a is confirmed by sporadic archaisms in dialects, and MHan
+transcriptions where the vowel represented foreign a (see examples under the entries).
+
+--- pdf page 74 ---
+Jff.31t
+57bf hu xuoB hOB hlar OCB (post 1992) *hlii?
+[T] MHan JJE~ a.Q1t(l~ (harpax) <> [D] PMin *khOB <> [E] AA *kala? 'tiger' > MK *kla? >
+OKhm *k1aa
+
+--- pdf page 75 ---
+T
+97a yu ju wo wa
+[T] Sin Sukchu SR y (3jL); MTang y < uo; ONW uo; Han BTD Skt. va. MHan ·:rlll wo-den
+H vatiina (Khotan) <> [E] TB *wa, *s-wa: Newari wa 'to come', JP wa31 'to go back';
+
+--- pdf page 76 ---
+1-28 = K. 61 Mand. Me LHan oeM
+ad ,Il% q!1j; wii ?uo ?a ?a
+[T] Sin Sukchu SR ?u (3f); MGZY 'i (3f) [?u]; ONW ?o; BTD Skt. 0; MHan .~~Jl.j. ?o
+jik-~an-lioi Alexandria; .~m ?o-yuon *Awar
+
+--- pdf page 77 ---
+J.f
+67c sii suo so sl)a OCB *s1)a
+[T] MHan fiM so-geh soyd or soy oak
+1-32 =K. 81 Mand. MC LHan OCM
+
+--- pdf page 78 ---
+Iii
+a tu duo do da 3f 2-16/801a
+[Tl MHan r-'111 bu-do Buddha
+1-38 =K. 45 Mand. Me LHan oeM
+
+--- pdf page 78 ---
+tI3
+e' dii tuo to ta
+[Tl MHan ~ijt to-los Talas; ~* to-mit (*ta-mrit) Tarmita, Termes
+h' ~ dii tuo, to, ta,
+
+--- pdf page 79 ---
+i 'j' ~m tu duo da da
+r'¥-m
+[f] MHan bu-da Buddha
+s MN xu zjwoB ziaB s-la? = 1-43/83h pJ;; 1-42/820 &t
+
+--- pdf page 81 ---
+1-47 = K. 47 Mand. Me LHan oeM
+ab 3fGlfG a place ye jia ja Ia Of ja ?
+[T] ONW ia. MHan ~!f~ moh-ja Skt maya
+slow xli zjwo zio s-Ia
+
+--- pdf page 83 ---
+jie dzjaB dziaB dza?
+46a .§. 2 moreover qie tshjaB tshiaB tsha?
+[T] Sin S. SR ts'je (...t); MGZY tshya (...t) [ts'je]; ONW tshia. MHan .§.*-mat = Calmadana
+£L obstruct qu tshjwo tshio tsha
+
+--- pdf page 84 ---
+90a AE shU ~jwo ~a sra
+bd ~frt shu ~jwo ~a sra
+[f] MHan iffrtF. .' ~o-munc (*sra-m':'!ns) Skt. sramana <> [D] PMin *sl:1
+tm
+
+--- pdf page 91 ---
+x' IiI luoc laC rakh
+I' ~ IiI Iuoc laC rakh OCB *g-raks
+[T] Sin S. SR lu ($:), PR, LR lu; MGZY lu ($:) [lu]; ONW 10. MHan f~n kel)c-Ioc qil)iraq
+(Hunnish sword) <> [D] W-Wenzh 11/ly21; PMin *S,luoc: Yong'an thuCl, JHlny tbC2, Fuzh tuoC2
+
+--- pdf page 92 ---
+?wBk ?uak ?wrak or ?wak
+k til hu yuoC yuoC gwakh
+[T] MHan 1lI~ yuaCtsQu? = waxsab <> [E] WT 'gogs-pa 'to prevent'
+fg fi~ hub, ywek, yuak, gwrak or wak,
+
+--- pdf page 95 ---
+sakyamuni <> [E] KS *s-lak or ?lak7 'to wash clothes'; <>? PTai *z;)k 'wash clothes'
+o marsh ze <;i13k <;iak drak < r-Iak
+[f] MHan ~il!: <;Iak-sonc Alexandria
+lay open shi sjiik sak lhak
+
+--- pdf page 96 ---
+2 OCM *-ak ~tf~ (GSR 766-807)
+dzjaC m-Iah [E] WT gla-ba 'musk deer'
+eg zjaC s-Iakh [T] MHan s1ihi
+2-27 = K. 800 Mand. Me LHan OCM
+
+--- pdf page 98 ---
+[E] TB *p(r)ak, *r-pak 'shoulder'
+o @t po phllk phak phrak = 2-391772b ~
+[T] MHan iJElJ* ug1t<Xl;, (harpax)
+'1'13 quiet po phllk phak phrak
+
+--- pdf page 99 ---
+W
+ad ~1 > mll muoc mac makh evening
+[T] MHan ~!f~ moh-ja Skt maya
+~2 nobody mb mak mak mak
+
+--- pdf page 103 ---
+3-20 = K. 718 Mand. Me LHan oeM
+a :9;!: center yang ?jal) ?iol) ?al)
+[f] Sin Sukchu SR ?ja? (3fL); MGZY ('yang » 'yang (3jI.) [?jal)]; BTD Skt. an. MHan :9<':1I
+?iOI)-gUlS Tocharian B ankwa~ 'asafoetida'
+
+--- pdf page 104 ---
+Mand. MC LHan OCM
+ag .~Jl huang ywal) YUQI) wal)
+m! [f] ONW yuol). MHan ~m! tu:m-yuol) Sogd. *oruwan, 6poavcx (Dunhuang)
+defh 1l{~il1i huang ywal) yUQI) wal)
+
+--- pdf page 112 ---
+3-53 = K. 704 Mand. Me LHan oeM
+a sang saI) sOI) SaI)
+[T] ONW sal]. MHan ~r~ sOI]-man sramal)a
+b ~J{ sling SaI)B sOI)B saI)?
+
+--- pdf page 112 ---
+ef i~§*§ xiang sjaI) sioI) saI)
+~ shuang ~jaI) ~oI) sraI)
+[T] ONW ~al]; MHan Jtm Ku~al)a <> [D] W -Wenzh c;;yo44/32_peI]44/33 'ice', PMin *801]:
+Xiamen S1]55, Chaozhou SUll]33
+
+--- pdf page 120 ---
+a 1i qIll khj;}u khu < khwu;} R! khw;} R! OCB *kWhj;;,
+In Han poetry, qiu rimes with both *-;;, and *-u. <> [f] MTang kheu < khiu, ONW khu; BTD
+Prakr. khu, Skt k~u. MHan ligt khu-dziuc = Kujula <> [E] ST *kw;;,: TB-Phon bwa, Lushai
+khuaH 'village', Lai khua 'cosmos, village'.
+
+--- pdf page 127 ---
+r
+a zl tsiB tsiB < tsi~B ts~l
+See Intro. 9.2.1. [f] Sin Sukchu SR tS1 ct); MGZY dzhi (1:) [ts1]; ONW tsi~; MHan mT"
+*kfin-ts~? = Krrsaq; 58iliT"- ~i-tsi~? Tocharian A sisiik, B ~ecake 'lion' <> [E] TB *tsa or *za >
+
+--- pdf page 127 ---
+b mat; this zf tsi tsi~ tS;)
+an
+[f] ONW tsi~; MHan *ku-ts~ = Kuca
+ghi ~~t!i! zf tsi tsi~ tS;)
+
+--- pdf page 128 ---
+9:.
+975a shr ~iB ~i::lB sra?
+[T] Sin Sukchu SR ~i (.1.), PR, LR n; MGZY Shhi (.1.) [~U; MTang ~i, ONW ~a; MHan ~a?
+(or sra??) S(u)Iiv 'Sogdian' <> [D] PMin *saiB 'to use'
+
+--- pdf page 134 ---
+e zhi, zhi zj;}k, ~ic dZik, ~i;}c d;}k, dr;}kh [1'] ONW dzik
+ki f!;f de t;}k t;}k t~k
+[1'] ONW t;}k. MHan :m1! siok-t;}k Soyd or soyilik
+f ~i single te d;}k d;}k d~k = 4 -26/961 h' !f-f
+
+--- pdf page 134 ---
+5-16 = K. 918 Mand. MC LHan OCM
+ace -t~·tt-lt yi ji;}k jik l;}k
+[1'] MHan ,~-I::;l1IM ?a-jik [lik?]-~an-liai Alexandria; :m-l::; siok-jik Soyd or Soyilik
+g;Et te th;}k th;}k IMk
+
+--- pdf page 136 ---
+5-28 = K. 908 Mand. Me LHan oeM
+a ~ to block sal, sal, se s~k, s~iC s;}k, S;;lC sflk(h)
+[f] ONW s;}k, sai. MHan s;}k Saka <> [E] ? AA-Khmer suka /sokl 'to stop up, block, cram ... '
+~ frontier sai saic S;;lC s~kh
+
+--- pdf page 136 ---
+5-29 = K. 925 Mand. Me LHan oeM
+a J~' xl sj;;lk sik s;;lk
+[f] Sin Sukchu SR si (A); MGZY si (A) [si]; ONW sik. MHan *'}~, Arsak
+[E] TB *sak: LB *C-sak 'breath, air, breath of life': WB ;}-sak 'breath, life'; Mru chak 'heart,
+
+--- pdf page 145 ---
+7-3 = K. 864 Mand. Me LHan oeM
+abc 3t;fi,lJt zhf tsje tse < kie ke 'branch> limb'
+[T] ONW tse (kie?); BTD Skt. ke, tye, Pkt. ceo MHan -3t ?it-kie Iki, f,*3t deu-kie Taoke
+:m [D] PMin *ki <> [E] TB: Chepang gwe? 'finger', Tani *ke(l)) 'finger'; WT bkye 'to divide'
+
+--- pdf page 148 ---
+7-11 = K. 873 Mand. Me LHan oeM
+a ~ er nZJe fie l)e OCB *IJie
+[fl-Sin Sukchu SR ri (:>JL), PR, LR r1; MGZY Zhi (:>JL) [ril; ONW fie. MHan l:iTh5llim-fie
+Skt. Lumbini <> [Dl Xiang: IJa <> [El Area word: TB: JP IJ!!p3 « i]ai ?), tJa33_i]aP3 'baby',
+
+--- pdf page 155 ---
+ef n~~ ge kek kek krek [f] ONW kek
+~~ ge kek kek krek
+[f] MHan MJ)Et ge-kiin LH kek-ku;m < krek-kfin Qyrqyz < qyrqyf (Pulleyblank 1983: 455)
+9 ~ he yek gek grek - 5-2/93Id ~
+
+--- pdf page 158 ---
+coffin pi biek bek bSk
+dgh ~~$~ bi pjitlk 4 piek pek
+[T] MHan liimME piek-liu-liui Skt. vaidurya, Pkt. veluriya
+iWF pi phjitlk 4 phiek phek
+
+--- pdf page 160 ---
+9 ~ jfng kiel) kel) kel)
+fi ~~ jing kiel)c kel)c kel)h
+~ [T] MHan f~1Mt kel)c-Iac qil)iraq (Hunnish sword)
+e ~U jrng kiel)B kel)B kel)t
+
+--- pdf page 177 ---
+10 oeM *-0 {~-tf~ (GSR 108-138; 1229-1235)
+k:fl lou l~u 10 ro
+[T] BTD Skt. ro[hita]. MHan ftJi Krorayina <> [D] PMin *l::lU
+• cricket lou l~u 10 ro
+
+--- pdf page 180 ---
+ij ± m ftfM fll: bjuC buoc boh
+k fll: bjuC buoc boh
+[f] MHan ~i!f;j kau-buoc K6!~o1JQ()( (Kabul)
+m~ fll:-lou bjuC_I:mB buoc-loB
+
+--- pdf page 185 ---
+11-20-= K. 1221 Mand. MC LHan OCM
+a ~ su sjwok siok sok OCB *sjok
+[f] MHan ~Hw siok-t;}k Soyd or soyClik <> [D] PEMin *tshuokDl, PWMin *JUOkD1
+'unhusked rice'
+
+--- pdf page 186 ---
+i- ~~ bu puk pok pok
+~ pu ph uk phok phOk
+[T] MHan ~:j:g~ phok-deu?l-theu < *phOk-liau? Puskaliivati, IIElJKf:Auoonc;
+m ~ pu,po phuk, phak phok, ph::>k phOk,phrok
+
+--- pdf page 196 ---
+do ~~ kao khauB khouB khfi? R! OCB *khu?
+1 Pj qiao khauB/C khouB/C khrfi?, khrfih
+[f] Sin-SR khjawB; MGZY khjawB; ONW khiiu; BTD khlOU; MHan khlU
+mn *'517 xib xj:mB huB hu?
+
+--- pdf page 196 ---
+jill kjieu 4 kiu kiu = 4 -1S/1066i ~
+ghi P!j~1.j 31Ig Jlao kieuc keuc kifih
+PJ..! [f] Sin Sukchu SR kjew (=*); PR kjaw; MGZY gyaw (=*) [kjew]; ONW keu; MHan kiu;
+BTD keu ,
+
+--- pdf page 204 ---
+t1E1iJrt
+ac lili Ij;m liu ru or riu
+mff]t S. in Sukchu SR liw (3:JL); MGZY liw (3:JL) [iiw]; MTang leu < liu, ONW lu < lu. MHan !ii
+piek-liu-lioi Skt. vaidurya, Pkt. veluriya <> [D] M-Xiam, Fuzh lauA2
+
+--- pdf page 206 ---
+13-58 =K.I093 Mand. Me LHan oeM
+a g;t JlU dzj;:)uc dziuc dzuh R! OCB *dzjus
+[T] Sin Sukchu SR dziw ($:); MGZY tsiw ($:) [dziw]; MTang dzeu < dziu, ONW dzu. MHan
+li8.t khu-dziuc = K ujula
+
+--- pdf page 208 ---
+192
+a wrap bao pau p:>u pru OCB *pru
+[f] Sin Sukchu SR paw (:ljL); MGZY baw (:ljL) [paw], MHan plU; BTD plOU; ONW pau
+[E] WT 'phur-'wrap up'
+
+--- pdf page 208 ---
+r¥
+f6 bj~u bu bu R! OCB *b(r)ju
+[f] Sin Sukchu SR v~w (:ljL); MGZY Hwow (:ljL) [vow]; MTang bvu, ONW bu. MHan r$1II
+bu-do Buddha <> [D] PMin *bhu - bu: Xiamen, Fuzhou phUA2• Yao bjou2 < *nb-
+
+--- pdf page 211 ---
+14-5 = K. 1016 Mand. Me LHan oeM
+a ~ poison n. du duok douk duk OCB *duk
+[f] ONW douk. MHan :!itil sin-douk Hinduka <> [D] Vue tukD2, Kejia thukD2, Fuzh t!/likD2
+[E] WT gdug-pa 'poison'
+
+--- pdf page 214 ---
+fg xiao sieuc seuc siGh
+h }I panpipe Xlao sieu seu siu - 16-33/114ge'
+[T] MHan siu; BTD seu; ONW seu; MTang siau > siau
+1f.!IiI
+
+--- pdf page 218 ---
+16-1 = K. 1129 Mand. MC LHan OCM
+a ~ high gao kau kau kau OCB *kaw
+[f] Sin Sukchu SR kaw (:If); MGZY gaw (:If) [kaw]; ONW kou. MHan ~Ilft kou-buoc
+Ka~o'\}p(l (Kabul)
+
+--- pdf page 224 ---
+z ,WE tao, dao dau(B) dOU(B) laue?)
+o tJ~ provoke tiao thieu theu lhiau
+[f] Sin Sukchu SR t'jew (~), PR t'jaw; MGZY thyaw (~) [t'jew]. MHan ~tJt phok-deu?/
+theu < *phok-liau? Puskaliivati, ITEUKEAuomc;;
+
+--- pdf page 226 ---
+also written 38-29/647e
+gnhi ~~Jla zao tsauB tsauB tsau?
+~ [T] MHan ifi~ yuoCtsou? = waxsab <> [E] MY *ntslaau3 SIC 'to wash (bathe)'
+jk ~~ zao tsauC tsauC tsauh
+
+--- pdf page 228 ---
+16-35 = K. 1153 Mand. Me LHan oeM
+a $. bUio pjliuB 3 piouB pau?
+[f] MHan pau; BTD pau; ONW pau; MTang pau
+ID
+
+--- pdf page 236 ---
+m IWJ a ta to < tai tai
+[f] ONW ?o; BTD Skt. ?a-, e.g. llOJiWjl\iJf; ?o-ka-nis-~ac Skt. Akani~~a; Han ?a-l)uic 1lOJ~
+Tocharian B ankwas 'asafoetida'; MHan 1lOJ. ?o-man Armenia
+jk onJ~ he . M hoi Mi
+
+--- pdf page 240 ---
+f $I a bird If lje liai rai
+$I hang d. If lje liai rai
+'To be drooping, hanging down' <> [T] ONW Ie. MHan Jli¥JTEM piek-liu-liai Skt. vaidurya,
+Pkt. veluriya <> [E] ? TB: WT brgyal « b-r(-)yal) 'to sink down (senseless), faint'
+
+--- pdf page 241 ---
+[E] TB *z(l)a-y < **s(l)a-y > WB saiB - s:llaiB 'sand', PL *say2 , JP dzaj31-'sand'
+e ~ suo sa sui sai
+[f] MHan *I1Jt(~) kiop-pos(-so[i]) karpasa
+f ~ a plant suo swa suui
+
+--- pdf page 257 ---
+2l-5B Mand. Me LHan oeM
+JH;Ij~1 ji kjiiiC 3 kias kats
+JJj [T] MHan Indic kath; JJjf{ kias-pin Kashmir
+21-6 =K. 329 Mand. Me LHan oeM
+
+--- pdf page 260 ---
+hot', Po-ai saatD2L < j-, 'hot, peppery', Dioi satl « *b-Iatl)
+e • ill ~ ~ ~
+[T] lndic ras, ra~ (Coblin 1983: 83). MHan im~ to-los Talas
+fg ~jpj lai HUc los rats
+
+--- pdf page 263 ---
+21-35 = K. 320 Mand. MC LHan OCM
+a ~ bei pwaiC pas pats
+[f] Sin Sukchu SR puj (:t:), PR P;}j, LR P;}j; MGZY bay (:t:) [paj]; BTD Skt. pat[tra]. MHan
+Mffil.(~) ldap-pas(-sa[iD Skt. karpasa
+
+--- pdf page 263 ---
+*f*
+ac mo mwJ3a.t* mat mat
+[f] ONW mut. MHan tshiaB-mut = Calmadana
+i*
+
+--- pdf page 271 ---
+23 oeM *-en JC:g~ (1) (GSR 139-266)
+n M hin Ian Ian ran OCB *g-ran
+• [f] ONW Ian. MHan :tJjJj Krorayina
+hin Ian Ian ran
+
+--- pdf page 278 ---
+24-11 = K. 146 Mand. Me LHan oeM
+a !:Jl: an ran ran ran
+[f] Sin S. SR ?::m (3jZ); PR ?an; LR ?an; MGZY 'an (3jZ) [?an]; ONW ?on. MHan ~}il'!, Arsak;
+~~ ?an-tu;)n Antonius
+
+--- pdf page 282 ---
+[f] Sin Sukchu SR *n (*); ONW dian
+iB shim ijanC dianc dans
+[f] MHan ~~ diane-dianB Cherchen (*Jarjan)
+24-26 = K. 201 Mand. Me LHan oeM
+
+--- pdf page 285 ---
+pouring' ~ swan 'pour out, spill, shed'
+~ disperse san sanc sonc sans
+[f] MHan 7$'/l':!( <;Iak-sane Alexandria
+sa, sa sat sat sat
+
+--- pdf page 285 ---
+24-44A Mand. Me LHan oeM
+:EIlltfili§ s(h)an-hU san-yuo san-go
+[f] MHan: Iranian sanga 'stone'
+fflllJ shan ~an
+
+--- pdf page 285 ---
+24-45 = K. 193 Mand. Me LHan oeM
+a III shan ~an, ~an ~an, ~en sran OCB *srjan
+[f] Sin Sukchu SR ~an (:>JL); MGZY (zhan » shan (:>JL) wan]. MHan ,~"\;UJ. ?a-jik-~an-liai
+Alexandria
+
+--- pdf page 290 ---
+IX'III§!
+jkl huan xwan huon hwan
+[f] MHan grm huon-nei kuhani or khvani
+DI
+
+--- pdf page 293 ---
+f ~ wan ?wan ?uan ?on
+bgj ~~~ wan ?jW13nB ?yonB ?on? OCB *?jon?
+[T] MHan :k3lB daC-?yan or -?ion perhaps Great Yavana = 'IaovE~ (Ferghana)
+h m~ yuan! ?jW13nB ?yonB ?on?
+
+--- pdf page 297 ---
+m[ T] Sin Sukchu SR pjen (*); MGZY byan (*) [pjen]; ONW pan
+p man man man mron
+• [T] MHan !lPJ!lI ?a-man Armenia
+q IUan, ~wanC, ~uanC srons
+
+--- pdf page 303 ---
+f1t lI/¥
+ad yf ?i 4 ?i ?i
+W [f] Sin Sukchu SR ?i (.1jl); MGZY Yi (.1jl) [?ji]; STCA n, ONW ?ii; BTD Skt. f-. MHan W
+M ?i-zuin < -s-jun « *s-lun) 'Icrcrn66v<€ ; (lssedones)
+
+--- pdf page 306 ---
+e nr I)jeB nre?
+d mud nf mel nei ni
+[T] Sin Sukchu SR njej (-'f), PR ni; MGZY ni (-'f) [nil; ONW nei. MHan .~ huon-nei
+kuhani or khvani <> [D] In many dialects, the word means 'earth' til ±, e.g., K-Meix nui"
+
+--- pdf page 308 ---
+gffi
+a shf ~i ~i sri OCB *srjij
+[f] Sin S. SR ~i (-'¥), PR, LR n; MGZY shhi (-'¥) ~u; BTD BijifiJ Skt. srf; MHan ~BiIi 6.is-~i
+Nesef
+
+--- pdf page 316 ---
+j wei I]w~i(B) I]U~i(B) I]fii OCB *l)uj
+k wei IJjwei(C) I]ui(C) I]w~i, I]w~ih or I]W~S
+[f] MHan ?a-l)uic < ?IH-l)w~is (?) fliiIft Tocharian B ankwa~ 'asafoetida'
+s wei, wei IJjwei I)ui I)w~i
+
+--- pdf page 326 ---
+agi =i\ = li t er nzic filS nis
+[f) Sin Sukchu SR ri (*), PR, LR q; MGZY Zhi (*) [ri); ONW fli
+it [f) Han BTD JfoJ~Jitnt ?a-ka-flis-~ac Skt. akani~~a. MHan ~Bffi flis-~i Nesef
+[E) TB *g-nis > WT giiis
+
+--- pdf page 329 ---
+p ~ silence mi mjet 3 mit mrit [E] Tai: Saek mit 'quiet'
+~ near mi mjet 3 mit mrit OCB *mrjit
+[f] ONW mit. MHan 'I!Il~ ta-mit (*ta-mrit) Tarmita, Termes
+r ~ mi mjiet 4 mit mit
+
+--- pdf page 337 ---
+lIE
+9 kui gjwiC 3 guis gus OCB *grjuts R!
+~ 4-7/986. [T] MHan :!R:M ?iol]-guis Tocharian B ankwa~ 'asafoetida'
+fflJf2
+
+--- pdf page 337 ---
+• kui gjwiC 3 guis gus - 28-l/569r ~
+b • gui kjweiC kus kw~s OCB *kjuts
+[f] Sin Sukchu SR kuj ($:); MGZY gue ($:) [kue]; ONW kui. MHan .~ Ku~al).a
+[D] PMin *kyic <> [E] WT *gus-po 'costly, expensive' ~ gus-pa 'respect' ~ dkon 'valuable'
+
+--- pdf page 339 ---
+31-19 = K. 529 Mand. Me LHan oeM
+a ~ lei IjwiC luis rus
+[T] ONW lui; BTD Skt. -rodh-(?). MHan riIlJl bo-Iuis Bars (*barus) <> [E] TB: WT rus
+'clan, lineage' (also 'bone'), Tamang 3rui 'clan', WB ruiB 'lineage' (also 'bone')
+
+--- pdf page 345 ---
+~ subdue zhen, tian tjenC, dien ~inc, den trins, din
+qrs DliIiH~ tian dien den din
+a [T] MHan "fill wa-den Hvatiina (Khotan)
+dUtn dienc denc dins
+
+--- pdf page 346 ---
+32-23 = K. 386 Mand. MC LHan OCM
+a ~ shen sjen sin Ihin
+[f] Sin Sukchu SR ~in (.1jl); MGZY shin (.1jl) win]; ONW sin. MHan :!1fji sin-do uk Hinduka
+d thin dien den lIn
+
+--- pdf page 348 ---
+a W bfn pjien 4 pin pin
+11.
+[f] MGZY bin (-'¥) [pin]; Sin Sukchu SR pin (-'¥); ONW *piin; BTD Skt. -bhijii-; MHan
+kias-pin Kashmir <> [E] TB: WT sbyin-pa 'to give, bestow; gift', Lepcha byi, byf-n 'to give'
+
+--- pdf page 357 ---
+a r~ men mw~n m~n m~n OCB m<ln
+[f] Sin Sukchu SR mun (3jL); PR, LR m<ln; MGZY mun (3jL) [mun]; ONW mon < m<ln; BTD
+Skt. ma1).a, mana. MHan ~r~ sQI)-m<ln srama1).a <> [E] TB *mu:r > WT mur 'gills'; Limbu
+mura 'mouth, beak'
+
+--- pdf page 357 ---
+fame wen mjw~nC munc m~ns
+9 r~~ wen mjw~nC munc m~ns
+[f] MHan iffitF,,~ ~Q-munc (*sra-m<lns) Skt. sramal)a
+[E] TB *m-n<lm: WT mnam-pa 'to smell of'; WB nam 'stink' ~ namB/C 'smell', JP
+
+--- pdf page 358 ---
+m
+a elder bro kun! kw~n ku~n kfin OCB *kun
+[fl ONW kon. MHan M~Ee ge-kiin LH kek-kuan < krek-kfin, and ~Ee jiiin-kiin LH ken
+ku:m < ken-kfin Qyrqyz < qyrqyf (Pulleyblank 1983: 455)
+
+--- pdf page 362 ---
+n '1$ diin,zhiin tw~n, tsjwen tu~n, tsuin tOn, tun
+p ~ thick dun tw~n tu~n tOn
+[f) ONW ton. MHan 't(¥j( ?on-Antonius; ¥j(~ -yuol) Sogd. *oruwan, 0poav<x (Dunhuang)
+chaos dun dw~nB du~nB dOn?
+
+--- pdf page 363 ---
+e ~ dun dw:mB/C du~nB/C lUn?,luns = 34-22/428d ~
+f 1~ xun zjwen zuin s-lun ~ 34-20/462e ~
+[f] MHan Wml ?i-zuin < -s-jun « *s-lun) 'I(J(JI156vE<; (Issedones)
+c jI shun, shun, dzjwenB/C, zuinB/C, m-Iun?, m-Iuns,
+
+--- pdf page 366 ---
+The reading Me khjwo has been borrowed from the meaning 'enclose'
+hi :J;b.:JJJ ji6 kjBP nap kap
+[1'] BTD Skt. kalpa. MHan 1.;1] ~(~) kiap-pas( -so) kilrpasa
+j qie khjBP khiap khap
+
+--- pdf page 373 ---
+36-8 Mand. Me LHan oeM
+a yan ?jamB 3 ?iamB ?am?
+= 36-9/615ab ~~ [f] ONW 1am. MHan 'iI!~ ?tamB-soC Abzoae, J\6pcnot
+an ?~mB ?::lmB ?am? [f] ONW 10m
+
+--- pdf page 386 ---
+k ~@ dan Iflm?, lflms
+mn !mil yan jiam J. am, warn.? lam
+[f] MHan Vim(a)
+:tM
+
+--- pdf page 390 ---
+Mand. Me LHan oeM
+a ~ pIn phj~mB phimB phr~m?
+[f] Sin Sukchu SR p'in (1::); MGZY phim (1::) [p'im]. MHan Cif,;3l!. lim-he Skt. Lumbini
+[E] ? TB: WT rim-pa 'series, succession, order, method'
+

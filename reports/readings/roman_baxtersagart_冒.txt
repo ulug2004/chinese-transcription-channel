@@ -1,0 +1,203 @@
+baxtersagart -- lines containing a Later Han syllable of 冒
+Source: Old Chinese _ A New Reconstruction -- William H_ Baxter, Laurent Sagart -- Illustrated, FR, 2014 -- IRL Press at Oxford University Press -- isbn13 9780199945375.pdf
+Keys: mou, mək
+
+--- pdf page 20  (matched mou) ---
+or replace them.
+An illustration of the hypothetico-deductive method is the famous case of the
+solar eclipse of May 29, 1919, which provided an opportunity to compare the predic-
+
+--- pdf page 48  (matched mou) ---
+戍 shù displaced 屋 wū as ‘house’, 囝 jiǎn displaced 子 zǐ as ‘child’, and 喙 (MC
+tsyhwejH) displaced 口 kǒu as ‘mouth’ (Běijīng dàxué 1995:249). In phonology, a
+unique Mǐn innovation is the shift of OC *r to the Proto-Mǐn softened initial *-d- in
+
+--- pdf page 53  (matched mou) ---
+an assimilation to the initial nasal of the following word.
+Wáng Yǐnzhī 王 引 之 (1766–1834), the son of the famous Qīng scholar Wáng
+Niànsūn 王 念 孫 (1744–1832), recorded his father’s view that 云 yún sometimes means
+
+--- pdf page 57  (matched mək) ---
+律 Karlgren’s *bli̯wət ‘law, rule (n.)’ (> lwit > lǜ; our *[r] ut)
+(47) 黑 Karlgren’s *χmək ‘black’ (> xok > hēi; our *m̥ ˤək); cf.
+墨 Karlgren’s *mək ‘ink’ (> mok > mò ‘ink’; our *C.mˤək)
+
+--- pdf page 57  (matched mək) ---
+(47) 黑 Karlgren’s *χmək ‘black’ (> xok > hēi; our *m̥ ˤək); cf.
+墨 Karlgren’s *mək ‘ink’ (> mok > mò ‘ink’; our *C.mˤək)
+(48) 品 Karlgren’s *p’li̯əm ‘kind, class’ (> phimX > pǐn; our *pʰr[ə]mʔ); cf.
+
+--- pdf page 71  (matched mou) ---
+(102) 亡 *maŋ > mjang > wáng ‘flee; disappear; die’
+喪 *s-mˤaŋ > sang > sāng ‘mourning, burial’ (< ‘circumstances associ­
+ated with death’)
+
+--- pdf page 97  (matched mou) ---
+borrowing, without prenasalization.
+(236) 峽 *N-kˤrep > *N-gˤrep > *gˤrep > heap > xiá ‘mountain pass’,
+Proto-Hmongic *ɢlow D ‘mountain pass’ (without prenasalization,
+
+--- pdf page 97  (matched mou) ---
+(236) 峽 *N-kˤrep > *N-gˤrep > *gˤrep > heap > xiá ‘mountain pass’,
+Proto-Hmongic *ɢlow D ‘mountain pass’ (without prenasalization,
+reflecting post-Old Chinese *gˤ-)
+
+--- pdf page 131  (matched mou) ---
+(419) 攄 *r̥a > trhjo > shū ‘extend’
+(420) 离 *r̥aj > trhje > chī ‘mountain demon’
+But another dialect, which we suppose is western, has x- for both *r̥ˤ- and *r̥-; when
+
+--- pdf page 145  (matched mou) ---
+in Shāng oracular inscriptions: the fullest form represents a man with manacles inside
+an enclosure; sometimes the figure of the man is abbreviated to 口 kǒu ‘mouth’; and
+sometimes we have only the manacles, which corresponds to the standard graph 圉
+
+--- pdf page 146  (matched mou) ---
+place name:
+琅 邪 *[r] ˤaŋ-ɢ(r)A > lang-yae > Lángyá (name of a mountain in
+Shāndōng)
+
+--- pdf page 158  (matched mou) ---
+Examples of *s.m(ˤ)- include:
+(574) 喪 *s-mˤaŋ > sang > sāng ‘mourning, burial’;
+喪 *s-mˤaŋ-s > sangH > sàng ‘lose; destroy’; the Shuōwén (SWGL 665a)
+
+--- pdf page 158  (matched mou) ---
+The *s- prefix in 喪 *s-mˤaŋ creates a deverbal noun referring to the circumstances of
+an event (section 3.3.2.3): ‘mourning, burial’ < ‘circumstances associated with dying’.66
+Another example is:
+
+--- pdf page 163  (matched mou) ---
+We reconstruct *s-ŋr- in
+(595) 山 *s-ŋrar > srean > shān ‘mountain, hill’, pMǐn *š-; related to
+巘 *ŋ(r)ar(ʔ) > ngjenX > yǎn ‘hill’ (a rhyme in Ode 250.2 indicates
+
+--- pdf page 163  (matched mou) ---
+(596) Shì míng:
+山 *s-ŋrar ‘mountain’ is 崖 [*ŋˤrar] ‘river bank’; it produces [產
+[*s-ŋrarʔ] 生 chǎnshēng] things.76
+
+--- pdf page 163  (matched mou) ---
+*ŋ(r)ar(ʔ)) and *ŋˤrar (in 崖 *ŋˤrar and 顏 *C.ŋˤrar) is ‘slope, nearly vertical side’, applicable
+to the side of a mountain, the bank of a river, and the forehead.
+We reconstruct *s-ŋr- in (598):
+
+--- pdf page 180  (matched mou) ---
+喙 *(t-l̥o[rʔ]-s?) > *t-l̥ot-s > tsyhwejH > huì ‘snout; to pant’ (this word
+perhaps corresponds to pMǐn *tšhyi C ‘mouth’; see discussion below);
+the phonetic is
+
+--- pdf page 180  (matched mou) ---
+respond to MC -jwojH or -jwejH, and therefore questioned the usual association of
+pMǐn *tšhyi C ‘mouth’ with {喙} tsyhwejH. However, the Proto-Mǐn rhyme *-yi is
+consistent with MC -jwe, so the Mǐn form could be the regular reflex of OC *l̥orʔ-s or
+
+--- pdf page 201  (matched mou) ---
+(767) 飛 *Cə.pə[r] > pj+j > fēi ‘fly (v.)’; pMǐn *-p- (Jiànyáng /ye 9/)
+(768) 崩 *Cə.pˤəŋ > pong > bēng ‘collapse (v., of a mountain)’; pMǐn *-p-
+(Jiànyáng /vaiŋ 9/); pHmong *pʉŋ A ‘to fall’
+
+--- pdf page 207  (matched mou) ---
+(805) 懶 *[N-kə.]rˤanʔ > lanX > lǎn ‘lazy’, pMǐn *-d-; pHmong *ŋglæn B
+Both pHM *ŋkjɔ:m A ‘hold in the mouth’ (Wáng and Máo 1995) and the Kra-Dai
+language Máonán (Liáng Mǐn 1980:100) /ŋgam1/ ‘hold in mouth’ indicate a prenasal-
+
+--- pdf page 207  (matched mou) ---
+Both pHM *ŋkjɔ:m A ‘hold in the mouth’ (Wáng and Máo 1995) and the Kra-Dai
+language Máonán (Liáng Mǐn 1980:100) /ŋgam1/ ‘hold in mouth’ indicate a prenasal-
+ized voiceless stop in the onset of 含 hán < hom ‘hold in the mouth’. At the same time,
+
+--- pdf page 207  (matched mou) ---
+language Máonán (Liáng Mǐn 1980:100) /ŋgam1/ ‘hold in mouth’ indicate a prenasal-
+ized voiceless stop in the onset of 含 hán < hom ‘hold in the mouth’. At the same time,
+Proto-Mǐn has *-g- (Jiànyáng /aŋ 9/): evidently voicing of the initial and softening are
+
+--- pdf page 207  (matched mou) ---
+the work of different preinitials. We reconstruct:
+(806) 含 *Cə-m-kˤ[ə]m > hom > hán ‘hold in the mouth’
+The word 粗 tshu > cū ‘coarse, thick (as hair)’, would normally be reconstructed
+
+--- pdf page 218  (matched mou) ---
+where Middle Chinese has a contrast between syllables with and without -w- before the
+vowel (in traditional terms, a contrast between hékǒu 合 口 closed-mouth finals and kāikǒu
+TABLE 5.14 Origins of MC syllables in final -n in divisions I and IV (revised)
+
+--- pdf page 219  (matched mou) ---
+204 Old Chinese
+開 口 open-mouthed finals), the -w- has only two possible origins: either the Old Chinese
+onset was labialized (e.g., *kʷ-), or the -w- results from the diphthongization of one of the
+
+--- pdf page 235  (matched mou) ---
+b 呼 hù ‘call out, shout’ xuH *qʰˤa-s *χo *xɑ *xagh
+(887) a 吐 tǔ ‘eject from mouth, thuX *tʰˤaʔ *t’o *t’ɑ *thagx
+spit’
+
+--- pdf page 257  (matched mou) ---
+OC MC notes examples
+口 *kʰˤ(r)oʔ > khuwX > kǒu ‘mouth’
+*Kˤ(r)o Kuw
+
+--- pdf page 262  (matched mou) ---
+韭 *s.[k](r)uʔ > kjuwX > jiǔ ‘Allium’
+阜 *[b](r)uʔ > bjuwX > fù ‘big mound’
+*C(r)u Cjuw [5]
+
+--- pdf page 273  (matched mou) ---
+(1034) Ode 197.8:
+山 *s-ŋrar > srean > shān ‘mountain, hill’64
+泉 *s-N-ɢʷar > dzjwen > quán ‘spring, source’
+
+--- pdf page 278  (matched mou) ---
+敦 煌 Dūnhuáng < twon-hwang < *tˤur-ɦˤwaŋ (< *tˤur + *[ɢ]ʷˤaŋ)
+The Chinese name of this famous outpost on the old Silk Road is evidently based
+on its name in Sogdian, an important Iranian language long used in the region.
+
+--- pdf page 282  (matched mou) ---
+the change of *-r to *-j, probably reflecting a local pronunciation. It is 沂 Yí < ngj+j,
+the name of a mountain and river in Shāndōng; as we saw earlier (section 5.5.1.1), the
+phonetic element 斤 clearly indicates *-ər. Our reconstruction is:
+
+--- pdf page 282  (matched mou) ---
+phonetic element 斤 clearly indicates *-ər. Our reconstruction is:
+(1066) 沂 *[ŋ]ər > *[ŋ]əj > ngj+j > Yí ‘(mountain and river in Shāndōng)’
+
+--- pdf page 294  (matched mou) ---
+*Cˤroj > *Cˤrwaj Cwae
+髽 *[ts]ˤroj > tsrwae > zhuā ‘hair knot for mourning’
+*K(r)oj Kjwe [3] 詭 *[k](r)ojʔ > kjweX > guǐ ‘perverse’
+
+--- pdf page 334  (matched mou) ---
+(1183) Modern Standard Arabic Moroccan Arabic
+jabal ‘mountain’ žbəl
+katab ‘he wrote’ ktəb
+
+--- pdf page 343  (matched mou) ---
+本 běn pwonX < *C.pˤə[n]ʔ ‘tree trunk’ 17, 168
+崩 bēng pong < *Cə.pˤəŋ ‘collapse (v., of a mountain)’: 86, 89, 186, 231
+祊 bēng paeng < *pˤraŋ ‘side of the temple gate; sacrifice there’: 143
+
+--- pdf page 346  (matched mou) ---
+絺 chī trhij < *qʰrəj ‘fine cloth’ (dialect: *qʰr- > *r̥- > trh-): 103
+离 chī trhje < *r̥aj ‘mountain demon’: 116
+鴟 鴞 chīxiāo tsyhij.xjew < *tʰij.[ɢ]ʷ(r)aw ‘owl’: 296
+
+--- pdf page 353  (matched mou) ---
+負 fù bjuwX < *[b]əʔ ‘carry on the back’: 325
+阜 fù bjuwX < *[b](r)uʔ ‘big mound’: 247
+復 fù bjuwH < *[N]-pruk-s ‘again’: 249; see also fù < bjuwk
+
+--- pdf page 355  (matched mou) ---
+period)’: 261
+含 hán hom < *Cə-m-kˤ[ə]m ‘hold in the mouth’: 192
+翰 hàn hanH < *[g]ˤar (rhymes as *-ar, but MC implies *[g]ˤar -s)
+
+--- pdf page 363  (matched mou) ---
+恐 kǒng khjowngX < *kʰ(r)oŋʔ ‘fear’: 244
+口 kǒu khuwX < *kʰˤ(r)oʔ ‘mouth’: 33, 242
+苦 kǔ khuX < *kʰˤaʔ ‘bitter’: 104, 222, 223
+
+--- pdf page 364  (matched mou) ---
+懶 lǎn lanX < *[N-kə.]rˤanʔ ‘lazy’: 54, 192
+琅 邪 Lángyá lang.yae < *[r]ˤaŋ.ɢ(r)A ‘name of a mountain in Shāndōng’:
+131; see also 邪 xié < zjae, yé < yae
+

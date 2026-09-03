@@ -1,0 +1,199 @@
+pulleyblank91 -- lines containing a Later Han syllable of 蠡
+Source: Lexicon of Reconstructed Pronunciation_ In Early Middle -- Edwin G_ Pulleyblank -- University of British Columbia Press, Vancouver [B_C_], 1991 -- isbn13 9780774803663.pdf
+Keys: le, loi
+
+--- pdf page 2  (matched le) ---
+Known for his pioneering work in Chinese historical phonetics, Edwin
+Pulleyblank has compiled this Lexicon to present in convenient dictionary
+form the result of his researches on the phonology of Middle Chinese and
+
+--- pdf page 2  (matched le) ---
+Pulleyblank has compiled this Lexicon to present in convenient dictionary
+form the result of his researches on the phonology of Middle Chinese and
+its evolution to Mandarin.
+
+--- pdf page 2  (matched le) ---
+its evolution to Mandarin.
+The Lexicon complements Pulleyblank's earlier book, Middle Chinese,
+by providing reconstructed pronunciation for approximately 8,000 Chi-
+
+--- pdf page 2  (matched le) ---
+by providing reconstructed pronunciation for approximately 8,000 Chi-
+nese characters at three historical stages. Early Middle Chinese is the
+language of the Qieyun rhyme dictionary of A.D. 601, which codified the
+
+--- pdf page 2  (matched le) ---
+standard literary language of both North and South China, the preceding
+period of division. Pulleyblank's reconstruction is a thorough reworking
+of that of Bernhard Karlgren, completed in the twenties, and in some
+
+--- pdf page 2  (matched le) ---
+period of division. Pulleyblank's reconstruction is a thorough reworking
+of that of Bernhard Karlgren, completed in the twenties, and in some
+respects differs radically from it. Late Middle Chinese is the standard
+
+--- pdf page 2  (matched le) ---
+of that of Bernhard Karlgren, completed in the twenties, and in some
+respects differs radically from it. Late Middle Chinese is the standard
+language of the High Tang Dynasty, based on the dialect of the capital,
+
+--- pdf page 2  (matched le) ---
+respects differs radically from it. Late Middle Chinese is the standard
+language of the High Tang Dynasty, based on the dialect of the capital,
+Chang'an. It has not been reconstructed previously as a separate stage but
+
+--- pdf page 2  (matched le) ---
+Chang'an. It has not been reconstructed previously as a separate stage but
+is of special importance, since it is the ancestor of most modern dialects.
+Early Mandarin represents the speech of the Yuan capital, Dadu (present
+
+--- pdf page 2  (matched le) ---
+Early Mandarin represents the speech of the Yuan capital, Dadu (present
+Beijing), around the year 1300, for which Pulleyblank's reconstruction
+differs considerably from that of Hugh M. Stimson. The sources and
+
+--- pdf page 2  (matched le) ---
+differs considerably from that of Hugh M. Stimson. The sources and
+methods used in these reconstructions were fully discussed in Middle
+Chinese, but recent developments in phonological theory have led to some
+
+--- pdf page 2  (matched le) ---
+methods used in these reconstructions were fully discussed in Middle
+Chinese, but recent developments in phonological theory have led to some
+modifications in detail.
+
+--- pdf page 2  (matched le) ---
+Lexicon is the inclusion of the numbers in Karlgren's Grammata Serica for
+characters that are included in that work. Concise English equivalents for
+the Chinese words are also provided. Reconstructed forms are given in
+
+--- pdf page 2  (matched le) ---
+Asian Studies at the University of British Columbia. He is the author of
+Middle Chinese: A Study in Historical Phonology (1984).
+
+--- pdf page 3  (matched le) ---
+This page intentionally left blank
+
+--- pdf page 4  (matched le) ---
+Lexicon of Reconstructed
+Pronunciation in Early Middle
+Chinese, Late Middle
+
+--- pdf page 4  (matched le) ---
+Pronunciation in Early Middle
+Chinese, Late Middle
+Chinese, and Early Mandarin
+
+--- pdf page 5  (matched le) ---
+National Library of Canada Cataloguing in Publication
+Pulleyblank, Edwin G. (Edwin George) 1922-
+Lexicon of reconstructed pronunciation in early Middle Chinese,
+
+--- pdf page 5  (matched le) ---
+Pulleyblank, Edwin G. (Edwin George) 1922-
+Lexicon of reconstructed pronunciation in early Middle Chinese,
+late Middle Chinese, and early Mandarin
+
+--- pdf page 5  (matched le) ---
+Lexicon of reconstructed pronunciation in early Middle Chinese,
+late Middle Chinese, and early Mandarin
+Includes bibliographical references.
+
+--- pdf page 5  (matched le) ---
+ISBN 0-7748-0366-5
+1. Chinese language - Middle Chinese, 1200-1919 - Pronunciation.
+2. Mandarin dialects - Pronunciation. I. Title.
+
+--- pdf page 5  (matched le) ---
+1. Chinese language - Middle Chinese, 1200-1919 - Pronunciation.
+2. Mandarin dialects - Pronunciation. I. Title.
+PL1081.P84 1991 495.IT52 C91-091252-1
+
+--- pdf page 5  (matched le) ---
+Canada
+UBC Press gratefully acknowledges the financial support for our
+publishing program of the Government of Canada through the Book
+
+--- pdf page 6  (matched le) ---
+Contents
+Acknowledgments / vii
+Introduction /1
+
+--- pdf page 8  (matched le) ---
+ACKNOWLEDGMENTS
+The beginnings of this book go very far back and many people have
+contributed along the way. K'ai-ying Po T'ang, then a graduate student in
+
+--- pdf page 8  (matched le) ---
+computer, using radical-stroke order and Morohashi numbers as the key to
+the Chinese characters, which it was not yet possible to input directly. This
+was done by Eliza Ko, a student in Computer Science, employed under the
+
+--- pdf page 8  (matched le) ---
+was done by Eliza Ko, a student in Computer Science, employed under the
+British Columbia/Canada Summer Employment Program, Challenge 85,
+and the Work-Study Program of the B.C. provincial government in 1985-
+
+--- pdf page 8  (matched le) ---
+86. An important breakthrough came with the transfer from the mainframe
+to a Macintosh personal computer which provided much greater flexibility.
+Kenneth Szto was employed under the Work-Study program in 1986-87 to
+
+--- pdf page 8  (matched le) ---
+of a Chinese font, the Qiyi program produced by the Great Eastern
+Software Company Limited of Taipei, which has made it possible to input
+Chinese characters directly into the computer and to produce photo-ready
+
+--- pdf page 8  (matched le) ---
+Postscript font, IPATimes, was carried out by a research assistant, Elsie
+Arbuckle, with the assistance of a grant from the Social Sciences and
+Humanities Research Council of Canada. I am also grateful for the
+
+--- pdf page 8  (matched le) ---
+The editing of the text at all stages and final preparation of the text for
+printing have, in the end, fallen to me and errors that remain are my own
+responsibility.
+
+--- pdf page 9  (matched le) ---
+This page intentionally left blank
+
+--- pdf page 10  (matched le) ---
+The sounds of spoken language vanish as soon as they are uttered. Since
+the invention of the phonograph and more sophisticated electronic means of
+recording sound, it has become possible to overcome this limitation so that
+
+--- pdf page 10  (matched le) ---
+the invention of the phonograph and more sophisticated electronic means of
+recording sound, it has become possible to overcome this limitation so that
+we can hear voices from the past speaking in their own accents. For earlier
+
+--- pdf page 10  (matched le) ---
+utterances. Even for languages with syllabic or alphabetic scripts, this
+provides a very imperfect and incomplete mirror of what was said. Such is
+the coded nature of language that its message can be translated into written
+
+--- pdf page 10  (matched le) ---
+could actually hear them can reach us and convey their meaning across the
+centuries. Nevertheless, much is inevitably lost and there are many reasons
+why it is desirable to get closer to the contemporary sound of the speech of
+
+--- pdf page 10  (matched le) ---
+centuries. Nevertheless, much is inevitably lost and there are many reasons
+why it is desirable to get closer to the contemporary sound of the speech of
+past centuries.
+
+--- pdf page 10  (matched le) ---
+constant state of flux and spellings become conventionalized and come to
+reflect obsolete usages. Moreover, in every culture written language
+develops its own conventions that move away from those of the vernacular.
+
+--- pdf page 10  (matched le) ---
+develops its own conventions that move away from those of the vernacular.
+The written norm tends to become a separate code accessible only to the
+educated elite. The classical Latin of a Tacitus or a Pliny in the first century
+
+--- pdf page 10  (matched le) ---
+educated elite. The classical Latin of a Tacitus or a Pliny in the first century
+of our era was very different from the vulgar Latin that we find reflected in
+Petronius. The actual speech of Tacitus and the Plinys was presumably
+

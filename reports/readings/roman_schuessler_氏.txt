@@ -1,0 +1,204 @@
+schuessler -- lines containing a Later Han syllable of 氏
+Source: Minimal Old Chinese and Later Han Chinese_ A Companion to -- Axel Schuessler; Bernhard Karlgren -- University of Hawai'i, Honolulu, 2009 -- University -- isbn13 9780824832643.pdf
+Keys: dźe, gie, kie, tśe
+
+--- pdf page 3  (matched gie) ---
+whose pronunciation is not known. The ABC dictionaries and compilations rely on the best expertise
+available worldwide and are based on the application of new strategies for the study of Sinitic languages
+and the Chinese writing system, including the first clear distinction between the etymology of words, on
+
+--- pdf page 33  (matched kie) ---
+III jian kjlmC ~ qulin khjwtmB
+IV ~ jian kienc "* qulin khiwenB
+Some rimes, such as -an, have an additional set of finals with medial j, the so-called
+
+--- pdf page 33  (matched kie) ---
+o i!
+IV 0 ~ jian kien 3/4 qilin, MC khjiiinB 4
+These doublets occur only in certain rimes after grave initials (see 1.4 above). Grave initials
+
+--- pdf page 34  (matched kie) ---
+J!
+Div. IV MC 'pure' Div. IV - ji~lll, MC kienc, *kens
+All these Divisions have, of course, h6kou counterparts: MC ywan, l)wan, kjwun ... kiwen.
+
+--- pdf page 45  (matched kie) ---
+III oJ! jHm kjnnC o ~ jirm Anc. Ch. Iqan: MC kjanB 3
+IV OJ! jian kien o ~ qHin Anc. Ch. k'ian: MC khjianB 4
+According to Baxter, these fall now into the following OCM rime patterns with the two main
+
+--- pdf page 45  (matched kie) ---
+vowels *a and *e:
+I * van < *gan IV J! kienc < *kens
+1*
+
+--- pdf page 54  (matched kie) ---
+tz
+kioi kie merger with the reflex of OC gre, MC gjie 3
+koi ko oi > 0 in open syllables
+
+--- pdf page 54  (matched kie) ---
+koi ko oi > 0 in open syllables
+kie tse palatalization ofvelars (see 7.3)
+7.1 Phonemes
+
+--- pdf page 54  (matched kie) ---
+This occurred under the influence of the immediately following high vowel i, even a secondary
+one, thus OCM *ke > LH kie > tse > MC tsje X. For reasons that are not yet clear, this
+a
+
+--- pdf page 55  (matched kie) ---
+Table 1-4: LHan vowel bending
+HS H~ (*ki » tsi SZ kie >tse ,@kio ~ ki::> ~ kio (or kuo) fLku
+It piB J4!. pie ~muo ~ mu::> >mu ~muo 1.!¥ bu
+
+--- pdf page 58  (matched gie) ---
+Xu Shen was compiling a dictionary of wen )z: 'simple graphs' and zi 'compound
+characters', not words, sounds, and etymologies. Given his objective, he can only have meant
+that originally the graphs for 'self' and 'nose' were the same (which is indeed true), nothing
+
+--- pdf page 64  (matched kie) ---
+9.2.9 ji"§t (26-3/l24Ia)
+The wordji §t MC kieic 'calculation, accounting' is often reconstructed with an OC final
+labial, i.e., *-ps, because shf+ *gip 'ten' is suspected to be phonetic. Karlgren refrained from
+
+--- pdf page 64  (matched kie) ---
+cal connection with *gip. Because a phonetic role of 'ten' *gip is not compelling, let us
+reconsider what the simplest solution could be. MC kieic can theoretically derive from many
+different OC syllables: from OCM *ke(k)h, *k:fh, *ke(t)s « *ke[t]s or *keps), or from *k:f(t)s «
+
+--- pdf page 64  (matched kie) ---
+*k:fh. Now we should look for possible cognates for confirmation among words with an open
+syllable. Indeed, it turns out that ji is simply an ordinary tone C derivation from jr;m MC kiei,
+*k:f 'to calculate', hence ji was OCM *k:fh. If shf*gip played a phonetic role, it was only its
+
+--- pdf page 67  (matched gie) ---
+Karlgren, Bernhard. 1923. Analytical dictionary of Chinese and Sino-Japanese. Paris.
+---. 1924. Etudes sur la phonologie chinoise, fasc. IV. Dictionary of Chinese dialects.
+Stockholm.
+
+--- pdf page 67  (matched gie) ---
+1-126.
+Matisoff, James A.1992. "Following the marrow: two parallel Sino-Tibetan etymologies."
+LTBA 15:1: 199-177.
+
+--- pdf page 89  (matched kie) ---
+~ mak mok *mak
+IV .kiek kek *kek ~ kieI) keI) *keI)
+Ji~ kiwek kuek *kwek ~ kiwe~ kue~ *kweI)
+
+--- pdf page 89  (matched kie) ---
+57 zjiik ziak *s-jak 1~ jiwiik wek *wek
+3/4 ~ ?jiiik4 ?iek *?ek ~ kjiiiI)C4 kieI)c
+gr ,--" -- ,il$ pjiiik4 piek *pek *keI)h
+
+--- pdf page 89  (matched kie) ---
+~ mjiiiI)4 mieI) *mel)
+III }j'( kjBI) kiaI) *kraI) lii!\ kjBk kiak *krak • kjBI) kiel) *krel)
+gr 5l XjWB~ hya~ *hwraI) ff pjBk piak *prak
+
+--- pdf page 144  (matched kie) ---
+.. cc<c<
+IV *,1'& khieiB kheiB *khi? mkiei ke *ke
+it:
+
+--- pdf page 144  (matched gie) ---
+.1£ tieiB teiB *ti?
+3/3 gr ~gji3 gi *gri :JsZ gjeB3 gieB *gre? ,~ gje3 gioi *gai
+&:
+
+--- pdf page 144  (matched gie) ---
+~ gjwi 3 gwi *gwri bje3 bioi *bai
+3/4 gr fft ?i4 ?i *?i m J!:X g jie4 gie *ge
+~ kwiB4 kwiB *kwi? kjwie4 kye *kwe
+
+--- pdf page 144  (matched kie) ---
+it piB4 piB *pi? ~ pjie4 pie *pe
+III ac JE siB siB *si? X tsje tse < kie *ke • lje lioi *rai
+*l jiwi4 wi *wi 9;0 tje ~ie *tre
+
+--- pdf page 145  (matched kie) ---
+= 8.1 ~ <> [T] ONW yei
+c 1~ xi kieic kec keh OCB *keks =8.1 ~; 7-2 ~
+dgkl ~~~~~~ xl yiei ge ge
+
+--- pdf page 145  (matched kie) ---
+perverse xl yiei, yieiB ge, geB ge, ge?
+np ~~~ Jl kiei ke ke
+[T] Sin Sukchu SR kjej (.3:jZ), PR, LR ki; MGZY gyi (.3:jZ) [kji]; ONW kei <> [D] PMin *kei,
+
+--- pdf page 145  (matched kie) ---
+iI
+b ji kieic kec keh OCB *keks
+= 7-l/876c {~, 8-l/8S4a ~ <> [T] ONW kei
+
+--- pdf page 145  (matched kie) ---
+7-3 = K. 864 Mand. Me LHan oeM
+abc 3t;fi,lJt zhf tsje tse < kie ke 'branch> limb'
+[T] ONW tse (kie?); BTD Skt. ke, tye, Pkt. ceo MHan -3t ?it-kie Iki, f,*3t deu-kie Taoke
+
+--- pdf page 145  (matched kie) ---
+abc 3t;fi,lJt zhf tsje tse < kie ke 'branch> limb'
+[T] ONW tse (kie?); BTD Skt. ke, tye, Pkt. ceo MHan -3t ?it-kie Iki, f,*3t deu-kie Taoke
+:m [D] PMin *ki <> [E] TB: Chepang gwe? 'finger', Tani *ke(l)) 'finger'; WT bkye 'to divide'
+
+--- pdf page 145  (matched kie) ---
+:m [D] PMin *ki <> [E] TB: Chepang gwe? 'finger', Tani *ke(l)) 'finger'; WT bkye 'to divide'
+e wing chi sjeC JJ kie ke
+[N] 'Wing' *ke is the same etymon as 'branch, limb' above. The reading chi has been
+
+--- pdf page 145  (matched kie) ---
+transferred from the synonym shi ~ *Iheh? 'wing'.
+[T] Sin SR tfl, ~i (:*), PR H, LR tfl; MGZY shi (:*) [~i]; MTang si, kie (?), Sui-Tang lti,
+:m ONW kie (?); see Coblin 1994, Compendium of Phonetics in Northwest Chinese: 209f.
+
+--- pdf page 145  (matched kie) ---
+[T] Sin SR tfl, ~i (:*), PR H, LR tfl; MGZY shi (:*) [~i]; MTang si, kie (?), Sui-Tang lti,
+:m ONW kie (?); see Coblin 1994, Compendium of Phonetics in Northwest Chinese: 209f.
+only chi sjeC sec Ihekh = 7-12/877k g
+
+--- pdf page 145  (matched kie) ---
+tz
+d zhi tsjeC tseC < kiec keh
+[E] Tai: S. keekDl 'wicked, perverted'
+
+--- pdf page 145  (matched gie) ---
+[E] Tai: S. keekDl 'wicked, perverted'
+ih- Jl)tD5t~ qf gjie 4 gie ge [T] ONW gie
+9 ~ tiptoe ql, ql khjieBJc 4 khieBJc khe?, kheh = 7-4/862a 1f:
+
+--- pdf page 145  (matched gie) ---
+JEx
+6 toes qf gjie 4 gie ge
+f t;~ qi khjieC 4 khiec kheh
+
+--- pdf page 145  (matched gie) ---
+m 5<][ kUl khjwieB 4 khuieB khwe?
+13Z: talented ji gjeB 3 gieB gre?
+run qf gje 3 gie gre
+
+--- pdf page 145  (matched gie) ---
+13Z: talented ji gjeB 3 gieB gre?
+run qf gje 3 gie gre
+k iZ ji gjeB 3 gieB gre?
+
+--- pdf page 145  (matched gie) ---
+run qf gje 3 gie gre
+k iZ ji gjeB 3 gieB gre?
+3t
+
+--- pdf page 145  (matched gie) ---
+3t
+1 ji gjeC 3 gieC greh
+tet. Jl, Jl kje 3,gjeB 3 gieB
+
+--- pdf page 145  (matched gie) ---
+1 ji gjeC 3 gieC greh
+tet. Jl, Jl kje 3,gjeB 3 gieB
+[T] Wei-Jin ltie, gieB 'prostitute' <> [E] MK: PVM *ke:? 'woman' > Viet. cai / gai 'feminine',
+
+--- pdf page 145  (matched gie) ---
+tet. Jl, Jl kje 3,gjeB 3 gieB
+[T] Wei-Jin ltie, gieB 'prostitute' <> [E] MK: PVM *ke:? 'woman' > Viet. cai / gai 'feminine',
+PWa *krih 'girl'; Bahnar North kadri, PNBahn. *kadri 'female'
+

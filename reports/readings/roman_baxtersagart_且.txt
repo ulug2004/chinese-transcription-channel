@@ -1,0 +1,24 @@
+baxtersagart -- lines containing a Later Han syllable of 且
+Source: Old Chinese _ A New Reconstruction -- William H_ Baxter, Laurent Sagart -- Illustrated, FR, 2014 -- IRL Press at Oxford University Press -- isbn13 9780199945375.pdf
+Keys: tsiɑ, tsɑ, tsʰia, tsʰiɑ
+
+--- pdf page 130  (matched tsʰia) ---
+‘classifier of odes or hymns’
+(414) 賖 *l̥A > syae > shē ‘trade on credit’, pMǐn *tšh-: Cháozhōu /tsʰia 1/
+(415) 試 *l̥ək-s > syiH > shì ‘test, try’, pMǐn *tšh-: Xiàmén /tsʰi 5/
+
+--- pdf page 153  (matched tsʰia) ---
+between *s.t- > pMǐn *tš- and *s.tʰ- > pMǐn *tšh-:
+(548) 奢 *s.tʰA > syae > shē ‘extravagant’, pMǐn *tšh- (Xiàmén /tsʰia 1/ ‘lav-
+ish’); the phonetic element is
+
+--- pdf page 239  (matched tsʰia) ---
+土 *tʰˤaʔ > thuX > tǔ ‘earth’39
+(893) 奢 *s.tʰA > syae > shē ‘extravagant’ (cf. Xiàmén /tsʰia 1/, Fúzhōu
+/tsʰia 1/)
+
+--- pdf page 239  (matched tsʰia) ---
+(893) 奢 *s.tʰA > syae > shē ‘extravagant’ (cf. Xiàmén /tsʰia 1/, Fúzhōu
+/tsʰia 1/)
+(894) 寫 *s-qʰAʔ > sjaeX > xiě ‘depict’
+

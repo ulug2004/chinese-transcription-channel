@@ -1,0 +1,93 @@
+baxtersagart -- entries mentioning 單
+Source: Old Chinese _ A New Reconstruction -- William H_ Baxter, Laurent Sagart -- Illustrated, FR, 2014 -- IRL Press at Oxford University Press -- isbn13 9780199945375.pdf
+
+--- pdf page 81 ---
+the form *nˤar, was used, together with 肉 ‘flesh’, to represent {臡} *nˤer.
+Similarly, the element 單 dān < tan < *Cə.tˤar ‘single’ normally represents syllables
+of the shape *Tar. But the Shǐ jì: Xiōngnú liè zhuàn 《史 記·匈 奴 列 傳》gives this
+
+--- pdf page 81 ---
+reconstruct the word (probably borrowed from the Xiōngnú language) as *tˤer.gˤe for
+(late) Old Chinese. Here, the character 單 dān < tan < *Cə.tˤar was used to write the syl­
+lable *tˤer, in spite of the difference in main vowel, because no better phonetic element
+
+--- pdf page 201 ---
+/lue 9/)
+(770) 單 *Cə.tˤar > tan > dān ‘single, simple’; pMǐn *-t- (Jiànyáng /lueŋ 9/)
+(771) 斲 *Cə.tˤrok > traewk > zhuó ‘chop, cleave’; pMǐn *-t- (Jiànyáng
+
+--- pdf page 273 ---
+258 Old Chinese
+(1030) 單 *Cə.tˤar > *Cə.tˤan > tan > dān ‘single, simple’, Xiàmén /tuã 1/, Shíbēi
+/duaiŋ 2/, pMǐn *-tuɑn A
+
+--- pdf page 274 ---
+represents syllables of the type *P(ˤ)ar, contrasting with 反, which represents *P(ˤ)an;
+similarly, 單 dān represents *T(ˤ)ar, contrasting with 旦 dàn, which represents
+*T(ˤ)an. The later standard script no longer maintains these distinctions clearly, prob-
+
+--- pdf page 274 ---
+gradually made the criteria for a phonetic match less strict. So in received texts there
+are cases where words of the shape *T(ˤ)an are written with 單. For example, Ode
+254.1 has this rhyme sequence:
+
+--- pdf page 274 ---
+While most of the words can reasonably be reconstructed with *-an, the phonetic
+單 dān in 癉 dǎn ‘illness, toil’ would seem to indicate *-arʔ. But the earliest attested
+version of the text is the passage quoted in the bamboo strip version of the Lǐ jì
+
+--- pdf page 275 ---
+foreign [r]. Here are some examples：
+單 于 chányú < dzyen-hju < (Hàn) *dar-ɦwa ‘Xiōngnú ruler’ (< *[d]a r + *ɢʷ(r)a)
+The word for the Xiōngnú ruler is given in the Shǐ jì as
+
+--- pdf page 275 ---
+The word for the Xiōngnú ruler is given in the Shǐ jì as
+(1042) 單 于 chányú66 < MC dzyen-hju ‘Xiōngnú ruler’
+The two syllables individually would be reconstructed for Old Chinese as follows:
+
+--- pdf page 275 ---
+The two syllables individually would be reconstructed for Old Chinese as follows:
+(1043) 單 chán < dzyen < *[d] ar
+(1044) 于 yú < hju < *ɢʷ(r)a ‘go; at’
+
+--- pdf page 275 ---
+There is no particular reason to assume an *-r- in 于 yú, and by Hàn times, *ɢʷ- had
+probably become [ɦw], so the Hàn time pronunciation of 單 于 chányú can reasonably
+be reconstructed as
+
+--- pdf page 275 ---
+be reconstructed as
+(1045) 單 于 chányú < MC dzyen-hju < Hàn *dar-ɦwa
+which is a close match to Written Mongolian daruɣa ‘governor’ (also borrowed into
+
+--- pdf page 346 ---
+孱 chán dzrean < dzjren < *[dz]r[a][n] ‘timid’: 274
+單 于 chányú dzyen.hju < W. Hàn *dar.ɦʷa (< OC *[d]ar + *ɢʷ(r)a) ‘Xiōngnú
+ruler’: 260, 399n66; see also 單 dān < tan, 于 yú < hju
+
+--- pdf page 346 ---
+單 于 chányú dzyen.hju < W. Hàn *dar.ɦʷa (< OC *[d]ar + *ɢʷ(r)a) ‘Xiōngnú
+ruler’: 260, 399n66; see also 單 dān < tan, 于 yú < hju
+產 chǎn sreanX < *s-ŋrarʔ ‘bear (v.), produce’: 18, 148, 391n76
+
+--- pdf page 349 ---
+擔 dān tam < *mə-tˤam ‘carry on the shoulder’: 48, 88, 176
+單 dān tan < *Cə.tˤar ‘single, simple’ 66, 186, 258, 259; see also
+chányú < dzyen-hju
+
+--- pdf page 388 ---
+右 yòu hjuwX < *[ɢ]ʷəʔ ‘right hand’: 155
+于 yú hju < *ɢʷ(r)a ‘go; at’: 44, 45, 107, 227, 260; see also 單 于
+chányú < dzyen.hju
+
+--- pdf page 414 ---
+as if it were *kˤranʔ.
+66. Chinese dictionaries consistently give the pronunciation of 單 于 as chányú, but in Western
+sinological literature it is usually transcribed as “shan-yü” (in Wade-Giles romanization) or
+
+--- pdf page 414 ---
+“shanyu” (in pīnyīn), a habit that can probably be traced to Giles’s Chinese-English dictionary
+(1892:1050), which gives 單 the pronunciation “shan²” (which would be “shán” in pīnyīn) in
+this expression. At the time when Giles’s dictionary was written, standard Mandarin had not
+

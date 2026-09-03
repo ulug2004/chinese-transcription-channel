@@ -1,0 +1,203 @@
+baxtersagart -- lines containing a Later Han syllable of 耆
+Source: Old Chinese _ A New Reconstruction -- William H_ Baxter, Laurent Sagart -- Illustrated, FR, 2014 -- IRL Press at Oxford University Press -- isbn13 9780199945375.pdf
+Keys: gɨ, ki, tśi
+
+--- pdf page 7  (matched ki) ---
+4.2.2.2 Hmong-Mien 94
+4.2.2.3 Lakkia 96
+4.2.3 Inferring Old Chinese manner distinctions from
+
+--- pdf page 11  (matched ki) ---
+6 Conclusion 316
+6.1 What kind of language was Old Chinese? 316
+6.2 Dialect differences in Old Chinese 319
+
+--- pdf page 12  (matched ki) ---
+in real time from any internet connection.
+We also thank the following individuals who have provided us various kinds of help
+and support: Michelle Abud, Akitani Hiroyuki 秋 谷 裕 幸, Wolfgang Behr, Chén Jiàn
+
+--- pdf page 12  (matched ki) ---
+We also thank the following individuals who have provided us various kinds of help
+and support: Michelle Abud, Akitani Hiroyuki 秋 谷 裕 幸, Wolfgang Behr, Chén Jiàn
+陳 劍, Katia Chirkova, Michel Ferlus, Paul Goldin, Zev Handel, Guillaume Jacques,
+
+--- pdf page 12  (matched ki) ---
+陳 劍, Katia Chirkova, Michel Ferlus, Paul Goldin, Zev Handel, Guillaume Jacques,
+Lái Guólóng 來 國 龍, Alain Lucas, Nohara Masaki 野 原 將 揮, Weera Ostapirat, Pān
+Wùyún 潘 悟 云, Thomas Pellard, Phạm Thị Thu Hà 范 氏 秋 河, Qiú Xīguī 裘 錫 圭,
+
+--- pdf page 17  (matched ki) ---
+of his time and produced a phonetic reconstruction of Old Chinese (summarized in
+Karlgren 1954; his term for it was “Archaic Chinese”), relying on three main kinds
+of evidence:
+
+--- pdf page 18  (matched ki) ---
+Karlgren’s approach, which became traditional, was to propose pronunciations for Old
+Chinese that were both consistent with these three kinds of evidence and (to one degree
+or another) plausible for a natural language. Baxter’s Handbook of Old Chinese phonol-
+
+--- pdf page 18  (matched ki) ---
+1.1.2 A BROADER APPROACH
+In our new reconstruction we still rely heavily on the three kinds of evidence used in tra-
+ditional reconstructions. But a number of recent developments have now made it feasible
+
+--- pdf page 19  (matched ki) ---
+made it difficult to identify the patterns involved. Improved phonological reconstruc-
+tions, along with evidence from dialects and early loanwords, are now making it pos-
+sible to identify morphological processes with more precision.
+
+--- pdf page 19  (matched ki) ---
+1.2.1 THE NATURE OF LINGUISTIC RECONSTRUCTION
+We view linguistic reconstruction as a process of making inferences about earlier stages
+of a language or languages by forming hypotheses and testing them empirically. The
+
+--- pdf page 20  (matched ki) ---
+broadly consistent with observed data but that also make predictions about data
+not yet seen. Our Old Chinese reconstructions make predictions about what kinds
+of rhymes should and should not occur in texts that are either newly discovered
+
+--- pdf page 21  (matched ki) ---
+need to be modified. We believe that the basic hypotheses of our reconstruction are suf-
+ficiently stable that it makes sense to publish our results now. But we are making the
+reconstructions themselves available on a public website so that they may be revised as
+
+--- pdf page 22  (matched ki) ---
+Introduction 7
+Our use of each of the main kinds of evidence is summarized in Chapter 2. First,
+though, some remarks about our notation are in order.
+
+--- pdf page 22  (matched ki) ---
+while OC *kaŋ and *kraŋ are still distinguished in Middle Chinese as kjang and kjaeng,
+respectively, OC *ka and *kra both became MC kjo. Similarly, MC ki can reflect either
+OC *kə or *krə, and MC kje can reflect either OC *kaj or *kraj. We consider it desir-
+
+--- pdf page 23  (matched ki) ---
+1.3 Plan of the book
+Chapter 2 discusses in more detail the kinds of evidence on which our reconstruction
+is based. Chapter 3 gives a brief summary of the history of proposed reconstructions of
+
+--- pdf page 24  (matched ki) ---
+piled in the late sixth century ce, which gives details on the pronunciations of words
+in particular contexts. A third kind of written source is the somewhat later rhyme
+tables (yùntú 韻 圖), which arrange syllables in two-dimensional grids according to
+
+--- pdf page 26  (matched ki) ---
+Chinese pronunciations, so they do not tell us in concrete terms how the words were
+actually pronounced. But by linking up the fǎnqiè spellings, we can establish equiva-
+lence classes: we know that according to these spellings, 德 dé, 多 duō, and 得 dé are all
+
+--- pdf page 27  (matched ki) ---
+guage of any single time and place; indeed it is obvious from their content that they do
+not. The preface of the Qièyùn clearly indicates that its system is a kind of compromise
+between at least two varieties of pronunciation (see Zhōu Zǔmó 1966, 1968). Both the
+
+--- pdf page 28  (matched ki) ---
+no convenient ASCII equivalent for [ə] or [ʌ]; besides, how do we know that
+the vowel was unrounded—and which dialect would we be talking about
+anyway? Although the notation kwok may not exactly match any Middle
+
+--- pdf page 29  (matched ki) ---
+14 Old Chinese
+Incidentally, this is an example of the kind of information about dialect diversity
+that the Qièyùn system gives us. The finals written -aen and -ean in our system cor-
+
+--- pdf page 36  (matched ki) ---
+Colorful is the plantain, we pluck it 捋 luō < MC lwat
+3 Colorful is the plantain, we hold it in our skirts 袺 jié < MC ket
+Colorful is the plantain, we tuck it up in our skirts 襭 xié < MC het
+
+--- pdf page 36  (matched ki) ---
+3 Colorful is the plantain, we hold it in our skirts 袺 jié < MC ket
+Colorful is the plantain, we tuck it up in our skirts 襭 xié < MC het
+From the structure of the poem, it is easy to identify the rhyme words: they are the
+
+--- pdf page 36  (matched ki) ---
+always be assumed to reflect spoken language in a simple way. The intended audience
+for works of literature frequently does not coincide with the population speaking any
+
+--- pdf page 37  (matched ki) ---
+22 Old Chinese
+single dialect, and compromises of one kind or another are to be expected (see Baxter
+1992:87–97 for further discussion). But Old Chinese rhyming shows no signs of the
+
+--- pdf page 39  (matched ki) ---
+There are 16,368 ways to divide a group of fifteen rhyme words into two rhyme groups,
+so checking all the possible solutions one by one would be a huge task.12 As a practi-
+cal matter, we will make progress with the problem only if we start with some specific
+
+--- pdf page 40  (matched ki) ---
+see. But discovering which rhymes do not occur is a more subtle matter. It is dif-
+ficult to discover such distinctions inductively just by looking through the corpus;
+we have to be guided by some kind of hypothesis that suggests what distinctions to
+
+--- pdf page 40  (matched ki) ---
+ficult to discover such distinctions inductively just by looking through the corpus;
+we have to be guided by some kind of hypothesis that suggests what distinctions to
+look for. The Qīng philologists relied on hypotheses suggested by the arrangement
+
+--- pdf page 41  (matched ki) ---
+the script can help us reconstruct earlier pronunciations. Evidence from the script
+is especially important because of the three kinds of evidence used in traditional
+approaches to reconstruction—Middle Chinese, Old Chinese rhymes, and the
+
+--- pdf page 42  (matched ki) ---
+(15) 度 duó < dak < *[d] ˤak ‘measure (v.)’
+鐸 duó < dak < *lˤak ‘a kind of bell’
+(16) 屠 tú < du < *[d] ˤa ‘butcher (v.)’
+
+--- pdf page 44  (matched ki) ---
+available large samples of pre-Qín writing were the oracular inscriptions of the late
+Shāng dynasty and bronze inscriptions. Both kinds of texts tend to be short and formu-
+laic, and the domain of their content is limited; many Old Chinese words are simply
+
+--- pdf page 45  (matched ki) ---
+Wú suǒ wéi yán shì (*ŋ̊et-s) zhě, yán rén zhī suǒ shè (*ŋ̊et) yě.
+‘The setup (*ŋ̊et-s) of which I am speaking refers to what is set up (*ŋ̊et)
+by men.’
+
+--- pdf page 45  (matched ki) ---
+In the standard script, the character 改 gǎi < kojX ‘change’ appears to be a phonetic
+compound with 己 jǐ < kiX ‘sixth heavenly stem; self’ as phonetic, and that is what the
+Shuōwén says (SWGL 1337b). But in excavated documents, we find that it is consis-
+
+--- pdf page 46  (matched ki) ---
+(Jì Xùshēng 2010:1020). Our reconstructions are as follows:
+(31) 己 jǐ < kiX < *k(r)əʔ ‘sixth heavenly stem’
+巳 sì < ziX < *s-[ɢ]əʔ ‘sixth earthly branch’
+
+--- pdf page 46  (matched ki) ---
+< kuwng < *C.qˤoŋ ‘father, prince’, discussed above. The replacement of the phonetic
+element 巳 sì < ziX < *s-[ɢ]əʔ by 己 jǐ < kiX < *k(r)əʔ, with original *k-, reflects the
+sound change *C.qˤ- > *k-, which evidently had already happened by late Hàn and is
+
+--- pdf page 48  (matched ki) ---
+nearly pan-Chinese first palatalization of velars, which Mǐn did not undergo (see section
+4.1.2). Schuessler (2010:305) places the palatalization of OC *ki- to [ʨi-] during the
+western Hàn period (207 bce to 9 ce); if this is so, then a branch of Chinese ancestral
+
+--- pdf page 49  (matched ki) ---
+the late third century bce. Around the time of the fall of the Qín dynasty, the Chinese
+general Zhào Tuó 趙 佗 established the Nányuè 南 越 kingdom and ruled over portions
+of modern Guǎngdōng, Guǎngxī, and northern Vietnam; in the second century bce, this
+
+--- pdf page 49  (matched ki) ---
+of modern Guǎngdōng, Guǎngxī, and northern Vietnam; in the second century bce, this
+kingdom became a vassal state of the Western Hàn dynasty (Aurousseau 1923). His king-
+dom probably included speakers of both Kra-Dai and Vietic languages, so it is likely that
+
+--- pdf page 51  (matched ki) ---
+to exclude the later layers from her Proto-Hmong-Mien reconstruction. Exclusion of
+late loans makes for a much simpler and more natural-looking system.
+The dates of Proto-Hmong-Mien are a matter of some uncertainty. The period dur-
+
+--- pdf page 51  (matched ki) ---
+Kam-Sui subgroups, have had sustained contact with Chinese since the establishment of
+the Nányuè kingdom of Zhào Tuó in the Guǎngdōng and Guǎngxī region in about 206
+bce, so far we have reconstructions only for subgroups of Kra-Dai: Proto-Kra (Ostapirat
+
+--- pdf page 51  (matched ki) ---
+loans in individual Kra-Dai languages.
+Among these, Lakkia (Lakkja) must be singled out. Lakkia, a Kra-Dai language
+spoken in China by a group officially classified as Yáo 瑤, is known to be the only
+

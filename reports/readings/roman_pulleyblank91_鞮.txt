@@ -1,0 +1,201 @@
+pulleyblank91 -- lines containing a Later Han syllable of 鞮
+Source: Lexicon of Reconstructed Pronunciation_ In Early Middle -- Edwin G_ Pulleyblank -- University of British Columbia Press, Vancouver [B_C_], 1991 -- isbn13 9780774803663.pdf
+Keys: de, te
+
+--- pdf page 2  (matched te) ---
+The Lexicon complements Pulleyblank's earlier book, Middle Chinese,
+by providing reconstructed pronunciation for approximately 8,000 Chi-
+nese characters at three historical stages. Early Middle Chinese is the
+
+--- pdf page 2  (matched te) ---
+by providing reconstructed pronunciation for approximately 8,000 Chi-
+nese characters at three historical stages. Early Middle Chinese is the
+language of the Qieyun rhyme dictionary of A.D. 601, which codified the
+
+--- pdf page 2  (matched te) ---
+language of the Qieyun rhyme dictionary of A.D. 601, which codified the
+standard literary language of both North and South China, the preceding
+period of division. Pulleyblank's reconstruction is a thorough reworking
+
+--- pdf page 2  (matched te) ---
+period of division. Pulleyblank's reconstruction is a thorough reworking
+of that of Bernhard Karlgren, completed in the twenties, and in some
+respects differs radically from it. Late Middle Chinese is the standard
+
+--- pdf page 2  (matched te) ---
+of that of Bernhard Karlgren, completed in the twenties, and in some
+respects differs radically from it. Late Middle Chinese is the standard
+language of the High Tang Dynasty, based on the dialect of the capital,
+
+--- pdf page 2  (matched te) ---
+language of the High Tang Dynasty, based on the dialect of the capital,
+Chang'an. It has not been reconstructed previously as a separate stage but
+is of special importance, since it is the ancestor of most modern dialects.
+
+--- pdf page 2  (matched de) ---
+Chang'an. It has not been reconstructed previously as a separate stage but
+is of special importance, since it is the ancestor of most modern dialects.
+Early Mandarin represents the speech of the Yuan capital, Dadu (present
+
+--- pdf page 2  (matched de) ---
+Beijing), around the year 1300, for which Pulleyblank's reconstruction
+differs considerably from that of Hugh M. Stimson. The sources and
+methods used in these reconstructions were fully discussed in Middle
+
+--- pdf page 2  (matched de) ---
+methods used in these reconstructions were fully discussed in Middle
+Chinese, but recent developments in phonological theory have led to some
+modifications in detail.
+
+--- pdf page 2  (matched de) ---
+Chinese, but recent developments in phonological theory have led to some
+modifications in detail.
+The entries are arranged alphabetically according to the Pinyin system
+
+--- pdf page 2  (matched te) ---
+modifications in detail.
+The entries are arranged alphabetically according to the Pinyin system
+with an index by the traditional Kangzi radical and stroke numbers. The
+
+--- pdf page 2  (matched de) ---
+The entries are arranged alphabetically according to the Pinyin system
+with an index by the traditional Kangzi radical and stroke numbers. The
+Morohashi number is also given for each character, enabling easy refer-
+
+--- pdf page 2  (matched te) ---
+with an index by the traditional Kangzi radical and stroke numbers. The
+Morohashi number is also given for each character, enabling easy refer-
+ence to this important Chinese thesaurus. Another useful feature of the
+
+--- pdf page 2  (matched de) ---
+Lexicon is the inclusion of the numbers in Karlgren's Grammata Serica for
+characters that are included in that work. Concise English equivalents for
+the Chinese words are also provided. Reconstructed forms are given in
+
+--- pdf page 2  (matched de) ---
+characters that are included in that work. Concise English equivalents for
+the Chinese words are also provided. Reconstructed forms are given in
+the International Phonetic Alphabet. Though this requires a number of
+
+--- pdf page 2  (matched te) ---
+the Chinese words are also provided. Reconstructed forms are given in
+the International Phonetic Alphabet. Though this requires a number of
+phonetic signs and diacritical marks, these are carefully explained in the
+
+--- pdf page 2  (matched de) ---
+introduction.
+Every effort has been made to provide a useful tool for students of
+Chinese literature and China's relations with foreign countries as well as
+
+--- pdf page 2  (matched te) ---
+Every effort has been made to provide a useful tool for students of
+Chinese literature and China's relations with foreign countries as well as
+for specialists in Chinese linguistics.
+
+--- pdf page 3  (matched te) ---
+This page intentionally left blank
+
+--- pdf page 4  (matched te) ---
+EDWIN G. PULLEYBLANK
+Lexicon of Reconstructed
+Pronunciation in Early Middle
+
+--- pdf page 4  (matched te) ---
+Pronunciation in Early Middle
+Chinese, Late Middle
+Chinese, and Early Mandarin
+
+--- pdf page 5  (matched te) ---
+10090807060504 5432
+Printed in Canada on acid-free paper
+National Library of Canada Cataloguing in Publication
+
+--- pdf page 5  (matched te) ---
+Pulleyblank, Edwin G. (Edwin George) 1922-
+Lexicon of reconstructed pronunciation in early Middle Chinese,
+late Middle Chinese, and early Mandarin
+
+--- pdf page 5  (matched te) ---
+Lexicon of reconstructed pronunciation in early Middle Chinese,
+late Middle Chinese, and early Mandarin
+Includes bibliographical references.
+
+--- pdf page 5  (matched de) ---
+late Middle Chinese, and early Mandarin
+Includes bibliographical references.
+ISBN 0-7748-0366-5
+
+--- pdf page 5  (matched te) ---
+Canada
+UBC Press gratefully acknowledges the financial support for our
+publishing program of the Government of Canada through the Book
+
+--- pdf page 5  (matched de) ---
+This book has been published with the help of a grant from the
+Canadian Federation for the Humanities and Social Sciences, through
+the Aid to Scholarly Publications Programme, using funds provided
+
+--- pdf page 5  (matched de) ---
+Canadian Federation for the Humanities and Social Sciences, through
+the Aid to Scholarly Publications Programme, using funds provided
+by the Social Sciences and Humanities Research Council of Canada.
+
+--- pdf page 6  (matched te) ---
+Contents
+Acknowledgments / vii
+
+--- pdf page 6  (matched de) ---
+Lexicon / 23
+Index / 427
+Bibliography / 487
+
+--- pdf page 8  (matched de) ---
+The beginnings of this book go very far back and many people have
+contributed along the way. K'ai-ying Po T'ang, then a graduate student in
+the Department of Asian Studies, was employed with the help of a grant
+
+--- pdf page 8  (matched de) ---
+the Department of Asian Studies, was employed with the help of a grant
+from the UBC President's Research Fund during one summer in the early
+seventies preparing index cards. The contribution of Dr. W. G. Boltz, now
+
+--- pdf page 8  (matched de) ---
+from the UBC President's Research Fund during one summer in the early
+seventies preparing index cards. The contribution of Dr. W. G. Boltz, now
+of the University of Washington, who spent a year at UBC in 1976-77,
+
+--- pdf page 8  (matched te) ---
+paid for by a grant from the Canada Council (now the Social Sciences and
+Humanities Research Council of Canada) entering translation glosses (since
+much revised) on to the cards, should especially be mentioned. The next
+
+--- pdf page 8  (matched te) ---
+much revised) on to the cards, should especially be mentioned. The next
+stage was the transfer of this material from cards to the UBC mainframe
+computer, using radical-stroke order and Morohashi numbers as the key to
+
+--- pdf page 8  (matched de) ---
+stage was the transfer of this material from cards to the UBC mainframe
+computer, using radical-stroke order and Morohashi numbers as the key to
+the Chinese characters, which it was not yet possible to input directly. This
+
+--- pdf page 8  (matched te) ---
+computer, using radical-stroke order and Morohashi numbers as the key to
+the Chinese characters, which it was not yet possible to input directly. This
+was done by Eliza Ko, a student in Computer Science, employed under the
+
+--- pdf page 8  (matched de) ---
+the Chinese characters, which it was not yet possible to input directly. This
+was done by Eliza Ko, a student in Computer Science, employed under the
+British Columbia/Canada Summer Employment Program, Challenge 85,
+
+--- pdf page 8  (matched de) ---
+86. An important breakthrough came with the transfer from the mainframe
+to a Macintosh personal computer which provided much greater flexibility.
+Kenneth Szto was employed under the Work-Study program in 1986-87 to
+
+--- pdf page 8  (matched de) ---
+to a Macintosh personal computer which provided much greater flexibility.
+Kenneth Szto was employed under the Work-Study program in 1986-87 to
+assist in the reformatting that this required. The final step was the obtaining
+

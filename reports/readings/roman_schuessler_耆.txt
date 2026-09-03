@@ -1,0 +1,203 @@
+schuessler -- lines containing a Later Han syllable of 耆
+Source: Minimal Old Chinese and Later Han Chinese_ A Companion to -- Axel Schuessler; Bernhard Karlgren -- University of Hawai'i, Honolulu, 2009 -- University -- isbn13 9780824832643.pdf
+Keys: gɨ, ki, tśi
+
+--- pdf page 1  (matched ki) ---
+(Contined from front flap)
+kind I have seen in recent years. It lays out in relatively few pages what others have
+heretofore taken reams to express. The body of the work gives the reader the entire A
+
+--- pdf page 1  (matched ki) ---
+Grammata Serica and Grammata Serica Recensa have been during the past sixty
+known as “Later Han Chinese” (ca. sec- work for looking up Middle Chinese
+years.”—W. South Coblin, University of Iowa
+
+--- pdf page 1  (matched ki) ---
+“The present work will fill the need for an updated and easy-to-use source for
+those working on Han sources, espe- graphs that occur in literature from
+citing the various historically reconstructed stages of Chinese. It retains the basic
+
+--- pdf page 1  (matched ki) ---
+emeritus at Wartburg College in limited currency appear in this update.
+the Chinese characters, this pathbreaking dictionary places primary emphasis on the
+Waverly, Iowa.
+
+--- pdf page 11  (matched ki) ---
+sources of MC forms override irregularities and oddities in the phonetic composition of graphs
+of the kind that often result in complex OC reconstructions. As a result, OCM is eliminating
+much that is highly hypothetical in others' (and my former) proposals, is on firmer ground,
+
+--- pdf page 12  (matched ki) ---
+for the lay-person (first parts of the Introduction), as well as explanations for what I am doing
+and why, for the inquisitive reader (later parts). Each can conveniently skip over sections
+which are irrelevant for his quest. Because of the manual's general survey nature, references to
+
+--- pdf page 12  (matched ki) ---
+usual similarity with OCM, but also on occasion differences. Baxter 1992 does not, however,
+represent its author's current thinking. This will become available in the Baxter-Sagart
+reconstruction of Old Chinese that provides cutting edge scholarship, with OC forms that may
+
+--- pdf page 23  (matched ki) ---
+Kan. Kanauri (a Tibeto-Burman language of the Himalayan branch)
+KC Kuki-Chin languages (Tibeto-Burman)
+KN Kuki-Chin-Naga languages (Tibeto-Burman)
+
+--- pdf page 23  (matched ki) ---
+KC Kuki-Chin languages (Tibeto-Burman)
+KN Kuki-Chin-Naga languages (Tibeto-Burman)
+KS Kam-Sui languages
+
+--- pdf page 23  (matched ki) ---
+LTBA Linguistics of the Tibeto-Burman Area
+Lush. Lushai (a Tibeto-Burman language of the Kuki-Naga branch)
+M- Min dialects
+
+--- pdf page 26  (matched ki) ---
+GSC, samples of early transcriptions are provided as an additional 13th-14th century stage of
+Chinese (after the symbol [f] - these forms kindly provided by W. S. Coblin):
+
+--- pdf page 28  (matched ki) ---
+Syllables can have an additional medial u or w, called h6kou ir D 'closed mouth', i.e.,
+'rounded mouth' (2.4). Thus MC kjal) has a h6kou counterpart MC kjwal), or MC kiln vs.
+kwan, etc. A syllable without medial w/u (like kjal)B) is called kaikou 00 D 'open mouth'.
+
+--- pdf page 33  (matched ki) ---
+occur in any Division and freely combine with Div. III j (-jw-) and Div. IV i (-iwe-): kwan,
+kjwan, kiwen. The medial w/u belongs to a word's root, hence Mkou words do not mix with
+kaikou words in phonetic series (see below) and word families. Similarly, Div. IV i also
+
+--- pdf page 33  (matched ki) ---
+III jian kjlmC ~ qulin khjwtmB
+IV ~ jian kienc "* qulin khiwenB
+Some rimes, such as -an, have an additional set of finals with medial j, the so-called
+
+--- pdf page 33  (matched ki) ---
+ch6ngniii doublets. As we have seen, a circle called niu i.!B: 'knot, button', marks the start of a
+set of homophones. In some rimes a set is followed by a superficially identical one (looking
+like a 'doublet') which is introduced with a 'second button' (ch6ngniu iti.!B:). But one set is
+
+--- pdf page 33  (matched ki) ---
+o i!
+IV 0 ~ jian kien 3/4 qilin, MC khjiiinB 4
+These doublets occur only in certain rimes after grave initials (see 1.4 above). Grave initials
+
+--- pdf page 34  (matched ki) ---
+J!
+Div. IV MC 'pure' Div. IV - ji~lll, MC kienc, *kens
+All these Divisions have, of course, h6kou counterparts: MC ywan, l)wan, kjwun ... kiwen.
+
+--- pdf page 34  (matched ki) ---
+Div. IV MC 'pure' Div. IV - ji~lll, MC kienc, *kens
+All these Divisions have, of course, h6kou counterparts: MC ywan, l)wan, kjwun ... kiwen.
+2.5 Problems with the Qieyim and Middle Chinese
+
+--- pdf page 35  (matched ki) ---
+'root' where a stroke at the lower part of mu 'tree' indicates that the root is meant.
+The vast majority of graphs are composites or compounds. They are of two kinds: (1)
+semantic composites (huiyi Wr~ 'joined meanings'), like hao iff 'woman' + 'child' = 'love'.
+
+--- pdf page 36  (matched ki) ---
+dictionaries are organized by rime categories, including Karlgren's GSR. Unfortunately, GSR
+numbers the phonetic series without break from 1 through 1260, without making the rime
+categories explicit. (In this GSC, the rime categories are numbered from 1 through 38.)
+
+--- pdf page 37  (matched ki) ---
+Many phonetic series are difficult or impossible to reconcile with a XS principle. These are
+of two kinds: (1) Systematic incongruous series in which the initials belong to completely
+different places of articulation, like MC 1 co-occurring with k, p, or s. This kind of mix in
+
+--- pdf page 37  (matched ki) ---
+of two kinds: (1) Systematic incongruous series in which the initials belong to completely
+different places of articulation, like MC 1 co-occurring with k, p, or s. This kind of mix in
+phonetic series is encountered so often that some principle was followed in their creation.
+
+--- pdf page 38  (matched ki) ---
+4.4 Me medial wand u
+One striking imbalance in the distribution of MC rimes is the association of medial wor u
+(h6kbu it tJ 'rounded mouth') with dental final consonants (-n, -t, Karlgren *-r = OCM *-i)
+
+--- pdf page 39  (matched ki) ---
+which MC kw;;)n had an OC labiovelar initial (kwan, kw;;)n), and which a rounded vowel (kon,
+kun). One must rely on the interpretation of rimes in literature, which are, however, lacking
+for the majority of words in question.
+
+--- pdf page 39  (matched ki) ---
+Karlgren (who used GSR 766 :fr for illustration) opted for the consonant cluster (c) because
+this best complied with his principle in making the OC forms most similar, and because of
+E
+
+--- pdf page 45  (matched ki) ---
+III oJ! jHm kjnnC o ~ jirm Anc. Ch. Iqan: MC kjanB 3
+IV OJ! jian kien o ~ qHin Anc. Ch. k'ian: MC khjianB 4
+According to Baxter, these fall now into the following OCM rime patterns with the two main
+
+--- pdf page 45  (matched ki) ---
+vowels *a and *e:
+I * van < *gan IV J! kienc < *kens
+1*
+
+--- pdf page 47  (matched ki) ---
+take these to derive from OC *wen and *we(t)s, also after aspirated *kh-. The rarer MC yiwen
+and yiweiC derive, I assume as a working hypothesis, from OC *gwen and *gwe(t)s; similarly
+Div. II ywan derives from the expected OC *gwren.
+
+--- pdf page 47  (matched ki) ---
+the Later Han period reveals interesting tonal developments.
+It is striking that in the Middle Han period only tone A and D syllables are normally used in
+transcriptions while tones Band C do not occur (except in special positions). This implies that
+
+--- pdf page 52  (matched ki) ---
+(2) I am suspicious of chain reasoning, especially chains that include links which are supposi
+tions and conjectures. This kind of procedure has led to Karlgren's voiced final conso
+nants, for example, or to complex initial clusters.
+
+--- pdf page 53  (matched ki) ---
+nasalized initials; furthermore, it would be difficult to sort out which OC initial would be
+which kind - after all, one of the intended purposes of OCM is its practicality.
+28
+
+--- pdf page 54  (matched ki) ---
+koB o > :> in open syllables
+kio o > :> in open syllables
+muo mu:> o > :> in open syllables
+
+--- pdf page 54  (matched ki) ---
+tz
+kioi kie merger with the reflex of OC gre, MC gjie 3
+koi ko oi > 0 in open syllables
+
+--- pdf page 54  (matched ki) ---
+koi ko oi > 0 in open syllables
+kie tse palatalization ofvelars (see 7.3)
+7.1 Phonemes
+
+--- pdf page 54  (matched ki) ---
+This occurred under the influence of the immediately following high vowel i, even a secondary
+one, thus OCM *ke > LH kie > tse > MC tsje X. For reasons that are not yet clear, this
+a
+
+--- pdf page 54  (matched ki) ---
+a
+palatalization of velars did not occur in all rimes (e.g., jf MC kjet < OCM *kit), nor with
+aspirated kh_, nor with voiced g-in tone A (Schuessler 1996).
+
+--- pdf page 55  (matched ki) ---
+Table 1-4: LHan vowel bending
+HS H~ (*ki » tsi SZ kie >tse ,@kio ~ ki::> ~ kio (or kuo) fLku
+It piB J4!. pie ~muo ~ mu::> >mu ~muo 1.!¥ bu
+
+--- pdf page 55  (matched ki) ---
+IJ\ xiao sjauB siouB s(i)au?
+~ jl kjeiB kiiB < ki::>iB bi? leveling might have occurred
+30
+
+--- pdf page 56  (matched ki) ---
+~ f6 bjw~t but
+E jf kjiet 4 kit kit
+jjf Ihio lieu leu < leiau riiiu leveling might have occurred
+
+--- pdf page 56  (matched ki) ---
+In a few instances, Xu Shen says that a graphic element is semantic (c6ng when it must
+also have been at least partially phonetic. Thus SW 1283 analyzes the graph jian ~ *kin
+±
+

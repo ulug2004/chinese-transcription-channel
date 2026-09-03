@@ -1,0 +1,60 @@
+p90| Old Chinese onsets 75
+p90| in the earlier Wáng Rénxù Qièyùn manuscript, it is spelled as
+p90| (184) 生∶所 京 反: that is, sr(joX) + (k)jaeng = srjaeng.
+p90| The change Tsrj- > Tsr- also explains the final -aeng in the Guǎngyùn’s reading sraeng,
+p90| which is otherwise unaccounted for and has generally been regarded as irregular, since
+p90| 生 shēng rhymes as *-eŋ, but -aeng ordinarily comes only from the Old Chinese rhyme
+p90| *-aŋ. But MC -jaeng is the regular reflex of *-reŋ, as in
+p90| (185) 驚 *kreŋ > kjaeng > jīng ‘be afraid’
+p90| 鳴 *m.reŋ (dial. > *mreŋ) > mjaeng > míng ‘cry (of birds or animals)’
+p90| The MC -aeng in 生 shēng is thus the regular result of the change Tsrj- > Tsr-: 生 *sreŋ
+p90| > srjaeng > sraeng.
+p90| Another exception to the general pattern of nonpharyngealized words going to
+p90| Middle Chinese division III is
+p90| (186) 三 *s.rum > sam > sān ‘three’
+p90| Instead of MC sam, we would expect OC *s.rum > srim; and we see this regular
+p90| development in
+p90| (187) 參 *srum > srim > shēn ‘the constellation Orion’ (named for the three
+p90| stars in Orion’s belt)
+p90| But as a numeral, 三 *s.rum has MC s- instead of the expected sr-, probably influenced
+p90| by the following number 四 sì < sijH ‘four’. As is well known, the Middle Chinese final
+p91| 76 Old Chinese
+p91| The limited evidence at hand does not allow us to determine the Hmong-Mien reflexes
+p91| of original Old Chinese uvulars with any degree of confidence.
+p91| For the lowering of vowels after Old Chinese pharyngealized consonants, see section
+p91| 5.3.1, in the discussion of the development of rhymes.
+p91| 4.1.2 PALATALIZATION
+p91| Nonpharyngealized consonants tended to palatalize on the way to Middle Chinese: this
+p91| would have had the effect of enhancing the contrast between type A and type B, and
+p91| possibly reducing the reliance on the typologically unusual feature of pharyngealiza-
+p91| tion. Nonpharyngealized Old Chinese initial alveolar stops and nasals became pala-
+p91| tal affricates and nasals in Middle Chinese, unless the palatalization was blocked by
+p91| prevocalic *-r-:
+p91| (189) *t- > tsy- 真 *ti[n] > tsyin > zhēn ‘true, real’
+p91| *d- > dzy- 石 *dAk > dzyek > shí ‘stone’
+p91| *n- > ny- 入 *n[u]p > nyip > rù ‘enter’
+p91| *n̥- > sy- 身 *n̥i[ŋ] > syin > shēn ‘body; self’
+p91| MC tsy-, dzy-, ny-, and sy- are reasonably interpreted phonetically as [tɕ], [dʑ], [ɲ], and
+p91| [ɕ], respectively. These palatal consonants clearly existed already in the pronunciations
+p91| of Zhèng Xuán 鄭 玄 (127–200 ce) and Yīng Shào 應 劭 (? 140–206 ce), although other
+p91| Chinese pronunciations of the same epoch still had nonpalatalized alveolar stops in
+p92| Old Chinese onsets 77
+p92| But occasionally we find the older treatment by alveolar stops:
+p92| (195) 稱 *mə-tʰəŋ-s > tsyhingH > chèng ‘steelyard’; cf. pHM *nthju̯əŋH
+p92| ‘balance’
+p92| Nonpharyngealized laterals also evolved to Middle Chinese palatals (see sections
+p92| 4.3.4 and 4.3.5):
+p92| (196) *l- > y- 葉 *l[a] p > yep > yè ‘leaf’
+p92| *l̥- > sy- 首 *l̥uʔ > syuwX > shǒu ‘head’
+p92| (MC y- and sy- are reasonably interpreted as [j] and [ɕ], respectively.)
+p92| Old Chinese *r- preceded by nasal prefixes merged with *l-, sharing the developments
+p92| of that consonant, in particular palatalization (see sections 4.4.1.4 and 4.4.2.4):
+p92| (197) *N.r- > y- 酉 *N-ruʔ >*luʔ > yuwX > yǒu ‘tenth earthly
+p92| branch’
+p92| *m.r- > y- 蠅 *m-rəŋ > *ləŋ > ying > yíng ‘fly (n.)’
+p92| We might expect *N.r̥- and *m.r̥- to become MC sy-, but we have no clear examples.
+p92| Likewise, nonpharyngealized *ɢ- evolved to MC y- irrespective of the following
+p92| vowel, as in 與 *ɢ(r)aʔ-s > yoH > yù ‘participate in’. A corresponding development is
+p92| seen in Proto-Mǐn and Hmong-Mien:
+p92| (198) 羊 *ɢaŋ > yang > yáng ‘sheep’, pMǐn *ioŋ A, pHM *juŋ A ‘sheep/goat’
+p92| In addition, Old Chinese nonpharyngealized velar stops *k- and *g- and the nasals

@@ -1,0 +1,204 @@
+schuessler -- lines containing a Later Han syllable of 谷
+Source: Minimal Old Chinese and Later Han Chinese_ A Companion to -- Axel Schuessler; Bernhard Karlgren -- University of Hawai'i, Honolulu, 2009 -- University -- isbn13 9780824832643.pdf
+Keys: jok, kok, lok
+
+--- pdf page 61  (matched lok) ---
+must have had some velar initial in OC as well, in order to make it more similar to yue, thus
+Karlgren's *IJlok vs. *gl3k. Accordingly, he reconstructed almost all graphs in the series with
+initial *g-, even though not a single one shows a trace of it in MC.
+
+--- pdf page 73  (matched kok) ---
+1-10 = K. 74 Mand. MC LHan OCM
+a.$. chiS, tshja, tsha, k-Iha, [E] Cf. Toch. B kokale
+jii kjwo kio ka OCB *k(r)ja
+
+--- pdf page 89  (matched kok) ---
+Div. *-aI) R.3 *-ak R.2 *-ek R. *-eI) R.9
+I • kaI) kOI) *kaI) 4?t kak kok *kak
+:Yt: kwaI) kuoI) *kwaI) ¥II kwak kuok *kwak
+
+--- pdf page 90  (matched jok) ---
+merged with the reflexes of oeM *-ek in standard Chinese (Table 2-1), but has the expected
+QYS analogue -jok in Min dialects. In the OC rimes *-ak, *-ek, *-ok and *-auk, syllables with
+MC retroflex initials, especially of the expected type <.ijak, djiik, <.ijwok, tend to be rare in Div.
+
+--- pdf page 90  (matched kok) ---
+[T] Sin Sukchu SR kaw (A); MGZY gyay (A) [kjaj] ~ jill ~ *krfi? 1-12/33c
+~ each ge kiik kok kiik
+'*
+
+--- pdf page 90  (matched kok) ---
+'*
+[T] Sin Sukchu SR kaw (A), LR kaw?, b?; MGZY gaw (.A.) [kaw]; ONW kok 'each'
+de 1 W l armpit ge kiik kok kiik < *klak
+
+--- pdf page 90  (matched kok) ---
+[T] Sin Sukchu SR kaw (A), LR kaw?, b?; MGZY gaw (.A.) [kaw]; ONW kok 'each'
+de 1 W l armpit ge kiik kok kiik < *klak
+[E] PMon *knlak 'armpit'; TB *g-Iak > WB lak-kaliB 'armpit'
+
+--- pdf page 90  (matched kok) ---
+M
+f ge Uk kok kiik
+gp' JI~ p' ke khiik khok khiik
+
+--- pdf page 90  (matched kok) ---
+c' g6 k(h)ak k(h)riik,
+Uk kok kiik < klak [E] KS *k-Ia:kD, *tla:kD1
+d ,*2 haunch g6, ge kllk kak kriik
+
+--- pdf page 90  (matched kok) ---
+z ;ftl2 obstruct he YBk gak griik
+branch ge kiik kok kiik [E] TB *ka:k 'branch'
+d' '4!; ke khllk khak khriik
+
+--- pdf page 95  (matched jok) ---
+2-25 = K. 790 Mand. Me LHan oeM
+abce yi jiiik jak - jok lak 'I" 'pleased' :If 1-42/S2g *lah
+fghi- ~~,~.~ yi jiiik jak - jok lak
+
+--- pdf page 95  (matched jok) ---
+abce yi jiiik jak - jok lak 'I" 'pleased' :If 1-42/S2g *lah
+fghi- ~~,~.~ yi jiiik jak - jok lak
+m
+
+--- pdf page 95  (matched jok) ---
+lay open shi sjiik sak lhak
+wine yi jiiik jak - jok lak
+n:f$l ze <;ink <;iak drak < r-Iak
+
+--- pdf page 95  (matched jok) ---
+jj shoot she dzjaC zac m-Iakh [f] ONW ia [D] PMin *ziac
+jj fed up yi jiiik jak - jok lak =2-251790d
+70
+
+--- pdf page 154  (matched lok) ---
+the expected MC type <;ljak, <;ljtik, <;ljwok, tend to be rare in Div. III and seem to have shifted
+into Div. II <;lllk, <;l3k, <;lek, <;lok. See Table 2-1 for a comparison of OCM rimes *-aI) , *-ak with
+*-eI), *-ek; Table 17-1 for comparison of OCM rimes *-ek, *-ak, *-auk, *-uk.
+
+--- pdf page 170  (matched kok) ---
+*
+I 0kuI] kOI] *koI] ~ kuk kok *kok D kh;}UB khoB *kho?
+* ~ mUI] mOI] *moI] muk mok *mok I R d;}uc doc *doh
+
+--- pdf page 170  (matched kok) ---
+!
+tOI] *toI] 1; duk dok *dok ~ k;}uc koc *kokh
+tUI]
+
+--- pdf page 170  (matched lok) ---
+III ~ gjWOI]c gUOI]c *goI]h HH khjwok khuok *khok fiY kju kuo *ko
+~bjwoI] buoI] *boI] % zjwok ziok *s-lok i*t pjuC pUoC *poh
+~ljwoI] lioI] *rOI] JU zjwok dzok *dok I tju tio *tro
+
+--- pdf page 170  (matched lok) ---
+ffr
+I m < ;ljwOI]B <;lioI]B *droI]? , jiuC joC *lokh
+I jiwoI]c JOI]c *loI]h I
+
+--- pdf page 170  (matched kok) ---
+a 1:i]2 phrase ju kjuC kuoc
+[T] {j]i9i!: kuoc (or kioC)-kuet 'a kind of hat', cf. Mongol kokUl (Pulleyblank 1983: 453)
+d ~ gou k;}uB koB ko? < klo?
+
+--- pdf page 181  (matched kok) ---
+d ~ jue kak bk krok
+h ~ a tree gil kuk kok kok
+~ husked gil kuk kok kok
+
+--- pdf page 181  (matched kok) ---
+h ~ a tree gil kuk kok kok
+~ husked gil kuk kok kok
+[E) AA: PVM *rko? 'husked rice', Khmu Irf]ko?1 <> TB-WB kok 'rice plant'
+
+--- pdf page 181  (matched kok) ---
+~ husked gil kuk kok kok
+[E) AA: PVM *rko? 'husked rice', Khmu Irf]ko?1 <> TB-WB kok 'rice plant'
+j ~ gil kuk kok kok
+
+--- pdf page 181  (matched kok) ---
+[E) AA: PVM *rko? 'husked rice', Khmu Irf]ko?1 <> TB-WB kok 'rice plant'
+j ~ gil kuk kok kok
+k ~ htl yuk gok gok
+
+--- pdf page 181  (matched kok) ---
+poor xue,que yak, khak g:)k, kh:)k grok, khrok
+m f1 gou k;mc koc kokh 'to suckle' [GY]
+p $: gou buc koc kokh
+
+--- pdf page 181  (matched kok) ---
+m f1 gou k;mc koc kokh 'to suckle' [GY]
+p $: gou buc koc kokh
+q ~ kou kh;)UC khOC khokh
+
+--- pdf page 181  (matched jok) ---
+11-4 = K.1213 Mand. Me LHan oeM
+a !±H qii khjwok khuok khok OCB *kh(r)jok
+[T] Sin Sukchu SR k'y CA.); MGZY khyu CA.) [k'y]; ONW khuok
+
+--- pdf page 182  (matched jok) ---
+11-5 = K. 1214 Mand. Me LHan oeM
+ab ffljJFffi.} JU gjwok guok gok OCB *fikh(r)jok
+[f) ONW guok
+
+--- pdf page 182  (matched kok) ---
+[f) ONW guok
+cd m;fffii ju kjwok kuok kok
+11-6 =K.1204 Mand. Me LHan oeM
+
+--- pdf page 182  (matched jok) ---
+11-10 = K. 1215 Mand. Me LHan oeM
+a 3~ yu IJjwok I)uok I)ok OCB *I](r)jok
+cd.. yue I)ak I)::>k I)rok c = 11-9/1227a -ffi
+
+--- pdf page 183  (matched kok) ---
+t:l-
+a valley gu kuk kok k16k =k1ok
+[E] ? Mikir ar16k < *r-16k 'valley'
+
+--- pdf page 183  (matched jok) ---
+t:l-
+good yu jiwok jok 10k
+title lu luk 10k < *lok part of a X ion gnu title
+
+--- pdf page 183  (matched lok) ---
+good yu jiwok jok 10k
+title lu luk 10k < *lok part of a X ion gnu title
+158
+
+--- pdf page 184  (matched jok) ---
+m-
+f yil jiwok jok 10k
+[T] Sin Sukchu SR y (A); MGZY yYu (A) Oy]
+
+--- pdf page 184  (matched jok) ---
+[E] WT ldug(s)-pa, ldugs « *Nluk) 'to pour (water into vessel, on hands), > 'cast, found'
+deg ~~tl.1@ yil jiwok jok 10k ONW iuok
+m
+
+--- pdf page 184  (matched lok) ---
+m
+h yil jiuC joC lokh
+%
+
+--- pdf page 185  (matched jok) ---
+11-20-= K. 1221 Mand. MC LHan OCM
+a ~ su sjwok siok sok OCB *sjok
+[f] MHan ~Hw siok-t;}k Soyd or soyClik <> [D] PEMin *tshuokDl, PWMin *JUOkD1
+
+--- pdf page 188  (matched kok) ---
+m $ gong, kjwOI]B, kUOI]B, kOI]?,
+ju kjwok kuok kok
+f {;It gong kjwoI](C) kuoI](C) kOI],koI]h
+
+--- pdf page 188  (matched kok) ---
+•[T ] Sin Sukchu SR kjaI] ct); MGZY gyang ct) [kjaI]]
+ju kjwok kuok kok
+12-4 = K.1184 Mand. Me LHan oeM
+
+--- pdf page 201  (matched lok) ---
+* [f] MTang ~heu < ~hU, ONW thu <> [E] TB: Chepang klu- 'pull out (hair), ~ glu- 'pull out
+(larger) weeds, cultivate crop' ~ blu-'remove, root out'. <> Tai: S. thlokD1 'id.'
+ghil ~ ~:ljijj zhOu <;ljgUC <;luC driuh < r-liuh
+
