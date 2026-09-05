@@ -20,6 +20,7 @@ a rule that is merely plausible produces nothing and a rule that is right
 produces a list of real word pairs.
 
     rule                    new DLT matches   examples
+    ch before a, o, u -> k          8         chara>kara, char>kar, choy>koy
     ng  -> ñ                        6         tengri>teñri, tang>tañ, ong>oñ
     initial j -> y                  9         jay>yay, jaz>yaz, jana>yana
     c before a, o, u -> k           8         can>kan, cara>kara, coy>koy
@@ -39,13 +40,17 @@ records the original (Cod<-tongus) so it can be checked in Kuun.
 
 NOT applied, and why:
     gh -> ğ            0 new matches
-    initial ch -> ç    1 new match, too thin to trust
+    x  -> z            0 new matches, so x is the sibilant and chax is kaş
+    q  -> k            0 new matches (a second control)
+    initial ch -> ç    2 new matches, and one of them is also caught by
+                       ch -> k, so the evidence does not separate them
     final -h dropped   5 new matches, but they look like OCR damage
                        (ulah, korh, bogh, buth) rather than orthography
 """
 import re
 
 RULES = [
+    (u"ch before a/o/u -> k", re.compile(u"ch(?=[aou])"), u"k"),
     (u"ng -> ñ",              re.compile(u"ng"),        u"ñ"),
     (u"initial j -> y",       re.compile(u"^j"),        u"y"),
     (u"c before a/o/u -> k",  re.compile(u"c(?=[aou])"), u"k"),
@@ -97,6 +102,6 @@ if __name__ == "__main__":
               % (name, len(gained), ", ".join("%s>%s" % g for g in gained[:6])))
     print("")
     both = sum(1 for w in cod if normalize(w) in dlt)
-    print("With all four rules applied together, Codex headwords matching")
+    print("With all five rules applied together, Codex headwords matching")
     print("a DLT headword rise from %d to %d."
           % (sum(1 for w in cod if w in dlt), both))

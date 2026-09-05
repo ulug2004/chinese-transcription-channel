@@ -1,11 +1,12 @@
 DLT headwords 6820, Codex headwords 2110
 Codex headwords already matching a DLT headword: 104
 
+ch before a/o/u -> k     new matches:   8   archa>arka, chart>kart, char>kar, chara>kara, choy>koy, chol>kol
 ng -> ñ                  new matches:   6   ingir>iñir, ong>oñ, tang>tañ, tengri>teñri, singir>siñir, meng>meñ
 initial j -> y           new matches:   9   jay>yay, jas>yas, jaz>yaz, jana>yana, jarma>yarma, jala>yala
 c before a/o/u -> k      new matches:   8   can>kan, cas>kas, cara>kara, coy>koy, cor>kor, cop>kop
 x -> ş                   new matches:   6   ux>uş, uxun>uşun, yax>yaş, tax>taş, tux>tuş, sax>saş
 v -> w  (control)        new matches:   0   
 
-With all four rules applied together, Codex headwords matching
-a DLT headword rise from 104 to 133.
+With all five rules applied together, Codex headwords matching
+a DLT headword rise from 104 to 143.
