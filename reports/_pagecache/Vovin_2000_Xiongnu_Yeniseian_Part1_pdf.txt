@@ -1,0 +1,1634 @@
+
+===PAGE 1===
+1  / 18 Search document
+
+
+Did the Xiong-nu Speak a Yeniseian Language?1
+by
+Alexander Vovin
+(University of Hawaii at Mânoa)
+Until the early 1960s it was generally assumed that the Xiong-nu
+were ancestors of either Turks or other Altaic peoples (such as
+Mongols or Tunguses). Several scholars also came up with pro-
+posals that they represented a mixture of these peoples (for the
+detailed overview of the bibliography see Doerfer 1973). In 1962,
+however, Pulleyblank proposed a new theory, connecting the
+Xiong-nu language with the Yeniseian family of Central Siberia
+(Pulleyblank 1962).2
+The Yeniseian family consists of the Ket language, which is still
+spoken today, but is lingering on the brink of extinction, and sev-
+eral extinct languages: Yug, Kott, Assan, Arin, and Pumpokol. Our
+knowledge of Asan, Arin, and Pumpokol is limited mostly to word
+lists, as these languages became extinct in 18th century. The Kott
+and Yug languages are somewhat better known, especially the
+latter, as Kott became extinct in the later part of 19th century, and
+Yug only recently. Pulleyblank's hypothesis was enthusiastically
+embraced by some scholars, e.g. Yakhontov 1986, and energeti-
+cally rejected by others (Doerfer 1973).
+The Xiong-nu language is known to us only through the about
+hundred fifty glosses and possibly one very short text consisting
+of just two lines in the Chinese transcription. All previous
+attempts to identify the Xiong-nu language with one or the other
+1 I would like to thank Edwin Pulleyblank (Vancouver) and Ralf Stefan
+Georg (Bonn) for their comments on the first draft of this paper.
+2 The first suggestion that the Xiong-nu language may belong to Yeniseian
+family belongs to Ligeti who demonstrated that Xiong-nu (more exactly
+Hu) *sak-dak "shoe" is reminiscent of Ket sagdi "id." (1950), however, it
+was Pulleyblank who presented the credible evidence first that also in-
+cluded examples from basic vocabulary.
+CAJ 44/1 (2000)
+9/3/26, 12:04 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=1 1/1
+===PAGE 2===
+2  / 18 Search document
+
+
+88
+ 
+ALEXANDER  
+VOVIN
+later
+ 
+languages  
+of  
+East  
+or  
+Central  
+Asia
+readings
+ 
+of  
+Chinese  
+characters,  
+or  
+in  
+a
+outdated
+ 
+reconstruction  
+of  
+Old  
+Chinese
+of
+ 
+course,  
+a  
+doomed  
+enterprise  
+from  
+t
+phonology
+ 
+underwent  
+tremendous  
+chan
+sand
+ 
+years.  
+Thus,  
+it  
+could  
+be  
+compared
+logically
+ 
+interpret  
+a  
+language  
+X,  
+writte
+by
+ 
+means  
+of  
+the  
+Greek  
+alphabet,  
+throu
+Greek
+ 
+phonology.  
+Therefore,  
+Pulleybla
+it
+ 
+finally  
+proves  
+right  
+or  
+wrong,  
+was  
+a
+methodologically,
+ 
+as  
+it  
+is  
+based  
+on  
+auth
+Chinese
+ 
+phonology,  
+that  
+itself  
+represe
+compared
+ 
+to  
+Karlgren's  
+reconstruction.
+The
+ 
+goal  
+of  
+the  
+present  
+article  
+is  
+to  
+ev
+ments
+ 
+from  
+the  
+point  
+of  
+view  
+of  
+furth
+struction
+ 
+of  
+Old  
+Chinese  
+and  
+in  
+the  
+h
+descriptive
+ 
+study  
+of  
+Yeniseian  
+languag
+been
+ 
+a  
+considerable  
+progress  
+in  
+both  
+t
+Chinese
+ 
+and,  
+more  
+importantly,  
+in  
+the  
+re
+tion
+ 
+of  
+Yeniseian  
+languages.  
+Thus,  
+man
+latter,
+ 
+unavailable  
+to  
+Pulleyblank  
+at  
+that
+As
+ 
+far  
+as  
+Old  
+Chinese  
+phonology  
+is  
+con
+version
+ 
+of  
+Old  
+Chinese  
+reconstruction,
+rostin
+ 
+1989  
+and  
+Baxter  
+1991,  
+rather  
+than
+constructions.
+ 
+For  
+the  
+sources  
+on  
+Yenis
+use
+ 
+Sergei  
+Starostin's  
+comparative  
+phon
+ative
+ 
+vocabulary  
+(1995)  
+of  
+Yeniseian,  
+a
+construction
+ 
+of  
+Proto-Yeniseian  
+verbal
+portant
+ 
+descriptive  
+studies  
+of  
+Yeniseian
+consulted
+ 
+or  
+used:  
+Dulson's  
+Ket  
+gram
+Kanakin's
+ 
+phonology  
+and  
+morphology  
+o
+monograph
+ 
+on  
+Ket  
+verb  
+(1968a),  
+ske
+sketch
+ 
+of  
+Yug  
+(1979),  
+Werner's  
+gram
+3
+ 
+It  
+must  
+be  
+noted,  
+however,  
+that  
+since  
+1962
+views considerably on the reconstruction of Old Chinese, sometimes
+taking even an agnostic position on prospects of Old Chinese reconstruc-
+tion (Pulleyblank 1973, 1991, 1992, 1994). His new version of Old Chinese
+does not seem to er'joy the same kind of scholarly support as did his
+earlier version.
+CAJ 44/1 (2000)
+9/3/26, 12:04 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=2 1/1
+===PAGE 3===
+3  / 18 Search document
+
+
+DID THE XIONG-NU SPEAK A YENISEIAN LANGUAGE? 89
+sketches of Yeniseian family (1996a), Ket (1996b), Yug (1996c),
+and Kott (1996d).4
+Pulleyblank proposed a number of arguments against alleged
+Altaic affiliation, both phonological and lexical. Let us start with
+his phonological arguments.
+a) Pulleyblank noted that many Xiong-nu words start with a
+liquid that was transcribed in Chinese with a consonant that he
+reconstructed in 1962 as OC *1-, and now reconstructs as OC *r-
+(personal communication). Pulleyblank noted that initial I- is rare
+in Altaic and initial r- is non-existent (1962: 240). However, this
+cannot be accepted as valid argument against Altaic affiliation of
+Xiongnu, since initial I- occurs rather frequently in some Tungusic
+languages and, more limited, in some Mongolie languages: cf.
+Ewenki la.mu "sea", le:mba "salmon", lipki:- "to stick"; Manchu
+labdu "many", lala "porridge", laya- "wither"; Monguor lavci
+"leaf', lumu "bow." Although initial r- is indeed atypical for Altaic
+languages, three iragor exceptions should be noted: a) secondary
+initial r- in Monguor resulting from elision of initial vowel (e.g.
+rguen "wide", cf. Written Mongolian (WM) örgen "id."; ral "river",
+cf. WM arai "island"; re- "to come", cf. WM ire- "id." (Todaeva
+1973: 355-365)), b) secondary initial r- in Japanese resulting from
+the large influx of Chinese and Western loanwords ( rikai "under-
+standing", rosoku "candle", raitaa "lighter", reji "register"), c)
+secondary initial r- in North Korean literary standard, "reincar-
+nated" from etymological spelling: ryuri "glass", rodong "labor",
+ripyel "separation" (cf. South Korean standard yuri, nodong,
+ipyel). Since we know nothing about history of the Xiong-nu lan-
+guage, initial r- in it (if it was initial r- and not initial 1-), could
+possibly be attributed to similar cases.
+b) Pulleyblank also suggested that initial consonant clusters
+represent a non-Altaic feature (1962: 240). Again, this is not neces-
+sarily true as secondary initial consonantal clusters (originated
+due to vowel reduction) are found in Middle Korean and in Mon-
+guor: Middle Korean pco- "to weave", pstay "time", skweng
+"pheasant", psu- "to use"; Monguor ndige "egg", ndurda- "to be-
+4 My sincere gratitude to Ralf Stefan Georg who not only elicited certain
+Ket words from his informant, but also sent me some his field materials
+on Ket that were also consulted in addition to the above-mentioned pub-
+lished materials on Yeniseian languages.
+CAJ 44/1 (2000)
+9/3/26, 12:05 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=3 1/1
+===PAGE 4===
+4  / 18 Search document
+
+
+90
+ 
+ALEXANDER  
+VOVIN
+come
+ 
+high",  
+rgen  
+"other",  
+sgil  
+"thought"
+is
+ 
+no  
+reason  
+to  
+believe  
+that  
+the  
+Xiong-
+dergo
+ 
+the  
+same  
+kind  
+of  
+phonological  
+de
+c)
+ 
+Existence  
+of  
+initial  
+and  
+intervocalic
+of
+ 
+*th,  
+*kh  
+is  
+also  
+given  
+as  
+evidence  
+aga
+blank
+ 
+1962:  
+242).  
+While  
+this  
+picture  
+su
+Proto-Altaic
+ 
+reconstruction  
+(Starostin
+tion
+ 
+is  
+found  
+in  
+Mongolie  
+and  
+Tungusic
+d)
+ 
+As  
+Pulleyblank  
+noted  
+himself,  
+a  
+pec
+tial
+ 
+*b-  
+and  
+medial  
+*-p-,  
+in  
+Xiong-nu  
+but
+both
+ 
+Old  
+Turkic  
+and  
+Mongolian  
+as  
+well  
+phonological
+ 
+peculiarity  
+of  
+the  
+Xiong-
+really
+ 
+used  
+against  
+its  
+Altaic  
+affiliation.
+e)
+ 
+Initial  
+*n-,  
+as  
+Pulleyblank  
+notes  
+does
+is
+ 
+widely  
+present  
+in  
+Mongolian  
+(1962:  
+2
+all
+ 
+other  
+Altaic  
+languages,  
+too.
+Thus,
+ 
+I  
+do  
+not  
+find  
+to  
+be  
+valid  
+any  
+of  
+Pu
+arguments
+ 
+against  
+Altaic  
+affiliation  
+of  
+th
+necessary
+ 
+to  
+add,  
+from  
+the  
+methodolo
+even
+ 
+if  
+they  
+were  
+valid,  
+and  
+Xiong-nu  
+still
+ 
+could  
+not  
+constitute  
+"proof"  
+of  
+its
+argument
+ 
+based  
+on  
+phonological  
+similar
+ment
+ 
+based  
+on  
+typology,  
+that  
+can  
+be  
+ve
+of
+ 
+genetic  
+affiliation.  
+At  
+the  
+same  
+time,
+phonological
+ 
+features  
+listed  
+by  
+Pulleybla
+Altaic
+ 
+languages,  
+cannot  
+constitute  
+an
+Altaic
+ 
+origins.  
+For  
+this  
+evidence,  
+we  
+m
+Besides the phonological arguments, discussed above, Pul-
+leyblank proposed a number of lexical comparisons connecting
+Xiong-nu with Yensiseian. It is necessary to note that the majority
+of glosses found in Chinese sources represent either titles or per-
+sonal names, which are practically useless in determining the ge-
+netic affiliation of a language, although it might be tempting to
+do so. Pulleyblank did not quite avoid this temptation, and among
+the words he discusses there are some Xiong-nu titles. I will not
+evaluate them here, as I believe that this kind of evidence is not
+admissible. Nor will I deal with several names for milk products,
+that Pulleyblank also uses, except for the word "milk" itself, as
+they obviously constitute cultural vocabulary, that can be easily
+CAJ 44/1 (2000)
+9/3/26, 12:05 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=4 1/1
+===PAGE 5===
+5  / 18 Search document
+
+
+DID THE XIONG-NU SPEAK A YENISELAN LANGUAGE? 91
+borrowed and re-borrowed, and, therefore, cannot be really used
+as evidence for establishing genetic affiliation. Instead, I will con-
+centrate here on few words from the Xiong-nu language that be-
+long to basic vocabulary (some of them only to a certain extent).
+a) *kwala "son" ( Pulleyblank compares this word with
+Arin bïkjàl "son" (with bi- as a prefix), but Arin word seems to be
+isolated in Yeniseian: other Yeniseian languages have words based
+on Proto- Yeniseian (PY) *pu?-b "son" (Starostin 1995: 252): Ket
+hi?p, Yug fi?p, Kott fup, Assan pup. It seems that there are no
+alternative Altaic etymologies for Xiong-nu *kwala "child." Old
+Japanese kwo "child" superficially seems plausible (kwo <
+*ku[C]a or *ka[C]u), but it is likely to be related to Tungusic *kuņa-
+"child", and, therefore, is not applicable here.
+b) *kuti "horse" (|Jij§|')- Appears to be a good match: PY *ku?s
+"horse" > Ket ku?s, Yug ku?s, Kott huš, Arin kus/qus, Pumpokol
+kut (Starostin 1995: 240). One minor problem is that the Xiong-
+nu form has -t- like Pumpokol, but unlike other Yeniseian lan-
+guages. The other problem is however, more serious: the word
+for "horse", although it does belong to basic vocabulary, can be
+borrowed (cf. Old Japanese uma/muma "horse" < Old Chinese
+*mra "id.").
+c) *ket, ethnonim Jie = "stone?" Pulleyblank compares it
+with Arin kes and Pumpokol kit "stone". However, nowadays we
+know that both forms are results of fortitions typical for these
+languages, and that they go back to PY *či?s "stone", along with
+Ket ti?s, Yug či?s, Kott šiš, Assan šiš, Koibal šiš (Starostin 1995:
+217-218). Pulleyblank believed that there are two Yeniseian ety-
+mons for "stone", one with initial k- and another with initial c-
+(1962: 246), but he was misled by the fact that there are two
+Pumpokol forms for stone, kit, and cis. The latter is actually a
+Yug form, mislabeled "Pumpokol" (Helimskii 1985). This fact was
+not known in 1960s, and Pulleyblank, of course, could not avoid
+this mistake. We are left with two distinct possibilities here: (1)
+to speculate that Xiong-nu had the same fortitions as Pumpokol,
+which is not impossible (cf. the word for "horse" above), (2), to
+treat the term not as a "stone", but as an ethnonim. In this case
+it does resemble closely the PY term *ke?t "person", "human be-
+ing" > Ket ke?t, Yug ke?t, Kott hit/hett, Assan hit, Arin kit/qit,
+Pumpokol kit (Starostin 1995: 236).
+CAJ 44/1 (2000)
+9/3/26, 12:05 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=5 1/1
+===PAGE 6===
+6  / 18 Search document
+
+
+92
+ 
+ALEXANDER  
+VOVIN
+d)
+ 
+*t(r)engri  
+"sky"  
+(Jjļ^l).  
+The  
+word
+PY
+ 
+*?es  
+"god",  
+"sky"  
+(Starostin  
+1995:  
+is
+ 
+present  
+in  
+Altaic:  
+Old  
+Turkic  
+tägri,
+is
+ 
+considered,  
+though,  
+to  
+be  
+a  
+loanwo
+a
+ 
+third  
+unknown  
+source  
+(Pelliot  
+1944)
+e)
+ 
+*d(r)ung  
+"milk"  
+(M)-  
+Pulleyblank
+Pumpokol
+ 
+den  
+and  
+Arin  
+teņul  
+"milk"
+It
+ 
+is  
+a  
+reasonably  
+good  
+etymology,  
+al
+phonetic
+ 
+problems  
+(-u-  
+to  
+-e-  
+and  
+-g  
+to
+aware
+ 
+of  
+at  
+least  
+the  
+latter  
+one  
+(1962:
+PY
+ 
+*de(?)n  
+"nipple",  
+"milk"  
+>  
+Kott  
+ten
+pokol
+ 
+den  
+"milk"  
+(Starostin  
+1995:  
+220)
+The
+ 
+evidence  
+above  
+suggests  
+that  
+Pu
+likely.
+ 
+However  
+the  
+scarcity  
+of  
+the  
+mat
+decisions,
+ 
+because  
+five  
+words  
+are  
+obv
+lish
+ 
+a  
+significant  
+number  
+of  
+regular
+and
+ 
+all  
+conclusions  
+are  
+based  
+on  
+phon
+regular
+ 
+correspondence  
+that  
+can  
+be  
+de
+dial
+ 
+and  
+final  
+/t  
+J  
+correspond,  
+like  
+Pum
+seian
+ 
+languages  
+and  
+in  
+Proto-  
+Yeniseia
+a
+ 
+shared  
+innovation,  
+further  
+supported
+and
+ 
+Pumpokol  
+also  
+share  
+another  
+inno
+k-.
+ 
+Unfortunately,  
+there  
+is  
+just  
+one  
+exa
+over,
+ 
+it  
+looks  
+like  
+that  
+Xiong-nu,  
+sim
+Yug,
+ 
+preserves  
+initial  
+PY  
+*d-  
+while  
+ot
+t-
+ 
+(cf.  
+PY  
+*de-s  
+"eye"  
+>  
+Ket  
+de:s,  
+Yug  
+d
+Arin
+ 
+ti-er),  
+Pumpokol  
+dat  
+(Starostin  
+199
+the
+ 
+possibility  
+that  
+the  
+Xiong-nu  
+langua
+guage,
+ 
+is  
+most  
+closely  
+related  
+to  
+Pum
+Thus,
+ 
+lexical  
+evidence  
+suggests  
+that  
+Yeniseian
+ 
+language,  
+but  
+speaking  
+in  
+m
+of
+ 
+evidence  
+is  
+necessary,  
+but  
+not  
+suffic
+dence
+ 
+we  
+must  
+again  
+look  
+elsewhere.  
+F
+poem
+ 
+in  
+Jie  
+(<  
+*ket  
+(IB))  
+language,  
+tha
+of
+ 
+Xiong-nu.  
+There  
+are  
+several  
+attemp
+the
+ 
+basis  
+of  
+Turkic  
+(Ramstedt  
+1922),
+I
+ 
+agree  
+with  
+Pulleyblank  
+that  
+none  
+of
+successful
+ 
+(Pulleyblank  
+1962:  
+264),  
+bu
+will
+ 
+discuss  
+Ramstedt  
+and  
+Bazin's  
+att
+CAJ
+ 
+44/1  
+(2000)
+9/3/26, 12:06 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=6 1/1
+===PAGE 7===
+7  / 18 Search document
+
+
+DID THE XIONG-NU SPEAK A YENISEIAN LANGUAGE? 93
+Before doing so, however, I believe it is necessary to provide my
+readers with the poem itself, the text that surrounds it, and with
+the phonetic interpretation of Jie text, based on the recent
+advances in Chinese historical phonology.
+The two-line poem in question is recorded in the biography of
+Fotu Cheng in the volume 95 of the "Jin shu [Ü3IIF, History of
+Jin]."5 The Jin dynasty ruled from 280 to 420 C.E., but the text
+itself was compiled under Song dynasty. The episode connected
+with the poem is as follows:
+mm
+ 
+>  
+fés  
+:  
+:  
+r
+# » j ita «-È ° ' Miä • 0 8# » m
+H
+ 
+»  
+jmxi&m  
+•  
+ssâw  
+»  
+>
+mmmm
+ 
+°  
+*  
+m-  
+as*  
+a®  
+»  
+u
+» j mb : imm& ° J ttsm ' mmm®.
+*ËÈmz*
+Then [Liu] Yao himself attacked Loyang, and [Shi] Le was going
+to rescue it. All his retainers [tried] to persuade [Shi Le] that [he]
+would not be able to do it. [Shi] Le visited [Futo] Cheng with [this
+problem], and Cheng said: "It is said in Xianlun Lingyin: "S(l)u(s)-
+ke thij?-re(ts)-kang bok-kok Ko-thok-tang." This is Jie language.
+S(l)u(s)-ke means "army", thij?-re(ts)-kang is "to go out". Bok-kok
+is the barbarian title of Liu Yao, Ko-thok-tang means "to catch."
+These words mean that army/armies will go out and capture [Liu]
+Yao." [Cheng] also ordered a young boy to purify himself and fast
+for seven days, and [then] he mixed hemp oil with rouge, studied
+[the mixture] himself on his palm, and then showed his hand to
+the boy. It was clearly shining. The boy said with surprise: "There
+are many war horses, and [I] see a man, tall and big, and clearly
+white (Liu Yao was an albino - A.V.). His elbows are tied by a
+red rope." [Futo] Cheng said: "This is definitely [Liu] Yao." [Shi]
+5 I use an edition of the "Jin shu" published by Zhonghua shuju (Beijing,
+1988). "Jin shu" was compiled by Fang Xuanling and other scholars in the
+beginning of Tang dynasty, that roughly corresponds to the beginning of
+the seventh century C.E. The events described in this passage refer to the
+war between two Xiong-nu chieftains, Liu Yao and Shi Le for the domi-
+nance in North China, that occurred in 329 C.E.
+CAJ 44/1 (2000)
+9/3/26, 12:06 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=7 1/1
+===PAGE 8===
+8  / 18 Search document
+
+
+94
+ 
+ALEXANDER  
+VOVIN
+Le
+ 
+rejoiced,  
+following  
+[that  
+conversatio
+sist
+ 
+[Liu]  
+Yao,  
+and  
+captured  
+him  
+alive.  
+(
+The
+ 
+Jie  
+poem  
+from  
+this  
+passage  
+is:
+Its
+ 
+Chinese  
+word-to-word  
+transla
+HHË* SMSSItóÉS" ***• » that can be rendered
+into English along with the appropriate transcription, based on
+Baxter-Starostin reconstruction like the following:
+= *s(l)u(s)-ke, "army" or "armies" (there is no indication
+of plural or singular in Chinese). Consonants in parentheses in
+this word and the following one existed in Early Old Chinese (7th
+c. B.C.) but are likely to be gone by the time of Late Old Chinese
+of Jin dynasty one thousand years later.
+mmm - *thij ?-re(ts)-kang, "goes out" or "go out". Possibly
+also "went out" or "will go out."
+= *bok-kok, barbaric title of Liu Yao.
+= *Ko-thok-tang, "captures", "will capture", or "cap-
+tured."
+Let us first see how our predecessors dealt with with this poem.
+G. J. Rannstedt uses mostly the modern Mandarin readings of the
+characters above and reads: Siuk'i t'ilikang, puh-koh kü-tu-tang
+(Ramstedt 1922: 31).7 The only obvious non-Mandarin readings
+Rannstedt employs are /k'i / for instead of Mandarin /zhil/, and
+/kü/ for éjý instead of Mandarin /qu2/. Ramstedťs source of these
+archaic-looking readings is unclear: in any case none of them can
+pretend to be a true reconstruction: while consonantism is cor-
+rect, vocalism is wrong. Ramstedt further interprets this poem as
+"Wenn man in den Krieg auszieht, so kann man Liu-yao gefangen
+nehmen." The first thing that attracts our attention here is that
+Ramstedťs translation has too many words compared to original:
+there is no indication of impersonal ("man") anywhere in the orig-
+inal, nor there is any hint at modality ("kann"), or temporal link
+between two clauses ("wenn"). Second, the word for "army"
+6 Translation of the passage is mine (- A.V.).
+7 Ramstedt s interpretation practically repeats the interpretation of Shira-
+tori (1900: 11-12).
+CAJ 44/1 (2000)
+9/3/26, 12:06 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=8 1/1
+===PAGE 9===
+9  / 18 Search document
+
+
+DID THE XIONG-NU SPEAK A YENISEIAN LANGUAGE? 95
+turned into the word for "war" ("Krieg"), in order to explain -k'i
+in siu-k'i as dative case -M, which would be feasible in the light
+of Baxter-Starostin *ke, but not Ramstedt k'i. However, Old Tur-
+kic sü means "army", and not "war", and the replacement is not
+justified. In addition, Xiong-nu *s(l)u(s)-ke has a [+back] vowel,
+while Old Turkic word sü "army" has a front vowel. Furthermore,
+if *-ke were a dative or directional case, it would almost certain
+be indicated in the Chinese translation by prepositions ^ or -J-
+"in", "to". However, the absence of these prepositions clearly indi-
+cates that "army" is to be treated as a subject if we are dealing
+with SVO language, or as subject or direct object, if Xiong-nu was
+SOV language. Finally, Chinese Ü} "go out", "to put out" is
+translated as "ausziehen" rather than "ausgehen" or "hinausfüh-
+ren." Ramstedt does not stop here at his more than free interpre-
+tation of both Chinese translation and phonology. His ťi-li-kang
+further becomes tai-li-kang, and then magically turns into
+taViqytj or taViqatj The latter then is compared with Old Turkic
+tašyqyņ "ziehet aus." Needless to say, such ad hoc interpretation
+of both Chinese phonology and translation does not give too
+much credibility to Ramstedt's "reading". Furthermore, the title
+*bok-kok is compared with Old Turkic bögü "der wise" and Writ-
+ten Mongolian böge "schamann," ignoring completely the [+back]
+vocalism of the word in Xiong-nu and the final -k in it, absent
+in both Turkic and Mongolian. The last word, *Ko-thok-tang "to
+capture" is left without any Turkic interpretation at all.
+Bazin's explanation, also utilizing Turkic, does not fare much
+better. Bazin, however, must be given its due that his philological
+approach to the text is more solid than that of Ramstedt: he at
+least cites the poem in the original Chinese transcription and uses
+Karlgren's Chinese reconstruction (Kargren 1940) to interpret it
+(Bazin 1948: 208-209). However, even Bazin does not completely
+escape the temptation of a free interpretation of the poem that
+goes: "Si l'armée sort, Liu Yao sera capturé." There is no condi-
+tional in the poem above. This is however, insignificant, compared
+to the major blunder that comes next. Citing Eberhard's authority,
+Bazin hypothesizes that Chinese usually divided words incor-
+rectly in foreign languages (1948: 209-210). There is however, no
+reference to Eberhard's saying this anywhere in print, and one
+can assume that Bazin might misunderstood personal communi-
+CAJ 44/1 (2000)
+9/3/26, 12:07 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=9 1/1
+===PAGE 10===
+10  / 18 Search document
+
+
+96
+ 
+ALEXANDER  
+VOVIN
+cation.
+ 
+However,  
+this  
+assumption  
+is  
+sim
+Chinese in ancient times were no more interested in the lan-
+guages of surrounding people than they are interested in minority
+languages of China today, those who were interested left us sam-
+ples of very careful and reliable transcriptions that can and must
+be utilised with application of proper knowledge of Chinese his-
+torical phonology. In addition, Bazin, in all probability, did not
+read attentively the preceding passage. The translation of Xiong-
+nu poem is done by Futo Cheng himself. And we do know that
+Futo Cheng, an Indian monk, was multilingual. He was of course,
+fluent in Chinese, and we can expect that being a close confident
+of Shi Le, he was quite familiar with the Xiong-nu language as
+well. Thus, the possibility of incorrect segmentation is almost
+non-existent. Bazin, however, does his own segmentation, which
+is solely justified by his Turkic interpretation.
+First, Bazin believes that the word for army is just and
+not as Futo Cheng says. He further analyses this ^ as rep-
+resenting Old Turkic sti-g "army-acc." Therefore, Bazin, like Ram-
+stedt, tries to connect the first word with Old Turkic sü in spite
+of the difference in vocalism that I already mentioned above. In
+addition, his accusative case marker -g is based on Karlgren's re-
+construction *siôg as a reading of this character in Archaic Chi-
+nese, but nowadays we now that *-g simply was not there, but
+possibly final *-s was (Baxter 1991: 798). Bazin is more careful
+than Rannstedt with the vocalism of the title "bok-kok, but his
+proposal seems no less strange. He suggests that the word must
+be Old Turkic buquy or boquy, that is not attested per se, but
+reconstructed by Bazin on the basis of Old Turkic buqay found
+preceding Old Turkic tutuq "gouverneur militaire", and Old Os-
+man boy "chef militaire, commandant d'une troupe", that, as he
+believes, is a contraction from boquy (Bazin 1948: 211). There is,
+however, one difficulty on the Turkic side: although Old Turkic is
+known for using constructions consisting of synonym pairs, like
+ï iyač "plants" (lit. plant+tree), it is by no means known that Old
+Tiirkic buqay in buqay tutuq is a title. "Old T'irkic dictionary"
+glosses it as a personal name (Nadelieav et al 1969: 125).8 Even
+if Bazin is right in this particular case, the title is useless for deter-
+8 No entry in Clauson 1972.
+CAJ 44/1 (2000)
+9/3/26, 12:07 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=10 1/1
+===PAGE 11===
+11  / 18 Search document
+
+
+DID THE XIONG-NU SPEAK A YENISEIAN LANGUAGE? 97
+mining genetic affiliation of the Xiong-nu language: Turks could
+have just borrowed it from Xiong-nu.
+True to his principle of resegmenting Xiong-nu poem, Bazin
+gets rid of the first syllable in = *Ko-thok-tang "to cap-
+ture", and interprets remaining *thok-tang as Old Turkic tut-
+"prendre, saisir" with the following suffix -qaņ. This, of course,
+implies a metathesis of /k/ and /t/ in the Xiong-nu original, that
+Bazin attributes to Chinese notation (1948: 212). Why Chinese
+would be guilty of such misbehaviour remains unclear: in the
+fourth century C.E. the Chinese language had both final -t and -k.
+Another problem that faces Bazin here is that Old Turkic does
+not have second person plural imperative -qaņ, but only -aņ. Bazin
+tries to appeal to optative-subjunctive -qa or -qay and to possible
+elision of -q- to save his etymology, but this further makes his
+explanation even more speculative. The first syllable *Ko, that
+was cut off to get Old Turkic *tut- "catch, take" is interpreted as
+Turkic accusative in -y/-g, but note that it is transcribed in Chinese
+in a quite different way than after the alleged word sü "army." To
+be more exact, as it was already pointed out above, there is no
+evidence for the accusative in the first line at all.
+The most grave misanalysis occurs in the first line. Since Bazin
+already cut off the character from the word ^ "army" in
+order to get Old Turkic sti-g "army-acc.", as was already discussed
+above, he has to explain somehow the remaining charac-
+ters He reads the characters as /t'isg t-iei/, which
+he further interprets as Old Turkic täg- "to attack" + -ti, past tense
+marker (1948: 215). Characters MM are read as /liad kaņ/, and
+interpreted as Old Turkic id- "send", and -qaņ (Bazin 1948: 215),
+a non-existent suffix of the second person plural imperative that
+has already been discussed above. Unfortunately for Bazin, both
+his readings and interpretations are plagued by grave problems.
+First, the initial of the character 3*t was not /t'/ at this time, but
+*k-, as amply evidenced by usage of ^ in Old Korean writing for
+/ki/ or /ke/ and in Old Japanese man'yôgana for /kyi/. Second, it
+is completely incomprehensible how /re(ts)/ (Bazin's /liad/)
+can stand for Old Turkic id-: the final consonant there was proba-
+bly lost in the Han period, and initial liquid cannot be simply
+ignored. Third, the Chinese translation given by Futo Cheng does
+not mention either "attacking" or "sending" as found in Bazin's
+CAJ 44/1 (2000)
+9/3/26, 12:16 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=11 1/1
+===PAGE 12===
+12  / 18 Search document
+
+
+98
+ 
+ALEXANDER  
+VOVIN
+interpretation,
+ 
+but  
+plainly  
+mentions  
+an
+go out.
+Bazin concludes his "Turkicized reconstruction" of the Xiong-
+nu poem that reads as follows:9
+"süg tägti ïdqag
+boquyi'Y tutqaņ
+with a new "translation": "envoyez l'armée à l'attaque, capturez
+le commandant!" He then concludes that the Chinese translation
+is not bad, but just an approximation. Unfortunately, his own
+"translation" does not stand the slightest chance in the light of all
+the phonological, morphological, and philological mistakes and
+speculations discussed above. An attempt to rewrite Chinese
+translation on the premise that Xiong-nu language must be Turkic
+obviously does not pay off, nor can it be used as a solid founda-
+tion for analysing the poem. The only credible solution will be to
+try to find matches which exactly follow the Chinese translation.
+One of the four words in the poem, *bok-kok, the barbaric title
+of Liu Yao, is useless for our purposes: as was mentioned above,
+titles can tell us little about genetic origin of a language. Another
+word, *s(l)u(s)-ke "army" does not have any parallels in Yeni-
+seian: PY *kār!e "war" obviously does not fit. However, this is also
+a cultural word that is easy to borrow, so it cannot be diagnostic.
+The two remaining words are much more important, for two
+reasons: both of them represent basic vocabulary, and, being ver-
+bal forms, we can expect morphological elements in them that
+will give us some clue.
+Pulleyblank noted that -ņ is a frequent verbal ending in Yeni-
+seian languages, especially in Kott (1962: 264), but did not go
+beyond this. I believe that it was due to the severe limitation of
+materials that he had at his disposal in early 1960s. Thirty years
+later, however, the situation is much more favorable. Before going
+into detailed analysis of each verbal form, some general notes on
+the Yeniseian verbal system are in order.
+Yeniseian verbal system is extremely complex, and best of all
+we know Ket system. There are two major types of verbs, verbs
+9 It is unlikely to be an Old Persian loanword contrary to (Starostin 1995:
+235), since Old Persian kāra- means "army" and not "war."
+CAJ 44/1 (2000)
+9/3/26, 12:17 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=12 1/1
+===PAGE 13===
+13  / 18 Search document
+
+
+DID THE XIONG-NU SPEAK A YENISEIAN LANGUAGE? 99
+with interrupted root, and verbs with uninterrupted root (Krei-
+novich 1968a: 41, 97 ff.). Two simple examples:
+verbs with uninterrupted root
+-uņ "see"
+ba-t-tuņ "he sees me" daeņ-t-uņ "he sees us"
+ku-t-ug "he sees thee" kaeņ-t-uņ "he sees you"
+d-a-t-ug "he sees him" d-aņ-t-uņ "he sees them"
+d-i-t-uņ "he sees her"
+verbs with interrupted root
+davij "mock"
+day-wa-y-y "he mocks me" day-daeg-y-ij "he mocks us"
+day-ku-y-ij "he mocks thee" day-kaeg-y-ij "he mocks you"
+day-a-y-ij "he mocks him" day-ag-y-y "he mocks them"
+day-i-y-y "he mocks her"
+Kott system seems to be simpler, but still quite complex. Simple
+example:
+hama?-a-th-āk-g "I love myself'
+hama?-an-th-āk-u "thou lovest me"
+hama?-an-th-āk "s/he loves me"
+hama?-an-th-āk-an-og "you love me"
+hama?-an-th-āk-an "they love me"
+hama?-u-th-āk-g "I love thee"
+hama?-a-th-āk-u "thou lovest thyself'
+hama?-u-th-āk "s/he loves thee"
+hama?-u-th-āk-an-tog "we love thee"
+hama?-u-th-āk-an "they love thee"
+The major difference between the Ket and Kott systems is that
+in Ket subject verbal agreement affixes are found as prefixes or
+infixes, while in Kott they are final suffixes concluding the verbal
+form. According to Georgii Starostin, it appears that Proto-Yeni-
+seian system was much closer to Kott than to Ket (Starostin Geor-
+gii 1995: 158-160).
+A verbal form in Proto- Yeniseian was built in the following way
+(Starostin Georgii 1995: 170):
+preverb *k-, *t-, *p- + object marker *-w-, *-t-, *-k- + conjugation
+CAJ 44/1 (2000)
+9/3/26, 12:10 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=13 1/1
+===PAGE 14===
+14  / 18 Search document
+
+
+100
+ 
+ALEXANDER  
+VOVIN
+marker
+ 
+*-a-,  
+*-i-,  
+*-o-  
++  
+aspect/tense  
+ma
+plural
+ 
+marker  
+*-n-  
+(for  
+lpp  
+and  
+2pp)  
++  
+su
+Starostin
+ 
+also  
+reconstructs  
+the  
+following  
+s
+bal
+ 
+agreement  
+suffixes  
+(Starostin  
+Georgi
+lps
+ 
+*-r)  
+lpp*-33D  
+(Kott  
+-toņ)
+2ps
+ 
+*-[k]u  
+2pp  
+*-[k]oņ
+3psm
+ 
+*-a  
+3pp  
+*-aņ
+3psf *-i
+On the basis of these reconstructions by Georgii Starostin I
+believe it is possible to provide the following analysis of the two
+verbal forms in the Jie poem:
+ÜMslfS? = *thy?-re(ts)-kang = *t-i-r-ek-ang "went out"
+preverb *t- + *-i- corrugation marker + perfective *-r- + *-ek-, stem
++ arj 3pp
+Cf. also stem *-ek- and Proto-Yeniseian *-jaq- "come/go"
+= *Ko-thok-tang = *k-o-t-o-kt-ang
+preverb *k- + o? + object marker *-t- + corrugation marker *-o- +
+*-kt- "to catch" + aņ 3pp
+Morphology seems to fit almost perfectly with Proto-Yeniseian
+morphology reconstructed by Georgii Starostin. Moreover, at
+least one of the verbal roots, *-kt- "to catch" can be paralleled by
+Ket -kas- "to take", "to catch" attested in literature in the
+following forms: dkasayus "he takes him", dkasanem "he took
+him" (Vail & Kanakin 1990: 51), dkasanem "I caught" (Vail & Ka-
+nakin 1990: 67). Ralf Stefan Georg also kindly elicited for me nu-
+merous forms from his Ket informant, Zoia Maksiunova that are
+all based on the stem -qos - "to take", e.g. qos'-abAt "I take (all the
+time)." It was mentioned earlier that Xiong-nu, like Pumpokol,
+has -t- corresponding to sibilants in other Yeniseian languages, so
+we should expect something like *-kat- in Xiong-nu. Less obvious,
+but still possible, is the equation of the stem of the first verb
+*-ek- "to go out" with the Ket stem -(y)aq- "id", cf. diGaq, diyaq
+"to go out", Àlya "I go out." Unfortunately, the verbs "to take", "to
+catch" or "to go out" are not attested in scarce Pumpokol mate-
+CAJ 44/1 (2000)
+9/3/26, 12:11 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=14 1/1
+===PAGE 15===
+15  / 18 Search document
+
+
+DID THE XIONG-NU SPEAK A YENISEIAN LANGUAGE? 101
+rials (Helimskii 1986). Fortunately, however, a partial paradigm of
+one verb, "to stand", is recorded in Pumpokol materials (Helim-
+skii 1986: 211):
+itscha-dingdi "I stand"
+úe-itscha-dingdu "you (sing.) stand"
+ádu-itschá-dingdu "s/he stands"
+ádyng-it-scháding-dun "we stand"
+áiyang-it-schádingan "you (plur.) stand"
+It is very difficult to offer a proper morphological analysis of this
+paradigm due to the scarcity of Pumpokol materials, but several
+possibilities can be suggested. The subject agreement markers are
+probably -di, lps, -du 2ps & 3ps, -dun lpp, and -an 2pp. Among
+those, only plural suffixes have parallels in the Kott and Proto-
+Yeniseian system: lpp -dim, PY *-3eņ (Kott -toņ), and 2pp -an, 2pp
+*-[k]or) (Kott -oņ). The verbal root is probably -ding- (Starostin
+reconstructs PY *d[i]k- "to stand" (1995: 221), cf. such Arin forms
+as at'ag aet'aņ, aj xt'aņ "I stand"; set'aņtaņ, aiņ (itaņ) set'aņtaņ
+"we (they) stand"; axorent'a:ņ, aņ axorenťa.rj "you (pl.) stand"
+(Toporov 1968: 286-287). The initial ué- in úe-itscha-dingdu "you
+(sing.) stand" is probably just the independent second person sin-
+gular pronoun, cf. Ket u, uk "you" (sing.) (Kreinovich 1968b: 461),
+Yug u, uk "you" (sing.) (Kreinovich 1979: 336), possibly also Arin
+au "you" (Toporov 1968: 287). The initial ádu- in ádu-itschá-
+dingdu "s/he stands" is also probably the independent third per-
+son singular pronoun, cf. Arin xatu "he" (Toporov 1968: 292). The
+same can be said about ádyng- in ádyng-it-scháding-dun "we
+stand", which be compared to Ket a t'n' and Yug a t'n "we" (Krei-
+novich 1968b: 461; 1979: 336). The initial ánjang- in ánjang-it-
+schádingan "you (plur.) stand" is likely to be the third person
+plural pronoun, too, but there are no obvious external parallels.
+The rest of the form, namely -itscha-, is unclear, at least to me,
+who is not a Yeniseian specialist.
+In spite of an obvious poor quality of the recording, it is pos-
+sible to see that Pumpokol, like Kott and unlike Ket, has subject
+verbal agreement suffixes at the end of the verbal forms. That,
+alongside with the fact that the Arin language has a system similar
+to Kott and Pumpokol, is favorable evidence for Georgii Staros-
+tin's reconstruction of Proto-Yeniseian subject verbal agreement
+CAJ 44/1 (2000)
+9/3/26, 12:11 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=15 1/1
+===PAGE 16===
+16  / 18 Search document
+
+
+102
+ 
+ALEXANDER  
+VOVIN
+of
+ 
+the  
+basis  
+of  
+Kott  
+system  
+rather  
+than
+1995:
+ 
+158-  
+159).  
+10  
+Therefore,  
+it  
+provide
+to
+ 
+believe  
+that  
+matches  
+between  
+Xiong-
+morphology
+ 
+are  
+not  
+chance  
+resemblance
+I,
+ 
+therefore,  
+come  
+to  
+the  
+following  
+in
+tion of the Xiong-nu poem that closely follows the Chinese
+translation:
+*suke t-i-r-ek-ang bok-kok k-o-t-o-kt-ang
+armies PV-CM-PERF-go out-3pp bok-kok PV-?-OBJ-CM-catch-3pp
+(PV - preverb, CM - conjugation marker, OBJ - object marker,
+PERF - perfective)
+tarn-
+Armies have gone out. [They] will catch bok-kok.
+Note that 3pp subject agreement marker -ang on both verbs
+requires interpreting the word *suke as plural "armies" rather
+than singular "army." As was mentioned above, the Chinese
+translation does not provide any clue as to whether Shi Le had
+one army or several armies involved in his campaign against Liu
+Yao. However, the small passage immediately preceding the pas-
+sage quoted above does:
+♦ iieiiiž » mm >
+ü » mĚmfiřZ. » » &JRB : ! J
+* «0 : ri£B^Bi'SE$dg&o J $
+Liu Yao sent his second younger brother [Liu] Yue to attack [Shi]
+Le, and [Shi] Le sent Shi Jilong to deter him. [Liu] Yue defeated
+[Shi Jilong], and [the latter] retreated to the protection of Shi
+Liang's stockade. [Shi] Jilong strongly defended the fence. Cheng
+was [at that time] in Xiang country and said with a sigh: "I pity
+[Liu] Yue!" When his disciple Fazuo asked him about the reason
+of this, Cheng replied: "Yesterday, at the hour of the boar, Yue
+10 Verner believes that the Arin and Pumpokol languages constitute a sub-
+group within Yeniseian (1997a: 171). On the other hand, Kott, according
+to Verner, is in a different subgroup with the Assan language (1997a: 171).
+Thus, we have two independent pieces of evidence for the archaic nature
+of Kott subject agreement.
+CAJ 44/1 (2000)
+9/3/26, 12:11 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=16 1/1
+===PAGE 17===
+17  / 18 Search document
+
+
+DID THE XIONG-NU SPEAK A YENISEIAN LANGUAGE? 103
+was already defeated and captured by [Shi Jilong]." It happened
+[exactly] as he said.11
+It becomes apparent that both Liu Yao and Shi Le moved their
+armies as chess pieces during the fateful campaign of 329 C.E.
+Therefore, there seems to be little room for a doubt that Xiong-
+nu *suke as well as Chinese IfE means "armies" rather than
+"army," and the usage of plural subject agreement markers in the
+Xiong-nu poem is justified.
+Therefore, I believe that Pulleyblank must be praised for his im-
+portant discovery of the genetic affiliation of Xiong-nu that he has
+made more than thirty years ago on the basis of much more lim-
+ited materials than the ones we have at our disposal today, which
+further support his ideas.
+Bibliography
+Baxter, William 1991. A Handbook of Old Chinese Phonology. Berlin & New
+York: Mouton de Gruyter.
+Bazin, Louis 1948. "Un texte proto-turc de 4e siècle." Orlens 1: 208-219.
+Clauson, Gerard 1972. An Etymological Dictionary of Pre-Thirteenth Cen-
+tury Turkish. Oxford: Clarendon Press.
+Doerfer, Gerhardt 1973. "Zur Sprache der Hunnen. Central Asiatic Journal
+17.1: 1-50.
+Dulzón [Dulson], Andrei P. 1968. Ketskii iazyk. Tomsk: Izdatel'stvo Tomskogo
+universiteta.
+Gabain, Anne-Marie 1949. Review of Louis Bazin. "Un text proto-turc due 4e
+siècle." Der Islam 29: 244-246.
+Helimskii, Evgenii A. 1985. "Arkhivnye materialy XVIII veka po eniseisk
+iazykam." Paleoaziatskie iazyki , ed. by Petr la. Skorik, pp. 179-213. L
+ningrad: Nauka.
+Karlgren, Bernhard 1940. Grommata Serica Recensa. Stockholm: Museum oí
+Far Eastern Antiquities.
+Kreinovich, Eruxim A. 1968a. Glagol ketskogo iazyka. Leningrad: Nauka.
+Kreinovich, Eruxim A. 1968b. "Ketskii iazyk. Iazyki narodov SSSR , vol. 5.
+MongoVskie , tunguso-man 'chzhurskie, i paleoaziatskie iazyki. pp. 453-
+473. Leningrad: Nauka.
+Kreinovich, Eruxim A. 1979. Ketskii iazyk [sketch of Yug dialect - A. V.J.
+Iazyki Azii i Afriki , vol. 3. Iazyki Drevnei Perednei Azii, Iberiisko-
+Kavkazskie , Paleoaziatskie iazyki. pp. 330-347. Moscow: Nauka.
+Ligeti, Lajos lybU. Mots ae la civilization ae Haute Asie an transcription
+Chinoise." Acta Orientalia Hungarica 1950.1: 141-188.
+Nadeliaev, V. et al, ed. 1969. Drevne-tiurkskii slovar' Leningrad: Nauka.
+Pelliot, Paul 1944. Tangrim > tarim. T oung-pao pp. 165-185.
+11 Translation of the passage is mine (- A.V.).
+CAJ 44/1 (2000)
+9/3/26, 12:12 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=17 1/1
+===PAGE 18===
+18  / 18 Search document
+
+
+104
+ 
+ALEXANDER  
+VOVIN
+Pulleyblank, Edwin G. 1962. "The Consonantal System of Old Chinese." Asia
+Major 9: 58-144, 206-265.
+Pulleyblank, Edwin G. 1973. "Some New Hypotheses Concerning Word Fami-
+lies in Chinese." Journal of Chinese Linguistics 1: 111-125.
+Pulleyblank, Edwin G. 1991. "The Ganzhi as Phonograms and their Applica-
+tion to the Calendar." Early China 16: 39-80.
+Pulleyblank, Edwin G. 1992. "How Do We Reconstruct Old Chinese?" Journal
+of American Oriental Society 112: 365-382.
+Pulleyblank, Edwin G. 1994. "Reply to Baxter's Reply." Journal of Chinese
+Linguistics 22.1: 161-169.
+Ramstedt, John Gustav 1922. "Die Stellung des Tschuwassischen." Journal
+de la Société Finno-Ougrienne 38: 1-34.
+Shiratori, Kurakichi 1900. Über die Sprache des Hiung-nu Stammes und der
+Tung-hu-Stämme. Tokyo [n.p.]
+Starostin, Georgii S. 1995. "Morfologiia ketskogo glagola i rekonstruktsiia
+praeniseiskoi glagol'noi sistemy." Ketskii sbornik. Lingvistika, pp. 122-
+175. Moscow: Vostochnaia literatura & Shkola "Iazyki russkoi kul'tury."
+Starostin, Sergei A. 1982. "Praeniseiskaia rekonstruktsiia i vneshnie sviazi
+eniseiskikh iazykov." Ketskii sbornik. Antropologiia , etnografiia , mifo-
+logiia , lingvistika, pp. 144-237. Moscow: Vostochnaia literatura &
+Shkola "Iazyki russkoi kul'tury".
+Starostin, Sergei A. 1989. Rekonstruktsiia drevnekitaiskoi fonologicheskoi
+sistemy. Moscow: Nauka.
+Starostin, Sergei A. 1991. Altaiskaia problema i proiskhozhdenie iaponskogo
+iazyka. Moscow: Nauka.
+btarostin, bergei A. 1995. bravnitel nyi slovar eniseiskikh iazykov. Ketskii
+sbornik. Lingvistika, pp. 176-315. Moscow: Vostochnaia literatura &
+Shkola "Iazyki russkoi kul'tury."
+Todaeva, Buliash Kh. 1973. Mongorskii iazyk. Moscow: Nauka.
+Toporo v, V. N. 1968. "Materialy k sravnitel'no-istoricheskoi fonetike eni-
+seiskikh iazykov. 1. Arnisko-eniseiskie sootvetstviia." Ketskii sbornik.
+Lingvistika , ed. by Viacheslav V. Ivanov, V. N. Toporov, B. A. Uspenskii.
+Moscow: Glavnaia redaktsiia vostochnoi literatury.
+Vali, Margarita N. & Kanakin, Igor' A. 1990. Ocherk fonologii i grammatiki
+ketskogo iazyka. Novosibirsk: Nauka.
+Verner, Genrikh [Werner, Heinrich] 1990, Kottskii iazyk. Rostov-na-Donu.
+Verner, Genrikh [Werner, Heinrich] 1997a. "Eniseiskie iazyki." Iazyki Mira.
+Paleoziatskie iazyki. pp. 169-177. Moscow: Indrik.
+Verner, Genrikh [Werner, Heinrich] 1997b. Ketskii iazyk. Iazyki Mira. Paleo-
+aziatskie iazyki. pp. 177-187. Moscow: Indrik.
+Verner, Genrikh [Werner, Heinrich] 1997c. "Iugskii iazyk." Iazyki Mira. Paleo-
+aziatskie iazyki. pp. 187-195. Moscow: Indrik.
+Verner, Genrikh [Werner, Heinrich] 1997d. "Kottskii iazyk." Iazyki Mira.
+Paleoaziatskie iazyki. pp. 195-203. Moscow: Indrik.
+Yakhontov, Sergei E. 1986. "Iazyki severnykh sosedei Kitaia v pervom tysi-
+acheletii do n. e." Istoriko-kuVturnye kontakty narodov Altaiskoi iazyko-
+voi obshchnosti Tezisy dokladov XXIV sessii postoiannoi mezhdunarod-
+noi Altaisticheskoi konferentsii (PIAC). vol. 1: 123-134. Moscow: Insti-
+tute of Oriental Studies.
+CAJ 44/1 (2000)
+9/3/26, 12:12 AM Did the Xiong-nu Speak a Yeniseian Language? | JSTOR
+https://www.jstor.org/stable/41928223?seq=18 1/1

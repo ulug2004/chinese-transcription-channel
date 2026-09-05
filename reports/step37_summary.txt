@@ -1,0 +1,32 @@
+Step 37.  Source coda class against written coda class,
+Later Han layer, 770 pairs used, 247 dropped.
+
+  source                   open    velar stop   velar nasal   dental stop  dental nasal   labial stop  labial nasal   total
+  open               1548 (84%)       55 (3%)       35 (2%)      103 (6%)       44 (2%)       15 (1%)       37 (2%)    1837
+  velar stop           11 (48%)       7 (30%)        2 (9%)       3 (13%)        0 (0%)        0 (0%)        0 (0%)      23
+  velar nasal            2 (9%)        0 (0%)      16 (73%)        0 (0%)       3 (14%)        0 (0%)        1 (5%)      22
+  dental stop          17 (29%)      10 (17%)        0 (0%)      30 (52%)        1 (2%)        0 (0%)        0 (0%)      58
+  dental nasal         12 (15%)        0 (0%)        4 (5%)        0 (0%)      64 (80%)        0 (0%)        0 (0%)      80
+  labial stop           5 (42%)        1 (8%)        0 (0%)       4 (33%)        0 (0%)       2 (17%)        0 (0%)      12
+  labial nasal           5 (7%)        1 (1%)      17 (25%)        0 (0%)      21 (31%)        0 (0%)      23 (34%)      67
+  liquid               22 (55%)        0 (0%)        1 (2%)      14 (35%)        2 (5%)        1 (2%)        0 (0%)      40
+  sibilant             27 (75%)        0 (0%)        0 (0%)       8 (22%)        1 (3%)        0 (0%)        0 (0%)      36
+  palatal               1 (10%)        0 (0%)        0 (0%)       5 (50%)       4 (40%)        0 (0%)        0 (0%)      10
+  palatal nasal          0 (0%)        0 (0%)        0 (0%)        0 (0%)     13 (100%)        0 (0%)        0 (0%)      13
+  h                     2 (29%)       3 (43%)        0 (0%)        0 (0%)        0 (0%)        0 (0%)       2 (29%)       7
+
+The cells the second character of MAO-TUN needs:
+  source -n  written as a dental nasal  (tin, TUN row 1)       64 of   80   80.0%
+  source -n  written as a dental stop   (tin, TUN row 2)        0 of   80    0.0%
+  source -n  written as a velar stop    (tin, substitution)     0 of   80    0.0%
+  source -g  written as a dental nasal  (tug, TUN row 1)        0 of   23    0.0%
+  source -g  written as a dental stop   (tug, TUN row 2)        3 of   23   13.0%
+  source -g  written as a velar stop    (tug, substitution)     7 of   23   30.4%
+  source -r  written as a dental nasal  (bagatur, TUN row 1)    2 of   40    5.0%
+  source -r  written as a dental stop   (bagatur, TUN row 2)   14 of   40   35.0%
+  source -r  written as a velar stop    (bagatur, substitution)    0 of   40    0.0%
+
+Controls, the two questions step 34 asked:
+  a source nasal written with a stop coda         1 of  182    0.5%
+  a source stop written with a nasal coda         3 of   93    3.2%
+  a written coda that switches place             65 of  210   31.0%

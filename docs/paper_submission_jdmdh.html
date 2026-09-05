@@ -135,36 +135,35 @@ Cortechs.ai · <a href="mailto:aulug@cortechs.ai">aulug@cortechs.ai</a>, <a href
   what the scribes heard. This paper models the transcription process itself as a noisy channel,
   trains it where both sides are known, and measures what can and cannot be recovered.</p>
 
-  <p>We generated the following. <strong>Three transcription corpora</strong>, two of them extracted from
+  <p>We build and release <strong>three transcription corpora</strong>, two of them extracted from
   sources not previously available as data: 9,329 Chinese–Mongolian pairs from the
   <em>Secret History of the Mongols</em>, 594 Chinese–Uyghur pairs from Ligeti's edition of a Ming
-  glossary, and 1,017 verified Chinese–Sanskrit pairs separated out of a 27,110-entry Buddhist
-  dictionary that mixes phonetic spellings with translations. <strong>Two medieval Turkic
-  lexicons</strong> in machine-readable form, for which we found no downloadable dataset: 6,820
-  glossed headwords from the Türk Dil Kurumu index to Kāşgarî's <em>Dīwān Lughāt al-Turk</em>
-  (1072–77), and 2,110 from Kuun's 1880 edition of the <em>Codex Cumanicus</em>. <strong>A working
-  channel model</strong>, which on held-out data reconstructs 31% of Turkic words exactly and 84%
-  within two segments. <strong>One positive reading</strong> that survives every test we can apply: <span class="han">若鞮</span>, the element closing the formal names of six later chanyu, reads as
-  <em>Inakt</em> "the faithful ones", since the <em>Hou Hanshu</em> glosses it
-  <span class="han">孝</span> "filial", the <em>Codex Cumanicus</em> glosses <em>inak</em> as
-  <em>fidelis</em>, and the plural in <span class="ipa">-t</span> is an Old Turkic formation used
-  with titles. <strong>And a result about the most consequential name in the record</strong>: the
-  century-old disagreement over <span class="han">冒頓</span> turns on which value is taken for a
-  single character, which carries two Later Han readings and a third value from a commentary. We
-  price each branch. Two of the three admit a velar-final second element, one admits the
-  liquid-final <em>Baγatur</em> the field has read for a century, and one admits a nasal-final one.
-  No published reading of this name states the choice it is making, and the transcription evidence
-  cannot make it. And <strong>a set of measured negative results</strong>: language
-  attribution from transcription evidence is not supportable on available reference data, and
-  full reconstruction of the Xiongnu names is not supportable at the density of evidence that survives: 1.4 observations per character, against the 60 that made the same method work on
-  Mongolian.</p>
+  glossary, and 1,017 verified Chinese–Sanskrit pairs separated out of a Buddhist dictionary that
+  mixes phonetic spellings with translations; and <strong>two medieval Turkic lexicons</strong> in
+  machine-readable form, for which we found no downloadable dataset (§3). On held-out data the
+  channel reconstructs 31% of Turkic words exactly and 84% within two segments (§5).</p>
 
-  <p>The measurements also answer the question the field has carried unresolved since 1973. Doerfer
-  argued that chance resemblance is pervasive in long-range comparison; his reviewer sharpened it
-  into a threshold problem: <em>is it a sound law if 49% of cases show one correspondence and 51% another?</em> He proposed three classes that nobody could then apply, for want of numbers.
-  Section 7 applies them, with confidence intervals, and finds that the threshold cannot be a
-  constant: it is the baseline of the component being measured, and it moves with how many
-  outcomes that component has.</p>
+  <p>Three results follow. <strong>One positive reading</strong> survives every test we can apply:
+  <span class="han">若鞮</span>, the element closing the formal names of six later chanyu, reads
+  as <em>Inakt</em> "the faithful ones" (§9). <strong>One century-old disagreement is
+  relocated</strong>: the dispute over <span class="han">冒頓</span> turns on which value is
+  taken for a single character, which carries two Later Han readings and a third from a commentary. We
+  price each branch, and no published reading of this name states the choice it is making
+  (§9.2). And <strong>a set of measured negative results</strong>, one of them demonstrated on an
+  item chosen by the Yeniseian hypothesis rather than by us. Language attribution from transcription
+  evidence is not supportable on available reference data: at
+  <span class="han">閼氏</span>, the chanyu's consort title, the same spelling writes a well formed
+  Yeniseian <em>elte</em> "wife" and a Turkic <em>elti</em> "lady" by exactly the same steps, so it
+  licenses both and selects neither. Nor is full reconstruction supportable at the density of evidence
+  that survives: 1.4 observations per character, against the 60 that made the same method work on
+  Mongolian (§6, §9.1).</p>
+
+  <p>Section 7 answers the question the field has carried unresolved since 1973. Doerfer argued that
+  chance resemblance is pervasive in long-range comparison; his reviewer sharpened it into a threshold
+  problem: <em>is it a sound law if 49% of cases show one correspondence and 51% another?</em> We apply
+  Doerfer's three classes with confidence intervals, and find that the threshold cannot be a constant:
+  it is the baseline of the component being measured, and it moves with how many outcomes that
+  component has.</p>
   <p class="kw"><strong>Keywords:</strong> historical phonology · noisy-channel models · corpus
   construction · Xiongnu · Old Turkic · null models · negative results</p>
 </div>
@@ -179,9 +178,7 @@ Cortechs.ai · <a href="mailto:aulug@cortechs.ai">aulug@cortechs.ai</a>, <a href
   about what such a name meant, and about who the people bearing it were, depends on getting from
   the modern reading back to the period one.</p>
 
-  <p>That is a recoverable step: reconstructions of Later Han Chinese are published and are not in
-  dispute here. The harder question is the one after it. Given a period reading, can the original
-  foreign word be recovered? The transcription is lossy: Chinese had no <span class="ipa">r-</span>,
+  <p>That is a recoverable step: reconstructions of Later Han Chinese are published. The question is given a period reading, can the original foreign word be recovered. The transcription is lossy: Chinese had no <span class="ipa">r-</span>,
   a restricted set of syllable shapes, and no way to write many foreign sounds. So, the mapping
   from source word to spelling is many-to-one and its inverse is underdetermined. This is a
   noisy-channel problem, and it can be treated as one.</p>
@@ -195,8 +192,7 @@ Cortechs.ai · <a href="mailto:aulug@cortechs.ai">aulug@cortechs.ai</a>, <a href
 
 <h2 class="sec"><span class="n">2</span><span class="t">A question the field has already asked</span></h2>
 <div class="col">
-  <p>Nothing in the approach below is methodologically new, and it is worth saying so at the
-  outset. Gerhard Doerfer made the argument in 1973, in <em>Lautgesetz und Zufall</em> ("Sound Law and Chance"), a study of what he called <em>omnicomparatism</em>: relating languages across
+  <p>Nothing in the approach below is methodologically new. Gerhard Doerfer made the argument in 1973, in <em>Lautgesetz und Zufall</em> ("Sound Law and Chance"), a study of what he called <em>omnicomparatism</em>: relating languages across
   great distances on the strength of resemblances.<sup class="n"><a href="#r5">5</a></sup> Chance
   produces such resemblances in quantity, was Doerfer's case, and comparativists have a repertoire of devices (he called them tricks) for making weak matches look strong. He included
   deliberately absurd comparisons of his own to show how easily the devices work.</p>
@@ -218,9 +214,7 @@ Cortechs.ai · <a href="mailto:aulug@cortechs.ai">aulug@cortechs.ai</a>, <a href
 
 <h2 class="sec"><span class="n">3</span><span class="t">Resources</span></h2>
 <div class="col">
-  <p>A learned model needs examples, and for this problem almost none existed as data. We built five
-  datasets: three of transcription pairs, and two lexicons of Turkic itself. We release or make
-  reproducible all of them; §12 sets out which is which and why.</p>
+  <p>A learned model needs examples, and for this problem almost none existed as data. We built five datasets as the needed resources: three of transcription pairs, and two lexicons of Turkic itself. We release or make reproducible all of them (see §12).</p>
 </div>
 
 <h3>3.1 &nbsp;Corpus 1: <em>Secret History of the Mongols</em></h3>
@@ -270,13 +264,11 @@ Cortechs.ai · <a href="mailto:aulug@cortechs.ai">aulug@cortechs.ai</a>, <a href
   <p>The tests in §6 need  dictionaries of Turkic itself, from
   near the period, against which a reading can be looked up. We found no downloadable dataset, so we extracted the following dictionaries.</p>
   <p>Kāşgarlı Mahmud's <em>Dīwān Lughāt al-Turk</em> (1072–77) is the earliest dictionary of any
-  Turkic language.<sup class="n"><a href="#r12">12</a></sup> The Türk Dil Kurumu index volume has a
-  machine-readable text layer; parsing it yielded <strong>6,820 headwords</strong> with Kāşgarî's
+  Turkic language.<sup class="n"><a href="#r12">12</a></sup> The Türk Dil Kurumu index volume has a machine-readable text layer. Parsing it yielded <strong>6,820 headwords</strong> with Kāşgarî's
   Turkish glosses and his volume-and-page references.</p>
   <p>The <em>Codex Cumanicus</em> (c. 1300) records Kipchak Turkic, compiled by Italian merchants
   and German missionaries, outsiders writing down a language they did not speak, which is the
-  position the Chinese scribes were in. Géza Kuun's 1880 edition prints a Cumano-Latin vocabulary;
-  parsing it yielded <strong>2,110 headwords</strong> with Latin glosses.<sup class="n"><a href="#r14">14</a></sup>
+  position the Chinese scribes were in. Géza Kuun's 1880 edition prints a Cumano-Latin vocabulary. Parsing it yielded <strong>2,110 headwords</strong> with Latin glosses.<sup class="n"><a href="#r14">14</a></sup>
   We deliberately skipped the Persian and German vocabularies that follow in the same volume. The Persian one would inject Iranian vocabulary into a Turkic lexicon and inflate every match
   rate computed from it.</p>
 </div>
@@ -337,8 +329,7 @@ Chinese-to-anything mapping.</p>
 <p class="cap"><span class="tnum">Table 2</span>The Xiongnu material is 112 character-tokens over
 81 distinct characters. This is the number that governs everything in §6: the method does not fail
 on Xiongnu because Xiongnu is mysterious, but because 1.4 observations per character is not enough
-to estimate anything. The comparison is with 60 for the corpus where the same method reaches 36.9%
-exactly.</p>
+to estimate anything. The comparison is with the ~60 of the Mongolian corpus, which is the density at which the same method reconstructs 36.9% of words exactly (Table 1).</p>
 
 <h2 class="sec"><span class="n">6</span><span class="t">What the evidence cannot support</span></h2>
 <div class="col">
@@ -358,7 +349,7 @@ exactly.</p>
   comparison is  measuring the reference data rather than the names. A procedure that cannot reliably identify a language it has been given cannot be trusted to
   identify one nobody has.</p>
 
-  <p>The strongest advocate of the rival hypothesis reaches the same conclusion on methodological
+  <p>The strongest advocate of the Yeniseian hypothesis reaches the same conclusion on methodological
   grounds rather than measured ones. Vovin, arguing for a Yeniseian Xiongnu, sets the titles and
   personal names aside as evidence altogether: most of the glosses the Chinese sources preserve are
   of that kind, he calls them "practically useless" for determining genetic affiliation, and he
@@ -431,7 +422,7 @@ lexicons, between none and three names in thirty-six could meet p ≤ 0.05 signi
 threshold is what thirty-six coin flips give.</p>
 
 <div class="col">
-  <p>The older lexicons do better than modern ones on two cases with a known answer.</p>
+  <p>The older lexicons do better than modern ones on two cases with known answers (<em>tümen</em>, <em>tengri</em>).</p>
 </div>
 
 <div class="tablewrap">
@@ -535,9 +526,18 @@ class for that part, the score obtained by always guessing the commonest value.
     information: While it is a weak probabilistic law, it is not a coin flip. Stop endings, by the same measure, fall
     <em>below</em> their baseline. Knowing the Ming reading makes you worse off than guessing,
     because Old Mandarin merged -p, -t and -k into nothing and the merger is not recoverable.<sup class="n"><a href="#r24">24</a></sup></p>
-    <p>So the fifty-year-old question has a shape that the fifty-year-old debate could not see. The
-    threshold is not a constant. It is the baseline of the component in question, and it moves with
-    how many outcomes that component has. </p>
+    <p><strong>What this changes about the question.</strong> The reviewer asked for one number: the
+  percentage above which a correspondence counts as a sound law. The four components show that no
+  single number can serve, because the same percentage means different things in different places.
+  A vowel correspondence at 50% and a coin landing heads at 50% are not the same result. The coin
+  has two outcomes, so 50% is exactly what ignorance gives you and the correspondence carries no
+  information at all. The vowel has many outcomes, and ignorance gives you 15.2%, so the same 50%
+  is more than three times the rate you would get by knowing nothing, and it carries a great deal.
+  The threshold that separates a law from chance is therefore not a constant to be agreed on once
+  and applied everywhere. It is the baseline of the component being measured, it is set by how many
+  outcomes that component has, and it has to be computed for that component before any percentage
+  can be read at all. That is why the question could stay open for fifty years without either side
+  being wrong: it was posed as a question about percentages, and it is a question about baselines. </p>
   </div>
 </div>
 
@@ -549,8 +549,7 @@ class for that part, the score obtained by always guessing the commonest value.
   <span class="ipa">b-</span>. Proto-Turkic has no initial <span class="ipa">*m-</span>: the
   <span class="ipa">m-</span> words in Old Turkic are loans or come from <span class="ipa">*b-</span>
   assimilating to a nasal immediately after the vowel: <em>*bän&nbsp;→&nbsp;men</em>,
-  <em>*buŋ&nbsp;→&nbsp;muŋ</em>.<sup class="n"><a href="#r4">4</a>,<a href="#r7">7</a></sup> So on
-  the Turkic reading the substitution is load-bearing. Each corpus is a set of transcriptions whose
+  <em>*buŋ&nbsp;→&nbsp;muŋ</em>.<sup class="n"><a href="#r4">4</a>,<a href="#r7">7</a></sup> So on a Turkic reading the whole etymology rests on that substitution being something a Han scribe would do. Each corpus is a set of transcriptions whose
   source word is known, which makes the question a counting exercise.</p>
 </div>
 
@@ -619,8 +618,7 @@ the difficulty.</p>
   <span class="ipa">*b-</span> assimilating to a nasal immediately after the vowel;
   <span class="han">冒</span> <span class="ipa">mək</span> has no nasal in that position, its only
   nasal being the <span class="ipa">-n</span> of <span class="han">頓</span>. So, on a Turkic reading the <span class="ipa">m-</span> must be the scribe's choice rather than the source
-  language's sound, and the count above (13.6%) says he was entitled to make it. Small numbers should be
-  kept in view: 3 of 22 is four cases short of nothing, and the interval is wide.</p>
+  language's sound, and the count above (13.6%) says he was entitled to make it. Small numbers should be kept in view: the result rests on three transcriptions, and had those three gone the other way the rate would be zero. The interval, 4.7% to 33.3%, is correspondingly wide.</p>
 </div>
 
 <h3>8.2 &nbsp;How was a source coda spelled?</h3>
@@ -689,9 +687,8 @@ since a Chinese syllable cannot begin with <span class="ipa">ŋ</span>.</p>
 <h3>8.4 &nbsp;Which source vowel does a written vowel claim?</h3>
 <div class="col">
   <p>The three measurements above concern consonants. A reading proposal also stands or falls on the
-  vowel, and where a character carries more than one Later Han reading it is often the vowel that
-  separates the rows. <span class="han">冒</span>, the first character of the name §9.2 turns on, is
-  such a character: <span class="ipa">mək</span> with a central vowel in one row,
+  vowel, and where a character carries more than one Later Han reading it is often the vowel that separates the readings. <span class="han">冒</span>, the first character of the name §9.2 turns on, is
+  such a character: <span class="ipa">mək</span> with a central vowel in one reading,
   <span class="ipa">mouᶜ</span> with a rounded one in the other. So we put the same question to the
   vowels that §8.2 put to the codas, on the same 770 aligned pairs. Each character is paired with
   the source vowel in its own position, and the source vowels are grouped into the three classes
@@ -814,8 +811,7 @@ that as a cross-period bound and not as a Han measurement.</p>
 
 <h3>9.1 &nbsp;Two cases which are not ours to propose</h3>
 <div class="col">
-  <p>We can apply the same standard to comparisons somebody else has already made. The selection bias §6.3 measures is removed by construction if the reading was proposed by others. Two items in the record carry a reading from the literature
-  and a Chinese gloss to check it against.</p>
+  <p>We can apply the same standard to comparisons somebody else has already made. The selection bias §6.3 measures is removed by construction if the reading was proposed by others. Two items in the record carry a reading from the literature, one of them with a Chinese gloss to check it against.</p>
 
   <p><strong>The first is <span class="han">徑路</span></strong> <span class="ipa">keŋᶜ lɑᶜ</span>,
   the <span class="han">徑路刀</span>, a Xiongnu blade used in oath-taking. Friedrich Hirth compared it with Turkic <em>kıŋrak</em> in 1908, working from the
@@ -859,45 +855,82 @@ that as a cross-period bound and not as a Han measurement.</p>
     <p><strong>A rival account.</strong> The same object has been derived instead from an Iranian word for a short sword, the type whose Greek name is <em>akinakes</em>. The history
     supports it: the Xiongnu's western neighbors were Iranian-speaking, and the weapon is present in
     steppe archaeology, so a borrowed name is not a stretch.</p>
-    <p>Unusually, that account is testable with the same machinery, and it does not survive as well.
+    <p>This is testable with the same machinery, and does not survive the test as well.
     <span class="han">路</span> <span class="ipa">lɑᶜ</span> is a liquid-onset character, so the
     channel requires a liquid in the second position of the source word. The <em>akinakes</em> family (<span class="ipa">k–n–k</span>) has no liquid anywhere in it. If the
     proposal is that <span class="han">徑路</span> transcribes that word, it fails on the frame, not
     at the margins.</p>
-    <p>We have not seen the exact Iranian etymon its proponents advance, so the test applies
-    only to the form named. Our channel establishes what a transcription
-    <em>permits</em>, never what it requires: a Turkic reading surviving does not make a Turkic
-    source the only one available. This is Doerfer's objection in its sharpest form. The honest report is that the Turkic candidate survives its test and the Iranian one, as stated, does not.</p>
+    <p><strong>We could not trace the Iranian derivation
+    to a source.</strong> It circulates in the secondary literature on this word, but the works we
+    checked give no etymon, and Hirth, who is cited nearby for the Turkic comparison, does not
+    mention the Iranian account at all. The test above therefore applies to the
+    <em>akinakes</em> family, which is the form the account is usually stated in, and not to a
+    specific etymon that someone has actually put forward. If a reader can supply the reference the
+    test can be rerun against it in an afternoon, since the machinery is in the repository. In any
+    case our channel establishes what a transcription <em>permits</em>, never what it requires: a
+    Turkic reading surviving does not make a Turkic source the only one available. This is Doerfer's
+    objection in its sharpest form, and the third case below is what it looks like when the objection
+    bites. The honest report is that the Turkic candidate survives its test and the Iranian one, as
+    usually stated, does not.</p>
   </div>
 
-  <p><strong>The second is <span class="han">屠耆</span></strong> <span class="ipa">dɑ gɨ</span>,
-  which the Chinese sources gloss <span class="han">賢</span> "worthy, wise" and which appears in
-  <span class="han">左右屠耆王</span>, the Wise Kings of the Left and Right. The Turkic-hypothesis
-  literature reads it <em>*toγrï</em>. <span class="han">耆</span> is one of the daggered
-  characters: the table gives <span class="ipa">gɨ</span>, <span class="ipa">kiᴮ</span> and
-  <span class="ipa">tśiᴮ</span>, and the comparison below uses the first. The second would serve
-  it equally well; the third would not. The <em>Codex Cumanicus</em> has <em>Togru</em> glossed as <em>rectus</em>, and the skeleton matches at the same single step, a Chinese
-  <span class="ipa">l-</span> for a source <span class="ipa">r-</span>.</p>
+  <p><strong>The second is <span class="han">閼氏</span></strong> <span class="ipa">ʔɑt dźeᴮ</span>,
+  the title of the chanyu's principal consort, and it is the case where the channel returns a verdict
+  that does not favour the language this paper spends most of its pages on. Vovin, arguing that the
+  Xiongnu spoke a Yeniseian language, rejects Pulleyblank's identification of the title with Turkic
+  and Mongolian <em>qatun</em> on two grounds: that it rests on a single textual example in which the
+  first character is read with an initial <span class="ipa">y-</span> rather than a glottal stop, and
+  that neither Turkic nor Mongolic <span class="ipa">q-</span> was a voiced fricative at that
+  date.<sup class="n"><a href="#r19">19</a>,<a href="#r28">28</a></sup> In its place he offers
+  Proto-Yeniseian <span class="ipa">*ʔal(V)it-</span> "woman, wife", surviving as Kott
+  <em>alit</em>, Assan <em>alit</em> and Arin <em>biqam-alte</em>, and a Xiongnu <em>alte</em> or
+  <em>elte</em> which, he writes, could be transcribed in Chinese only as
+  <span class="ipa">*ʔat-tej</span> or <span class="ipa">*ʔen-tej</span>, since the Old Chinese
+  syllable-final <span class="ipa">*-r</span> was no longer extant in Former Han times.</p>
 
-  <p>The semantic fit is closer than "straight" alone suggests. Clauson derives
-  <em>toğuru: / toğru:</em> as a gerund of <em>toğur-</em>, physically "straight" and then
-  metaphorically "straight, honest, upright, true", and that moral sense is old rather than modern. A fourteenth-century glossary renders it with Arabic <em>al-tiqa</em> "trustworthy, honest", and
-  <em>toğru ayt-</em> with <em>ṣadaqa</em> "to tell the truth".<sup class="n"><a href="#r4">4</a></sup>
-  The word survives across the whole family and as modern Turkish <em>doğru</em>. So, the comparison
-  is not between <span class="han">賢</span> "worthy" and a word for physical straightness, but
-  between <span class="han">賢</span> and a word whose ordinary sense is "upright, honest,
-  trustworthy".</p>
+  <p><strong>The transcription argument is correct, and it is the one §8.2 measures.</strong> Later
+  Han had no liquid coda, so a source syllable ending in one was written with a
+  <span class="ipa">-t</span> or left open: of 37 such syllables in the Sanskrit corpus, 21 were left
+  open and 14 took a <span class="ipa">-t</span>, 38%. Vovin's reading is well formed on that count.
+  It uses the written <span class="ipa">-t</span> of <span class="han">閼</span> rather than
+  discarding it, and the corpus licenses the step at an ordinary rate. His alternative
+  <span class="ipa">*ʔen-</span> is weaker: both reconstructions we can check give
+  <span class="han">閼</span> a single reading with a stop coda, <span class="ipa">ʔɑt</span> in
+  Schuessler's table and Middle Chinese <span class="ipa">ʔat</span> from Old Chinese
+  <span class="ipa">*qˤat</span> in Baxter and Sagart.<sup class="n"><a href="#r2">2</a>,<a href="#r22">22</a></sup>
+  The <span class="ipa">-n</span> belongs to <span class="han">焉</span>, the different character used
+  in the parallel spelling <span class="han">焉支</span>, so the
+  <span class="ipa">*ʔen-</span> reading is an inference from an alternation in usage rather than a
+  value any reconstruction assigns to this character.</p>
 
-  <p>The root family also yields names, which is the argument §9 makes for <em>inak</em>: Kāşgarî
-  records that men are called <em>Toğrıl</em> after a bird of prey, an <em>Alp Toğrul Tégin</em>
-  appears in a Uyghur list of proper names, and the first Seljuk sultan bore the name. What remains
-  soft is the vowel, and the fact that 144 attested headwords fit this frame, so the transcription
-  does little to narrow the choice.</p>
+  <p><strong>What does not follow is the language.</strong> The segments Vovin reconstructs are
+  also a Turkic word. Modern Turkish <em>elti</em> is what each of two brothers' wives calls the
+  other, and in dialect what two wives of one man call each other, and it has the same shape as his
+  <em>elte</em>: the same liquid that has to be written with the <span class="ipa">-t</span>, the
+  same dental in the second syllable, the same final vowel. A scribe writing <em>elti</em> would
+  have produced <span class="han">閼氏</span> by exactly the steps Vovin sets out for
+  <em>elte</em>. His "only" is a claim about Chinese orthography and it is true; it is not a claim
+  about which language the source was, and the spelling does not make one.</p>
 
-  <p>So, two existing comparisons survive tests that 32 of our own readings fail, and one of the two
-  has a rival etymology our method cannot rule out. That asymmetry is the point of this section. The
-  channel cannot generate supported readings at this data density, but it can judge ones already on the table, and deciding on other people's proposals is a use of it that the accuracy figures
-  actually license.</p>
+  <p>Nor are the two words as differently placed in time as their presentation suggests. Clauson
+  records <em>élti:</em> glossed "lady", standing opposite <em>al-jāriya</em> "slave girl", in a
+  fourteenth-century Arabic-Turkish glossary, so the Turkic word is attested medievally in the sense
+  a consort's title would want and not only in its modern kinship use.<sup class="n"><a href="#r4">4</a></sup>
+  We did not find it in the Türk Dil Kurumu index to Kāşgarî or in the <em>Codex
+  Cumanicus</em>.<sup class="n"><a href="#r12">12</a>,<a href="#r14">14</a></sup> Vovin's side rests
+  on Kott, Assan and Arin forms recorded in the eighteenth century and later, from languages with no
+  early texts, carried back by reconstruction; he notes himself that the proto-meaning "woman" is
+  reconstructed for the sake of a North Caucasian comparison, and that "woman" occurs in Kott alone
+  while "wife" occurs in two languages. Neither word reaches the second century BCE by attestation.
+  What the channel can say is what the spelling permits, and it permits both.</p>
+
+  <p>So, three comparisons from the literature have been tested rather than generated. Two
+  survive tests that 32 of our own readings fail; one of those two has a rival etymology our method
+  cannot rule out; and the third is well formed but does not identify a language, which is what §6.1
+  predicts. That spread is the point of this section. The channel cannot generate supported readings
+  at this data density, but it can judge ones already on the table, including ones advanced against
+  the hypothesis this paper spends most of its pages on, and deciding on other people's proposals is
+  a use of it that the accuracy figures actually license.</p>
 </div>
 
 <h3>9.2 &nbsp;Where a century-old disagreement actually lies: <span class="han">冒頓</span></h3>
@@ -934,17 +967,19 @@ that as a cross-period bound and not as a Han measurement.</p>
   <span class="han">牟羽</span> for the Uyghur Bögü Qaghan. Both write <em>bögü</em> with a Chinese
   <span class="ipa">m-</span> character, and the two fall either side of
   <span class="han">冒</span>'s own split: <span class="han">默</span> matches its first reading
-  exactly, and <span class="han">牟</span> is the nearer of the two to its second. Whichever row of
+  exactly, and <span class="han">牟</span> is the nearer of the two to its second. Whichever reading of
   <span class="han">冒</span> is taken, there is a Turkic precedent for that character writing
-  <em>bögü</em>.</p>
+  <em>bögü</em>. Both authorities in fact give this name the unrounded reading: Pulleyblank lists
+  the character at K1062a and glosses the entry "covet; Modun, founder of the Xiongnu
+  empire".<sup class="n"><a href="#r20">20</a></sup></p>
 
-  <p>Table 9 prices the two rows against each other. A rounded source vowel is written with a rounded
+  <p>Table 9 prices the two readings against each other. A rounded source vowel is written with a rounded
   Chinese vowel in 59% of cases and an open source vowel in 4%, so
-  <span class="han">冒</span>'s second row, <span class="ipa">mouᶜ</span>, is where a rounded first
-  element is ordinary and an open one is not, by about fourteen to one. Its first row,
+  the rounded reading of <span class="han">冒</span>, <span class="ipa">mouᶜ</span>, is where a rounded first
+  element is ordinary and an open one is not, by about fourteen to one. The unrounded reading,
   <span class="ipa">mək</span>, separates the two candidates far less: 7% against 3%, a gap too small
   to carry a reading, and the one attested case of this syllable writing <em>bögü</em> sits on that
-  very row. Each step of the first character is separately licensed. The
+  very reading. Each step of the first character is separately licensed. The
   <span class="ipa">m-</span> for a source <span class="ipa">b-</span> is 3 of 22 in the Later Han
   layer, 13.6% (§8.1). One character covering two source syllables, with a written stop coda doing
   the compressing, occurs in 47 of the 1,017 verified pairs: <span class="han">竭</span> for
@@ -959,36 +994,60 @@ that as a cross-period bound and not as a Han measurement.</p>
 
 <div class="tablewrap">
 <table>
-  <thead><tr><th>Value taken for <span class="han">頓</span></th>
-  <th>Second element ending in<br>a nasal <span class="ipa">-n</span></th>
-  <th>Second element ending in<br>a velar <span class="ipa">-g</span></th>
-  <th>Second element ending in<br>a liquid <span class="ipa">-r</span></th></tr></thead>
+  <thead><tr>
+    <th>Value taken for <span class="han">頓</span></th>
+    <th>What it is, and who assigns it</th>
+    <th>A nasal-final<br>second element</th>
+    <th>A velar-final second<br>element, <em>tuğ</em></th>
+    <th><em>Baγatur</em></th></tr></thead>
   <tbody>
-    <tr><td>row 1 &nbsp;<span class="ipa">tuənᶜ</span>, dental nasal coda</td>
-        <td class="num g">77 of 93 &nbsp;(83%)</td>
-        <td class="num">0 of 21 &nbsp;(0%)</td>
-        <td class="num">1 of 37 &nbsp;(3%)</td></tr>
-    <tr><td>row 2 &nbsp;<span class="ipa">tuət</span>, dental stop coda</td>
-        <td class="num">0 of 93 &nbsp;(0%)</td>
-        <td class="num">2 of 21 &nbsp;(10%)</td>
-        <td class="num g">14 of 37 &nbsp;(38%)</td></tr>
-    <tr><td>the substitution &nbsp;<span class="ipa">douk</span>, velar stop coda</td>
-        <td class="num">0 of 93 &nbsp;(0%)</td>
-        <td class="num g">10 of 21 &nbsp;(48%)</td>
-        <td class="num">0 of 37 &nbsp;(0%)</td></tr>
+    <tr>
+      <td><span class="ipa">tuənᶜ</span><br>dental nasal coda</td>
+      <td>The first row of Schuessler's table, and the character's primary reading. It is the value
+      Appendix A prints, here as everywhere. Schuessler's own note for this name points to his
+      second row instead, so taking the primary reading here is a position rather than a
+      default.</td>
+      <td><strong>fits</strong><br><span class="num g">77 of 93 &nbsp;(83%)</span><br>the commonest
+      cell in the corpus</td>
+      <td><strong>fails</strong><br><span class="num">0 of 21</span><br>the one nasal spelling of a
+      source velar is a velar nasal, not a dental one</td>
+      <td><strong>fails</strong><br><span class="num">1 of 37 &nbsp;(3%)</span><br>a source
+      <span class="ipa">-r</span> against a written <span class="ipa">-n</span></td></tr>
+    <tr>
+      <td><span class="ipa">tuət</span><br>dental stop coda</td>
+      <td>The second row of the same table, and the reading Schuessler assigns to this name, at
+      pp. 209 and 361.</td>
+      <td><strong>fails</strong><br><span class="num">0 of 93</span><br>a source nasal is not
+      written with a stop coda</td>
+      <td><strong>permitted, uncommon</strong><br><span class="num">2 of 21 &nbsp;(10%)</span><br>the
+      place changes, the manner does not</td>
+      <td><strong>fits</strong><br><span class="num g">14 of 37 &nbsp;(38%)</span><br>the scribe's
+      usual choice for a source <span class="ipa">-r</span> after an open spelling</td></tr>
+    <tr>
+      <td>the substitution<br><span class="ipa">douk</span>, velar stop coda</td>
+      <td>Not a row of <span class="han">頓</span> at all. It is the syllable
+      <span class="han">毒</span> substituted by a commentator, <span class="han">頓音毒</span>,
+      reported by Pulleyblank as Early Middle Chinese <span class="ipa">dawk</span>. A tradition
+      about how to read the character, which is a different kind of claim from a
+      reconstruction of it.</td>
+      <td><strong>fails</strong><br><span class="num">0 of 93</span></td>
+      <td><strong>fits</strong><br><span class="num g">10 of 21 &nbsp;(48%)</span><br>both codas
+      written, same place, nothing discarded</td>
+      <td><strong>fails</strong><br><span class="num">0 of 37</span><br>a source
+      <span class="ipa">-r</span> is never written with a velar coda</td></tr>
   </tbody>
 </table>
 </div>
-<p class="cap"><span class="tnum">Table 10</span>Each cell is the rate at which the Later Han corpus
-writes a source coda of that class with a coda of the class the value in that row carries. The nasal
-and velar columns come from the same tally as Table 7, the liquid column from §8.1. Denominators
-differ because the corpus offers different numbers of opportunities; the velar column rests on 21
-and should be read as an indication rather than a rate. The corpus does contain one nasal spelling of
-a source velar, but it is a velar nasal, not the dental one <span class="han">頓</span> carries on
-its first row, so that cell is 0 of 21 and not 1. Read down the columns rather than across the rows:
-<strong>two of the three values admit a velar-final second element, one admits a liquid-final one,
-and one admits a nasal-final one</strong>, and no value admits two shapes. <em>Baγatur</em>, the
-field's reading for a century, is the liquid-final shape, and it is licensed on row 2 alone.</p>
+<p class="cap"><span class="tnum">Table 10</span>Each value of <span class="han">頓</span> admits a
+different second element, and none admits two. Counting the values that license each candidate:
+<strong>two of the three admit a velar-final element, one admits <em>Baγatur</em>, and one admits a
+nasal-final element</strong>. The rates are the rate at which the Later Han corpus writes a source
+coda of that class with a coda of the class the value in that row carries; the nasal and velar
+columns come from the same tally as Table 7, the liquid column from §8.1. Denominators differ
+because the corpus offers different numbers of opportunities, and the velar column rests on 21 cases,
+so it should be read as an indication rather than a rate. <em>Baγatur</em> has been the field's
+reading for a century and is licensed on the dental stop reading alone, which is also the reading Schuessler names for this name. A velar-final reading is licensed on the other two. That is the disagreement,
+and it is a disagreement about which value to take, not about phonology.</p>
 
 <div class="col">
   <div class="box flag">
@@ -1007,16 +1066,30 @@ field's reading for a century, is the liquid-final shape, and it is licensed on 
 
   <p><strong>What each branch has to assume.</strong> On the standard of §9 all three shapes clear the
   morphological test, since two nouns in apposition is the commonest Turkic name shape, as in Alp
-  Arslan or <em>Bögü-Çor</em> itself. They differ in what else has to be granted. The liquid-final
-  shape needs row 2, and it needs a word: Clauson's entry on <em>baγatur</em> records that the word
+  Arslan or <em>Bögü-Çor</em> itself. They differ in what else has to be granted. The liquid-final shape needs the dental stop reading <span class="ipa">tuət</span>, and it needs a word: Clauson's entry on <em>baγatur</em> records that the word
   "occurs only once in the early period and then still as a P.N.", that the sense "picked warrior"
   most probably developed in Mongolian rather than Turkic, and that Turkic had other words such as
   <em>alpaγut</em> in that meaning.<sup class="n"><a href="#r4">4</a></sup> The velar-final shape
-  needs row 2 or the substitution, and its candidate second element is a well attested Old Turkic
+  needs either <span class="ipa">tuət</span> or the substitution, and its candidate second element is a well attested Old Turkic
   noun, but the direction of its loan relation with Chinese is disputed, which we set out in S1
-  rather than here. The nasal-final shape needs row 1, where it is the ordinary spelling, and it
+  rather than here. The nasal-final shape needs the nasal reading <span class="ipa">tuənᶜ</span>, where it is the ordinary spelling, and it
   needs a vowel the frame does not recover, since the corpus fixes neither the quality nor the
   length of the vowel in the second syllable.</p>
+
+  <p><strong>The two steps priced together.</strong> Table 10 prices only the second half of the
+  name. Each branch also needs a first step, and it is the same step on all three: on any Turkic
+  reading <span class="han">冒</span> <span class="ipa">mək</span> writes a source <em>b-</em>, which
+  the Later Han corpus does in 3 of 22 cases, 13.6% (§8.1). Carrying that through the coda rates
+  gives the cost of the whole name rather than of its second element. A nasal-final second element on
+  <span class="ipa">tuənᶜ</span> comes to 11.3%, about 1 in 9. A velar-final element on the
+  <span class="han">毒</span> substitution comes to 6.5%, about 1 in 15. <em>Baγatur</em> on
+  <span class="ipa">tuət</span> comes to 5.1%, about 1 in 20, and <em>Baγatur</em> on
+  <span class="ipa">tuənᶜ</span> to 0.4%, about 1 in 270. These joint figures cannot be written as a
+  count, because the two rates are drawn from different tallies with different denominators, and they
+  assume the two steps are independent, which is an assumption and not a measurement. Note also what
+  the first step does not do: because the <em>m-</em> rate is common to every Turkic branch it scales
+  all of them alike, so it changes how a Turkic reading of this name stands against a non-Turkic one,
+  and does not reorder the rows of Table 10.</p>
 
   <p>We do not choose among them, and the reason is not modesty. The three branches are not three
   hypotheses about the same evidence; they are three different pieces of evidence, and the choice
@@ -1025,10 +1098,8 @@ field's reading for a century, is the liquid-final shape, and it is licensed on 
   objections to it recorded alongside, is in <strong>Supplementary Material S1</strong>, which is
   where proposals in this work are kept.</p>
 
-  <p>The choice is not peculiar to this name. Across the record, <strong>46 of 107 characters carry
-  more than one Later Han reading, and in all 46 the value printed in Appendix A is the first row of
-  the table</strong> (§11). <span class="han">冒頓</span> is the case where that choice carries the
-  most weight, and it is the case where the first row is not obviously the right one. The material
+  <p>The choice is not peculiar to this name. Across the record, <strong>46 of the 107 character slots the table covers carry more than one Later Han reading, and in all 46 the value printed in Appendix A is the first tabulated one</strong> (§11). <span class="han">冒頓</span> is the case where that choice carries the
+  most weight, and it is the case where the first tabulated reading is not obviously the right one. The material
   for choosing, the counts, the corpora and the scripts, is in the repository that we
   provided.</p>
 </div>
@@ -1085,23 +1156,34 @@ material bears not at all.</p>
 <div class="col">
   <ul>
     <li><strong>No independent philological review.</strong> The computational method and its
-    evaluation are ours to defend. Philology is not our work, and we have not had it checked for
-    this paper. The Later Han readings are Schuessler's, the etymologies discussed are
+    evaluation are ours to defend. Philology is not our work. The Later Han readings are Schuessler's, the etymologies discussed are
     from the published literature, and the identifications in Table 9 are the established
-    consensus. A specialist reading would strengthen the paper and might revise judgments in
-    §6 and §9.</li>
+    consensus.</li>
     <li><strong>Corpus validation is internal.</strong> The extraction rules are documented and
     internally consistent (93.4% length agreement for Mongolian, an induced akṣara inventory
     matching the standard one for Sanskrit), but no external reviewer has checked a sample against
     the sources.</li>
     <li><strong>The Turkic corpus is Ming-era</strong>, roughly 1,200 years later than the Xiongnu
     material. §7 measures what those costs rather than assuming it away.</li>
-    <li><strong>Reconstructions are inferences.</strong> Schuessler, Pulleyblank and Níng are three scholars with three notations, and Baxter and Sagart
-     a fourth.<sup class="n"><a href="#r2">2</a>,<a href="#r19">19</a>,<a href="#r20">20</a></sup> So some of the apparent
-     disagreement between them is notational rather than substantive. A single table is also not
-     single-valued: <strong>46 of the 107 characters in the record carry more than one Later Han
-     reading</strong>, and Appendix A prints the first tabulated row in all 46. Where the alternative
-     would change a reading it is named in the entry, and §9.2 is the case where it changes most.</li>
+    <li><strong>Reconstructions are inferences, and the period gap runs on the Chinese
+     side too.</strong> Schuessler, Pulleyblank and Níng are three scholars with three notations,
+     and Baxter and Sagart a fourth.<sup class="n"><a href="#r2">2</a>,<a href="#r19">19</a>,<a href="#r20">20</a></sup>
+     It is tempting to assume that the disagreement between them is notational, and we measured
+     whether it is. The names are recorded in the <em>Shiji</em> and the <em>Hanshu</em> for events
+     of the third to the first century BCE; the table this paper reads them with describes Chinese
+     of the first and second centuries CE. Comparing Schuessler's Later Han against Baxter and
+     Sagart's Old Chinese over the record's 81 distinct characters, 60 of which appear in both,
+     <strong>38 carry the same class of segment in both and 22 do not: 16 differ in the onset, 4 in
+     the coda, and 2 in both, 37% in all</strong>. That is not a notational difference. It is a
+     difference in what the character could write. <span class="han">于</span> is a glide in the
+     later table and a velar in the earlier one; <span class="han">單</span> ends in a nasal in the
+     later and a liquid in the earlier; <span class="han">路</span> is open in the later and closed
+     with a velar stop in the earlier. The two reconstructions bracket the transcriptions rather
+     than dating them, so this is the width of the uncertainty and not a correction to Appendix A,
+     but it is a real cost and every reading in this paper carries it. Table S8 of the Supplementary
+     Material lists the 22 characters. A single table is also not single-valued:
+     <strong>of the 107 character slots the table covers, 46 carry more than one Later Han reading</strong>, and Appendix A prints the first tabulated row in all 46. The record has 114 slots in all, 81 of them distinct characters, and 7 slots are not in the table at any reading. Where the alternative would change a
+     reading it is named in the entry, and §9.2 is the case where it changes most.</li>
     <li><strong>Names travel.</strong> Even a perfect reconstruction would not settle ethnicity.<sup class="n"><a href="#r16">16</a>,<a href="#r21">21</a></sup> Turkic tribes bore Iranian names and Mongol rulers used Turkic titles; the caution in §6.3
     about <em>tengri</em> is a specific case of this general problem.</li>
     <li><strong>Reproducibility has a software dependency.</strong> The headword count for the
@@ -1123,7 +1205,7 @@ material bears not at all.</p>
 ├── LICENSE              code MIT
 ├── DATA_LICENSE.md      the three-way split described below
 ├── data/derived/        the corpora, the lexicons, and every measurement
-├── src/                 steps 1–23 plus lookup_lexicons.py, each rerunnable alone
+├── src/                 steps 1–40 plus lookup_lexicons.py, each rerunnable alone
 ├── reports/             one summary per step, with the numbers quoted above
 └── docs/                design notes, including approaches that were rejected</pre>
 
@@ -1135,12 +1217,8 @@ material bears not at all.</p>
     under §9 and do not offer it as a result of this paper.</p>
     <p><strong>Released, CC BY 4.0.</strong> The Mongolian and Sanskrit corpora, the Cuman lexicon
     (Kuun's 1880 edition being public domain), the induced akṣara table, the Xiongnu record of
-    Appendix A, and every measurement file behind Tables 1–9.</p>
-    <p><strong>Withheld, with the extraction script released instead.</strong> Four derived files
-    inherit restrictions from their sources: the Turkic pairs, from Ligeti's glossaries
-    (© Akadémiai Kiadó); the Kāşgarî lexicon, from a modern Türk Dil Kurumu edition; and two files
-    built on that lexicon: the Old Turkic echo results and the candidate-space listing, the latter
-    also quoting Clauson's <em>Etymological Dictionary</em> verbatim in a context column. Anyone
+    Appendix A, and every measurement file behind Tables 1–11, including <code>period_depth.csv</code>.</p>
+    <p><strong>Withheld, with the extraction script released instead.</strong> Five derived files inherit restrictions from their sources: the Turkic pairs, from Ligeti's glossaries (© Akadémiai Kiadó); the Kāşgarî lexicon, from a modern Türk Dil Kurumu edition; two files built on that lexicon, the Old Turkic echo results and the candidate-space listing, the latter also quoting Clauson's <em>Etymological Dictionary</em> verbatim in a context column; and a word list of the <em>Irk Bitig</em>, from Tekin's 1993 edition (© Harrassowitz), which we use only to date a proposed reading in the Supplementary Material and which no measurement in this paper depends on. Anyone
     holding the sources can regenerate any of them byte-for-byte by running the numbered script,
     which keeps the paper's numbers checkable without redistributing the source. No permission is
     required for this arrangement, and none has been sought.</p>
@@ -1155,11 +1233,7 @@ material bears not at all.</p>
 <p class="cap">All thirty-nine names, titles, and lexical items in the Chinese histories, with the
 Later Han reading of each character and a Turkish-orthography rendering for readers who do not read
 phonetic notation. The Later Han column is published scholarship, not model output; our contribution is the assembly: we collected the names in one place and joined the readings to them
-character by character. Superscript letters mark Han tone categories. A dagger,
-<span class="poly">†</span>, marks a character for which Schuessler's table gives more than one
-Later Han reading; the first tabulated row is the one printed. <strong>46 of the 107 characters
-in the record are so marked</strong>, and where the alternative would change a proposed reading it
-is named in the Supplementary Material rather than left to the dagger.
+character by character. Superscript letters mark Han tone categories. A dagger, <span class="poly">†</span>, marks a <strong>polyphonic character</strong>, one for which Schuessler's table gives more than one Later Han reading; the first tabulated row is the one printed. <strong>46 of the 107 character slots the table covers are so marked</strong>, and where the alternative would change a proposed reading it is named in the Supplementary Material rather than left to the dagger. Table S7 of the Supplementary Material lists every polyphonic character together with the readings not used.
 <span class="han">若鞮</span> is listed once, shaded, rather than repeated in the six titles that
 carry it.</p>
 
@@ -1248,7 +1322,7 @@ hypothesis.</p>
   <li id="r6">Doerfer, G. (1973). Zur Sprache der Hunnen. <em>Central Asiatic Journal</em> 17: 1–50.</li>
   <li id="r7">Erdal, M. (2004). <em>A Grammar of Old Turkic</em>. Leiden: Brill.</li>
   <li id="r8">Georg, S. (2001). Türkisch/Mongolisch <em>tengri</em> 'Himmel, Gott' und seine Herkunft. <em>Studia Etymologica Cracoviensia</em> 6: 83–100.</li>
-  <li id="r9">Golden, P. B. (1992). <em>An Introduction to the History of the Turkic Peoples</em>. Wiesbaden: Harrassowitz.</li>
+  <li id="r9">Golden, P. B. (1992). <em>An Introduction to the History of the Turkic Peoples</em>. Wiesbaden: Harrassowitz. Page references are to the 2011 printing.</li>
   <li id="r10">Hú Zhènhuá &amp; Huáng Rùnhuá (1984). 《高昌舘杂字：明代汉文回鹘文分类词汇》. Běijīng: Mínzú chūbǎnshè.</li>
   <li id="r11">Hirth, F. (1908). <em>The Ancient History of China to the End of the Chóu Dynasty</em>. New York: Columbia University Press. (Comparison of <span class="han">徑路</span> with Turkic <em>kıŋrak</em>, pp. 66–67, checked
 against the text.)</li>

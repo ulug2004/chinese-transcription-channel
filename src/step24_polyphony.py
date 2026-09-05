@@ -90,11 +90,14 @@ def main():
     A("Items examined                                  : %d" % n["items"])
     if n["items_unaligned"]:
         A("  skipped, reading does not align to characters : %d" % n["items_unaligned"])
-    A("Characters examined                             : %d" % c)
+    A("Character slots in the record                   : %d" % n["characters"])
+    A("  covered by Schuessler's table                 : %d" % c)
     A("  one reading in Schuessler's table             : %d" % n["char_single"])
     A("  more than one reading                         : %d  (%.0f%%)" % (n["char_polyphonic"], pct))
     if n["char_not_in_table"]:
-        A("  not in the table at all                       : %d" % n["char_not_in_table"])
+        A("  not in the table at any reading               : %d" % n["char_not_in_table"])
+    A("  (the percentage above is of the %d the table covers,"
+      " not of the %d slots)" % (c, n["characters"]))
     A("")
     A("Items containing at least one polyphonic character: %d of %d" % (n["items_with_polyphony"], n["items"]))
     A("")

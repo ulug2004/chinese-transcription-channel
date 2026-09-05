@@ -73,7 +73,7 @@ BODY = []
 BODY.append(table(RULERS,1,"Chanyu, in order of reign",
   "The fifteen rulers whose names are not built on the recurring element 若鞮. Reign order follows the <em>Shiji</em> and <em>Hanshu</em> as reproduced in Appendix A of the paper."))
 BODY.append(table(RUODI,2,"The six <span class=\"han\">若鞮</span> compounds",
-  "The recurring element itself, then the six later chanyu whose formal names end in it. Only the shared element is argued for in the paper; the material preceding it in each name is a proposal like any other in this file."))
+  "The recurring element itself, then the six later chanyu whose formal names end in it. Only the shared element is argued for in the paper; the material preceding it in each name is a proposal like any other in this supplement."))
 BODY.append(table(CLAN,3,"The ruling clan name, in its two written forms",
   "攣鞮 in the <em>Shiji</em> and <em>Hanshu</em>, 虛連題 in the <em>Hou Hanshu</em>. Both are taken here as the same name, which is the usual view."))
 BODY.append(table(TITLES,4,"Titles and lexical items",
@@ -106,11 +106,12 @@ for ch in sorted(used, key=lambda c: (-len(where.get(c,[])), c)):
              '<td class="han2" style="font-size:.85em">%s</td></tr>'
              % (ch, sy, " &middot; ".join(alts), " ".join(where.get(ch, []))))
 P.append('</tbody></table></div>')
-P.append('<p class="cap"><span class="tnum">Table S6</span>Every character in the record for which '
+P.append('<p class="cap"><span class="tnum">Table S7</span>Every character in the record for which '
          'Schuessler\'s table gives more than one Later Han reading, with the reading printed in '
          'Appendix A of the paper and the alternatives not used. Generated from '
          '<code>data/derived/polyphony.csv</code>, which the numbered script step 24 writes, so this '
-         'table cannot drift from the repository. The daggers in the tables above mark the same '
+         'table cannot drift from the repository. The daggers in the tables above mark these same '
+         'polyphonic '
          'characters. Where an alternative would change a proposed reading, the entry for that item '
          'says so.</p>')
 BODY.append("\n".join(P))
@@ -119,4 +120,42 @@ BODY.append("\n".join(P))
 print("rows covered:", sum(len(x) for x in (RULERS,RUODI,CLAN,TITLES,ETHNO)), "of", len(rows))
 missing=set(by)-set(RULERS+RUODI+CLAN+TITLES+ETHNO)
 print("missing:", missing)
+
+# --- S1.12 the two reconstructions compared ----------------------------
+_PD_CANDS = ["/root/art/period_depth.csv",
+             os.path.join(_HERE, "data", "derived", "period_depth.csv"),
+             "/mnt/user-data/uploads/claude/names/data/derived/period_depth.csv"]
+_PD = next((x for x in _PD_CANDS if os.path.exists(x)), None)
+if _PD:
+    pd = list(csv.DictReader(io.open(_PD, encoding="utf-8-sig")))
+    diff = [r for r in pd if r["differs_in"] != "same"]
+    same = len(pd) - len(diff)
+    Q = ['<h2 class="sec"><span class="n">S1.12</span><span class="t">The two '
+         'reconstructions of each character compared</span></h2>',
+         '<div class="tablewrap"><table><thead><tr>'
+         '<th>Character</th><th>Later Han<br>(Schuessler)</th>'
+         '<th>Old Chinese<br>(Baxter &amp; Sagart)</th>'
+         '<th>Onset class</th><th>Coda class</th></tr></thead><tbody>']
+    for r in diff:
+        on = ("%s &rarr; %s" % (r["lh_onset"], r["oc_onset"])
+              if r["lh_onset"] != r["oc_onset"] else "&mdash;")
+        cd = ("%s &rarr; %s" % (r["lh_coda"], r["oc_coda"])
+              if r["lh_coda"] != r["oc_coda"] else "&mdash;")
+        Q.append('<tr><td class="han2">%s</td><td class="num">%s</td>'
+                 '<td class="num">%s</td><td>%s</td><td>%s</td></tr>'
+                 % (r["char"], esc(r["later_han"]), esc(r["old_chinese"]), on, cd))
+    Q.append('</tbody></table></div>')
+    Q.append('<p class="cap"><span class="tnum">Table S8</span>The %d characters of the record, '
+             'of the %d present in both reconstructions, where the two give a different class of '
+             'segment in at least one position; the other %d agree. This is the measurement §11 of '
+             'the paper reports, at 37%%. It is not a correction to Appendix A: Baxter and Sagart '
+             'reconstruct a stage several centuries before the transcriptions and Schuessler one '
+             'several centuries after, so the two bracket the moment of writing rather than dating '
+             'it, and this table is the width of that bracket. Their <i>*-s</i> and <i>*-\u0294</i> '
+             'are treated as having become tones by the Han and are not counted as codas, and a '
+             'trailing <i>*-j</i> or <i>*-w</i> is read as the offglide of a diphthong rather than '
+             'as a consonant. Generated from <code>data/derived/period_depth.csv</code>, which the '
+             'numbered script step 43 writes.</p>' % (len(diff), len(pd), same))
+    BODY.append("\n".join(Q))
+
 io.open("s1_tables.html","w",encoding="utf8").write("\n\n".join(BODY))

@@ -1,0 +1,120 @@
+Step 42.  Searching for: cavus
+   folded form   : caBus   (c=ç=č, s=ş=š, B=b=v=w=p, vowels bare)
+   skeleton      : cBs   (consonants only)
+
+====================================================================
+LEXICONS
+====================================================================
+  cuman_lexicon.csv            2110 headwords
+      no match
+  dlt_lexicon.csv              6820 headwords
+      skeleton     : çepiş | altı aylık keçi yavrusu, çepiç
+      skeleton     : çuvaş | çadır
+  irk_bitig_lexicon.csv        668 headwords
+      no match
+  lexicon_variants.csv         6 headwords
+      no match
+  xiongnu_titles_lexicon_reconstructed.csv 16 headwords
+      no match
+
+====================================================================
+BOOKS  (first run extracts and caches; later runs are fast)
+====================================================================
+  AbuHayyan_Kitab_al-Idrak.epub                        119608 chars
+      -> nothing
+  Clauson_1972_EDPT.epub                               5417527 chars
+      FOLDED  TRIS. ALC dear child” Kaş, 7 52; a.o. /7 250, 4 (in a Xak. verse): xiv Muh. (in a list of titles, etc.) rn toulüdi l-malik "a king's son” ozli:ç Mel. 
+      FOLDED  174 to the Magi) incip 'that being so' (they set out) U I 6, 4; (the flame shot up) incip “that being so' (the Magi did obeisance) do. 8, 14: Bud. inc
+      FOLDED  MON. AS twajd 'alayhi ka-lawni'l-namir "he embroidered the felt with a pattern like the colours of a leopard” Kaş. 1 316 (esri:le:r, esri:le:me:k). Di
+      FOLDED  340 bólek (in margin bölük) Tuh. rza. 1; dafira (mis-spelt zafira; note in margin mina'[-sa'r tca gayriht) bölük do. 242. 13. belgü: (?belgà:) “sign, 
+      FOLDED  Preliminary note. Znitial g- is not very common in Turkish as an original initial. Although there s good evidence that both unvoiced € and voiced C ex
+      FOLDED  | | | EE EE EE EE EE LEALLEEEICEEISEEESEEALSLESLCSEUIIESSS EE PEL LLL TRIS. CBŞ . 399 idára kull şay” mudawwar) Kaş. II 208 (çevrügü:r, çevrüşme:k): O
+      -> 7 folded matches
+  Divanu-Lugatit-Turk-Dizini-2MB.pdf                   498868 chars
+      FOLDED  çawuş çavuş, savaşta safları düzelten ve askeri zulüm etmeğe bırakmayan kimse. I, 368 çaydam
+      -> 1 folded matches
+  Kutadgu_Bilig_Incelemesi_Dilacar.pdf                 566812 chars
+      SKELETON ÇEVESi         in: V. OÜNYA E DESIYATI ÇEfl. ÇEVESi IÇEfl.ISINOE " KUTA OGU eue-
+      -> 0 folded, 1 skeleton matches (noisy, read them)
+  Kutadgu_Bilig_Kabalci_2008.pdf                       2679000 chars
+      SKELETON çavı�sa        in: C98 19 28 çavı�sa ajunda yaçlılsa atı
+      SKELETON çavı{ısa       in: C16 törü tüz yoııtsa yitürsc il 19 28 çavı�zsa ajundal A14 çavı�zz-a acun-ta B7 çavı{ısa (satır altında
+      SKELETON çavı{ısa,      in: çavı{ısa, 16 71 , 19 28, 2277.
+      -> 0 folded, 3 skeleton matches (noisy, read them)
+  Kutadgu_Bilig_TDV_2018.epub                          110417 chars
+      -> nothing
+  Anthropos_1974_review_Doerfer_Lautgesetz_und_Zufall. 55885 chars
+      -> nothing
+  Baley_2025_late_han_v7_description.pdf               4833 chars
+      -> nothing
+  BaxterSagart_2014_by_radical_stroke.pdf              353601 chars
+      -> nothing
+  Bonmann_2025_Xiongnu_Huns_Paleo_Siberian.pdf         102402 chars
+      -> nothing
+  Esin_OSullivan_2025_Xiongnu_rulers_residences.pdf    103026 chars
+      -> nothing
+  Lee_2023_Xiongnu_genetic_population_structure.pdf    99631 chars
+      -> nothing
+  Savelyev_Jeong_2020_early_nomads_eastern_steppe.pdf  64205 chars
+      -> nothing
+  StarLing_Yeniseian_swadesh.pdf                       270880 chars
+      -> nothing
+  Vovin_2000_Xiongnu_Yeniseian_Part1.pdf               42588 chars
+      -> nothing
+  Vovin_2003_Xiongnu_Yeniseian_Part2_vocabulary.pdf    29060 chars
+      -> nothing
+  Yoshida_Sogdian_names_in_Chinese.pdf                 14447 chars
+      -> nothing
+  A Grammar of Old Turkic (Handbook of Oriental Studie 1605380 chars
+      SKELETON copies.        in: copies. Mahҝmǌd also quotes forms from dialects other than his own, the
+      SKELETON copies         in: lost /ñ/ to have made copies from mss. which still had /ñ/, introducing
+      SKELETON Copies         in: some variants of Old Turkic, e.g. in Orkhon Turkic. Copies from
+      SKELETON copies)’.      in: later (can bring other copies)’. This pre-preterite appears also in tiši
+      SKELETON cubs,          in: tigress has given birth (to seven cubs, and she is terribly hungry)’.
+      SKELETON cows           in: three kinds of livestock – horses, cows and sheep. He may be nearly right: The phrase
+      -> 0 folded, 8 skeleton matches (noisy, read them)
+  An Introduction to the History of the Turkic People  8206 chars
+      SKELETON Čuvaš          in: The Čuvaš
+      -> 0 folded, 1 skeleton matches (noisy, read them)
+  Irk Bitig_ The Book of Omens (Turcologica) (German E 113735 chars
+      SKELETON cups           in: 42. A woman went away, leaving behind her cups and bowls. Then
+      SKELETON cups           in: from my cups and bowls?' she says. She again came back (and)
+      SKELETON cups           in: found her cups and bowls safe and sound. She rejoices (and) be-
+      -> 0 folded, 3 skeleton matches (noisy, read them)
+  Lexicon of Reconstructed Pronunciation_ In Early Mid 797504 chars
+      SKELETON caps           in: green dye used for ribbons on caps and
+      -> 0 folded, 1 skeleton matches (noisy, read them)
+  Minimal Old Chinese and Later Han Chinese_ A Compani 894927 chars
+      -> nothing
+  Old Chinese _ A New Reconstruction -- William H_ Bax 1037929 chars
+      SKELETON Cpi’s          in: The first position, Cpi, must be filled by a consonant. The inventory of possible Cpi’s
+      SKELETON CVs-           in: CVs- ↔ z- snake pəsiɲ³ rắn [zan B1]
+      SKELETON *Cop-s         in: *Cop-s > *Cot-s > *Cwat-s > CjwejH
+      SKELETON *Cup-s         in: *Cup-s > *Cut-s > *Cwət-s > Cjw+jH or CwijH
+      SKELETON cups           in: expression 合 卺 héjǐn < kop-kj+nX ‘to drink from cups made from splitting a single gourd’, part
+      -> 0 folded, 5 skeleton matches (noisy, read them)
+  Shang Gu Han Yu De Fu Yin Xi Tong Consonantal System no text layer
+  The ancient history of China, to the end of the Chóu 728985 chars
+      SKELETON Caps           in: outward appearance. Caps and tiaras, coats, aprons, and
+      SKELETON Copious        in: Exegetical Notes, Prolegomena, and Copious Indexes, by James Legge,
+      SKELETON copies         in: transcribed copies among the treasures of the imperial li-
+      SKELETON copies         in: thousands of copies ever since the Han dynasty? These,
+      SKELETON copies         in: that numerous copies were made in jade of the ancient
+      SKELETON ceives         in: ceives much additional light from the works of the minor
+      -> 0 folded, 6 skeleton matches (noisy, read them)
+  Trans of the Philol Soc - 2025 - Bonmann - Linguisti 102402 chars
+      -> nothing
+  Turkische und Mongolische Elemente im Neupersischen. 1877402 chars
+      FOLDED  Höflingen, havässi hadam, zusammen mit den cävus, s. J'j^, aufgeführt),
+      -> 1 folded matches
+  Turkische und Mongolische Elemente im Neupersischen. 1877402 chars
+      FOLDED  Höflingen, havässi hadam, zusammen mit den cävus, s. J'j^, aufgeführt),
+      -> 1 folded matches
+  Türkische und Mongolische Elemente im Neupersischen_ 1556105 chars
+      FOLDED  CAPUS: La musique chez les kirghises et les sartes de l' Asie Centrale, Paris 1885
+      -> 1 folded matches
+  Türkische und Mongolische Elemente im Neupersischen_ no text layer
+
+A folded match is real. A skeleton match ignores vowels and will
+catch unrelated words; it is there so that a damaged OCR vowel
+cannot hide a genuine attestation.

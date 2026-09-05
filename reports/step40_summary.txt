@@ -1,0 +1,57 @@
+Step 40.  Irk Bitig_ The Book of Omens (Turcologica) (German Edition) -- Talât Tekin --
+pages: 80   characters in the text layer: 113656
+
+candidate word-list headings: [(2, 'GLOSSARY'), (26, 'GLOSSARY'), (27, 'GLOSSARY'), (28, 'GLOSSARY'), (32, 'GLOSSARY'), (34, 'GLOSSARY'), (35, 'GLOSSARY'), (36, 'GLOSSARY'), (37, 'GLOSSARY')]
+raw word-list pages written to reports\irk_bitig_raw.txt
+
+parsed 668 candidate headwords
+   Die                Deutsche Bibliothek- CIP-Einheitsaufnahme
+   Irk                bitig :(the book of omens) I Tal at Tekin.- Wiesbaden : Harr
+   ISBN               3-447-03426-2
+   NE:                Irk bitig; GT
+   This               work, including all of its parts, is protected by copyright.
+   Any                use beyond the limits of copyright law without the permissio
+   of                 the publisher is forbidden and subject to penally. This appl
+   particularly       to reproductions, translations. mic rofilms and storage
+   and                proce ssing in electronic systems.
+   Printed            on permanent/durable paper from Nordland, Dorpen!Ems.
+   Printing           and binding by Hubert & Co, Gotti ngen
+   ISSN               0177-4743
+   Introduction       ............................................................
+   Text               and Tran slation ...........................................
+   Explan             ations .....................................................
+   Glossary           .......... . ........................................ ......
+   Bibliography       ............................................................
+   Facsimiles         ................... .................................. .....
+   The                Irk Bitig or 'The book of Omens" is the only Old Turkic text
+   written            in the runic script and in the form of a book. It was found 
+   near               Tun-huang. Like many manuscripts found in the same deposit,
+   ny-                dialect".
+   by                 one.
+   on                 the fifty-seventh leaf. With the exception of these two leav
+   red                ink. It seems that the first nine and the last three pages o
+   book               were originally blank; but later they were filled with writi
+   with               the margin of the pages 1 and 101 were covered with Chinese
+   was                thought that the book had been written for two disciples nam
+   isig               SlliJIIIl and ita <;uk. Hamilton, who studied the colophon o
+   tain               young pious disciple at the Tayguntan monastery for his elde
+   brother            Sal)Uil ita�;uk, i.e. "general itachuk". As we learn from th
+   ond                month, in the year of tiger". Bazin thinks that the date of 
+   compilation        of the work is either 17 March 930 or 4 March 942
+   rightly            places this work among the group I texts dating from the 8th
+   Previous           Works on Irk Bitig
+   Royal              Asiatic Society, 1912, pp. 190-214. Thomsen's edition consis
+   in                 the Irk Bitig but also those found in the other three runic 
+   Tiirk              YaZJtlan, II, pp. 71-93. Orkun's edition is nothing but a Tu
+   translation        of Thomsen's edition. However, he was able to identify
+   two                words occurring in the TB, i.e. (ii)sri "tekir", opgiik "t;a
+
+Cross-check: which proposed readings use a word in this list.
+A hit means the word is attested in Old Turkic by the ninth
+century. A miss means NOTHING; see the header of this script.
+   冒頓       Bögü Tuğ         -> tug-           to rise (of sun)
+   烏珠留若鞮    Çal Inakt        -> cal            ly, because it lacks the accusative suffix -n af
+   烏累若鞮     Uluğ Inakt       -> ulug           big , great
+   單于       Kan Apa          -> kan            ... o. yapmi � 28
+   撑犁孤塗單于   (compound of the three rows below) -> of             the publisher is forbidden and subject to penall
+   孤塗       Kutı             -> kut            slit- 'to be lost, get lost' (caus. stiter- <*yt

@@ -1,0 +1,87 @@
+Step 42.  Searching for: canvus
+   folded form   : canBus   (c=ç=č, s=ş=š, B=b=v=w=p, vowels bare)
+   skeleton      : cnBs   (consonants only)
+
+====================================================================
+LEXICONS
+====================================================================
+  cuman_lexicon.csv            2110 headwords
+      no match
+  dlt_lexicon.csv              6820 headwords
+      no match
+  irk_bitig_lexicon.csv        668 headwords
+      no match
+  lexicon_variants.csv         6 headwords
+      no match
+  xiongnu_titles_lexicon_reconstructed.csv 16 headwords
+      no match
+
+====================================================================
+BOOKS  (first run extracts and caches; later runs are fast)
+====================================================================
+  AbuHayyan_Kitab_al-Idrak.epub                        119608 chars
+      -> nothing
+  Clauson_1972_EDPT.epub                               5417527 chars
+      SKELETON (canvas)       in: MON. CĞ text to match the translation. Xak. xi cetke:n 'inánu'l-licám 'bridle rein! Kaş. I 443. Dis. V. CDLD ç
+      SKELETON "Canopus!      in: 604 strict character' 447; (bright summer turns to) kadir kışka 1052. katir 'mule'. A l.-w. in Mong. as Façır.
+      SKELETON Canopus!       in: 922 “moon” also occurs in the passage (fol. 66v. of the D.M. MS.) copied fr. &amp; B. Dis. V. YLCyalçı:- not n
+      -> 0 folded, 3 skeleton matches (noisy, read them)
+  Divanu-Lugatit-Turk-Dizini-2MB.pdf                   498868 chars
+      -> nothing
+  Kutadgu_Bilig_Incelemesi_Dilacar.pdf                 566812 chars
+      -> nothing
+  Kutadgu_Bilig_Kabalci_2008.pdf                       2679000 chars
+      -> nothing
+  Kutadgu_Bilig_TDV_2018.epub                          110417 chars
+      -> nothing
+  Anthropos_1974_review_Doerfer_Lautgesetz_und_Zufall. 55885 chars
+      -> nothing
+  Baley_2025_late_han_v7_description.pdf               4833 chars
+      -> nothing
+  BaxterSagart_2014_by_radical_stroke.pdf              353601 chars
+      SKELETON C)*[ŋ]ewʔ-s    in: 12012繞rǎonyewH(ny- + -jew C)*[ŋ]ewʔ-s (< uvular?)to wind round1164k53450.08U+7E5E
+      -> 0 folded, 1 skeleton matches (noisy, read them)
+  Bonmann_2025_Xiongnu_Huns_Paleo_Siberian.pdf         102402 chars
+      -> nothing
+  Esin_OSullivan_2025_Xiongnu_rulers_residences.pdf    103026 chars
+      -> nothing
+  Lee_2023_Xiongnu_genetic_population_structure.pdf    99631 chars
+      -> nothing
+  Savelyev_Jeong_2020_early_nomads_eastern_steppe.pdf  64205 chars
+      -> nothing
+  StarLing_Yeniseian_swadesh.pdf                       270880 chars
+      -> nothing
+  Vovin_2000_Xiongnu_Yeniseian_Part1.pdf               42588 chars
+      -> nothing
+  Vovin_2003_Xiongnu_Yeniseian_Part2_vocabulary.pdf    29060 chars
+      -> nothing
+  Yoshida_Sogdian_names_in_Chinese.pdf                 14447 chars
+      -> nothing
+  A Grammar of Old Turkic (Handbook of Oriental Studie 1605380 chars
+      -> nothing
+  An Introduction to the History of the Turkic People  8206 chars
+      -> nothing
+  Irk Bitig_ The Book of Omens (Turcologica) (German E 113735 chars
+      -> nothing
+  Lexicon of Reconstructed Pronunciation_ In Early Mid 797504 chars
+      -> nothing
+  Minimal Old Chinese and Later Han Chinese_ A Compani 894927 chars
+      -> nothing
+  Old Chinese _ A New Reconstruction -- William H_ Bax 1037929 chars
+      -> nothing
+  Shang Gu Han Yu De Fu Yin Xi Tong Consonantal System no text layer
+  The ancient history of China, to the end of the Chóu 728985 chars
+      -> nothing
+  Trans of the Philol Soc - 2025 - Bonmann - Linguisti 102402 chars
+      -> nothing
+  Turkische und Mongolische Elemente im Neupersischen. 1877402 chars
+      -> nothing
+  Turkische und Mongolische Elemente im Neupersischen. 1877402 chars
+      -> nothing
+  Türkische und Mongolische Elemente im Neupersischen_ 1556105 chars
+      -> nothing
+  Türkische und Mongolische Elemente im Neupersischen_ no text layer
+
+A folded match is real. A skeleton match ignores vowels and will
+catch unrelated words; it is there so that a damaged OCR vowel
+cannot hide a genuine attestation.

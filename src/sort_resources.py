@@ -4,8 +4,9 @@ sort_resources.py
 =================
 Files my_resources/ into:
 
-    my_resources/lexicons/   source texts the extraction scripts parse
-    References/              scholarship that is cited but not parsed
+    my_resources/lexicons/           source texts the extraction scripts parse
+    References/                      works the paper or supplement cites
+    my_resources/unused_reference/   held, but cited by neither
 
 Written in Python rather than batch because the filenames carry non-ASCII
 characters (’ ı İ æ) that cmd handles badly, and because when a move fails
@@ -20,6 +21,7 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(
 RES  = os.path.join(ROOT, "my_resources")
 LEX  = os.path.join(RES, "lexicons")
 REFS = os.path.join(ROOT, "References")
+UNUSED = os.path.join(RES, "unused_reference")
 
 print()
 print("  root      : %s" % ROOT)
@@ -27,19 +29,19 @@ print("  resources : %s" % RES)
 print()
 if not os.path.isdir(RES):
     print("  [STOP] no my_resources folder there"); sys.exit(1)
-for d in (LEX, REFS):
+for d in (LEX, REFS, UNUSED):
     os.makedirs(d, exist_ok=True)
 
 PLAN = [
     ("Divanu-Lugatit-Turk-Dizini*.pdf",   LEX,  "Divanu-Lugatit-Turk-Dizini-2MB.pdf"),
     ("Codex cumanicus Bibliothec*.zip",   LEX,  "Codex_Cumanicus_Kuun_1880.zip"),
     ("Sir Gerard Clauson*.epub",          LEX,  "Clauson_1972_EDPT.epub"),
-    ("kitbalidrkllisna*.epub",            LEX,  "AbuHayyan_Kitab_al-Idrak.epub"),
+    ("kitbalidrkllisna*.epub",            UNUSED, "AbuHayyan_Kitab_al-Idrak.epub"),
     ("Kutadgu Bilig Ciltli*.pdf",         LEX,  "Kutadgu_Bilig_Kabalci_2008.pdf"),
-    ("KUTAGU BILIG*.epub",                LEX,  "Kutadgu_Bilig_TDV_2018.epub"),
-    ("Kutadgu Bilig Incelemesi*.pdf",     LEX,  "Kutadgu_Bilig_Incelemesi_Dilacar.pdf"),
+    ("KUTAGU BILIG*.epub",                UNUSED, "Kutadgu_Bilig_TDV_2018.epub"),
+    ("Kutadgu Bilig Incelemesi*.pdf",     UNUSED, "Kutadgu_Bilig_Incelemesi_Dilacar.pdf"),
     ("Codex Cumanicus",                   LEX,  "Codex_Cumanicus_facsimile"),
-    ("jesh-article-p121*.pdf",            REFS, "Esin_OSullivan_2025_Xiongnu_rulers_residences.pdf"),
+    ("jesh-article-p121*.pdf",            UNUSED, "Esin_OSullivan_2025_Xiongnu_rulers_residences.pdf"),
     ("Pulleyblank - Hun Language*.html",  REFS, "Pulleyblank_Hun_Language_TurkicWorld.html"),
     ("Pulleyblank - Hun Language - TurkicWorld_files", REFS,
                                                 "Pulleyblank_Hun_Language_TurkicWorld_files"),

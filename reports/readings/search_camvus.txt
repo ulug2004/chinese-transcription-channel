@@ -1,0 +1,116 @@
+Step 42.  Searching for: camvus
+   folded form   : camBus   (c=ç=č, s=ş=š, B=b=v=w=p, vowels bare)
+   skeleton      : cmBs   (consonants only)
+
+====================================================================
+LEXICONS
+====================================================================
+  cuman_lexicon.csv            2110 headwords
+      no match
+  dlt_lexicon.csv              6820 headwords
+      no match
+  irk_bitig_lexicon.csv        668 headwords
+      no match
+  lexicon_variants.csv         6 headwords
+      no match
+  xiongnu_titles_lexicon_reconstructed.csv 16 headwords
+      no match
+
+====================================================================
+BOOKS  (first run extracts and caches; later runs are fast)
+====================================================================
+  AbuHayyan_Kitab_al-Idrak.epub                        119608 chars
+      -> nothing
+  Clauson_1972_EDPT.epub                               5417527 chars
+      SKELETON compose        in: 62 DÍS. V. ADNsome external force' Kaş. ] 1:99 (itinu:r (altered in second hand to et-), itin-me:k (in MS. et-
+      SKELETON compose        in: DIS. V. DGD- 467 belts or saddle girths' San. 181r. 25: Kom. xiv 'buckle; ring on a horse”s bit” toğa CC7; Gr.
+      SKELETON compose        in: 474 combined (cu'ilatà wáhid) Kaş. I 437: xii(?) Tef. toksan: xiv Muh. tisüna dokuza:n Mel. 81, iş, toksa:n Ri
+      SKELETON compose        in: 670 MON. GS öğü:z, the black translucent stone is found in it; this precious stone is not found in any part of
+      SKELETON compose        in: DIS, ĞŞĞ with musk' (and rub them on the face) TT VII 23, 6: Xak. xi ol ko:yka: eckü: kogdi: “he united (garan
+      -> 0 folded, 5 skeleton matches (noisy, read them)
+  Divanu-Lugatit-Turk-Dizini-2MB.pdf                   498868 chars
+      -> nothing
+  Kutadgu_Bilig_Incelemesi_Dilacar.pdf                 566812 chars
+      -> nothing
+  Kutadgu_Bilig_Kabalci_2008.pdf                       2679000 chars
+      -> nothing
+  Kutadgu_Bilig_TDV_2018.epub                          110417 chars
+      -> nothing
+  Anthropos_1974_review_Doerfer_Lautgesetz_und_Zufall. 55885 chars
+      -> nothing
+  Baley_2025_late_han_v7_description.pdf               4833 chars
+      -> nothing
+  BaxterSagart_2014_by_radical_stroke.pdf              353601 chars
+      SKELETON C)*[m]ew(ʔ)-s  in: 384妙miàomjiewH(m- + -jiew C)*[m]ew(ʔ)-s marvelous1158b21030.10U+5999
+      -> 0 folded, 1 skeleton matches (noisy, read them)
+  Bonmann_2025_Xiongnu_Huns_Paleo_Siberian.pdf         102402 chars
+      -> nothing
+  Esin_OSullivan_2025_Xiongnu_rulers_residences.pdf    103026 chars
+      SKELETON camps          in: be hung from the gate of military camps (Guoyu: 121).
+      SKELETON camps          in: show that outuo designated military camps on the borders of Xiongnu land s.
+      SKELETON camps          in: The Shiji (ch. 11 0: 288 9) mentions such camps on the border with Donghu
+      SKELETON camps          in: Apparently, these military camps were located on traditional ways through the
+      SKELETON camps          in: this context, tun outuo evidently meant to strengthen existing border camps
+      SKELETON camps,         in: 11 These camps, according to the text, were located south of the Yuwu River but north of the
+      -> 0 folded, 11 skeleton matches (noisy, read them)
+  Lee_2023_Xiongnu_genetic_population_structure.pdf    99631 chars
+      -> nothing
+  Savelyev_Jeong_2020_early_nomads_eastern_steppe.pdf  64205 chars
+      -> nothing
+  StarLing_Yeniseian_swadesh.pdf                       270880 chars
+      -> nothing
+  Vovin_2000_Xiongnu_Yeniseian_Part1.pdf               42588 chars
+      -> nothing
+  Vovin_2003_Xiongnu_Yeniseian_Part2_vocabulary.pdf    29060 chars
+      -> nothing
+  Yoshida_Sogdian_names_in_Chinese.pdf                 14447 chars
+      -> nothing
+  A Grammar of Old Turkic (Handbook of Oriental Studie 1605380 chars
+      SKELETON compose        in: takšur- ‘to compose verses’ was probably also pronounced as taxšur-;
+      SKELETON combs.         in: tree cutter; a targakþï makes or sells combs. A tuzþï collects and/or sells
+      SKELETON camps          in: camps and on the road’. Then there are instances in the main clauses of
+      SKELETON camps          in: in deserted camps and on the road’: The adjective ölüg ‘dead’ is the
+      -> 0 folded, 4 skeleton matches (noisy, read them)
+  An Introduction to the History of the Turkic People  8206 chars
+      -> nothing
+  Irk Bitig_ The Book of Omens (Turcologica) (German E 113735 chars
+      -> nothing
+  Lexicon of Reconstructed Pronunciation_ In Early Mid 797504 chars
+      SKELETON compose,       in: compile, put together; compose, write.
+      -> 0 folded, 1 skeleton matches (noisy, read them)
+  Minimal Old Chinese and Later Han Chinese_ A Compani 894927 chars
+      SKELETON compos         in: [N] Following GSR 152, I consider the graph III a semantic compos it of kou 'mouth' and
+      -> 0 folded, 1 skeleton matches (noisy, read them)
+  Old Chinese _ A New Reconstruction -- William H_ Bax 1037929 chars
+      -> nothing
+  Shang Gu Han Yu De Fu Yin Xi Tong Consonantal System no text layer
+  The ancient history of China, to the end of the Chóu 728985 chars
+      SKELETON camps,         in: the Chinese world of thought into two hostile camps, had
+      SKELETON camps.         in: who are afterward found in opposite political camps.
+      -> 0 folded, 2 skeleton matches (noisy, read them)
+  Trans of the Philol Soc - 2025 - Bonmann - Linguisti 102402 chars
+      -> nothing
+  Turkische und Mongolische Elemente im Neupersischen. 1877402 chars
+      SKELETON camps          in: 337), 517 "The Liao ordos were camps for the imperialguard or shockarmy
+      SKELETON camps          in: les camps et les colonies ou vivaient les familles des militaires enrölees dans
+      SKELETON camps          in: en chefdu tcheou an du hien ... a la direction de ces camps (aus dem Vorwort
+      SKELETON *compes        in: Vu 193 jli^ *compes quaedam ferrea instar catenae, quali et sontium et
+      SKELETON compose        in: buyra nennt'. Cf. ferner PC 172 j^, 'espece de mets compose de päte allongee
+      SKELETON camps          in: trouver dans divers camps ennemis. Les uruq devenaient alors fat'\ Dies ist
+      -> 0 folded, 9 skeleton matches (noisy, read them)
+  Turkische und Mongolische Elemente im Neupersischen. 1877402 chars
+      SKELETON camps          in: 337), 517 "The Liao ordos were camps for the imperialguard or shockarmy
+      SKELETON camps          in: les camps et les colonies ou vivaient les familles des militaires enrölees dans
+      SKELETON camps          in: en chefdu tcheou an du hien ... a la direction de ces camps (aus dem Vorwort
+      SKELETON *compes        in: Vu 193 jli^ *compes quaedam ferrea instar catenae, quali et sontium et
+      SKELETON compose        in: buyra nennt'. Cf. ferner PC 172 j^, 'espece de mets compose de päte allongee
+      SKELETON camps          in: trouver dans divers camps ennemis. Les uruq devenaient alors fat'\ Dies ist
+      -> 0 folded, 9 skeleton matches (noisy, read them)
+  Türkische und Mongolische Elemente im Neupersischen_ 1556105 chars
+      SKELETON compas­        in: 1842 . .r.ZJ.. ( 1) Vu 1514 'misericors', ST 1530 yartaqti 'merciful, compas­
+      -> 0 folded, 1 skeleton matches (noisy, read them)
+  Türkische und Mongolische Elemente im Neupersischen_ no text layer
+
+A folded match is real. A skeleton match ignores vowels and will
+catch unrelated words; it is there so that a damaged OCR vowel
+cannot hide a genuine attestation.

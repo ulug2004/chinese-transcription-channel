@@ -19,9 +19,13 @@ for %%F in (
   "data/derived/old_turkic_echo.csv"
   "data/derived/dlt_lexicon.csv"
   "data/derived/ligeti_turkic_chinese_pairs.csv"
-  "my_notes.docx"
-  "my_notes2.docx"
 ) do git rm --cached -q %%F 2>nul
+
+rem --- any private note file, whatever its number ---------------
+for /f "delims=" %%F in ('git ls-files ^| findstr /i /c:"my_notes"') do (
+  git rm --cached -q "%%F" 2>nul
+  echo   [ok] untracked %%F
+)
 
 rem --- office lock files and other stray junk -------------------
 set "FOUND="

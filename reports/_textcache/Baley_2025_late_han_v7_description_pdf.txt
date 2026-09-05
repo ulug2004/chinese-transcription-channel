@@ -1,0 +1,75 @@
+Chinese Transcription of Buddhist Terms in the Late Hàn
+Dynasty – Dataset Description
+Julien Baley
+Department of East Asian Languages and Cultures, SOAS University of London, London, UK,
+julien.baley@gmail.com
+Abstract
+This document describes the content of the columns of the datasets, and offers a quick guide to the
+transcriptions’ locations.
+1 Columns
+This section describes the columns found in the spreadsheet. Most of them are taken from ( Hill, Nattier,
+Granger, & Kollmeier , 2020) and re-use the column name.
+• A: Translator: name of the translator; this is to be understood as a convenient shortcut for the
+whole translator team behind a specific text.
+• B: Location: location of the Chinese word in the corpus; see ”Location guide” section below for
+further information.
+• C: Sanskrit: the Sanskrit word that is understood to be closest to the Chinese transcription for
+the given passage, i.e. what would the source text word have been if the source text had been in
+Sanskrit.
+• D: Pāli: same as C but for Pāli.
+• E: Gāndhari: same as C but for Gāndhari.
+• F: Chinese: the Chinese word as found in the corpus.
+• G: Schuessler Late Hàn 2007/2009: Reconstructed Late Hàn pronunciation of the Chinese characters
+found in the word, based on ( Schuessler, 2007) and ( Schuessler, 2009).
+• H: Coblin’s Reconstruction: Reconstructed Late Hàn pronunciation of the Chinese characters found
+in the word, as found in ( Coblin, 1983).
+• I: Middle Chinese: Middle Chinese notation following the system found in ( Baxter, 1992).
+• J: Pinyin: Modern Standard Chinese pinyin (for illustration only).
+• K: Coblin 1983 Glossary number: for entries of the dataset that were present in ( Coblin, 1983), the
+entry number in the book.
+• L: Karashima 2010 Glossary Loc. (page): page of ( Karashima, 2010) that contains the Chinese
+word. In ”163.ii”, ii means it is the second entry on page 163.
+• M: Karashima (Krsh) location: in ( Karashima, 2010), the author references his other publications
+for further reading. His abbreviations are somewhat unintuitive, especially considering his prolicif
+academic output:
+– Krsh: ( Karashima, 1992) (”Krsh” appears without a date for this reference, but this is ex-
+plained in ( Karashima, 2010, xxxvi))
+– Krsh(1998): ( Karashima, 1998)
+– Krsh(2001): ( Karashima, 2001)
+1
+• N: English translation (Karashima): the English gloss and comment of the entry in ( Karashima,
+2010).
+• O: Nattier notes: Comments found in the ( Hill et al. , 2020) dataset.
+2 Location guide
+The Location column contains references to printed texts and manuscripts; those are described in detail
+in the main article. The section below provides a quick reference to the texts.
+• ”KA”: the Ānbān shǒuyì jīng 安般守意經 manuscript from the Kongō-ji 金剛寺 temple (KA =
+Kongō-ji Ānbān). Column numbers are quoted according to the Kongō-ji ’A’ manuscript.
+• ”TG”: the Twelve Gates manuscripts: Shí’èr mén jīng 十二門經, Jiě shí’èr mén jīng 解十二門經,
+and an anonymous commentary on the two previous texts. Column numbers are quoted according
+to the Kongō-ji ’A’ manuscript.
+• ”T”: Taishō Shinshū Daizōkyō 大正新脩大藏經 (Taishō Revised Tripitaka). A reference such as
+T13.238b23 indicates the 13 th work (commonly referred to as T13; it is found in vol.1, although we
+do not record this information in the dataset), page 238, middle section (’b’), column 23.
+References
+Baxter, W. H. (1992). A Handbook of Old Chinese Phonology . Berlin ; New York: De Gruyter Mouton.
+Coblin, W. S. (1983). A Handbook of Eastern Han Sound Glosses . Hong Kong: The Chinese University
+Press.
+Hill, N., Nattier, J., Granger, K., & Kollmeier, F. (2020). Chinese transcriptions of Indic terms in the
+translations of Ān Shìgāo 安世高 and Lokakṣema 支婁迦讖. Zenodo. Retrieved 2023-01-31, from
+https://zenodo.org/record/3757095 DOI: 10.5281/zenodo.3757095
+Karashima, S. (1992). The Textual Study of the Chinese Versions of the Saddharmapuṇḍarīkasūtra – in
+the Light of the Sanskrit and Tibetan Versions (No. 3). Tokyo: The Sankibo Press.
+Karashima, S. (1998). A glossary of Dharmarakṣa’s translation of the Lotus Sutra 正法華經詞典 (No. 1).
+Tokyo: The International Research Institute for Advanced Buddhology at Soka University.
+Karashima, S. (2001). A glossary of Kumārajīva’s translation of the Lotus sutra =: Miao fa lian hua
+jing ci dian (No. 4). Tokyo: The International Research Institute for Advanced Buddhology, Soka
+University.
+Karashima, S. (2010). A Glossary of Lokakṣema’s Translation of the Aṣṭasāhasrikā Prajñāpāramitā 道
+行般若經詞典 (No. XI). Tokyo: The International Research Institute for Advanced Buddhology at
+Soka University.
+Schuessler, A. (2007). ABC Etymological Dictionary of Old Chinese . Honolulu: University of Hawai’i
+Press.
+Schuessler, A. (2009). Minimal Old Chinese and later Han Chinese : a companion to Grammata serica
+recensa. Honolulu: University of Hawai’i Press.
+2

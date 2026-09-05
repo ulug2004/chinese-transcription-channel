@@ -29,8 +29,7 @@ data/derived/name_candidates.csv
 # ---------------------------------------------------------------
 # Private working material, not part of the released record
 # ---------------------------------------------------------------
-my_notes.docx
-my_notes2.docx
+my_notes*.docx
 
 # ---------------------------------------------------------------
 # Local noise

@@ -1,0 +1,1533 @@
+
+===PAGE 1===
+Published with license by Koninklijke Brill BV | doi:10.1163/15685209-12341640
+© Yury Esin and Rebecca O’Sullivan, 2025 | ISSN: 0022-4995 ( print) 1568-5209 ( online)
+This is an open access article distributed under the terms of the CC BY  4.0 license.
+Journal of the Economic and  
+Social History of the Orient 68 (2025) 121–160
+brill.com/jesh
+Xiongnu Rulers’ Residences in the Historical 
+Records of the Han Dynasty
+Yury Esin | ORCID: 0000-0002-4291-3313
+ARTEHI S,  UMR CNRS  6298, Université de Bourgogne—Franche Comté,  
+6 Boulevard Gabriel, Bat. Gabriel, 21000 Dijon, France
+yuri.esin@u-bourgogne.fr
+Rebecca O’Sullivan | ORCID: 0000-0001-9413-1746
+Department for Archaeology, Classics and Egyptology, University  
+of Liverpool, 12–14 Abercromby Square, L69 7W Z, Liverpool, UK
+Corresponding author
+rosulliv@liverpool.ac.uk
+Received 29 March 2024 | Accepted 28 September 2024 |  
+Published online 27 February 2025
+Abstract
+Han Dynasty chroniclers recorded valuable information about key settlements in the 
+Xiongnu Empire, specifically those where the residence of the Chanyu was locate d. 
+Though the first nomadic empir e’s political centre is linked to theories of early 
+urbanisation in the eastern stepp e, detailed examination of the historiographical 
+terminology is lackin g. We analyse the terminology to assess how settlements were 
+perceived through the lens of Han culture and language. Six Chinese and two Xiongnu 
+terms describing settlement form or function are identified and compared with form 
+and function of the settlements known from archaeological material s. Some of the 
+terms relate to traditional mobile structure s, whereas others attest to substantial 
+earthen structures of unquestionable political and ceremonial import influenced by 
+Han technologies. We also propose a solution to the problem of when and how these 
+technologies were introduced into nomadic society.
+===PAGE 2===
+122 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+Keywords
+Xiongnu – Han Dynasty – historiography – urbanism – palaces
+ Introduction
+Soon after 209 BC , the unification of various tribes and kingdoms in the east -
+ern Eurasian Steppe led to the formation of a large-scale, complex polit y, 
+often referred to as the “first nomadic empire” (Barfield 1981; Kradin 2001: 23; 
+2011: 77; Miller 2024). Known in the historical accounts of the Han Dynasty 
+(202 BC –AD  220) as the Xiongnu 匈奴, they went on to dominate the Inner 
+Asian steppes until AD  91. The growing power and status of the ruler and his 
+clan in the Inner Asian political arena allowed them to take control of the 
+main communication routes over a vast area and establish an extensive tribu-
+tary system and diplomatic networ k, supported by regular marriage alliances 
+(Di Cosmo 2004: 188–90; Chin 2010). All these changes affected the function -
+ing and appearance of the centres of power in the steppe (Honeychurch and 
+Amartuvshin 2006: 265–8).
+The main Xiongnu political centre has been the subject of much academic 
+debate, primarily focused on identifying its geographic location and estab -
+lishing whether there was one centre or severa l, whether they were mobile or 
+fixed places, and how the names recorded by other polities relate to archaeo -
+logical remains (e.g. Wang 1983; Tan 1996; Yü 2008:  384; De Crespigny 2007; 
+Bemmann 2011;  Loginov 2012;  Iderkhangai et al.  202 0). Another theme has 
+been to examine the political centre within the broader context of urbanism 
+in the eastern steppe, since Han Dynasty chroniclers began referring to certain 
+Xiongnu settlements as ‘cities’ (cheng 城) around the same time that urban 
+sites appear in the archaeolog y. Studies on this theme have mainly linked 
+materials on the Xiongnu to the emergence of urban centres among later poli-
+ties (Danilov 2004; Rogers et al. 2005; Waugh 2010; Honeychurch 2015; Kradin 
+2019; Vasyutin 2022), whereas the functions of these sites and their connec -
+tions to political authority in the Xiongnu Empire remain unclear.
+Han written records represent the main sources on Xiongnu political cen -
+tres; however, this information is yet to be the subject of focused analyse s. 
+Specifically, the Han sources use a variety of different names to refer to the 
+political centr e. Following the basic principles of the semiotic approach to 
+analyses of historical narratives (Lotman 1990), including analyses from both 
+synchronic and diachronic perspectives (Saussure 1959), we examine the ter -
+minology for ruler s’ residences in the Han records and then compare this to 
+===PAGE 3===
+123Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+the archaeological record attributed to the Xiongnu to verify the accuracy 
+of the text s. The synchronic aspect involves compiling the list of names used 
+by Han authors for Xiongnu settlements then analysing these comparatively 
+and contextually to elucidate the structur e, proper naming convention s, and 
+connection to the sociocultural and linguistic environment s, and to identify 
+different names for the same settlement s. The diachronic aspect involves 
+determining the date of each name according to information provided in the 
+texts or inference from general context and then comparing the chronologies 
+and meanings of different names with known Xiongnu history, geography, and 
+archaeology. This allows us to trace changes both in the names for rulers’ resi-
+dences and in the settlements’ attributes over time and across regions.
+1 Our Sources
+The primary source of information is the historical records of the Han 
+Empire: the Shiji 史記 (Records of the Grand Historian) compiled by Sima Qian 
+司馬遷 around 91 BC ; the Han Shu 漢書 (Book of Ha n) compiled by Ban Gu 
+班固 and others circa AD  82; and the Hou Han Shu  後漢書 (Book of the Later 
+Han) by Fan Ye 范曄 and others circa AD  445. In these texts, information about 
+settlements is provided only tangentially when the authors describe the ter -
+ritorial and political structure of the nomadic stat e, its customs, and the most 
+important military or political event s, especially Han campaigns against the 
+Xiongnu. The types of settlements are also limited to only those that are signifi-
+cant enough to Han politics, meaning they are typically the locations of rulers’ 
+residences, with some infrequent mentions of residences of the nobility and 
+border settlements. Thus, information about site location is usually incomplete, 
+and the localization of most residences remains conteste d. Generally, none of 
+these sources provide details about the settlemen t’s architectural appearance 
+or the materials and technologies used in its constructio n, and sources some-
+times contradict themselves. For example, the beginning of chapter 110 in the 
+Shiji claims that the Xiongnu “move from place to plac e, following water and 
+grass, [they] have no inner and outer city wall s, fixed places to liv e, nor prac-
+tices of cultivating field s” (逐水草遷徙，毋城郭常處耕田之業). However, the 
+same chapter of the Shiji later mentions two cities and further confirms their 
+existence in chapters 10 8, 11 1, and 11 2. Similar descriptions of the Xiongn u’s 
+lack of fixed settlements are given in the Yan Tie Lun  鹽鐵論 (Discussions 
+on salt and iro n) by Huan Kuan 桓寬, which includes details of discussions 
+at the Han court in 81 BC (ch. 52: 503–4): “the Xiongnu have no protection of 
+inner and outer city walls, nor fortification of ditches and moats” (匈奴無城廓 
+===PAGE 4===
+124 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+之守，溝池之固), instead they “use mountains and valleys as inner and outer 
+city walls” (因山谷為城郭); also, “the men do not carve ingenious items, and do 
+not have skills of constructing palace buildings and inner and outer city walls” 
+(男無刻鏤奇巧之事，宮室城郭之功). However, in the same way as the Shiji, 
+Chapter 44 of the Yan Tie Lun contradicts these statements by mentioning the 
+existence of a city. The situation is further confused by the simultaneous use of 
+several terms, names, and transcriptions to denote settlements.
+Archaeology presents another source of informatio n. More than 20 struc -
+turally diverse, walled sites, some with palatial remains (which is an obvious 
+indicator of a high-level political powe r), have been discovered in Mongoli a, 
+as well as Transbaikal, and Southern Siberia (Perlee 1957; Kyzlasov 2001; 2006; 
+Turbat 2013; Danilov and Zhavoronkova 1995; Danilov et al. 2016; 2018; Eregzen 
+2017; Botalov and Battulga 2017; Ankhbayar 2017; Egiimaa 2019;  Miller et al.  
+2019; Iderkhangai et al. 2020). Traditional mobile dwellings are also depicted 
+in Xiongnu art (Miniaev and Sakharovskaia 2007). In contrast to the historical 
+records, the archaeological data comprises settlements of all type s. Not only 
+do these have clear geographical locations, but they also provide evidence for 
+construction technologies, materials, and architectural features.
+Both forms of evidence offer information about Xiongnu ruler s’ residences 
+that the other lacks, and an interdisciplinary investigation of the two can pro-
+vide a deeper understanding of architecture and settlement pattern s, as well 
+as the history and culture of the Xiongnu. Some settlements mentioned in the 
+texts have even been identified with archaeological finds in recent years, such 
+as one on the Orkhon River that produced roof tiles marked with the title of 
+the Xiongnu ruler (Iderkhangai 2021). Similarly, a settlement with a Han-style 
+palace in Southern Siberia—previously argued to be the residence of Xiongnu 
+nobles Li Ling 李陵 (Evtyukhova 1946) or Xubu Dang 須卜當 (Zhou 1956), or 
+the impostor emperor Lu Fang 盧芳 (Kovalev 2011)—has been demonstrated 
+to be the northernmost residence of the Xiongnu ruler Zhizhi 郅支 for the 
+period 48–43 BC (Esin 2022a; Miller 2024: 158–159).
+2 Terms for the Chanyu’s Residence
+In the historical records of the Han Dynast y, several Chinese terms are used 
+simultaneously to designate the place where the Xiongnu rule r, the chanyu 
+單于, resided for long or short periods of tim e. These include quluo 區落, ying 
+營, ting 庭, cheng 城, du 都, and ci 祠. Three of these—ting, ci, and cheng—are 
+used in compound names in multiple variations (Table 1), which complicates 
+the pictur e. We use ‘residence’ as a general term for the variants discussed 
+below.
+===PAGE 5===
+125Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+2.1 Quluo
+The residence of the founder of the steppe empire—Modu Chanyu 冒頓單于 
+(r. 209–174 BC )—is called a quluo 區落 in chapter 23 of the Hou Han Sh u, 
+meaning ‘an encampmen t, a settlement [of non-Chinese tribe s]’ (Oshanin 
+1983–1984, 2: 1259). This implies traditional Xiongnu dwellings made of a light-
+weight willow frame covered with felt 1 that apparently lacked the folding 
+lattices of later yurts (Vainshtein 1976; Kryukov and Kurylev 2000). The name 
+was transcribed from the Xiongnu language into Chinese as qionglu 穹廬 and 
+qionglü 穹閭2 (Shiji, ch. 110: 2913; ch. 27: 1338). These dwellings can be identi -
+fied in Xiongnu art which provides more details of the design (see section 
+3.2). The term quluo appears in the account in a figurative comparison of 
+two first chanyu s’ residences, with the later one dating to the end of the 1st 
+century AD. This comparison was part of a commemorative text compiled by 
+Ban Gu in AD  89 after a successful Han military campaig n, during which the 
+chanyu’s residence north of the Gobi was captured and burn t: “thus, [they] 
+passed over Zhuoye [Mountain], crossed the Anhou [River], ascended Yanran 
+[Mountain], trampled the quluo of Mod u, burnt the Longting of Laoshang 
+(r. 1 74–161 BC )” (遂踰涿邪，跨安侯，乘燕然，躡冒頓之區落，焚老上之龍
+庭). On the way back into Han territor y, the commanders Dou Xian 竇憲 and 
+Geng Bing 耿秉 performed a sacrifice on a mountai n, engraving Ban Gu’s text 
+on a rock surface to commemorate their achievements (Hou Han Shu, ch. 23: 
+815). The rock inscription was recently discovered by Mongolian researchers 
+(Battulga et al. 2016) on the lower reaches of the Ongi River (Fig. 1.a). The text 
+1 Its general description is given in the Yan Tie Lun (ch. 52: 503): “The woven [twigs of the] wil-
+low serve as dwelling, the felt mats serve as roof” (織柳為室，旃廗為蓋).
+2 The meaning of the characters corresponds well to the object they denote: Qiong 穹 ‘vaulted’, 
+lu 廬 ‘hut’/lü 閭 ‘village’.
+Table 1 The frequencies of compound names for Xiongnu rulers’  
+residences in Han-Dynasty historical records
+===PAGE 6===
+126 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+on the rock, however, deviates slightly from that recorded in the Hou Han Shu 
+(Qimudedao’erji and Gao 2019) . According to the Han Shu  (ch. 94 b: 380 3), 
+Modu Chanyu’s place of residence was in the Yin Mountains 陰山.
+2.2 Ying
+In chapter 110 of the Shiji, the place where the chanyu lived is designated with 
+the word ying 營, meaning ‘camp’ (Oshanin 1983–1984, 2: 2361). The text states 
+that “in the mornin g, the chanyu comes out of camp [and] pays obeisance 
+to the rising su n, in the evening [he] pays obeisance to the moo n” (而單于朝
+出營，拜日之始生，夕拜月; Shiji, c h. 11 0: 289 2). The contexts in which this 
+word is used in Han records indicate that the camp was most likely military 
+in natur e. A variant of such a camp is described during the Han campaign 
+Figure 1 (1–3) Locations of the main Xiongnu rulers’ residences, (a) the rock 
+inscription composed by Ban Gu, (b) the Tsaraam cemetery, and probable 
+identification of several toponyms: Zhiju shui 郅居 水 for Selenga river; 
+Anhou he 安侯河 for Orkhon river; Yuwu shui 余吾水 for Ongi river; 
+Zhuoye shan 涿邪山 for Gurvan Saikhan mountains; Tianyan shan 窴顏
+山 / 闐顏山, Yanran shan 燕然山 for Khangai mountains. The seats of 
+the Han commanderies, Yunzhong 雲中, Dai 代, and Shanggu 上谷, are 
+also marked. Red – Shiji; Green – Han Shu; Blue – Hou Han Shu
+===PAGE 7===
+127Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+against the Xiongnu in 119 BC : “And then the General-in-chief ordered covered 
+war chariots to be placed in a ring to make a cam p” (於是大將軍令武剛車自
+環為營; Shiji, ch. 111: 2935). The same camp arrangement is described in the 
+Han Shu, when the Han commander Li Ling 李陵 established a military camp 
+in Xiongnu lands in the autumn of 99 BC by arranging large, wheeled carts to 
+form a cam p: “by means of large wheeled carts [he] made a cam p” (以大車
+爲營; Han Shu, ch. 54: 2452).
+The method of arranging carts to form a defensive structure was also utilised 
+by the Xiongnu. A noble’s residence protected by carts in front of the qionglu 
+is depicted on a vessel from an elite Xiongnu burial in the Tsaraam Valle y, 
+Transbaikal, dating to the end of the 1st century BC –1st century AD  (Fig. 2). The 
+excavators suggest that this was the grave of the chanyu or one of his close rela-
+tives (Miniaev and Sakharovskaia 2007: 50). Due to its geographical location in 
+the lands of the Dingling (Esin 2022a: 34–5, fig. 9), it could be the grave of the 
+King of Dingling (Dingling wang 丁靈王). The design on the vessel may show 
+either his own camp or that of the chanyu.
+It is possible that this type of camp used by some Han military leaders was 
+an adaptation of nomadic warfare tactic s, as seen in other aspects of military 
+operations against the Xiongnu (Di Cosmo 2002: 273). Unfortunately, the spa-
+tial and chronological usage of the word ying as a chany u’s residence is not 
+defined in the Shiji. The general context indicates that the term ying was used 
+to denote the ruler’s residence in the early period of Xiongnu history. However, 
+mobile types of residence undoubtedly existed throughout Xiongnu history to 
+accommodate the ruler and aristocracy during military campaigns and other 
+trips. The same practice was true for the Han.
+Figure 2 A birch bark box decorated with a depiction of the mobile residence of a high-
+ranking Xiongnu noble from Tsaraam cemetery. The biggest qionglu of the highest 
+status (d) sits at the centre of several smaller qionglu (c, e) and covered carts  
+(a, b, f) with flags (1). After Miniaev and Sakharovskaia (2007: fig. 11)
+===PAGE 8===
+128 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+2.3 Ting
+The place where the chanyu lived is most often designated with the character 
+ting 庭 in Han accounts, and the most typical compound name with this term 
+is Chanyu ting 單于庭 (Table 1). After the division of the Xiongnu into northern 
+and southern factions in the middle of the 1st century AD, further specifica -
+tion was briefly given with Bei ting  北庭 or alternatively Shuo ting  朔庭 for 
+the Northern Chanyu (Bei chanyu 北單于) and Nan ting 南庭 for the Southern 
+Chanyu (Nan chanyu 南單于). Sometimes ting is combined with the name of 
+the people themselves, Xiongnu ting 匈奴庭, or with the derogatory term lu 虜 
+([northern] barbarian) to create Lu ting 虜庭.
+According to the Shuowen jiezi  説文解字, a dictionary compiled in the 
+Eastern Han period (AD 2 5–220), the word ting refers to the inner part of a 
+palace (Shuowen jiezi zhu, 443). In the context of Han cultur e, ting is typically 
+translated as ‘court’, as in the case of Han ting 漢庭 to mean the ‘Han court’ 
+(Han Shu, ch. 94b: 3832; Taskin 1973: 66). Thus, the royal family and council -
+lors, constituting a ruling powe r, were designated via their association with 
+a palace by lexical semantic chang e. Howeve r, many publications translate 
+ting as ‘headquarters’ or ‘encampment’ for Xiongnu context s, which suggests 
+that a nomadic ruler’s residence was more likely to be impermanent and con-
+sist of a yurt or tent rather than a fixed palatial structure (Bichurin 1950: 49; 
+Kychanov 1997: 11–2). Even scholars who use ‘court’ assume that the structure 
+was “presumably, a mobile encampmen t” (De Crespigny 1984: 50 7). A simi -
+lar concept based on theories of the spatial politics of nomadic states in the 
+eastern steppe understands the nomadic court as a group of elites that moved 
+constantly from place to place (Honeychurch 2015: 311). Han writers evidently 
+viewed the Chanyu ting quite differently from how modern researchers do—
+although they used the word ting to demonstrate a settlemen t’s political 
+function, for them it was inextricably linked to a palace. But how does this fact 
+compare with descriptions of the geographical location and other contexts of 
+the word itself, as well as with archaeological data on Xiongnu settlements?
+Across different periods of Xiongnu histor y, the geographical location of 
+the ting varied greatly. Conversely, however, within these periods, the location 
+was stable. In the Shiji, there is one definite description that relates to the 2nd 
+century BC: “The court of the Chanyu is located opposite [i.e. to the north of] 
+the Dai and Yunzhong [commanderies]” (單于之庭直代、雲中; Shiji, ch. 110: 
+2891). Thus, the court is described as lying northeast of the Ordos Loop in the 
+Yellow River and south of the Gobi (Fig. 1.1). This place corresponds to the Yin 
+Mountains, in which Modu Chanyu lived and no doubt his successors con -
+tinued to live for several decade s, but which were lost to the Xiongnu during 
+===PAGE 9===
+129Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+the reign of Yizhixie Chanyu 伊稚斜單于 (r. 126–114 BC ) due to increased Han 
+military pressure (Han Shu, ch. 94b: 3803).
+From the end of the 2nd century BC, the chanyus’ residence is described as 
+lying to the north of the Gobi on the Orkhon River, which the Han Shu calls the 
+‘Anhou River’ (Anhou he 安侯河; Yu and Li 2014: 489). This relocation occurred 
+around 121–120 BC , after Zici King 自次王, formerly Zhao Xin 趙信, Marquis of 
+Xi 翕侯 in the Ha n, presented his plan to “reside north of the deser t” (j u mu 
+bei 居幕北) to Yizhixi e, assuming the region to be beyond the reach of Han 
+troops (Shiji, ch. 110: 2910), and Han records initially called the new residence 
+Zhao Xin cheng 趙信城. Details on the routes to the Orkhon ting and surround-
+ing toponyms have been preserved in several Han military accounts, especially 
+those headed by Li Guangli 李廣利 (Han Shu, ch. 94a) and Dou Xian (Hou Han 
+Shu, ch. 23). The remains of a chany u’s residence were recently discovered on 
+the Orkhon River at Kharganyn D örvölzhin (Iderkhangai et al. 2020); its loca-
+tion corresponds with the description of the Chanyu ting north of the Gobi 
+Desert (Fig. 1.2).
+After the division of the Xiongnu into northern and southern states in the 
+mid-1st century AD, the Orkhon ting remained in the hands of the northern fac-
+tion but was destroyed in AD  89–91 during hostilities with the Han. Meanwhile, 
+the Southern Chanyu established his ting near a bend of the Yellow Rive r. 
+According to the Hou Han Shu (ch. 89: 2943 and 2945), in AD  50 the Guangwu 
+Emperor (r. AD  25–57) ordered the ting be established 80 li from the western 
+part of the frontier (xibu sai 西部塞) in Wuyuan 五原 Commandery, potentially 
+on the same place as where the earlier residence of Huhanye 呼韓邪 Chanyu 
+(r. 58–31 BC ) had existed in 52–42 BC. Soon after, the Emperor gave permission 
+for the Southern Chanyu to live in Yunzhong Commander y, then, in AD  51, he 
+ordered the ting be moved to Meiji 美稷 County in Xihe 西河 Commandery 
+(Fig. 1.3). These residences of the Southern Chanyu, in addition to those of the 
+first chanyus prior to the move to the Orkhon, still await discovery.
+Though the Han sources suggest that the chanyu s’ residences ting were 
+more geospatially fixed and permanent than the modern theories argu e, this 
+does not preclude the use of traditional nomadic dwellings ther e. The Shiji 
+(ch. 110: 2913) records that the Wuwei Chanyu 烏維單于 (r. 114–105 BC ) hosted 
+formal diplomatic receptions in a qionglu. This, however, does not mean there 
+were no long-term constructions at the Wuwei Chanyu’s residence, as yurt-like 
+structures could have been used alongside other type s. An entry in the Hou 
+Han Shu for the summer of AD  47, for example, mentions that an official meet-
+ing of Xiongnu chiefs took place in the Chany u’s tent (Chanyu zhang 單于帳) 
+during a traditional seasonal gathering at the ting (ch. 89: 2942).
+===PAGE 10===
+130 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+Archaeological materials support the interpretation of ting as relating to 
+a palatial structur e, with Han-style palaces appearing in the steppe at a cer -
+tain point. The Orkhon River residence is a prime example of thi s, with two 
+main, south-facing palaces (Figs 3.a.1 and 3.a.2) and a large pond (Fig. 3.a.3) 
+in the central par t. These are enclosed by an earthen wall forming a rectan -
+gle with dimensions 250 ×210 m (Fig. 3.a.4) set with gates. The entire complex 
+has an earthen outer wall with a perimeter of appro x. 550×550 m (Fig. 3.a.5; 
+Iderkhangai et al. 2020; Iderkhangai 2023). In addition to the extant, long-term 
+structures, there is plentiful space to pitch yurts both within and without the 
+central enclosure. The Han influence on the structure is clearly demonstrated 
+by the construction materials used for the roof and inscriptions on i t. The 
+majority of finials of the roof tiles (wadang 瓦當) are decorated with moulding 
+in small seal script auspicious character s: 天子單于千萬歲與天毋極 “To the 
+Son of Heaven Chanyu—a thousand and ten thousand year s, together with 
+Heaven having no limit” (Fig. 3.b). Wadang of a later type (Fig. 3.c) without this 
+elevated title (“To the ruler—longevity and loyalty of officials” 主壽臣忠) were 
+discovered on the southern gate of the inner wall, which reflects the long-term 
+use of the residence and its alteration.
+Complicating the concept of ting as exclusively the chany u’s residence is 
+the fact that the same historical records use the term for residences of the 
+highest echelons of Xiongnu aristocracy. Chapter 110 of the Shiji includes refer-
+ences to the ting of the Xiongnu kings (wang ting 王庭), and chapter 94a of the 
+Han Shu mentions the ting of the Luli King of the Right (You luli ting 右谷蠡
+庭). The import of these residences is attested by palatial ruins at several sites 
+outside the Upper Orkho n, especially in Eastern Mongolia (Miller et al. 2019: 
+Figure 3 (a) Plan of the Kharganyn Dörvölzhin walled site on the Orkhon river, 1 and 2: 
+main palaces; 3: pond; 4: inner palace wall; 5: outer wall; 6: southern gate of the 
+inner palace wall. (b) The main type of a roof tile finial (diameter – 17.5 cm) with 
+moulded inscription with the title Tianzi Chanyu 天 子單于 ‘Son of Heaven 
+Chanyu’ , and (c) less common type with word zhu 主 ‘ruler’. After Iderkhangai 
+(2021; 2023)
+
+===PAGE 11===
+131Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+fig. 1) in the territory of the Empire’s most powerful kings of the Left. Similarly, 
+a heavily fortified residence (with palatial buildin g, inner (55 m side lengt h) 
+and outer (119 m side lengt h) earthen wall s, wooden wal l, ditc h, gate s) has 
+been found in the Lower Selenge Basin—Bayan Under (Danilov 2004: 37–8; 
+Bessonova et al. 2020)—which could have belonged to the King of Dingling.
+The earliest, narrowly-dated example of ting being used in relation to the  
+Xiongnu in the Shiji relates to an incident in 124 BC , when the court of  
+the Worthy King of the Right (You xian wang ting 右賢王庭) was seized (ch. 111: 
+2926), and slightly later in 119 BC when the Xiongnu were defeated: “After that, 
+the Xiongnu fled far awa y, and there were no king s’ courts left south of the 
+desert” (是後匈奴遠遁，而幕南無王庭; c h. 11 0: 291 1). The Hou Han Shu  also 
+uses ting for the Laoshang Chanyu’s residence (see section 3.1).
+2.4 Cheng
+The word cheng 城, which in Chinese characterises a city wall and a city 
+(Oshanin 1983–1984, 4: 11727; Schuessler 2007: 185; Falkenhausen 2008), is also 
+used by Han authors in relation to the Xiongn u, commonly in the Shiji and 
+Han Shu (Table 1). It is found in several names of Xiongnu settlements from the 
+second half of the 2nd century BC 3 and during the 1st century BC.
+The most thorough data on the architecture and layout of the cheng settle-
+ment is provided in chapter 70 of the Han Shu, specifically in the description 
+of the fortified residence of Zhizhi Chanyu 郅支單于 (r. 56–36 BC ) known as 
+Zhizhi cheng 郅支城 (Zhizhi’s City) or Chanyu cheng 單于城 (Chanyu’s City) 
+built on the Kangju 康居 Kingdom’s border circa 40 BC. The residence was tar-
+geted as part of a military campaign headed by Gan Yanshou 甘延壽 and Chen 
+Tang 陳湯 in 36 BC and was reportedly built on the orders of Zhizhi Chanyu 
+himself, so the layout and structure should have followed the main construction 
+principles in Xiongnu architecture, though it could have had more substantial 
+defensive structures than most walled sites within Xiongnu territory.
+The city was protected by an eart h/clay wall (tu cheng  土城), which was 
+most likely quadrangula r, since the Han army surrounded the city on four 
+sides and this would be similar to other fortified settlements discovered on 
+the Mongolian Platea u. Along the outer perimeter ran a reinforce d, wooden 
+3 The Shiji, ch. 93 also mentions Tuidangcheng 穨當城 in the context related to 200 BC . This 
+cheng was located somewhere in Xiongnu lands and is mentioned as the place where the 
+younger son of Xin, King of Han (Han Wang Xin 韓王信) was born. Unfortunately, excepting 
+the name there is no other information on this city. Considering the meaning of the charac-
+ter tui 穨 (ruined; dilapidated), this is possibly some old city that came under the control of 
+the Xiongnu.
+===PAGE 12===
+132 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+wall (chong mu cheng  重木城) surrounded by a ditch (qian 塹) and set with 
+city gates (cheng men 城門). Wooden towers (lou 樓) for archers to defend the 
+approach to the settlement were positioned outside the earth walls but behind 
+the wooden wall.
+When Han soldiers broke through the earth wal l, more than 100 defend -
+ers retreated to the rule r’s palace (danei 大內), which became the last line of 
+defence. In the Han Dynast y, danei was used as an alternative to gong 宮 to 
+denote a palac e, and it designated a complex of multiple buildings within a 
+self-contained wall. Danei in Zhizhi’s City probably referred to one or several 
+palace buildings within the city walls separated from the rest of the city by 
+another wall, as seen in Xiongnu settlements on the Orkhon and Abakan rivers.
+The Han Shu  records tha t, “ [he] sent the people to build the cit y, 500 
+persons worked every da y; therefor e, it was finished in two year s” (發民作
+城，日作五百人，二歲乃已; Han Shu, ch. 70: 3009). After the city fell to siege 
+in 36 BC , a total of 1,518 people were kille d, 145 armed combatants were cap -
+tured, and over 1,000 p eople surrendere d, suggesting that Zhizh i’s City was 
+built and defended by about 3,000 people. This number corresponds approx-
+imately to the reported size of the detachment that accompanied Zhizhi to 
+Kangju, which will have constituted the body of the city’s population and lived 
+within the earth wall near the danei. The Chanyu, his wive s, and concubines 
+would have numbered several dozen in total, and they would have lived in the 
+danei along with close relatives and servants.
+The structural components, materials and methods, construction time, and 
+size of the labour force described could be relevant to other Xiongnu walled 
+settlements in the 2nd–1st centuries BC . This is demonstrated both by archaeo-
+logical sites and by another part of the Han Shu describing the activities of the 
+Han defector Wei Lü 衞律 circa 84–81 BC , who designed several Xiongnu settle-
+ments surrounded with walls of rammed earth (zhu cheng 築城)—a typical 
+Han technology—and outfitted with wells ( jing 井), grain stores (cang gu 藏
+穀), and similar towers (lou 樓) to defend against attacks by the Ha n. Though 
+the Han Shu mentions that several hundred wells were dug, and several thou-
+sand trees cut down for timbe r, Wei L ü’s plans were not implemented fully 
+(Han Shu, ch. 94a: 3782). The main reasons for that were the Xiongn u’s fears 
+that they would not be able to defend the citie s, and that grain stores might 
+become easy loot for the Han army. Such a case occurred in 119 BC , when Han 
+troops captured Zhao Xin cheng, where large millet (su 粟) reserves were also 
+stored (Shiji, c h. 11 1: 293 5). There is no description of how they were stored 
+but probably in deep pits (da jiao 大窖) lined with felt (zhan mao 旃毛), one 
+of which was mentioned in the residence of Qiedihou Chanyu 且鞮侯單于 
+(r. 101–96 BC )—apparently, the former Zhao Xin cheng. The empty pit was used 
+===PAGE 13===
+133Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+to imprison the Han ambassador Su Wu 蘇武,4 who was suspected of involve-
+ment in the attempted kidnapping of the Chanyu’s mother and murder of Wei 
+Lü (Han Shu, ch. 54: 2462–3).
+Besides the architectur e, another important feature of Zhizh i’s City were 
+the five-colour flags (wucai fanzhi 五采幡織) hung from the walls that could 
+be seen from up to 3 li away (Han Sh u, c h. 70: 3013). The ‘turban’ radical in 
+fan 幡 and the ‘silk’ radical in zhi 織 indicate that fanzhi were long pieces of 
+silk cloth. Similar to the clan-emblems and titles stamped into eaves tiles at 
+Xiongnu settlements (Fig. 3.b), flags played an important function in commu -
+nication. Flying flags from the rule r’s or noble s’ residences is attested by the 
+image of a mobile residence carved on a vessel from an elite Xiongnu burial 
+in the Tsaraam Valle y. Lon g, narrow flags presumably made from cloth are 
+mounted on two covered carts (Fig. 3.a1 and b1), apparently flanking a guarded 
+gate for passage to the largest yurt in the camp (Fig. 3.d),5 with a smaller yurt 
+for servants or personal guards nearby (Fig. 3.c).
+The colours on Zhizh i’s flags are notabl e, since chapter 7 of the Shiji inter-
+prets the combination of five colours (wucai 五采)—traditionally black, red, 
+blue, whit e, and yellow—as the symbol of the Son of Heave n, i.e. the Han 
+emperor. Other records similarly record that the five-colour flag distinguished 
+the emperor’s chariot following Zhou ceremonial rites (Hou Han Shu, ch. 119). 
+In the concept of the five element s, the five primary colours each correspond 
+to part of the earthly worl d, and their combination symbolised power over 
+all lands. Not only did Zhizh i’s flags have the five colour s, but the tiles of his 
+residence on the Abakan River were stamped with the title Tianzi 天子 (Son of 
+Heaven) (Esin 2021; 2022a).
+2.4.1 Longcheng and the problem of the word long
+The most common compound name with a cheng component is Longcheng 
+蘢城/龍城, which appears five times in the Shiji and eight in the Han Shu, and 
+thus, deserves special attention. The first time it appears in a clearly dateable 
+context as a designation for an apparent centre of Xiongnu power which was 
+the target of an attack by the commander Wei Qing 衞青 (d. 106 BC ) launched 
+from Shanggu 上谷 Commandery in 129 BC (Shiji, chps 108 and 11 0–112). The 
+description of the cit y’s location corresponds to another chanyu s’ residence 
+4 A similar interpretation of this pit as a former grain store, but without explanation, was given 
+by Yan Shigu 顏師古 (AD 581–645) (Han Shu, ch. 54: 2463).
+5 The use of two flags at once coincides with a Chinese rule recorded in chapter 6 of the 
+5th–4th-century BC  Guoyu 國語 (Discourses of the Kingdom s) stipulating two flags (pei 斾) 
+be hung from the gate of military camps (Guoyu: 121).
+===PAGE 14===
+134 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+that are known to lie “opposite [i.e. to the north o f] the Dai and Yunzhon g” 
+and are designated elsewhere in the Shiji as ting (Fig. 1.1). The records of the 
+Han Shu also use Longcheng to denote the settlement once the Xiongnu had 
+relocated north of the desert (Fig. 1.2).
+Longcheng is written with two variants: Longcheng 蘢城 is used throughout 
+the Shiji, while Longcheng 龍城 is used throughout the Han Shu and the Yan Tie 
+Lun (ch. 44: 454). The characters for long in both cases are identical phoneti -
+cally, but the former has a ‘grass’ radical. There are two explanations for the 
+meaning of long.
+The first is that it may be the Chinese transcription of a Xiongnu name 
+for the settlement (De Groot 1921:  5 9; Pulleybank 1962:  24 1). According to 
+De Groot (1921: 59 and 16 6) it could originate from a place name in Central 
+Mongolia associated with the name of the Ongi Rive r. The main problems 
+with his hypothesis are that the original Longcheng was not located in Central 
+Mongolia, and that the name given for the Ongi in the Shiji (chps 110, 111, and 
+126) and the Han Shu  (ch. 94 a) is Yuwu shui 余吾水.6 An alternative ide a, 
+since the established reading of both characters for long in the Han Dynasty 
+was *roŋ, is that it was used to transcribe the Proto-Turkic *orun, meaning a 
+‘throne, headquarters’ (Dybo 2007: 84 and 11 4). Though it was previously sug -
+gested that the Xiongnu language was ‘Palaeo-Asiatic’ (Yeniseian) in origin 
+(Pulleyblank 1962; Vovin 2000; Vovin et al. 2016), recent studies in historical 
+linguistics and population genetics have effectively ruled this out and instead 
+supported the alternative hypothesis that most Xiongnu words reported in 
+Chinese records relate to Late Proto-Turkic, though some other words (almost 
+entirely terms for dairy products and some title s) were of Eastern Iranian ori -
+gin (Dybo 2007; Janhunen 2010: 294; Savelyev and Jeong 2020; Robbeets et al. 
+2020). Thus, long can be considered to refer specifically to a rule r’s residence 
+in the Xiongnu language.
+An alternative explanation is that long is a Han translation or adaptation of 
+a Xiongnu nam e, a theory first put forward by Cui Hao 崔浩 (AD 381–450) in 
+the 5th century AD  (Rosthorn 1923; Kyuner 1961: 74; Ishjamts 1994: 154; Vyatkin 
+et al.  200 2: 44 5; Batsuren 2013:  12 7). Since long 龍 means ‘dragon’ (Oshanin 
+1983–1984, 4: 1227 2), Longcheng would mean Dragon Cit y. While this inter -
+pretation is very popular among historians and archaeologist s, including 
+Iderkhangai (2021: 184), no data in Han records on cults and ideologies support 
+the idea that the dragon was significant to the Xiongnu. Among archaeological 
+materials, there are images of dragons and snakes on bronze belt buckles from 
+Xiongnu burials, but there are just as many other animals represented on other 
+6 This identification is supported both by the geographical context in the records and by the 
+ancient phonetic forms of the characters (see Baxter & Sagart 2014).
+===PAGE 15===
+135Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+buckles from the same burial grounds, as well as objects excavated from graves 
+belonging to the Xiongnu nobilit y, which does not support a predilection for 
+dragons (Kilunovskaia and Leus 2020) . Kyzlasov (2006: 14 5) also interprets 
+‘dragon’ from a Han cultural perspective as the empero r’s symbol, suggesting 
+that Longcheng means ‘the city of the emperor’, with ‘emperor’ here suggested 
+to refer to the chanyu.
+The most compelling argument against the dragon etymology of the cit y’s 
+name, however, is that the character used for long in the Shiji has a grass radi-
+cal, which gives it a completely different meanin g. Some translate it as ‘water 
+weed’ (Nienhauser 2010: note 174—‘Water-weed City’) or interpret it as lush 
+vegetation (Matsushita 2023:  6 5—‘Steppe Cit y’), while others assume the 
+character meant ‘a cover, to cover’, which could suggest a ‘burial mound’ or a 
+‘barrow’ (Vyatkin et al. 2002: 445). However, the fact that the name Longcheng 
+is used repeatedly despite changes in the city’s geographical location suggests 
+that the character may relate more to the function of the city than any of these 
+options. Another meaning is ‘to crowd, to gather’ (Oshanin 1983–1984, 4: 12293), 
+which fits more closely with the city’s function. This is particularly the case as 
+Longcheng is constantly emphasised in the historical records as the venue for 
+regular gatherings where the Xiongnu would conduct sacrifices and discuss 
+state matters. The Shiji describes three gatherings per year:
+歳正月，諸長小會單于 庭，祠。五月 ，大會蘢 城，祭其先、天地、  
+鬼神。秋，馬肥，大會蹛林，課校人畜計。
+On the first moon every yea r, there is a small gathering of chiefs at the 
+Chanyu ting, [they] perform sacrifice s. On the fifth moo n, there is a big 
+gathering at Longcheng, [they] make sacrifices to the ancestors, Heaven, 
+Earth, and the spirit s. In the autum n, when horses are fattene d, there is 
+a big gathering at Dailin, [they] count and verify the number of men and 
+livestock (Shiji, ch. 110: 2892).
+Thus, it is very likely that Longcheng denotes a walled city with a rule r’s resi-
+dence, and that the character was chosen to reproduce the phonetics of a 
+foreign word in the Han record s, while emphasising that big gatherings took 
+place there.
+The difference between Chanyu ting  and Longcheng in the given quota -
+tion is also noteworth y. In this cas e, Longcheng would be the bigger summer 
+residence (the fifth month corresponds approximately to June in the modern 
+calendar) and Chanyu ting—the smaller winter on e, which would be consis -
+tent with the traditional way of nomad lif e. A similar practic e, for exampl e, 
+is known among the Uyghurs and Kyrghyz during the Early Middle Age s: the 
+===PAGE 16===
+136 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+rulers’ smaller winter residences were located about 60 and 90 k m respec -
+tively from the cities where they spent the summer (de La Vaissiere 2024; Esin  
+2022b: 87).
+In the late 2nd century BC, the Han court seemed to consider Longcheng 
+to be the Xiongn u’s mai n, permanent political centr e, and Wei Qin g’s mili -
+tary force headed there in the autumn not the summe r. In another fragment 
+of the Shiji, however, the Xiongnu’s main political centre is called the “Court of 
+the Chanyu” (Chanyu zhi ting 單于之庭; Shiji, ch. 110: 2891). As different parts 
+of the Shiji were composed on the basis of different primary reports from dif -
+ferent periods, the long settlement may have been referred to as both ting and 
+cheng, reflecting different aspects of the settlement—specifically its political 
+function and for m. The most obvious example of this is the use of the name 
+Longting in chapter 23 of the Hou Han Shu (Table 1). In the earlier Han Shu (ch. 
+94a), both names can be interpreted as synonyms when describing political 
+events in the 80s BC, with one relative of the chanyu refusing to participate in 
+“gatherings at Chanyu ting” (hui Chanyu ting 會單于庭) and two others refusing 
+to participate in “gatherings at Longcheng” (hui Longcheng 會龍城), resulting in  
+the total cessation of visits to the ruler’s residence by both sets of nobles.
+In the Hou Han Shu  (ch. 8 9: 294 2), all annual gatherings in the AD  40s 
+were called “court gatherings” (ting hui 庭會), showing that ting completely 
+supplanted cheng to indicate the Xiongnu rule r’s headquarter s. All annual 
+gatherings at the residence of the Southern Chanyu by AD  93–94 were called 
+“long gatherings” (long hui 龍會; Hou Han Shu, ch. 89: 2954), showing a signifi-
+cant degree of equivalence between the Chinese word ting and the Xiongnu 
+word long. In this exampl e, long is clearly the Xiongn u’s own term for their 
+political centre. Both combinations are close to the traditional Han designa -
+tion for the “ [emperor’s] court gathering s” (chao hui  朝會), a term that was 
+also employed for the Xiongnu—“court gatherings of the Xiongn u” (chao hui 
+Xiongnu 朝會匈奴; Shiji, c h. 12 3: 316 8)—revealing similarities between long 
+and the Chinese word chao.
+The last mention of Longcheng appears in relation to the death of 
+Xulüquanqu Chanyu 虛閭權渠單于 (r. 68–60 BC ), who passed a few days after 
+the gathering in 60 BC. A short time later, a new ruler, Woyanqudi Chanyu 握衍
+朐鞮單于 (r. 60–58 BC ), was proclaimed at Longcheng (Han Shu, ch. 94a: 3789). 
+The wife (yanzhi 閼氏) of a previous chany u, Huyandi Chanyu 壺衍鞮單于 
+(r. 85–68 BC ), reportedly played a key role in the proclamation, and unlike the 
+noblemen of the right and left wings of state, she did not leave Longcheng after 
+the gathering, suggesting that Longcheng was her permanent residence where 
+she became adept at wielding influence in the Xiongnu court.
+Since the Shiji and Han Shu  localize Longcheng in different places and 
+even describe the Xiongnu as a nomadic people without cities or constant  
+===PAGE 17===
+137Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+residences (Shiji, ch. 110: 2879), some researchers have concluded that Long-
+cheng was not a fixed city but simply the name of a specific geographic 
+location (Wang 1983: 143). For example, it has been described as “Lung-Cheng, 
+‘The Dragon Sit e’, the nomadic tribal encampment and headquarters of the 
+Hsiung-nu shan-yu” (Ishjamts 1994: 154), or “the sacred site” (Di Cosmo 2002: 
+237; De Crespigny 2007: 171). Following the same idea other researchers avoid 
+Longcheng when discussing settlements of the Xiongnu (Kradin et al.  202 0; 
+Vasyutin 2022) . Thi s, howeve r, contradicts the meaning of the component 
+cheng which well corresponds to the walls around many archaeological sites 
+attributed to the Xiongnu including the residence of their rulers on the Orkhon 
+River, as well as the walls that are noted in detailed descriptions (see above) of 
+Zhizhi Chanyu’s last residence on the Talas River, captured by the Han troops 
+in 36 BC (Han Shu, ch. 70: 3013–4).
+2.5 Du
+When describing the Xiongnu civil war in the middle of the 1st century BC, 
+the Han Shu refers to the new political centres several times as du 都. During the 
+Han Dynasty, this designated the mai n, capital city where the residence of a 
+state’s ruler was locate d. The ancestor s’ temple where the ruler made sacri -
+fices was also an important part of a du. If there was no such temple, then the 
+city was called yi 邑 (Shuowen jiezi zh u, 283). The word ‘capital’ was used for 
+the residences of two competing chanyus after the Xiongnu split into sepa -
+rate factions:
+遂復都單于庭。
+After that [Huhanye] restored [his] capital to Chanyu ting  (Han Sh u, 
+ch. 94b: 3796).
+呼韓邪破，其兵走，郅支都單于庭。
+Huhanye was defeated, his warriors fled, Zhizhi relocated [his] capital to 
+Chanyu ting (Han Shu, ch. 94b: 3796).
+These examples show that Chanyu ting for the Han author denoted not one or 
+another elite group but rather a certain plac e, which was considered the per -
+manent, fixed political centre of the entire Xiongnu stat e. It can be identified 
+with the walled palace site of Kharganyn Dörvölzhin (Fig. 3).
+Around 49 BC , Zhizhi Chanyu left Chanyu ting  and soon founded a new 
+du in the Jiankun 堅昆 Kingdom (Han Shu, ch. 70: 3008; ch. 94b: 3800). As in 
+previous cases, use of du for this new political centre helped the Han authors 
+===PAGE 18===
+138 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+distinguish it from the residence on the Orkhon River, though in one case this 
+new residence of Zhizhi is also referred to as a ting (Han Shu, ch. 70: 3009). 
+The new du has now been identified with the remains of settlement and a 
+Han-style palace (Fig. 4) excavated on the Abakan River in Southern Siberia 
+(Esin 2022a).
+Figure 4 (a) Plan of the Abakan Palace based on documentation of the 
+excavated area in 1940–46 (see Evtyukhova 1947 and Kyzlasov 
+2001) and (b) reconstruction of the front view. Probable function 
+of the rooms: C1 – entrance hall; C2 – hall for receptions, 
+gatherings, and various ceremonies (X – place for the ruler); 
+A1, B1, D1, E1 – rooms for heating system operation, for servants 
+and guards; C4, D4 – rooms for cooking; D3 – private room 
+of the ruler.
+===PAGE 19===
+139Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+2.6 Ci
+One more designation, Longci 龍祠, is used in chapter 89 of the Hou Han Shu. 
+Here, the second character ci 祠, similar to the structure of the compound 
+names Longcheng and Longting, is a Chinese word. A meaning of ci is ‘to make 
+a sacrifice; a temple’ (Oshanin 1983–1984, 3: 5555); therefore, the word empha-
+sises collective sacrifices at the ruler’s residence (long) specifically.
+Ci has two possible semantic emphase s, the first of which is placed on the 
+physical place where sacrifices were conducte d. The majority of research -
+ers favour the interpretation that Longci denotes a specific plac e, thus some 
+translations of the Hou Han Shu  have even replaced Longci with Longcheng 
+to show continuity with the Shiji and Han Shu  (Taskin 1973: 70 and 8 2; De 
+Crespigny 1984: 271; 2007: 16). Alternatively, it has also been translated as ‘altar’ 
+(Taskin 1973: 98), which likewise places the emphasis on location rather than 
+action. An example supporting the emphasis on place reads:
+究掩其窟 穴，躡北追奔三千餘 里，遂破龍 祠，焚罽 幕，阬十 角， 
+梏閼氏。
+launched a surprise attack on their lai r, followed them nort h, chasing 
+across more than 3000 l i, completely destroyed Longci, burnt woolen 
+tents down, buried the 10 Horns 7 alive, [and] shackled the Yanzhi (Hou 
+Han Shu, ch. 89: 2967).
+This example relates to the Northern Xiongnu and describes the successful 
+campaign of the Han army and its allies to the north of the Gobi in AD  89. The 
+use of Longci here parallels the use of Longting in chapter 23 of the Hou Han 
+Shu when describing the same campaign, meaning that at least in this case the 
+two names were used interchangeably to denote the same place. The verb used 
+to describe what happened to Longci (contrasting to the woolen tent s) indi-
+cates the presence of permanent structure s. The capture of the Yanzhi here is 
+also noteworthy, since the Han Shu, describing events in 60 BC , mentioned the 
+Yanzhi living in Longcheng.
+Alternatively, another meaning of ci is that, as opposed to the physical place 
+where sacrifices were conducte d, it emphasises the act of making sacrifice s. 
+Examples include the below:
+7 ‘Horns’ refers to the 10 highest military leaders of the Xiongnu.
+===PAGE 20===
+140 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+匈奴俗，歲有三龍祠，常以正月、五月、九月戊日祭天神。
+According to Xiongnu custom s, three longci take place every yea r: con-
+stantly on the wu day of the firs t, fift h, and ninth moon s, [they] make 
+sacrifices to Heaven and the spirits (Hou Han Shu, ch. 89: 2944).
+已勑諸部嚴兵馬，訖九月龍祠，悉集河上。
+[I] have already ordered all divisions to prepare warriors and horses and 
+by the longci of the ninth moon gather in entirety at the river [Yellow 
+River] (Hou Han Shu, ch. 89: 2952).
+兩骨都侯頗覺其 意，會五月龍 祠，因白單 于，言薁鞬日逐夙來欲為  
+不善，若不誅，且亂國。
+Both guduhou fully perceived his intention s, and [when] gathering 
+for the longci of the fifth moo n, reported to the Chany u, saying that 
+Yujian rizhu had had long-standing improper desire s, and if [he] were 
+not executed, [he] would throw the nation into disorder (Hou Han Sh u,  
+ch. 89: 2942).
+The two first examples use longci in relation to events concerning the terri -
+tory of the southern Xiongn u; the second one is from the Southern Chany u’s 
+letter of AD  88 about preparations for the joint campaign with the Han against 
+the northern Xiongnu. The last event took place in AD  47 and the description 
+corresponds to the annual gatherings at Chanyu ting on the Orkhon Rive r. In 
+these examples, longci designates the main state ritual (‘long sacrifices’) involv-
+ing the chanyu as opposed to the chanyu’s residence itself.
+3 Dailin and outuo
+Besides Longcheng, another major gathering mentioned in the Shiji took 
+place at Dailin 蹛林, which was apparently located near the Chanyu s’ resi -
+dence in the Yin Mountain s. According to Fu Qian’s 服虔 (fl. late 2nd century 
+AD) commentary on an account of the same event in the Han Shu (ch. 94a), 
+it was held during the eighth moo n. Dailin has been suggested to be another 
+city (Psarras 2003: 12 5) and possibly even the winter capital of the Xiongnu 
+(Kyzlasov 2006: 14 5). However, it is more likely that Dailin was the name of 
+a geographical featur e, as dai 蹛 means ‘to surroun d, aroun d’ and lin 林  
+===PAGE 21===
+141Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+means ‘a forest’, making it highly likely that this was the name of a forest (Watson 
+1993: 137; Kychanov 1997: 33). This is supported by chapter 2 of the Liao Shi 遼史 
+(History of the Liao), which mentions that, many centuries after the disappear-
+ance of the Xiongnu Empir e, Emperor Taizu 太祖 of Liao (r. 907–926) “paid 
+obeisance to the Sun in Dailin” (拜日於蹛林) near the former residence of the 
+Xiongnu chanyus on the Orkhon River (Dmitriev 2009: 85). This toponym per-
+haps appears on the Orkhon after the Chanyu’s residence was relocated north 
+of the deser t, which also caused a change in the locations of the three main 
+state rituals.
+The same toponym i s, however, also seen in other areas (Malyavkin 1981: 
+145), indicating that this ritual was not exclusively the prerogative of the ruler 
+but also performed at the local level in different parts of the nomads’ lands. The 
+name Dailin in this case may originate from the ritual known as dai. In chap-
+ter 94a of the Han Shu, Yan Shigu comments that the Xianbei 鮮卑 continued 
+this autumn ritual, during which they rode horses rapidly three times around 
+a forest or a ritual object constructed from upright branches (Kyuner 1961: 310; 
+De Crespigny 1984: 508). A similar ritual is documented among the High Carts 
+(Gao che 高車), a people descended from the Dinglin g. In the autum n, when 
+the horses became fat, the High Carts rode their horses several times as a group 
+around an altar on which many willow branches were placed vertically (Bei 
+Shi, ch. 98: 3271).8
+Researchers have typically viewed the autumn gatherings as an event related 
+to taxation and therefore significant to the Xiongnu economy (Kychanov 1997: 
+33; Kyzlasov 2006: 14 5). However, well-fed, healthy horses and skilled riders 
+will have been key to successful military campaign s, so such an event was a 
+way for the chanyu, as well as other, lower-ranking chiefs of the polity, to assess 
+available forces, as suggested by the Southern Chanyu’s letter of AD  88 quoted 
+above in which he orders horses and warriors from all parts of his domain to 
+attend the autumn sacrifice in preparation for a military campaign (Hou Han 
+Shu, ch. 89: 2952).9
+8 The description in the Bei Shi also mentions several other elements of the High Carts autumn 
+ritual: the sacrifice of a black ram and white curdled mil k, the lighting of a fir e, the drawing 
+of swords, and incantations for purification by a female shaman.
+9 A similar ritual with a visible military aspect involving arme d, combat-age men and their 
+horses is still practised among herders in eastern Tibe t. One of the authors observed this 
+practice in August 2018 near Saikang Monastery on the upper reaches of the Yangtze River 
+(Esin 2020: Fig. 1). Though the ritual has undoubtedly received substantial Buddhist influ -
+ences over the centuries, the format bears similarities to the earlier records. At sunrise, riders 
+from the district were gathered by their chiefs close to a river on a large flat area near the 
+sacred mountain. Horses were first arranged in several lines for ritual purificatio n, which  
+===PAGE 22===
+142 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+Another word encountered throughout the Shiji and Han Shu  deserves 
+attention—outuo 甌脫 (also written 區脫 in the Han Shu).10 Similar to long, 
+it is a Chinese transcription of a word from the Xiongnu languag e. Early post- 
+Han commentators considered it as a term and suggested it means an ‘earthen 
+room’, ‘earth pit’, or ‘place of the border guard’ (Taskin 1968: 131; Kychanov 1997: 
+21; Chen 2016: 5–7). Some modern researchers have linked and continue to link 
+it to the Turkic word ordu, suggesting it was a military camp and headquar -
+ters of the chanyu (De Groot 1921: 52; Taskin 1968: 132; Kradin et al. 2020: 44; 
+Vasyutin 2022: 59). However, the Han Shu (ch. 94a: 3783) states that outuo was 
+governed by a special king, the Outuo Wang 甌脫王, and contexts in the records 
+show that outuo designated military camps on the borders of Xiongnu land s. 
+The Shiji (ch. 11 0: 288 9) mentions such camps on the border with Donghu 
+東胡 in the late 3rd century BC  indicating that both nations had their own 
+outuo (“each [of them] lived on their own edge [of abandoned land between 
+Xiongnu and Dongh u, where nobody had settle d] making outuo” 各居其邊
+為甌脫), while the Han Shu—on the border with Han in the 1st century BC. 
+Apparently, these military camps were located on traditional ways through the 
+desert and served for defense from enemy attacks, control over the movement 
+of tribes and livestock across the border (Han Shu, ch. 94a: 3788) and some -
+times for carrying out frontier raids (Han Shu, ch. 54: 2465).
+In 80 BC , during a rai d, Outuo Wang was capture d. Fearing that he would 
+show the Han army the way through the Gob i, the Xiongnu retreated from 
+the southern border and “sent people to encamp at outuo.11 The next yea r, 
+[they] again sent 9,000 horsemen to encamp at Shouxiangcheng12 for defence 
+against the Ha n” (發人民屯甌脫。明年，復遣九千騎屯受降城以備漢; Han 
+Shu, ch. 94a: 3783). The use of the Chinese word tun 屯, which means to set 
+up a military cam p, reinforces the meaning of outuo as a military cam p. In 
+this context, tun outuo evidently meant to strengthen existing border camps 
+with additional warriors. As with the camp near Shouxiangchen g, the records 
+  involved monks reading hymns and splashing the horses with liquid while various plants 
+were burnt on a special alta r. The ritual culminated with multiple collective horse rides 
+from east to west then back again around the altar (i.e. along the course of the Sun). This 
+tradition may have been transmitted to eastern Tibet via a branch of the Xianbei—the 
+Tuyuhun 吐谷渾—that established a powerful state in northern Qinghai in the early 4th 
+century AD  by subjugating local Qiang 羌 people (de La Vaissière 2024).
+10  Ou 甌 ‘bowl’/區 ‘area’, tuo 脫 ‘take away’.
+11  These camps, according to the text, were located south of the Yuwu River but north of the 
+Han fortresses, i.e. somewhere in the area of the modern Gurvan Saikhan Mountains.
+12  ‘Town for receiving surrender’—a Han fortress outside of the fortifications of the north -
+ern border.
+===PAGE 23===
+143Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+contain references to similar Xiongnu border camps but do not use the word 
+outuo. For example, in 68 BC , “to protect against the Ha n, the Xiongnu again 
+dispatched two encampments of 1 0,000 horsemen each” (又發兩屯各萬騎以
+備漢; Han Shu, ch. 94a: 3788). Both encampments were led not by the Outuo 
+Wang but by other high-ranking military leaders.
+The last use of outuo in the records dates to 43 BC (Han Shu, ch. 94b: 3801), 
+but in Han terminology associated with the Xiongnu other similar transcrip -
+tions can be found. In 7 BC one such word appears slightly modified as part of 
+a noble title Wen Outu Wang 溫偶駼王 (Han Shu, ch. 94b: 3810). This latter title 
+designated a noble living on the Xiongn u’s southern border north of Zhangye 
+commandery 张掖郡. Even later, descriptions of military events in AD  73–76 
+mention the title Wen (Yu/Ou)du Wang 溫禺犢王 (Hou Han Shu, ch. 89: 2949),13 
+which is a clear equivalent to the previous titl e. This title appears in relation 
+to the southern borde r, with Wen (Yu/Ou)du Wang  described as repelling 
+enemy attacks with an army of several thousand north of Zhangye near the 
+Zhuoye Mountains 涿邪山 (now Gurvan Saikhan Mountains). Wen (Yu/Ou)du 
+Wang is further recorded at the same area as fighting the southern Xiongnu in  
+AD  85 (Hou Han Sh u, ch. 89: 2950) and the army of Dou Xian and Geng Bing  
+in AD  89 (Hou Han Shu, ch. 23: 815). These later titles are all similar in structure 
+and phonetic form, but most importantly they are all associated with the same 
+border area and function. A similar title with a different third character for two 
+military leaders of the Left and Right (which matches well with the meaning of 
+ou 偶/禺) existed around the same time among the southern Xiongnu, namely 
+Wen (Yu/Ou)di 溫禺鞮 (Hou Han Shu, ch. 89: 2944; Miller 2015: 161).
+Analysis in synchronic perspective suggests that the title wang 王 was not 
+part of the original Xiongnu title but was added for the Han people to clarify the 
+individual’s high status (Psarras 2003: 127). The original title will have consisted 
+of two components: (1) wen 溫 + (2) outuo/outu/oudu. Since we know that the 
+second component referred to military units on the borde r, we can assume 
+that wen indicated the role of the title bearer in their managin g. His authority 
+was similar to a Han wang, which caused wen to be dropped in some passages 
+of the Han records to make Outuo Wang. Analysis in diachronic perspective 
+shows changes in the transcription of the Xiongnu term for military camp s: 
+甌脫/區脫 (late 3 rd–middle 1st centuries BC) > 偶駼 (late 1st century BC) > 
+禺犢 and 禺鞮 (late 1st century AD).
+13  The second character in the title has two alternative reading s: traditionally in the litera -
+ture on the Xiongnu it was considered as yu 禺 (district) but it also can be read as ou 禺, 
+a variant of ou 偶 (one of a pai r) (Schuessler 2007: 407). The next character du 犢 (calf) 
+parallels with the tu 駼 (mythical horse) in the earlier title.
+===PAGE 24===
+144 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+The number of riders mentioned in the records gives some indication as 
+to the maximum size of these camp s. They could have been structured into 
+discrete groups of traditional mobile dwelling s. If post-Han commentators 
+are correc t, then such camps had earthen structure s, feasibly earthworks 
+and ditche s, around their perimeter s. From the end of the 2nd century BC, 
+when the Xiongnu resettled north of the desert and before the collapse of the 
+Northern Xiongnu, border camps were permanently located south of the Ongi 
+River near the Gurvan Saikhan Mountains on a key route from the Ordos Loop 
+of the Yellow River through the Gobi to Khangai. This area was adjacent to the 
+Han fortresses outside the fortified line, which were used from 104–68 BC and 
+the remains of which have already been discovered (Shiji, ch. 110: 2915; Han 
+Shu, ch. 94a: 3787; Amartüvshin et al. 2011; Kovalev et al. 2011).
+Modern linguistic analysis has shown that it is phonetically impossible 
+to reduce outuo to ordu—the word is more comparable to the Proto-Turkic 
+*кoλ-ut (singular *кoλ) meaning ‘encampments’ (Dybo 2007:  91 and 11 4). 
+What is clear is that outuo was distinct in meaning compared to long, giving 
+some idea of the system for designating settlement hierarchy in the Xiongnu 
+language.
+4 Discussion
+The terms characterizing Xiongnu settlements can be divided into three 
+groups based on the features they highligh t. Those in the first group describe 
+architectural features or components of a settlement (Table 2.A). Among them, 
+qionglu is probably a transcription of a non-Chinese word14 for the traditional, 
+domed dwellings made of willow branches and felt of the nomad s. In the Hou 
+Han Sh u, howeve r, this Xiongnu word was replaced by the Chinese words 
+zhang (tent) and jimu 罽幕 (woollen tent), which were used as synonyms. The  
+Xiongnu ruler also used long-term palatial buildings—danei—alongside  
+the traditional nomadic dwellings. The existence of such building s, as well as 
+earthen and wooden walls, gates and ditches has been confirmed by archaeo -
+logical excavations of a number of Xiongnu settlements. Wells and storage pits 
+are not yet among the studied constructions but should be the subject of a 
+search in the archaeological record at walled site s. Table 2 provides the most 
+complete list of features according to the written source s, but of course not 
+every Xiongnu walled site necessarily had all these elements. In addition, some 
+14  On the possible eastern Iranian origin of qionglu, see Bailey (1985: 29).
+===PAGE 25===
+145Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+features present in certain sites may not have been mentioned by the Han 
+dynastic records, such as the pond (perhaps accompanied by a small par k) at 
+Kharganyn Dörvölzhin and Gua Dov sites.
+Terms for designating settlements form two group s. One includes names 
+associated with the form and structural elements of settlements (Table 2.B). 
+Among them are cheng, indicating the presence of long-term defensive walls, 
+quluo—as a name for a traditional Xiongnu settlemen t, and ying—camp. All 
+of them evidently included dwellings in the form of felt tents, but cheng could 
+also have long-term buildings such as palace s. Ying undoubtedly had some 
+kind of protective fence, for which, for example, carts placed in a circle might 
+be used. It is difficult to say what was meant by quluo. One possibility is that 
+it was a settlement similar to ying, but without an external fence. For Xiongnu 
+military camps, the records also used a term from their own language—outuo. 
+In the Shiji this latter is undoubtedly a term associated with the form of settle-
+ment. In the Han Shu, however, it seems that this name is rather applied not 
+to any military camp s, but to camps in one specific locatio n; that is to sa y, it 
+sometimes gets the value of a place name for the Han authors. If the characters 
+for this transcription were selected considering the correspondence of their 
+meaning to certain aspects of the designated object (as in many other case s), 
+then the earliest ou 甌 (bowl) most likely indicates the round shape of such a 
+camp, which, therefore, is similar to ying.
+Another group is formed by terms indicating the special statu s/function of 
+settlements (Table 2.C). Among them is the Xiongnu’s own name for the ruler’s 
+settlement—long. Han authors perceived this latter more as a place nam e, so 
+Table 2 Summary and classification of terms describing Xiongnu settlements in Han-
+Dynasty historical records. Black: Chinese words; Green: Chinese transcriptions of 
+Xiongnu words
+===PAGE 26===
+146 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+they constantly combined it with some Chinese terms into compound names. 
+It has two Chinese equivalent s: (a) ting ‘court’, indicating the location of the 
+ruling family along with close associates; (b) du ‘capital’, denoting the political, 
+economic, religious centre of the countr y. Another term used was ci, which 
+specifically referred to the ritual function of this political centre.
+The most common words for the ruler’s residence—ting, cheng, and ci—are 
+usually part of a compound nam e. At some poin t, all three words are com -
+bined with the transcribed Xiongnu word long, forming Longting, Longcheng, 
+and Longci. The repeated use of long suggests that these three names may 
+designate the same settlemen t. In genera l, compound names for the ruler s’ 
+residences have two parts: 1) a term for the settlement form or function (cheng, 
+ting, ci); and 2) an individual qualifier to specify the particular settlement 
+from the Han point of view. This individual qualifier came from four potential 
+themes: 1) the Xiongnu term for a ruler’s residence; 2) the title of the Xiongnu 
+ruler; 3) geographic or ethnic characteristic s; and 4) the name of the founder 
+or owner (Fig. 5). As a functional term, long for the Xiongnu was as applicable 
+to traditional mobile settlements with felt dwellings as to sites with earthen 
+walls and palace s. For the Ha n, however, there were some restrictions in the 
+Figure 5 Schema of compound name construction for Xiongnu 
+rulers’ residences in Han-Dynasty historical records: the 
+central triangle shows common terms for the settlement 
+form or function and the circles show words used to 
+specify and contextualise specific places. Grey: Chinese 
+words; Green: Chinese transcriptions of Xiongnu words; 
+Bold: typical combinations. The frequencies are indicated 
+in red (Shiji), green (Han Shu), and blue (Hou Han Shu), 
+see also Table 1
+
+===PAGE 27===
+147Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+use of terms. In particular, for the Han cultural milieu, the concept of ting was 
+inseparable from a palace. Similarly, du and ci also had associations with long- 
+term structures.
+All six Chinese terms represent an interpretation of Xiongnu settlements 
+from the perspective of Han language and cultur e. There are several possible 
+reasons that different words were use d, including the existence of different 
+settlement types, changes to settlement structure over tim e, and the individ -
+ual observations or preferences of different compilers and different authors in 
+different periods, whose primary reports were later used to compile the Han 
+Dynasty records.
+Differences in the meanings of the terms over time (Fig. 6)  could reflect 
+chronological changes to the appearance of the settlement s. Thu s, in his 
+memorial text on the military campaign against the Xiongn u, Ban Gu calls 
+the residence of Modu a quluo, but refers to the residence of his successor  
+Laoshang as a ting, creating a chronological distinction between the resi -
+dences (Hou Han Shu, ch. 23). These may reflect information available to Ban 
+Gu from Western Han period documents, and, if so, reflect real changes in the 
+arrangement of the chany u’s residenc e, with palatial structures appearin g. 
+A few decades after the reign of Laoshan g, by 124 BC , the upper echelons of 
+Xiongnu aristocracy also had palace structures that were referred to in the Han 
+records as ting.
+In reference to narrowly dated event s, the word cheng appears later than 
+ting, being used for the first time for the proper name Longcheng around 134 BC 
+when plans for a military campaign against the Xiongnu were being discussed 
+at the Han court. However, since Longcheng was perceived to be the Xiongnu’s 
+permanent political centre, the settlement had presumably already existed for 
+more than one decade.
+Ci is the latest term to be used for a chany u’s residence, appearing in Han 
+sources only during the Eastern Ha n. Use of ci emphasises the residenc e’s 
+Figure 6 Chronological usage of the Chinese terms for Xiongnu rulers’ 
+residences in Han-Dynasty historical records.
+===PAGE 28===
+148 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+ceremonial value and may even reflect the emergence of special temples at 
+the ruler’s residence. Such temples, probably constructed in the late years BC – 
+early years AD, have recently been identified at the site of Talyn Gurvan  
+Kherem near the chany u’s residence at Kharganyn D örvölzhin (Ochir et al.  
+2020). However, it is most likely that the use of ci arose through increased 
+exposure of Han culture to activities and ceremonies held at the Southern 
+Chanyu’s residence in Xihe Commander y. Unfortunately, the remains of this 
+residence have not yet been discovered.
+The question of how сheng-type settlements appeared in the Xiongnu realm 
+deserves special attentio n. In particula r, a new residence built for Yizhixie 
+Chanyu is connected with the defector Zhao Xi n, who became the Chany u’s 
+closest adviser, brother-in-law, and a noble of high rank after he defected back 
+to the Xiongnu from the Han Dynasty in 123 BC . On his retur n, he brought a 
+detachment of 800 peopl e, who potentially participated in the construction 
+of what the Han initially referred to as Zhao Xin cheng (Shiji, ch. 1 10: 291 0), 
+distinguishable from the previous residence south of the Gob i, which circa 
+140–120 BC was known as Longcheng at the Han cour t. The name Zhao Xin 
+cheng also appears in the Han Shu in connection with military events in 90 BC 
+(Han Shu, ch. 94a: 3778), though Zhao Xin had already died around 108 BC . It 
+is clear from the description that the city was located on the west bank of the 
+Orkhon River and was at that time the residence of Hulugu Chanyu 狐鹿姑
+單于 (r. 96–85 BC ).
+At the end of the 80s BC, under the leadership of the former Han ambas -
+sador Wei Lü and in collaboration with ‘Qin people’ (Qin ren 秦人)15 to defend 
+against Han troop s, the construction of several cheng began16 (Han Shu, ch. 
+94a: 3782). Apparently, the same ‘Qin people’ who would defend these settle -
+ments were also involved in their construction. It is possible that in the 90s or 
+80s BC Wei Lü reconstructed as well the former Zhao Xin cheng, decorating it 
+anew with roof tiles stamped with the title ‘Son of Heaven Chany u’ (Fig. 3). 
+This title is never used in the Shiji, appearing for the first time in the Han Shu 
+(ch. 94a: 3751). In one of his letters to the Empero r, Hulugu uses a similar but 
+alternative structure, referring to himself as the ‘Beloved Son of Heaven’ (Tian 
+zhi jiao zi 天之驕子; Han Shu, ch. 94a: 3780). This suggests that the title was in 
+use during Hulugu’s reign and went out of use before 31 BC , when the chanyus 
+started to style themselves as ‘Divine Chanyu’ (Ruodi chanyu 若鞮單于) (for 
+15  This was a Xiongnu term for the Chinese who lived among them (after the Qin dynasty) 
+(Taskin 1973: 138).
+16  These settlements have not yet been identifie d. It is possible that these could include 
+several walled sites on the upper reaches of the Ongi River (Miiagashev et al. 2021).
+===PAGE 29===
+149Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+the translation, see Pulleybank 1966: 19; Dybo 2007: 112). For now, however, it 
+cannot be completely ruled out that the title ‘Son of Heaven Chanyu’ may have 
+already appeared on the wadang during the construction of the new residence 
+in the reign of Yizhixi e, but was not mentioned in the Shiji for political rea -
+sons. Wadang from the inner wal l’s southern gate with a neutral designation 
+apparently appeared after Huhanye Chanyu returned to the Orkhon Valley at 
+the very end of the 40s BC . Since he recognised his lesser status relative to the 
+Han Emperor, it was impossible for him to use the same title. Also, after a long 
+political crisis among the Xiongnu, he was in dire need of the loyalty of chiefs 
+from the northern and western parts of his empire previously supported his 
+rival Zhizhi which well corresponds to this wadang’s last characters.
+Since people from the Han Empire played a key role in building later cities 
+with walls in Xiongnu land s, they were probably also involved in the appear -
+ance of the first Xiongnu city south of the Gob i, Longcheng. One possible 
+scenario is that the courtiers who accompanied Han princesses dispatched to 
+the chanyu’s residence as part of the heqin 和親 marriage strategy were poten-
+tially involved, since a similar situation is known for a herding society close to 
+the Xiongnu in Wusun 烏孫 Kingdom. After the arrival of the first Han prin -
+cess and her several hundred-strong entourage circa 105 BC , the first know n, 
+Han-style palace was built ther e: “The princes s, on reaching their [Wusun] 
+kingdom, herself constructed palace buildings to resid e, once or twice a year 
+together with the Kunmo17 held a gathering, set out a banque t, and bestowed 
+the king and noblemen of the Left and Right with valuables and sil k” (公主至
+其國，自治宮室居，歲時一再與昆莫會，置酒飲食，以幣帛賜王左右貴人; 
+Han Shu, ch. 96b: 3903). In fac t, her palace became the location for at least 
+one seasonal gathering of the Kunm o’s court per yea r, similar to those held 
+by the chanyu. As we know from the same sourc e, in her deep longing for her 
+homeland, the princess composed a song in which she mentions her life in 
+a qionglu,18 but thi s, undoubtedly, was not her permanent dwellin g. Several 
+decades after the palace appeared, the same residence came to be called Chigu 
+cheng 赤谷城 ‘City of the Red Valley’ (Han Shu, ch. 96b: 3906–7).
+The first Han princess sent to the Xiongnu in 198 BC had higher status  
+than the one sent later to the Wusu n: she was introduced to the Xiongnu  
+as the eldest daughter of the empero r’s main wife. The emperor and his court 
+had great hopes for her marriage and long-term plans to subjugate the Xiongnu 
+through family ties and generous gifts (Shiji, ch. 99: 2719). Her retinue had to 
+17  Transcription of the title of the Wusun’s king.
+18  “Qionglu became [my] home, felt became walls!” (穹廬為室兮旃為牆; Han Shu, ch. 96b: 
+3903).
+===PAGE 30===
+150 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+constructed a palace for her at the chany u’s residence too, though in the Shiji 
+there is no such detailed information about princess for the Xiongnu as in the 
+case of the Wusun in the Han Shu. During the reign of Laoshan g, this palace 
+may have become the summer residence of the Chanyu himself and was given 
+the name Longting in Han record s. Soon afte r, the settlement became big -
+ger and was referred to as Longcheng. A Chanyu advisor from the Han cour t, 
+Zhonghang Yue 中行說, could also have played a certain role in the arrange -
+ment of the residence at that time.
+Among features of the Xiongnu cities in the historical record s, the palac e, 
+rammed earth walls, and silk flags indicate significant Han influence on their 
+architecture, material s, and construction method s. This is substantiated by 
+technologies identified at archaeologically excavated palaces and settlements, 
+where the mass-produced roof tiles, a process developed in dynastic China, are 
+especially indicative. Simultaneously, adaptation of Han traditions and tech -
+nologies due to a different cultural environment, as well as natural conditions, 
+took place. For exampl e, Abakan palace lacks the ubiquitous earth platform 
+and had specifi c, underground heating system (Kyzlasov 2001: 6 1–87). Roof 
+tiles at Terelzhiin Durvulzhin and other places sometimes have the wave-line 
+design specific to Xiongnu pottery decoration and squared impressions in the 
+central part of the wadang similar to the technological features on the bottom 
+of their pottery (Danilov and Tsydenova 2011). These indicate that the crafts -
+people who made Xiongnu pottery were potentially involved in the production 
+of roof tiles. The application of the ruler’s title and noble clan-emblems on the 
+roof tile finials also reflects the specific cultural traditions of the Xiongn u. In 
+addition, on the tiles from the Abakan Palace and from Kharganyn Dörvölzhin, 
+clan-emblems and images were sometimes drawn on the raw clay before firing 
+by those who made them or controlled the manufacturing proces s; both the 
+drawings and emblems related to the traditions of the nomads (Kyzlasov 2001: 
+fig. 40–41; Iderkhangai et al. 2022; Iderkhangai 2023).
+5 Conclusion
+The existence of palaces and cities with fortification s, demonstrated by both 
+written and archaeological source s, contradicts the Shiji’s and Yan Tie Lu n’s 
+claim that the Xiongnu have no such object s. As has been discussed in this 
+article, the Han historical accounts generally show that only the early Xiongnu, 
+before the reign of Laoshan g, can be considered to have had “no cities”. This 
+corresponds with analyses of the Shiji’s textual construction, which substanti-
+ates the fact that the information in this passage was based on a pre-Han text 
+(Di Cosmo 2010: 312; Goldin 2011: 233 and 240). At the same time, such a view 
+===PAGE 31===
+151Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+represents the sedentary author s’ general impression of ways of life among 
+the main body of the Xiongn u. It was characteristic of many members of the 
+Han elite, and would persist for many centurie s, even in relation to mediae -
+val nomads.
+The analysed terms include six Chinese and two Xiongnu words that were 
+used to refer to Xiongnu settlements in Han historical record s. They can be 
+divided into two groups: (1) those that characterise the visible form and struc-
+ture; and (2) those that characterise the function.
+The first group include s: (а) quluo, indicating a specia l, non-Chinese type 
+of nomadic settlement—encampments with traditional mobile structure s; 
+(b) ying, denoting a settlement in the form of a mobile military camp; (c) outuo, 
+meaning military camp in the Xiongnu languag e; and (d) cheng, which high -
+lights the presence of permanent walls in the settlement.
+The second group include s: (a) ting, denoting the inner space of a palace 
+where the ruling family and their entourage resided and hosted major socio -
+political engagement s; it was also possible for high-ranking aristocrats of 
+the wang status related to the chanyu to have their own ting; (b) du, denot-
+ing the city with the state rule r’s residence and the centre of state power in 
+all its aspects—political, economi c, religious; (c) ci, specifically highlighting 
+the religious significance of a settlement as a place of ritual veneration for 
+noble lineages and ancestors (including the Han Emperor during the Southern 
+Xiongnu), as well as deities and spirits that legitimised Xiongnu rule, its rulers 
+and bequeathed prosperity to the state; and (e) long, denoting the residence of 
+the ruler in the language of the Xiongnu themselves, which is partly equivalent 
+to the Chinese terms ting and du.
+The six Chinese terms reflect the author s’ interpretations of the residence  
+of the Xiongnu ruler from a Han cultural perspectiv e. This made it possible 
+for different terms to be used in parallel to refer to the same settlemen t, high-
+lighting its different aspects. At the same time, this research has demonstrated 
+chronological trends. The earliest residences of the Xiongnu rulers are desig -
+nated by the terms quluo and ying. The term ci, on the contrary, was used only 
+in the period of Eastern Ha n. The term cheng began to be used in the second 
+half of the 2nd century BC  but from the end of the 1st century BC  it was com-
+pletely replaced by the term ting, the first dated mention of which is associated 
+with Laoshang Chany u. The frequency of use of each of these terms in the 
+records shows that Han authors considered the key feature of Xiongnu politi -
+cal centres to be the presence of a court with palatial buildings as its attribute 
+rather than a city wall or the collective sacrifices conducted ther e. In many 
+cases, the authors emphasise the political status of the settlement further 
+by merging ting and cheng with the title of a rule r, and geographical (north, 
+south) or ethnic (Xiongnu, lu) characteristics.
+===PAGE 32===
+152 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+Unlike the Chinese terms ting and du, the concept of long arose in a nomadic 
+pastoral society centred on the seasonal movement of settlements, and thus it 
+does not show any connection to the built environment. The main method of 
+governance in such a society was the regular gathering of the nobility for the 
+most significant rituals of the annual cycl e, organised by the rule r. The sea -
+sonal movements of the rule r’s headquarters (Chinese terms in the records 
+for this type of residence—quluo and ying) were limited to the central part of 
+the country with regular places for different season s. With the emergence  
+of palaces and permanent walled settlements among the Xiongn u, this tradi-
+tion did not disappear, at least in the early stages. The holding of three annual 
+rituals in different places and the opposition of Chanyu ting and Longcheng 
+in one passage of the Shiji reflects precisely this practic e. At the same tim e, 
+from the standpoint of the Han cultural environment, the use of the words ting 
+and cheng in the names means that both of these seasonal settlements had 
+earth/clay architecture, but the second, summer one was larger. Consequently, 
+the use of a new type of constructions was adapted to the seasonal rhythm 
+of life and other traditions of the steppe societ y: each settlement was used 
+by the ruler only for part of the yea r, and the rest of the time its population 
+was reduced. The summer settlement was apparently more populate d, where 
+some of the ruler’s wives, children, other relatives, and probably also some offi-
+cials, craftspeople, high status foreigner s, and envoys could live permanentl y. 
+In later sources, however, the contrast between the names disappeared: in the 
+1st century BC  the same settlement on the Orkhon River is called both ting and 
+cheng, and then only ting. There is no such opposition among the southern 
+Xiongnu either. Perhaps by this time the rulers began to conduct rituals of the 
+1st and 5th months in the same residence, and the autumnal ritual in a location 
+close by.
+Although traditional yurt-type dwellings remained in use throughout 
+the Xiongnu Empir e, the main rule r’s residence at certain point came to be 
+modelled on Han palace s. Complex technologies for the production of all 
+necessary materials and the construction of both palace-type buildings and 
+other structures could not have appeared in the steppe without the participa -
+tion of people who were familiar with them and had mastered aspects of their 
+construction. This is even more evident than in the case of the construction 
+of another type of complex architectural object—the terraced tombs of the 
+Xiongnu nobility (Polos’mak, Bogdanov 2015: 11 8). The first palace was most 
+likely built by a Han princes s’ retinue when she married the Xiongnu ruler in 
+the early 2nd century BC, which, perhaps, later became the first Longcheng. 
+Over the next century, Han immigrants, like Zhao Xin and Wei L ü, continued 
+to play key roles in the construction of palaces and long-term fortifications 
+===PAGE 33===
+153Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+relying on the experience and labour of other people from Han territor y, of 
+whom there were quite a few among the Xiongn u. Local people were also 
+involved at different stages of the construction processes which together with 
+other factors opened the way for the adaptation of new technologies. However, 
+the construction of such objects corresponded to the interest s, resources and 
+wills of chanyus themselve s, otherwise they could not have appeare d. Along 
+with exotic trade items like silk textile s, rare jeweller y, and Chinese chariots 
+found in the tombs of the Xiongnu elit e, Han-style architecture began to be 
+used by the cosmopolitan steppe rulers for their own cultural politics as a sym-
+bol of status and power.
+ Acknowledgments
+The main part of the work on this article by Y. Esin was carried out for the 
+project “Exploring the Northernmost Capital of the Xiongnu and the Function 
+of the Palace in Xiongnu Societ y” (Gerda Henkel Foundatio n, Grant N o. AZ 
+21/Fl/22). R. O’S ullivan is funded by the “Hearth and Hom e” project (Gerda 
+Henkel Foundatio n, Grant N o. AZ  47/F/21 ). The authors are indebted to 
+Dr. Yegor Grebnev and Dr. Jarkyn Tursun for their helpful feedback, and to the 
+reviewers and the editor for a productive discussion of the manuscript text.
+Bibliography
+ Primary Sources
+Bei Shi 北史 [History of the North], comp. Li Yanshou 李延壽. Beijing: Zhonghua shuju, 
+1974.
+Guoyu 國語 (Rechi tsarstv) [Discourses of the Kingdom s], trans. V.S. Taskin. Moscow: 
+Nauka, 1987.
+Han Shu 漢書 [Book of Ha n]. 12 vol s, comp. Ban Gu 班固. Beijing: Zhonghua shuj u, 
+1962.
+Hou Han Shu 後漢書 [Book of Later Han]. 12 vols, comp. Fan Ye 范曄. Beijing: Zhonghua 
+shuju, 1965.
+Liao Shi 遼史 [History of Liao], comp. Tuo Tuo 脱脱. Beijing: Zhonghua shuju, 1974.
+Shiji 史記 [Records of the Grand Historian]. 10 vols, comp. Sima Qian 司馬遷. Beijing: 
+Zhonghua shuju, 1959.
+Shuowen jiezi zhu  說文解字注 [An annotated explaining simple and analysing com -
+pound character s], com p. Xu Shen 許慎, commentary by Duan Yucai 段玉裁. 
+Shanghai: Shanghai guji chubanshe, 1988.
+===PAGE 34===
+154 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+Yan Tie Lun Jiaozhu  盐铁论校注 [An edited and annotated Discussions on Salt and 
+Iron], commentary by Wang Liqi 王利器. Beijing: Zhonghua shuju, 2017.
+ Secondary Literature
+Amartüvshin, C h., Z h.-O. Gantulga and D. Garamzhav. 201 1. On the Walled Site of 
+Mangasyn Khuree in Galbyn Gob i. In Xiongnu Archaeolog y: Multidisciplinary 
+Perspectives of the First Steppe Empire in Inner Asia, ed. U. Brosseder and B.K. Miller. 
+Bonn: VFG -Arch Press: 509–14.
+Ankhbayar, B. 201 7. Khunnskoe poselenie v Zaan Khoshu u. In Aktual’nye voprosy 
+arkheologii i etnologii Tsentra l’noy Azi i: Materialy II Mezhdunarodnoy nauchnoy 
+konferentsii (g. Ulan- Ude, 4–6 dekabrya 2017 g.), ed. B.V. Bazarov and N.N. Kradin. 
+Ulan-Ude: The Buryat Scientific Center SB  RA N: 90–100.
+Bailey, H.W. 198 5. Indo-Scythian studie s, being Khotanese text s, VI I. Cambridge 
+University Press.
+Barfield, T.J. 198 1. The Hsiung-nu Imperial Confederac y: Organization and Foreign 
+Policy. Journal of Asian Studies 41/1: 45–62.
+Batsuren, B. 2013. Longcheng. In Encyclopaedia Xiongnu, ed. Ts. Turbat. Ulaanbaatar: 
+ADMO N: 127.
+Battulga, Ts., G. Badamsambuu and B. Batjargal. 201 6. Baruun ilgenii ertnii bichees 
+[An ancient inscription at Baruun Ilge n]. Mongolian Journal of Anthropolog y, 
+Archaeology and Ethnology 9(1): 57–68.
+Baxter, W.H. and L. Sagart. 2014. Old Chinese: A New Reconstruction. Oxford-New York: 
+Oxford University Press.
+Bemmann, J. 201 1. Was the Center of the Xiongnu Empire in the Orkhon Valle y? In 
+Xiongnu Archaeology: Multidisciplinary Perspectives of the First Steppe Empir e, ed. 
+U. Brosseder and B.K. Miller. Bonn: VFG -Arch Press: 441–61.
+Bessonova, E.A., B.A Bazaro v, N.V. Imenokhoev, and D.A. Miiagashev. 202 0. Oso-
+bennosti prostranstvennoy organizatsii gorodishcha Bayan-Under (po rezul’tatam 
+georadiolokatsii). Mul’tidistsiplinarnye issledovaniia v arkheologii 2: 136–51.
+Bichurin, N.Ya. 1950. Sobranie svedenii o narodakh, obitavshikh v Srednei Azii v drevnie 
+vremena, vol. 1. Moscow-Leningrad: Izd-vo AN  SSS R.
+Botalov, S.G. and O. Battulga. 2017. Istoriia izucheniia poselencheskikh pamyatnikov 
+khunnu v Mongolii. Problemy istorii, filologii, kul’tury 2: 69–76.
+Chen Xiaowei 陈晓伟. 2016. “Outuo” zhidu xin tan—lun xiongnu shehui youmu zuzhi 
+yu caoyuan fen di zhi “瓯脱”制度新探—论匈奴社会游牧组织与草原分地制 [A 
+new study of the “Outuo”: On the social nomadic organization of the Xiongnu and 
+the system of pastures distribution]. Shixue yuekan 史学月刊 5: 5–12.
+Chin, T.T. 201 0. Defamiliarizing the Foreigne r: Sima Qia n’s Ethnography and 
+Han-Xiongnu Marriage Diplomacy. Harvard Journal of Asiatic Studies 70(2): 311–54.
+===PAGE 35===
+155Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+Danilov, S.V. 2004. Goroda v kochevykh obshchestvakh Tsentral’noi Azii. Ulan-Ude: The 
+Buryat Scientific Center SB  RA N.
+Danilov, S.V., N.V. Imenokhoev, B.Z Nanzato v, A.I. Simukhi n, A. Ochir and  
+L. Erdenebold. 201 6. Goroda epokhi khunnu na vostoke Mongoli i. Izvestiia 
+Irkuts kogo gosudarstvennogo universiteta. Seriia ‘Geoarkheologiia. Etnologiia. Antro-
+pologiia’ 17: 74–93.
+Danilov, S.V., N.V. Imenokhoev, B.Z Nanzatov, A.I. Simukhin, D.K. Tulush and 
+L. Erdenebold. 2018. Goroda epokhi khunnu na territorii Tuv y. Izvestiia Irkutskogo 
+gosudarstvennogo universiteta. Seriia ‘Geoarkheologiia. Etnologiia. Antropologiia’ 24: 
+74–92.
+Danilov, S.V. and N.V. Tsydenova. 2011. Ceramic Roof Tiles from Terelzhiin Dörvölzhin. 
+In Xiongnu Archaeology: Multidisciplinary Perspectives of the First Steppe Empire in 
+Inner Asia, ed. U. Brosseder and B.K. Miller. Bonn: VFG -Arch Press: 341–7.
+Danilov, S.V. and T.V. Zhavoronkova. 199 5. Gorodishche Bayan Under—novyi pamy-
+atnik khunnu v Zabaika l’e. In Kul’tury i pamyatniki bronzogo i rannego zheleznogo 
+vekov Zabaikal’ia I Mongolii, ed. P.B. Konovalov. Ulan-Ude: 26–36.
+De Crespign y, R. 198 4. Northern Frontier: The Policies and Strategy of the Later Han 
+Empire. Canberra: Australian National University.
+De Crespigny, R. 2007. A Biographical Dictionary of Later Han to the Three Kingdoms 
+(23–220 AD). Leiden-Boston: Brill.
+De Groo t, J.J.M. 192 1. Die Hunnen der vorchristlichen Zeit (Chinesische Urkunden zur 
+Geschichte Asiens I). Berlin-Leipzig: Walter de Gruyter.
+Di Cosmo, N. 2002. Ancient China and Its Enemie s: The Rise of Nomadic Power in East 
+Asian History. Cambridge: Cambridge University Press.
+Di Cosmo, N. 2010. Ethnography of the Nomads and ‘Barbarian’ History in Han China. 
+In Intentional History: Spinning Time in Ancient Greec e, e d. Lin Foxhal l. Stuttgart: 
+Steiner: 299–325.
+Dmitriev, S.V. 200 9. K voprosu o Karakorum e. In Obshchestvo i gosudarstvo v Kita e: 
+XXXIX  nauchnaia konferentsiia. Moscow: Vost. lit: 76–100.
+Dybo, A.V. 2007. Lingvisticheskie kontakty rannikh tyurkov. Leksicheskii fon d: pratyurk-
+skii period. Moscow: Vost. lit. RA N.
+Egiimaa, Ts. 2019. Sravnitel’nyi analiz stroitel’nykh materialov khunnskikh gorodishch 
+Terelzhiin durvulzhin i Gua dov. Rossiia i ATR  1: 62–81.
+Eregzen, G. 201 7. Novye gipotezy o naznachenii i konstruktivnykh osobennostyakh 
+khunskogo gorodishcha Guado v. In Aktual’nye voprosy arkheologii i etnologii 
+Tsentral’noi Azii, ed. B.V. Bazarov and N.N. Kradin. Ulan-Ude: BNT s SO  RA N: 245–55.
+Esin, Yu.N. 2020. An Eastern Tibetan Tool for Managing Draught Cattl e. Archaeology, 
+Ethnology & Anthropology of Eurasia 48(3): 107–16.
+Esin, Yu.N. 2021. Novaia gipoteza o vladel’tse Abakanskogo dvortsa. In Drevnie kul’tury 
+Mongolii, Yuzhnoi Sibiri i Severnogo Kitaia: Materialy XI Mezhdunarodnoi nauchnoi 
+===PAGE 36===
+156 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+konferentsii, ed. A.V. Polyakov, M.T. Kashuba and A.D. Tsybiktarov. Abakan: IIMK  
+RA N: 147–53.
+Esin, Y u.N. 2022 a. Dvorets Syna Neba vo vladenii Tszyan’kun’. Nauchnoe obozrenie 
+Saiano-Altaia 1(33): 4–52.
+Esin, Y u.N. 2022 b. Strana kyrgyzov na kartakh bo l’shogo Atlasa al-Idrisi. Nauchnoe 
+obozrenie Saiano-Altaia 1(33): 53–109.
+Evtyukhova, L.A. 1946. Drevnekitaiskoe zdanie na Srednem Enisee. Vestnik drevnei isto-
+rii (1): 107–11.
+Evtyukhova, L.A. 194 7. Razvaliny dvortsa v “Zemle khyagyas”. Kratkie soobshcheniia 
+Instituta istorii materialnoy kultury 21: 79–85.
+Falkenhausen, L. vo n. 200 8. Stages in the Development of “Cities” in Pre-Imperial 
+China. In The Ancient City: New Perspectives on Urbanism in the Old and New World, 
+ed. J. Marcus and J. Sabloff. Santa Fé: School of Advanced Studies Press: 209–28.
+Goldin, P.R. 201 1. Steppe Nomads as a Philosophical Problem in Classical Chin a. In 
+Mapping Mongoli a: Situating Mongolia in the World from Geologic Time to the 
+Present, ed. P. Sabloff. Philadelphia: University of Pennsylvania Press: 220–46.
+Honeychurch, W. 2015. Inner Asia and the Spatial Politics of Empire: Archaeology, Mobil-
+ity, and Culture Contact. New York: Springer.
+Honeychurch, W. and C h. Amartuvshin. 2006. States on horsebac k: The rise of Inner 
+Asian confederations and empire s. In Archaeology of Asi a, e d. M. Stark. Malde n: 
+Blackwell: 255–78.
+Iderkhangai, T. 202 1. Kh ünnü g ürnii uls t öriin t öv, Kharganyn D örvölzhingiin 
+Khünnügiin khaany zuny ord Lunchen buyuu Luut khot [The Xiongnu rule r’s 
+summer residence named Longcheng or Dragon City at Kharganyn D örvölzhin, 
+the political center of the Xiongnu Empir e]. In Drevnie kul’tury Mongolii, Yuzhnoi 
+Sibiri i Severnogo Kitai a: Materialy XI Mezhdunarodnoi nauchnoi konferentsi i, eds 
+A.V. Polyakov, M.T. Kashuba and A.D. Tsybiktarov. Abakan: IIMK  RA N: 183–91.
+Iderkhangai, T. 2023. Kharganyn Dörvölzhin dekh Kh ünnü gürnii khaany zuny ordny 
+maltlaga sudalgaany tovch ür düngees [Brief results of the excavation of the summer 
+residence of the Xiongnu ruler at Kharganyn D örvölzhin]. In Sōgen sekai no kyōdo. 
+2023 nichimō kyōdō kenkyū kokusai shinpojiumu yokō-shū 草原世界の 匈奴 2023日
+蒙共同研究国際シンポジウム予稿集 [Xiongnu of the Steppe Worl d. Proceedings of 
+the 2023 Japan-Mongolian Joint Research International Symposiu m], ed. Daisuke 
+Nakamura 中村大介. Chiba: 32–4.
+Iderkhangai, T., S. Orgilbayar, D. Tsend, B. Batchimeg, B. Amgalanbat, P. Erdenepürev 
+and P. Bayansan. 202 0. Arkhangai aimgiin Ölziit sumyn nutag dak h’ Kharganyn 
+Khöndiid orshikh Kh ünnügiin khotyn tuurind yavuulsan maltlaga sudalgaa 
+[Excavations at the ruins of the Xiongnu city in the Khargan Valley in the Ölziit sum 
+of Arkhangai aima g]. In Mongolyn arkheologi-2020: Erdem shinzhilgeenii khurlyn 
+emkhetgel, ed. Ch. Amartuvshin. Ulaanbaatar: 24–8.
+===PAGE 37===
+157Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+Iderkhangai, T., S. Orgilbayar, D. Tsend, B. Batchimeg, P. Erdenepürev, L. Khüslen,  
+A. Namsraizhamts, K h. Uyang a, B. Bayansan, J. Enkhzul, M. Mönkhzhin,  
+B. Batkhishig, D. Azzayaa, B. Amgalanbat and E. Davaakhüü. 202 2. “Khünnügiin 
+Luut kho t” t ösliin kh üreend Arkhangai aimgiin Ölziit sumyn nutag Kharganyn 
+Dörvölzhin dekh kh ünnügiin khaany zuny ordond yavuulsan 2022 ony maltlaga 
+sudalgaany ür tovch düngees [Brief results of the 2022 excavations carried out at the 
+summer residence of the Xiongnu ruler at Kharganyn Dörvölzhin in the Ölziit sum 
+of Arkhangai aimag as part of the “Xiongnu Dragon Cit y” project]. I n: Mongolyn 
+arkheologi – 2022. Ulaanbaatar: 120–5.
+Ishjamts, N. 1994. Nomads in Eastern Central Asia. In History of Civilizations of Central 
+Asia, vol. II: The Development of Sedentary and Nomadic Civilization s: 700 B.C.  to 
+A.D.  250, ed. J. Harmatta. Paris: UNESCO  Publishing: 151–69.
+Janhunen, J. 2010. Reconstructing the Language Map of Prehistorical Northeast Asi a. 
+Studia Orientalia 108: 281–303.
+Kilunovskaia, M.E. and P.M. Leus. 2020. Azhurnye bronzovye pryazhki epokhi khunnu 
+v Tuve. Nauchnoe obozrenie Saiano-Altaia 1(25): 97–126.
+Kovalev, A.A. 2011. Imperator Kitaia v khakasskoi stepi. In Khunnu: arkheologiia, proisk-
+hozhdenie kul’tury, etnicheskaia istoriia. Ulan-Ude: Izd-vo BNT s SO  RA N: 77–144.
+Kovalev, A.A., D. Erdenebaatar, S.S. Matrenin and I.Iu. Grebennikov. 2011. The Shou-
+xiangcheng fortress of the Western Han period—Excavation at Bayan Bula g, 
+Nomgon su m, Ömnögov’ aima g, Mongoli a. In Xiongnu Archaeolog y: Multidisci -
+plinary Perspectives of the First Steppe Empire in Inner Asi a, e d. U. Brosseder and 
+B.K. Miller. Bonn: VFG -Arch Press: 475–508.
+Kradin, N.N. 2001. Imperiia khunnu. Moscow: Logos.
+Kradin, N.N. 201 1. Stateless Empir e: The Structure of the Xiongnu Nomadic Super- 
+Complex Chiefdo m. In Xiongnu Archaeology: Multidisciplinary Perspectives of the 
+First Steppe Empire in Inner Asi a, ed. U. Brosseder and B.K. Miller. Bonn: VFG -Arch 
+Press: 77–96.
+Kradin, N.N. 201 9. Goroda v kochevykh imperiiakh Vnutrennei Azi i. In V poiskakh 
+sushchnosti: Sbornik statei v ches t’ 6 0-letiia N.D. R usseva, e d. M.E. Tkachuk and 
+G.G. Atanasov. Kishinev: 149–70.
+Kradin, N.N., A.L. Ivliev, A.V. Kharinskii, A. Ochir, S.A. Vasyutin, E.V. Kovychev and 
+L. Erdenebold. 2017. Raskopki gorodishcha Terelzhiyn-Durvulzhin i nekotorye itogi 
+izucheniia khunnskoy urbanizatsi i. In Aktual’nye voprosy arkheologii i etnologii 
+Tsentral’noi Azii. Materialy II mezhdunar. nauch. konf., ed. B.V. Bazarov, N.N. Kradin. 
+Ulan-Ude: BNT s SO  RA N: 163–75.
+Kradin, N.N., A.L. Ivliev, S.A. Vasyutin, Ye.V. Kovychev, A.V. Kharinskiy and  
+L. Erdenebold. 202 0. Terelzhiyn-Durvulzhin i drugiye khunnskiye gorodishcha v 
+Mongolii: osobennosti funktsiona l’noy interpretatsii. Mul’tidistsiplinarnye issledo-
+vaniia v arkheologii 2: 42–56.
+===PAGE 38===
+158 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+Krykov, M.V. and V.P. Kurylev. 2000. K rannei istorii yurty (po kitaiskim istochnikam 
+3 v. do n.e.–13 v. n.e.). In Kochevoye zhilishche narodov Srednei Azii i Kazakhstan a. 
+Moscow: Nauka: 10–9.
+Kychanov, E.I. 1997. Kochevye gosudarstva ot gunnov do man’chzhurov. Moscow: Izd-vo 
+Vost. lit. RA N.
+Kyuner, N.V. 1961. Kitaiskie izvestiia o narodakh Yuzhnoi Sibiri, Tsentral’noi Azii i Dal’nego 
+Vostoka. Moscow: Izd-vo Vost. lit.
+Kyzlasov, L.R. 200 1. Gunnskii dvorets na Yenise e: Problema rannei gosudarstvennosti 
+Yuzhnoi Sibiri. Moscow: Vost. lit.
+Kyzlasov, L.R. 200 6. Gorodskaia tsivilizatsiia Sredinnoi i Severnoi Azi i: istoricheskie i 
+arkheologicheskie issledovaniia. Moscow: Vost. lit.
+La Vaissière, É. de. 2024. Asie centrale 30 0–850: Des routes et des royaume s. Paris: Les 
+Belles Lettres.
+Loginov, V.V. 2012. Lokalizatsiia stavki khunnuskogo shan’yuya. In Obshchestvo i gosu-
+darstvo v Kitae, vol. XLI I, ed. A.I. Kobzev et al. Moscow: IV  RA N: 53–64.
+Lotman, Yu. 1990. Universe of the Min d: A Semiotic Theory of Cultur e. Bloomington & 
+Indianapolis: Indiana University Press.
+Malyavkin, A.G. 1981. Istoricheskaia geografiia Tsentral’noi Azii (materialy i issledova -
+niia). Novosibirsk: Nauka.
+Matsushita, Kenichi 松下憲一. 2023. Kyōdo no ryūjō ni tsuite 匈奴の龍城について [On 
+the Longcheng of the Xiongnu]. In Sōgen sekai no kyōdo. 2023 nichimō kyōdō kenkyū 
+kokusai shinpojiumu yokō-shū 草原世界の 匈 奴」2023日蒙共同研究国際シンポジ
+ウム予稿集 [Xiongnu of the Steppe Worl d. Proceedings of the 2023 Japan-Mongolian 
+Joint Research International Symposiu m], ed. Daisuke Nakamura 中村大介. Chiba: 
+64–6.
+Miller, B.K. 2015. The Southern Xiongnu in Northern China: Navigating and Negotiating 
+the Middle Ground. In Complexity of Interaction Along the Eurasian Steppe Zone in 
+the First Millennium CE, e d. J. Bemmann, M. Schmauder. Bon n: VFG -Arch Pres s: 
+127–98.
+Miller, B.K. 2024. Xiongnu: The World’s First Nomadic Empire. Oxford: Oxford University 
+Press.
+Miller, B.K., M. Furholt, J. Bayarsaikhan, T. Tüvshinjargal, L. Brandtstätter, J. Wright, 
+T. Ayush and T. Wunderlich. 201 9. Proto-Urban Establishments in Inner Asi a: 
+Surveys of an Iron Age Walled Site in Eastern Mongolia. Journal of Field Archaeology 
+44(4): 267–86.
+Miniaev, S.S. and L.M. Sakharovskaia. 200 7. Investigation of a Xiongnu Royal Tomb 
+Complex in the Tsaraam Valle y. Part 2:  The Inventory of Barrow N o. 7 and the 
+Chronology of the Site. The Silk Road 5(1): 44–56.
+===PAGE 39===
+159Xiongnu Rulers ’ Residences
+jesho 68 (2025) 121–160
+Miiagashev, D.A., B.A. Bazarov and Ya.V. Dikiy. 2021. Primenenie metoda distantsion -
+nogo zondirovaniia zemli dlya poiska fortifitsirovannykh o b”yektov na territorii 
+Mongolii i Zapadnogo Zabaykal’ya. Arkheologiia evraziyskikh stepei 4: 80–95.
+Nienhauser, W.H., ed. 2010. The Grand Scrib e’s Records, vol. 9. Bloomington: Indiana 
+University Press.
+Ochir, A., Y.-Z. Chen, B. Saranbileg, P.-F. Cheng and B. Ankhbayar. 202 0. Newly 
+Discovered Monuments of Worship of Xiongnu. Mul’tidistsiplinarnyye issledovaniia 
+v arkheologii 2: 82–106.
+Oshanin, I.M., ed. 1983–1984. Bol’shoi kitaisko-russkii slovar’, 4 vols. Moscow: Nauka.
+Perlee, H. 1957. K istorii drevnikh gorodov i poselenii v Mongoli i. Sovetskaia Arkheolo-
+giia 3: 43–53.
+Polos’mak, N.V. and E.S. Bogdanov. 201 5. Kurgany Sutszukte (Noin-Ula, Mongolii a),  
+pt. 1. Novosibirsk: Infolio.
+Psarras, S.-K. 200 3. Han and Xiongn u: A Reexamination of Cultural and Political 
+Relations (I). Monumenta Serica 51: 55–236.
+Pulleyblank, E.G. 1962. The Consonantal System of Old Chines e: Part 2. Asia Major 9: 
+206–65.
+Pulleyblank, E.G. 1966. Chinese and Indo-Europeans. Journal of the Royal Asiatic Society 
+of Great Britain and Ireland 1(2): 9–39.
+Qimudedao’erji (Chimitdorj) 齐木德道尔吉 and Gao Jianguo 高建国. 2019. Youguan 
+“feng Yanranshan min g” moya de san ge wenti 有关《封燕然山铭》摩崖的三个
+问题. Xibei minzu yanjiu 西北民族研究 1: 108–18.
+Robbeets, M., J. Janhunen, A. Savelyev and E. Korovina. 2020. The homelands of the 
+individual Transeurasian proto-languages. In The Oxford guide to the Transeurasian 
+languages, e d. M. Robbeets, A. Savelyev and N. Hübler. Oxford University Pres s: 
+753–71.
+Rogers, J.D., E. Ulambayar and M. Gallon. 2005. Urban centres and the emergence of 
+empires in Eastern Inner Asia. Antiquity 79: 801–18.
+Rosthorn, A. von. 1923. Die Hochburg von Zentralasie n. In Hirth Anniversary Volume, 
+ed. by B. Schindler, London: Probsthain & Co: 286–97.
+Saussure, F. de. 1959. Course in General Linguistics, ed. C. Bally and A. Sechehaye, trans. 
+W. Baskin. New York: The Philosophical Society.
+Savelyev, A. a nd C h.-W. Jeong. 2020. Early Nomads of the Eastern Steppe and Their 
+Tentative Connections in the West. Evolutionary Human Sciences 2: e20. doi:10.1017/ 
+ehs.2020.18.
+Schuessler, A. 2007. ABC  Etymolological Dictionary of Old Chinese. Honolulu: University 
+of Hawai’i Press.
+Tan, Q.-X., ed. 1996. The Historical Atlas of China, vol. 2: Qin Dynasty Period, Western Han 
+and Eastern Han Dynasty Period. Beijing: China Cartographic Publishing House.
+===PAGE 40===
+160 Esin and O ’Sullivan
+jesho 68 (2025) 121–160
+Taskin, S., ed. 1968. Materialy po istorii syunnu (po kitaiskim istochnikam), 1. Moscow: 
+Nauka.
+Taskin, S., ed. 1973. Materialy po istorii syunnu (po kitaiskim istochnikam), 2. Moscow: 
+Nauka.
+Turbat, T s. 201 3. Settlements or Citie s. In Encyclopaedia Xiongn u, e d. T s. Turba t. 
+Ulaanbaatar: ADMO N: 160–2.
+Vainshtein, S.I. 1976. Problemy istorii zhilishcha stepnykh kochevnikov Yevrazii. Sovets-
+kaia etnografiia 4: 42–62.
+Vasyutin, S.A. 2022. Faktory gradostroitel’stva v stepyakh Vnutrennei Azii i urbanizat-
+siia po-khunnski. Mul’tidistsiplinarnyye issledovaniia v arkheologii 2: 51–67.
+Vovin, A. 2000. Did the Xiong-nu speak a Yeniseian languag e? Central Asiatic Journal 
+44(1): 87–104.
+Vovin, A., E. Vajda and É. de La Vaissière. 2016. Who were the *kjet (羯) and what lan-
+guage did they speak? Journal Asiatique 304(1): 125–44.
+Vyatkin, R.V., A.M. Karapet’yants and A.R. Vyatkin, trans. 2002. Syma Tsyan’. Istoricheskie 
+zapiski: Shi tszi, vol. 8 [in 9 vols]. Moscow: Vost. lit.
+Wang Weimao 汪維懋. 1983. Xiongnu Longcheng kaoban 匈奴龍城考辦 [Examination 
+of the Xiongnu Longcheng]. Lishi yanjiu 历史研究 2: 142–4.
+Watson, B., tran s. 199 3. Records of the Grand Historian of China by Sima Qia n. Han 
+Dynasty, vol. 2. New York: Columbia University Press.
+Waugh, D. 201 0. Nomads and Settlemen t: New Perspectives in the Archaeology of 
+Mongolia. The Silk Road 8: 97–124.
+Yu, T.-S. and Q.-Ch. L i. 201 4. A Concise Commentary on the Memoirs on the Western 
+Regions in the Official Histories of the Western and Eastern Ha n, Wei, Jin, and South-
+ern and Northern Dynasties. Beijing: Commercial Press.
+Yü, Y.-S. 2008. The Hsiung-nu. In The Cambridge History of Chin a, vo l. 1: The C h’in 
+and Han Empire s, 221 B.C. –A.D.  22 0, e d. D. Twitchett and M. Lowe. Cambridg e: 
+Cambridge University Press: 383–405.
+Zhou Liankuan 周连宽. 1956. Sulian nan Xiboliia suo faxian de Zhongguo shi gongdian 
+yizhi 苏联南西伯利亚所发现的中国 式宫殿遗址  [Chinese-style palace architec -
+ture discovered in Siberia, Soviet Union]. Kaogu xuebao 考古学报 4: 55–66.

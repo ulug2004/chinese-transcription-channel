@@ -1,0 +1,3906 @@
+--- pdf page 2 ---
+Die Deutsche Bibliothek- CIP-Einheitsaufnahme 
+Tekin, Talat: 
+Irk bitig :(the book of omens) I Tal at Tekin.- Wiesbaden : Harrassowitz 1993 
+(Turcologica ; Bd. 18) 
+ISBN 3-447-03426-2 
+NE: Irk bitig; GT 
+©Otto Harrassowitz, Wiesbadcn 1994 
+This work, including all of its parts, is protected by copyright. 
+Any use beyond the limits of copyright law without the permission 
+of the publisher is forbidden and subject to penally. This applies 
+particularly to reproductions, translations. mic rofilms and storage 
+and proce ssing in electronic systems. 
+Printed on permanent/durable paper from Nordland, Dorpen!Ems. 
+Printing and binding by Hubert & Co, Gotti ngen 
+Printed in Germany 
+ISSN 0177-4743 
+ISBN 3-447-03426-2 
+Contents 
+Introduction ............................................................................................. . 
+Text and Tran slation ............................................................................ .. 
+Explan ations ............................................................................................. . 
+Glossary .......... . ........................................ ................... ...... ........................ .. 
+Bibliography ............................................................................................... . 
+1 
+8 
+29 
+47 
+69 
+Facsimiles ................... .................................. ........................ ...................... 73 
+--- pdf page 3 ---
+INTRODUCTION 
+The Irk Bitig or 'The book of Omens" is the only Old Turkic text 
+written in the runic script and in the form of a book. It was found in 
+the deposit of manuscripts in the "Halls of the Thousand Buddhas" 
+near Tun-huang. Like many manuscripts found in the same deposit, 
+the Irk Bitig cannot be precisely dated, but it is very Likely that it was 
+written in the 9th century. Tt is written in the so-called "Manichaean 
+ny- dialect". 
+The Irk Bitig (British Museum, Or. 8212) is a Little book consisting 
+of fifty-eight leaves or twenty-nine small sheets, about 13.6 em. high 
+and about 8 em. wide. The sheets are glued together at the end one 
+by one. 
+The Turkic text begins on the reverse page of the fifth leaf and ends 
+on the fifty-seventh leaf. With the exception of these two leaves, all 
+the others are written on both sides. Thus, the Turkic text comprices 
+104 small pages. The last two pages contain a colophon written in 
+red ink. It seems that the first nine and the last three pages of the 
+book were originally blank; but later they were filled with writing in 
+Chinese. Moreover, the last three pages of the Turkic text, together 
+with the margin of the pages 1 and 101 were covered with Chinese 
+writing. 
+The title of the book appears as zrk bitig on page 101. Formerly it 
+was thought that the book had been written for two disciples named 
+isig SlliJIIIl and ita <;uk. Hamilton, who studied the colophon of the 
+Irk Bitig, has made it clear that tlus little book was written by a cer­
+tain young pious disciple at the Tayguntan monastery for his elder 
+brother Sal)Uil ita�;uk, i.e. "general itachuk". As we learn from the co­
+lophon, the manuscript was written "on the fifteenth day of the sec­
+ond month, in the year of tiger". Bazin thinks that the date of the 
+compilation of the work is either 17 March 930 or 4 March 942 
+--- pdf page 4 ---
+2 Introduction 
+(1974:296). However, it is more probable that this work dates from 
+the 9th century. In view of its linguistic peculiarites, Erda! (1976:23) 
+rightly places this work among the group I texts dating from the 8th 
+and the 9th centuries. 
+Previous Works on Irk Bitig 
+The Irk Bitig was first published by V. Thomsen in the Journal of 
+Royal Asiatic Society, 1912, pp. 190-214. Thomsen's edition consists 
+of a transcribed text of the manuscript, an English translation, notes 
+on certain problematic words and a list of words occurring not only 
+in the Irk Bitig but also those found in the other three runic texts. 
+The Irk Bitig was secondly published by H. N. Orkun in his Eski 
+Tiirk YaZJtlan, II, pp. 71-93. Orkun's edition is nothing but a Turkish 
+translation of Thomsen's edition. However, he was able to identify 
+two words occurring in the TB, i.e. (ii)sri "tekir", opgiik "t;avu� ku�u". 
+The second word should be corrected, however, to read iipgiik. 
+The Irk Bitig was thirdly published by S. Ye. Malov in his Pamjatni­
+ki Drevnetjurkskoj Pis 'men11osti, Moskva 1951, pp. 80-92. Malov's 
+edition is simply a Russian translation of Thomsen's edition. 
+After these publications, two scholars, Sir Gerard Clauson and 
+Marcel Erdal, published important articles dealing with the un­
+solved or problematic words and expressions in the Irk Bitig, i.e. 
+"Notes on the 'Irk Bitig"', UAJb., XXXUl/ 3-4 (1961), pp. 218-225, and 
+"Irk Bitig Dzerine Yeni Notlar", TDA Y-Bellelw J977, pp. 87,119., re­
+spectively. Although the two authors have made some important 
+corrections, many problematic words and expressions in this archaic 
+and complicated text have remained unsolved. 
+Meanwhile, James Hamilton republished the colophon of the Irk 
+Bitig and made a very important correction in his "Le colophon de 
+I'Irq Bitig", Twdca VU (1973), pp. 7-19. Hamilton's study of the co­
+lophon has made it clear that this work was compiled by a certain 
+young pious deciple for his elder brother Sar)llll itaquk, i.e., General 
+Itachuk (see above). 
+Introduction 3 
+Contents 
+The book gets its title from the zrks, or "omen"s in it. lt consists of 65 
+short interpretations of 65 zrks, or omens, and a short colophon. 
+At the head of each interpretation or paragraph there is an 1rk, i.e. 
+three groups of small circles. As A. von Gabain has first pointed out, 
+the Irk Bitig is a handbook for interpreting the significance of the 
+various combinations of three throws of a "dice", or a short rectan­
+gular rod with one to four circles inscribed on each side of it. Clau­
+son (1960:218) informs that such "dice" were recently discovered at 
+Khayrabad Tepe, a few miles north of Termez in Uzbekistan, in a 
+layer anterior to the 3rd century A.D. containing Kushan coins. 
+The artistic style used in the book indicates that it is not a work 
+translated from a foreign language. There is no doubt that it was 
+compiled by a Turk who seems to have had a literary talent in using 
+his native tongue. 
+Each interpretation which ends in tir "says" is followed by anqa 
+bili!J or anqa bilil]ler "know thus", and this, in its turn, by one of the 
+phrases iidgii a/ "it is good" or a11yzg iidgii ol "it is very good", or ya­
+blak ol "it is bad" or anyzg yablak ol "it is very bad". Some para­
+graphs, however, lack the conclusions. One paragraph (no. 12) has 
+the conclusion yabzz ol "it is bad" instead of yablak o/, and one, the 
+paragraph 57 has a unique conclusion whic§h reads "Know thus: At 
+the beginning of this zrk there is a little pain, but later it becomes 
+good again". 
+Script 
+The runic script used in the IB is in general the same as the script 
+used in the Orkhon and Uigur inscriptions found in Mongolia. 
+There are, however, the following differences: 
+1. There is no a special letter for the sound I �I , the back- and front­
+vocalic signs for Is/ denoting /�/ at the same time; 
+2. The sign for the back consonant cluster I It I does not occur; 
+--- pdf page 5 ---
+Introduction 
+3. There are two more runic syllabic letters which do not occur else­
+where, i.e. A !!] and 8 zip/ iip. The first occurs thr ice in the book; the 
+latter occurs six times denoting only 1 pi occurring after the letter U, 
+twice with the phonetic value /up/ and once to represent the final 
+sound group /up/. 
+Orthography 
+The initial long I a/ is written in all the occurrences of the foll owing 
+words: a:k "white" (5, 19). a:la "multicolored" (2), a:ra "among, be­
+tween" (10, 38, 52, 52), a: tan- "to become famous" (55/, a:z "few" (57), 
+a:z- "to go astray" (15; three times). The long 1 a/ of the first syllable 
+is written only in the follo wing cases: ba:- "to tie" (14 ), ya:� "fresh 
+grass" (17), but y(a)? in the same zrk. Of other long vowels, only [o:] 
+of yo:k "does not exist" ma y be regarded as indicated, for it is spell 
+yoC?} in all its occurrences in JB. 
+The medial and final sound groups I ok/ and/ uk/ are generally in­
+dicated, even after the labial vowel I u/, with the syllabic sign wk, e.g. 
+soe.,ku?- (2, 6, 16, 47, 49), but soku?- (35). toe_5uz (29, 50), yoif. (36; three times), zdz!Jluk (41), kodm(a)<d>t!J (9), kudruuJuz (50), sm'!}uJzn (4 8), szn!J-- (33), tor!!} (16), unam(a)d!:!Jc (38), utuzm(a)dlf5 (29), y(a)r!!_,k (26), but t(a)pladuk(u)min (3). 
+Similarly, the medial and final sound group /uk/ is written, even 
+after the labial vowel, with the syllabic sign 1vk, e.g. biiiikil)ii (9), k 
+(ii)kijj (23), korijjliig (18, 64), koz(ii)nijjki (18), ';;(ii)t;ijj (45), n(ii)l@ 
+(57; twice), ozl[!j (17), t(ii)gl@ (24), tiigiin ijji (18), tii{!j(ii)/ (27, 42), 
+iiziiijjil)in (48), but iipgiik (21). 
+The consonant cluster Inc;/ is always written with the double con­
+sonant sign r!(, e.g. (a)1i(a (2, 6, 11 etc.), (a)!i((z)p (66), b11J9uyz (5), etc. 
+In three instances, the sign 11'9 is used after N: bus(a)mi9 (52) k (a)llli(a (42), s(a)ru�mi? (34). 
+The consonan t cluster I nt/, on the other hand , is sometimes writ­
+ten with the double consonant sign f.!_,l, e.g. (a)'!:}a (56), (a)'!}(a)g (al­
+ways), yul.!__t(t)a (24), but k(a)nta (24),kutuzta (15), yuntzl](a)ru (5). 
+Introduction 5 
+The back-vocalic consonant cluster sign !J is not used in the Irk Bi-
+tig. . 
+The otherwise unknown syllabic sign V: is used to wnte the word 
+ot "grass": V: (17, 53), �suz (45). 
+� . . . 
+The oth erwise unkno wn syllabic sign up IS used to md1cate the 
+sound group J up/ in the following cases: olurup(a)11 (1, 28). lt is 
+mostly used, however, to write the consonant /pi___ occurring a�er the 
+vowel u: konuup(a)n (64), olz1ndip(a)11 (4), OIJ!IUp (17), tumup(a)n 
+(56), tutuz:ip(a)n (16), urw:ip(a)l1 (40). �n one instance only it is used 
+to write the sound group /tip/: yiitiiriip (24). 
+Doubled (geminated) consonants are sho wn by a single consonant 
+sign: tuz(a)k(k)a (61), yu'!:}(t)a (24). . . . . 
+An important orthographical feature of the IB IS the mdicatwn of 
+the consonant 1 �I in the suffix -ml§ always with the front-vocalic 
+signs. This may indicate that the suffix -ml§ �as inharmonic at least 
+in the dialect of the author: ba:mi� (14), b(a)rml§ (5, 12, 16 etc.), zdmr� 
+(19), k(a)lmi� (13, 17, 38), soku�m(i)? (35), etc. 
+Another important feature of the orthography is the spelling of the 
+accusative suffix after the 1st person possessive suffix with the front­
+vocalic sign for n: t(a)plnduk(u)milz (3), kumgs(a) k(z)min (8). The 
+accusative suffix -11 is written with the back-vocalic N, however, af­
+ter the 2nd and 3rd persons possessive suffixes: SIIH-!5-zom (48), ku­
+druukur (50), oglm (2, 29). In one instance, the ins trume ntal suffix -
+11 is""written with the front-vocalic sign n in a back-vocalic word: y 
+(a)su;in (40). 
+Scribal Errors 
+Througho ut the manuscript there are some obvious 
+and omissions. These are the foll owing: 
+1. kodm!:!Jc (9) instead of kodm(a)dz.0 
+2. kudursugziJIIZI)a (16) insead of kudzrrsugzoa 
+3. koz(ii)n!!J<ki (18) instead of koz(ii)ni!fi 
+4. iirk(ii)tt(ii)J) (21) instead of iirk(ii)tm(t.i)J) 
+scribal errors 
+--- pdf page 6 ---
+6 Introduction 
+5. t;Uk (23) instead o£ r;(ii)k(i)k 
+6. y(a)b(a)k (46, 50, 61) instead of y(a)bl(a)k 
+7. s(ii)p(ii)r (48) instead of s(a)p(a)t 
+8. topuulg(l)n(a (50) instead of topulg(z)nqa 
+9. s(a)m�mi� (34) instead o£ s(a)r�rni� 
+10. k(a)m�a (42) instead of k(a)1�a 
+11. bus(a)m'i( (52) instead of bus(a)1� 
+12. zz (57) instead of az 
+13. b(ii)d(i)z (60) instead of b(ii)dif5 
+14. il1rn!ftJa (61) instead of turrlt}a 
+15. dlTR (colophon) instead of dillt(a)r. 
+Apart from these, the vowel I il of y(a)r(z)lmi� (6) looks like U rath­
+er than 1. 
+Finally, I believe that there is an important omission in the passage 
+oziim yul i11tin, b(a)§(z)mzn yul (ii)bint(i)n (8). The parallelism and 
+the prosodical rules require that the first clause should rather be 
+amended to read oziimin yul inintin I b(a)�(z)mm yul (ii)bint(i)n. 
+The scribal errors and omissions mentioned above (especially the 
+error no.7) indicate that the manuscript in the old Turkic runic script 
+is not the original author's copy. As Erdal has suggested (1977:106), it 
+was probably copied from a manuscript written in the Uigur script. 
+--- pdf page 7 ---
+TEXT AND TRANSLATION 
+0 0 0 0 00 
+1. t(a)nsi m(a)n. y(a)r(I)n kic;a (a)ltun orgin tiza olurup(a)n m(a)l)i­
+l(a)yiir m(a)n. (a)n�a b ilil) l(a)r: (a)dgii ol. 
+0000 0000 0000 
+2. ala (a)tl(t)g yol t(a)l)ri m(a)n, y(a)r(I)n ki�a (a)�iir m(a)n. utru 
+(e)ki y(a)l(t)g ki�i oglm sooJu�mi�. ki�i korkmi�. 'korkma' tim 
+(i)�, 'kut birg(a)y m(a)n' timi�. (a)n�a bilil): (a)dgii ol. 
+000 000 000 
+3. (a)ltun k(a)n(a)tl(1)g t(a)l(1)m k(a)ra ku� m(a)n. t(a)n(I)m tiisi 
+t(a)kl ttikam(a)zk(a)n t(a)luyda y(a)t(l)p(a)n t(a)pladuk(u)min tu­
+t(a)r mOi)n, s(a)bd iik(i.i)min yiytir m(a)n. (a)�t(a)g ki.ic;ltig m(a)n. 
+(a)�a bilil)l(a)r: (a)dgti ol. 
+0 0 0 
+4. tirtio (a)sri tog(a)n ku� m(a)n. c;mt(a)n 1g(a)c; tiza oluruup (a)n 
+m(a)o il(a)yi.ir m(ioi)n. (a)ilc;a biliol(a)r: 
+00 0000 00 
+5. b(a)g (a)r yunho(a)ru b(a)rmi�. ak bisi kulunlami�. (a)ltun 
+tuyuglug (a)dg(I)rl(l)k y(a)rag(a)y. t(a)basil)(a)rti b(a)rmi�. tirtil] 
+ingUi)ni botulami�. (a)ltun budl(a)l(1)g bugral(1)k y(a)rag(a)y. 
+(a)biD(ii)rii k(a)lmi�. tic;i.inc; ku�uy1 unl(a)nmi�. b(a)gl(i)k y(a)ra­
+g(a)y tir. m(a)l)ilig b01)g (a)rm(i)�. (a)ny(1)g (a)dgii ol. 
+0 0 0 0 0 
+6. (a)d(I)gh too uzh art i.iza so<2!<(u)�mi� (e)rmi�. (a)d(J)g(I)IJ k(a)rru 
+1. I am Ten-si ('Son of Heaven', i.e. the Chinese Emperor). In the 
+morning and evening, I enjoy sitting on the golden throne . Know 
+thus: (The omen) is good. 
+2. I am the road god with a dappled horse. (Early) in the morning 
+and (late) in the evening I amble along. (This road god) apparently 
+met two joyful human beings. The human beings were afraid. (The 
+road god) said: 'Do not be afraid! I will give you (my) divine favor'. 
+Know thus: (The omen) is good. 
+3. I am a predatory eagle with golden wings. Although the feathers 
+of my body are not yet fully grown, lying down by the sea, I catch 
+what I please (and) I eat what I like. That p owerful am I. Know 
+thus: (The omen) is good. 
+4. I am a white-spotted falcon. I enjoy sitting on a sandal-wood tree. 
+Know thus: 
+5. A beg went to (look at) his horses (and saw that) his white mare 
+had just foaled. (He thought): it would fit to be a golden-hoofed stal­
+lion. He went to (look at) his camels (and saw that) his white she­
+camel had just given birth to a colt. (He thought): it would fit to be a 
+camel stal lion with a golde n nose peg. He went to (look at) his 
+house (and saw that) his third princess had just given birth to a son. 
+(He thought): he would fit to be a beg, it says. Apparently he was a 
+happy beg. Know thus: (The omen) is extremely good. 
+6. A bear and a boar met on a mountain pass. (At fight) the bear's bel-
+--- pdf page 8 ---
+10 Text 
+y(a)r(I)lmi�, to!) uzu!J (a)z(I)gi smmi� tir. (a)n<;a bilil): y(a)bl(a)k 
+ol. 
+0 0 0 0 0 
+7. (a)r t(a)rkl(a)yii k(a)lir. (a)dgii soz s(a)b (e)lti k(a)lir tir. (a)� 
+biliiJI(a)r: (a)dgii ol. 
+000 00 0 
+8. (a)ltun b(a)�I(I)g yii(a)n m(a)n. (a)ltun kurugs(a)k(I)min kil(I)­
+�m k(a)sip(a)n oziim yuJ inti n, b(a)�(I)mm yuJ (a)bintin tir. 
+(a)�a biliiJI(a)r: y(a)bl(a)k ol. 
+0 00 000 
+9. ulug (a)b ort(a)nmi�. k(a)hl)a t(a)gi k(a)lm(a)d�, bii�il)a t(a)gi 
+kod m<(a)d>� tir. (a)n�a biliQI(a)r: y(a)bl(a)k ol. 
+000 0000 00 
+10. (a)sn(a)g(a)n b(a)rs m(a)n. k(a)mu� ara b(a)�(I)m. (a)�(a)g (a)lp 
+m(a)n, (a)rd(a)rnlig m(a)n. (a)iigl biliQI(a)r: 
+000 0000 0000 
+11 . s(a)r(I)g (a)tl(t)g s(a)b�t, y(a)z(I)g (a)tl(1)g y(a)l(a)b(a)� (a)dg ii 
+soz s(a)b (e)Jti k(a)lir tir. (a)ny:1 bilil): (a)ny(1)g (a)dgii ol. 
+000 0000 000 
+12 . (a)r (a)bka b(a)rmi�. t(a)gda k(a)m(l)lmi�. t(a)Qrida (a)rkl(i)g tir. 
+(a)n�a biliiJI(a)r: y(a)b(I)z ol. 
+00 0000 000 
+13. t(a)Qrilig kurtga yurt(t)a k(a)lmi?. y(a)gl(l)g k(a)m1� bulup(a)n 
+y(a)lg (a)yu tirilmi9, oliimde ozmi� tir. (a)i1�a bilil]l(a)r: 
+Translat io n 11 
+ly was slit open (and) the boar's tusks were broken, it says. Know 
+thus: (The omen) is bad. 
+7. A man comes hurriedly. He comes bringing good tidi ngs, it says. 
+Know thus: (The omen) is good. 
+8. I am a golden-headed snake. Cutting my golden stomach with a 
+sword, pl uck my self out of (its) hole (and) pluck my head out of its 
+house, it says. Know thus: (The omen) is bad. 
+9. A big house was burnt down. Nothing remained right to its floors 
+(an d) nothing was le ft right to its corners, it says. Know thus: (The 
+omen) is bad. 
+10. I am a yawning leopard. Among the reeds is my head. That brave 
+(and) capable am I. Know thus: 
+11. There comes a messenger on a y ellow horse (and) an envoy on a 
+dark brown horse, bringing good tidings, it says. Know thus: (The 
+omen) is extremely good. 
+12. A man went hunting. (There) he fell to the ground (and said): In 
+heaven is mi ghty god, it says. Know thus: (The omen) is bad. 
+13. A de vout old woman remained (alone) in a de serted cam p. She 
+kept herself alive b y l ickin g a greasy ladle (and thus) she escaped 
+death, it says. Know thus: 
+--- pdf page 9 ---
+12 Text 
+0000 000 00 
+14. kuzgunug Ig(a)'<ka bami�. k(a)t(I)gh ba, (a)dgi.iti ba tir. (a)�a 
+bilir:Jl(a)r: 
+0 0000 0 
+15 . tiza tum(a)n turd!, (a)sra toz turd1. ku� ogh uc;:a azh, kiyik ogh 
+ytigtirti azh, ki�i ogh yony u azh . y(a)na t(a) fJ ri kutmta ii'<iin'< yilta 
+kop (a)s(a)n tiik(a)l korii?m(i)?. kop ogir(a)r s(a)biniir tir. (a)�a 
+bilir:Jl(a)r: (a)dgii ol. 
+0000 0 00 
+16 . tort& (a)t s(a)rnrit(t)i. ymn op(a)n y i.igii rii b(a)rmi�. utru 
+yirda ogn so� u?up tut uup(a)n minmi?. yilif]a kudursuguJa t(a)gi 
+y(a)gnp(a)n k(a)m?(a)yu umahn turur tir. (a) n .. a bilif]: y(a)bl(a) k 
+ol. 
+000 000 00 
+17. ozli!!< (a)t Ofl yirda (a)r(1)p Of]uup turu k(a)lmi�. t(a)f)ri kii'<if)a 
+t(a)g iiza yol sub koriip(a)n, yi? tiza y(a)� V koriip(a)n yonyu b(a)­
+np(a)n sub i'<ip(a)n ya? yip(a)n oliimda ozmi� tir.(a)�a bilif]l(a)r: 
+(a)dgii ol. 
+0 0000 00 
+18. k(a)raki.i i'<i na t(a)g ol? ttigiinii�i na t(a)g ol? koziin�i na 
+t(a)g? ki:ir®Jiig ol. (a)gni n(a)t(a)g? (a)dgii ol. b(a)g(I)?I na t(a)g? 
+b(a)r ol hr. (a)n'<a bilifJI(a)r: (a)ny(I)g (a)dgii ol. 
+000 0 0000 
+19. ak (a)t k(a)r?( l)Slll ii'< boJugta t(a)JuJ ap(a)n (a)g(I)nka otiigka 
+!drni? tir. korkma, (a)dgiiti otiin; (a)ymma, (a)dgti ti y(a)lb(a)r hr. 
+(a)n'<a biliiJ: (a)dgti ol. 
+000 00 00 
+20. titir bugra m(a)n. tiriif) kopii kiimin s(a)'<(a)r m(a)n. iiza t(a) IJ-
+Translation 13 
+14. They fastened a raven to a tree. 'Fasten it firmly and well!', it 
+says. Know thus: 
+15. The fog was hanging above (and) the dust was rising below. The 
+young birds lost their way flying, the young deer lost their way run­
+ning (and) the children lost their way walking. And again, by the 
+grace of Heaven, they all met in the tllird year, safe and sound. They 
+all rejoiced and were glad, it says. Know thus: (The omen) is good. 
+16. A lean horse fattened itself (on a pasture). (Then), thinking of its 
+place, it went running (towards it). (On its way home) a thief came 
+across. He caught and mounted it. (Tile horse), having galled up to 
+its mane (and) its tail, stands still without being able to move, it says. 
+Know thus: (The omen) is bad. 
+17 . A favorite horse came to a standstill in a desert exhausted and 
+wilting. Thanks to the strength given by Heaven, having seen way 
+(and) water on a mountain (and) having seen fresh grass on a 
+mountain pasture, it went (there) walking. (Thus), drinking the wa­
+ter (and) eating the fresh (grass) it escaped death, it says. Know thus: 
+(The omen) is good. 
+18. What is the inside of the tent frame like? What is its smoke hole 
+like? What is its window like? It can be seen through. How is its 
+roof? It is good. How are its ropes? They are all there, it says. Know 
+thus: (The omen) is very good. 
+19. A white horse, having chosen its adversary in three states of exis­
+tence, sent it to a dumb for praying, it says. 'Fear not, pray well; do 
+not be afraid, implore well!' it says. Know thus: (the omen) is good. 
+20. I am a camel stallion (with a herd of) females. I scatter my white 
+--- pdf page 10 ---
+14 Text 
+rika t(a)gir, (a)sra yirka kiri.ir tir. ud•gm(a)g odguru y(a)t(I)ghg 
+turg(u)ru yonyur m(a)n. (a)�t(a)g kuc;lug m(a)n. (a)nc;a bilil)l(a)r: 
+(a)dgii ol. 
+0 000 000 
+21. k(a)n i.ipgi.ik yil y(a)rum(a)zk(a)n (a)tdi. odm(ii)l), korm(a)l), 
+iirk(ii)t<m>(ii)lJ tir. (a)�a bil(i)l): 
+0 0 0 0 
+22. uzun tonlug kozl)i.isin kolka •c;g(•)nmi?. y(a)r(l)n y (a)l)rayur, 
+kic;a k(a)l)raniir tir. (a)�a bilil)l(a)r mul]lug ol, (a)ny•g y(a)bl(a)k 
+ol. 
+00 0000 0000 
+23. ogl(a)n k(a)ki!.!> t(a)z(;i)kin bult1. c;(a)k(i)k (a)tiiJ kutlug bolzun 
+hr. (a)�a b iliiJ l(a)r: (a)dgi.i ol. 
+000 0 000 
+24. t(a)gl� kulun irk(a)k yu�t(t)a (a)mig til(a)yii r. kiln ortu 
+yi.iti.iri.ip, tun ortu k(a)nta n(a)giida b ulg(a)y ol? tir. (a)�a bil(i)l)­
+l(a)r: y(a)b(1)z ol. 
+000 0 000 
+25. (e)ki i:ikiiziig bir bukurs1ka kolm(i)�. k(a)m�(a)yu umatm 
+turur tir. (a)ng1 biliiJ: y(a)bl(a)k ol. 
+0 00 0000 
+26. t(a)l) t(a)l)l(a)rdi udu yir y (a)rudi udu kiin tugd1. k(a)m(a)g 
+iiza y(a)r� bolh hr. (a)�a biliiJ: (a)dgi.i ol. 
+00 00 0000 
+27. b(a)y (a)r kony• iirki.ip(a)n b(a)rmi�. borika so�u?mi�. bori 
+(a)gz1 (a)msimi�. (a)s(a)n ti.ii&(a)l bolmi� tir. (a)nc;a bilil)l(a)r: 
+(a)dgu ol. 
+Translation 15 
+froth. It reaches the sky above (and) penetrates the earth below. I go 
+on my way waking those who were aslee p (and) rousing those who 
+were lying down. That powerful am I. Know thus: (The omen) is 
+good. 
+21. An old hoopoe sang before (the new) year dawned. 'Don't get ex­
+cited, don't look at it (and) don't frighten it!', it says. Know thus: 
+22. A woman dropped her mirror into a lake. She mumbles in the 
+morning (and) mutters to herself in the evening. Know thus: it is 
+distressing (and) very bad. 
+23. A boy found the dung of an eagle. 'Lark! May your flesh enjoy di­
+vine favor!', he says. Know thus: (The omen) is good. 
+24. A blind foal looks for an udder on a stallion. After having lost it 
+at midday, where and how would it find it at midnight?, it says. 
+Know thus: (The omen) is bad. 
+25. (A man) harnessed two oxen to one wooden plough. They stand 
+still without being able to move, it says. Know thus: (The omen) is 
+bad. 
+26. The dawn broke and the earth b ecame b right and the sun rose 
+(and) the light shone over everything. Know thus: (The omen) is 
+good. 
+27. A rich man's sheep went away in a fright. lt met a wolf. The 
+wolf ' s mouth (somehow) got poisonous. (Thus, the sheep) became 
+safe and sound, it says. Know thus: (The omen) is good. 
+--- pdf page 11 ---
+16 Text 
+0 0 00 
+28. k(a)n olurup(a)n ordu y(a)pmi�. ili turmi;;;. tort bulu l)t(a)ki 
+(a)dgiisi uyun tirili p(a)n m(a)!) il (a)yiir b(a)d izl(a)yiir tir. (a)�a 
+billi:Jl(a)r: (a)dgii ol. 
+00 000 0000 
+29. oyma (a)r ogl(a)mn kisisin tutug urup(a)n o� i� oyg(a)h b(a)r­
+mi�. oghn kisisin utuzm(a)d '!.!<, y(a)na tooJ5 uz on bo� kony 
+utmi�. ogh yutuz1 kop ogir(a)r tir. (a)�a biliQI(a)r:(a)dgti ol. 
+000 00 0000 
+30. �Ig(a)ny (a)r ogh k(a)zg(a)n�ka b(a)rmi�. yoh y(a)rami�. ogira 
+s(a)binii k(a)lir tir. (a)n� bilil)l(a)r: (a)dgii ol. 
+0000 0000 0 
+31. b(a)rs kiyik ( a)!) ka m(ii)D ka b(a)rmi�. (ii)D in m(ii)D in bulmi�. 
+bulup(a)n uyasll)(a)ru ogira s(a)binii k(a)lir tir. (a) n�a bilil): (a)dgti 
+ol. 
+0000 0 0 
+32. bir t(a)b(I)lku yiiz bolt1. yiiz t(a)b(I)Iku mil) bolt1. mil) t(a)­
+b(I)lku tiim(a)n bolt• tir. (a)�a biliol(a)r: (a)s(•)gi b(a)r, (a)dgti ol. 
+0000 00 0000 
+33. kidizig subka su'!.!<mi�. t(a)k• ur, k(a)t(I)gd• ba tir. (a)n�a 
+bilil)l(a)r: y(a)bl(a)k ol. 
+0000 0000 00 
+34. k(a)n si.ika b(a)rmi�, y(a)gig s(a)�mi�. ko�tirti konturu k(ii)lir. 
+ozi si.isi ogira s(a)bini.i ordusio(a)ru k(a)lir tir. (a)�a bilil)l(a)r: 
+(a)dgi.i ol. 
+0000 000 0000 
+35. (a)r si.i ka b(a)rmi�. yalta (a)ll (a)rmi� . (a)r kugu ku�ka 
+Translation 17 
+28. After having ascended the throne, a khan built a royal camp. His 
+realm remained (firm). The good (and) skillful men in all quarters of 
+the world, having assembled (there), rejoice and adorn (his court), it 
+says. Know thus: (The omen) is good. 
+29. A man whose job is to hollow out slaughtered animals, staking 
+his sons and womenfolk, went to hollow out internal organs and in­
+testines (of slaughtered animals). So far from losing his sons and wo­
+menfolk he yet won ninety loose sheep. His sons and womenfolk 
+all rejoice, it says. Know thus: (The omen) is good. 
+30. A poor man's son went out to earn money. His journey was suc­
+cessful. He comes (back) rejoicing and happily. Know thus: (The 
+omen) is good. 
+31. A tiger went to look for game and prey. It found its game and 
+prey. After having found it comes to its den rejoicing and happily, it 
+says. Know thus: (The omen) is good. 
+32. One spriaea became a hundred; a hundred spiraeas became a 
+thousand (and) a thousand spiraeas became ten thousand. Know 
+thus: (The omen) is good. 
+33. (A man) put the felt into water. Beat it more (and) tie it tightly, it 
+says. Know thus: (The omen) is bad. 
+34. A khan went on a campaign (and) routed the enemy. He comes 
+(back) permitting (his soldiers) to nomadize and settle down 
+(wherever they please). He himself and his soldiers come toward his 
+royal camp rejoicing and happily, it says. Know thus: (The omen) is 
+good. 
+35. A man went to the army (in war). On (his) way (back home) his 
+--- pdf page 12 ---
+18 Text 
+soku�mi�. kugu ku� k(a)nattoa urup (a)mn k(a)hyu b(a)np(a)n 
+ogioa k(a)J)ll)a t(a)gi.irmj�· ogi k(a) !)I ogir(a)r s(a)bini.ir tir. (a)n� 
+bilil)l(a}r: (a)dgi.i ol. 
+0 0 0000 
+36. iikii� (a)tl{t)g ogr(ii)�l) yoo-!5. kohl (a)tl(t)g kork(t)n91J yoo!. 
+w;ruglug kutUJ) yo<2!< tir, (a)n\'1 hili[) l(a)r: (a)nytg y(a)bl(a)k ol. 
+0000 000 0 
+37. bir k(a)n oki.izi.ig bilin bi\e kuJnursga yimi§>. k(a)m�(a)yu 
+umatm turur tir. (a)n\a biliiJ l(a)r: y(a)bl(a)k ol. 
+0000 0 000 
+38. k(a)mt� ara k(a)lmi�. t(a)f)ri unam(a)d�. (a)bl!l\U k(a)tun 
+bolzun tir. (a)nc;a biliol(a)r: (a)dgii ol. 
+0000 00 00 
+39. t(I}gtg t(e)rtrii ki�ami�. k(a)m�ayu umatm turur tir. (a)n� 
+biliol(a)r: y(a)bl(a)k ol. 
+0 0000 0000 
+40. t(a)l{t)m un y(a)r(1)n (a)\a y(a)SI\in y(a)l(t)m k(a)y(a)g y(a)ra 
+uruup(a)n y(a)lousun yonyur tir. (a)1�(a)g (a)lp (a)rmi�. (a)�a 
+bilil:Jl(a)r: (a)dgti ol. 
+0000 00 000 
+41 . tiri.il] (a)sri ing(a)k buzagul(a)\1 bolmi�. olg(a)y m(a)n lim(i)§'. 
+iiriif) (a)sri irk(a)k buz(a)gu k(a)liirmi�. 1dt�Juk y(a)rag(a)y. 
+tiltigda ozmi� tir. (a)n\a bilif): (a)dgii ol. 
+0000 0 0000 
+42. uzun tonlug idi�in (a)y(a)km kodup(a)n b(a)nni�. y(a)na 
+(a)dgiiti s(a)kmmi�. idi�(i)mta (a)y(a)k(t)mta ooi k(a)�a b(a)nr 
+m(a)n tir. y(a)na k(a)lmi�. idi�in (a)y(a)km (a)s(a)n tii�(a)l 
+Translation 19 
+horse became tired. (Then) the man met a swan. The swan placed 
+(him) on its wings (and) flew up with him. (Thus) it brought hjm to 
+his mother and father. His mother (and) his father rejoice (and) take 
+pleasure, it says. Know thus: (The omen) is good. 
+36. You don't have the pleasure of a man bearing many titles. ( On 
+the other hand, however), you are not afraid of having a poor repu­
+tation. (In short), you don't have a good fortune to be celebrated with 
+flying flags, it says. Know thus: (The omen) is very bad. 
+37. An old ox was eaten by ants, gnawing around its belly. It lays 
+down without being able to move, it says. Know thus: (The omen) is 
+bad. 
+38. (A slave girl) remained (alone) among the reeds. Heaven was 
+not pleased with it. 'May (this) slave girl be a queen!', it says. Know 
+thus: (The omen) is good. 
+39. They fettered a roan horse crosswise. It stands, without being 
+able to move, it says. Know thus: (The omen) is bad. 
+40. A bold youth marches alone, opening (rus) shoulder, striking and 
+splitting the bare rock with a broad arrow-head, it says. That tough 
+and powerful was he. Know thus: (The omen) is good. 
+41. A white-spotted cow was on the point of calving. She said: 'I am 
+about to die!' (Nevertheless) she gave birth to a white-spotted bull 
+calf. It would be suitable to dedicate it to Heaven, (for the cow was 
+(thus) saved from (her) fate, it says. Know thus: (The omen) is good. 
+42. A woman went away, leaving behind her cups and bowls. Then 
+she (stopped and) thought thoroughly. 'Where am I going apart 
+from my cups and bowls?' she says. She again came back (and) 
+found her cups and bowls safe and sound. She rejoices (and) be-
+--- pdf page 13 ---
+20 Text 
+bulmi�. ogir(a)r s(a)bintir tir. (a)n�a biliQI(a)r: (a)dgti ol. 
+0000 000 000 
+43. tog(a)n tigtiz ku�I ku�l(a)yu b(a)rmi�. utru t(a) l(1)m k(a)ra 
+ku� kopup(a)n b(a)rmi:? hr. (a)n� bil(i)Ql(a)r: y(a)bl(a)k ol. 
+00 0000 0 
+44. tog(a)n ku� t(a)IJ rid(a)n kod1 t(a)b(I)�g(a)n tip(a)n k(a)pmi�. 
+tog(a)n ku:? hrl)(a)ki su�ulunmi�. y(a)na htinmi�. tog(a)n ku�uiJ 
+IIrl) (a)k1 ii.gti�ii.p(a)n k(a)hyu b(a)rmi�, t(a)b(I):?g(a)n t(a)risi ii.l)i.i� 
+(ii)p(a)n ytigii.rii. b(a)rrni�. (a)�t(a)g tir. (a)n<;a biliiJI(a)r: y(a)b(t)z ol. 
+00 000 0 
+45. kiyik ogh m(a)n. <(!suz subsuz k(a)III uym? n(a)<;tg< yonym? 
+tir. (a)�a bilil)l(a)r: y(a)b(I)z ol. 
+000 000 0 
+46. t(a)ba titigka ti.i�mi:?. b(a)smu yimi�. ozin tilkii yimi:? tir. 
+(a)n<;a biliiJLUi)r: y(a)b<l>(a)k ol. 
+0000 0 0 
+47. (a)r umal(a)yi.i b(a)rmi:?. t(a)l)rika so�u:?mi:?. kut kolmi:?. kut 
+birmi�. '(a)g(t)I(I)l)la ytlktl) bolzun, ozii iJ uzun bolzun!' timi�. 
+(a)n�a bil(i)Dl(a)r: (a)dgti ol. 
+0000 0000 000 
+48. k(a)n yol t(ii)IJri m(a)n. sm&rJm s(a)p(a)r m(a)n, iizii�i!Ji n 
+ulayur m(a)n. ilig itmi:? m(a)n. (a)dgiisi bolzun tir. (a)n<;a bi­
+l(i)!J l(a)r: 
+0 0000 000 
+49. b(a)rs kiyik (a)l)l(a)yti m(ii)!JI(a)yii b(a)rmi�. ortu yirda (a)m­
+g(a)ka so�u:?mi:?. (a)sri (a)mga y(a)l(l)m k(a)yaka tinii.p b(a)rmi�. 
+Translation 21 
+comes delighted, it says. Know thus: (The omen) is good. 
+43. A falcon went hunting river birds. (Suddenly) a predatory eagle 
+flew up to meet it, it says. Know thus: (The omen) is bad. 
+44. A hawk, saying (to itself) 'Here is a hare!', (flew) down from the 
+sky (and tried to) catch it. The hawk's claws were skinned and torn. 
+The hawk flew up and went away with its claws worn out; (and) the 
+hare ran away with its skin torn off. Thus it says. Know thus: (The 
+omen) is bad. 
+45. I am a deer calf. How shall I be able (to manage) without water 
+and grass? How shall I walk along? it says. Know thus: (The omen) 
+is bad. 
+46. A camel fell into mud (i.e., a marsh). It kept on eating while 
+sinking down, (but) itself was eaten by a fox, it says. Know thus: (The 
+omen) is bad. 
+47. A man went visiting (and) met a god. He asked for his divine fa­
+vor. (The god) gave his divine favor (and) said: 'May you get live­
+stock in your pens! May your life be long!' Know thus: (The omen) 
+is good. 
+48. I am the old road god. I fix your broken parts (and) l join together 
+your torn things. I have organized the realm. May there be the good 
+of everything! it says. Know thus: 
+49. A tiger went looking for wild game and prey. In an open place it 
+came across a wild goat. The spotted wild goat went up a steep rock 
+(and) was saved from death. Having been saved from death, it walks 
+--- pdf page 14 ---
+22 Text 
+oltimta ozrni�. oltimta ozup(a)n ogira s(a)bi nti yonyur tir. (a)�a 
+bil iiJ: (a)dgii ol. 
+000 0000 0 
+50. hg (a)t kudru�m ti.igi.ip tig r(a)t, y(a)z(J)g kod1 y(a) dr(a)t. 
+toc&uz k(a)t i.i�(i.i)rgtil) topuulg(J)n�a t(a)ritztin tir. (a) n�a bilil)l(a)r: 
+y(a)b<l>(a )k ol. 
+000 000 0000 
+51. t(a)h)m k(a)ra ku� m(a)n. y(a)�(1)l k(a)ya y(a)yl(a)g(J)m, klZI.l 
+k(a)ya kl�l(a)g(t)m ol. t(a)gda turup(a)n m(ii)IJil(a)yi.ir m(ii)n, 
+(a)�a biliQl(a)r: 
+00 0 000 
+52. (a)r busu�lug, t(a)l)ri buhtl(1)g bolh. <buht> ara ki.in tugrni�. 
+busa � (a)ra m(ii)l)i k(a)lmi� tir. (a)�a bilil)l(a)r: (a)dgi.i ol. 
+00 000 00 
+53. boz buht yond1, bodun tiza y(a)gdt. k(a)ra buht yond1, k(a)­
+m(a)g i.iza y(a)gd1. t(a)ng bi�di, y(a)� �I tindi, y1lklka ki�ika 
+(a)dgi.i boltt tir. (a)n�a bililJ l(a)r: (a)dgti ol. 
+0 0 0 0 0 
+54. kuJ s(a)bt b(a)gilJ(i:i)rti otti ntir, kuzgun s(a)bt t(i:i)l) rig(a)rti y(a)l­
+b(a)rur. i.iza t(ii)l)ri (e)�idti, (a)sra ki;.;i bilti tir. (a) n\a bil(i)!J: (a)dgii 
+ol. 
+00 0 0000 
+55. (a)lp (a)r ogh stika b(a)nni�. si.i yirinta (a)rklig s(a )b�t tti­
+r(ii) tmi� tir. (a)biiJ(a) rti k(a)ls(a)r ozi at(a)nmi�, ogr(ti)n�tiltig, (a)h 
+yit iglig k(a)lir tir. (a)n�a biliQl(a)r: (a)ny1g (a)dgti <ol>. 
+Transla tion 23 
+about rejoicing and being glad, it says. Know thus: (the omen) is 
+good. 
+50. Tie up the roan horse's tail into a knot an d make it run until it 
+breaks wind; make the bay (horse) run until it (al most) spreads down 
+(on the ground so that) they sweat until your nin e shabracks be 
+pie rced, it says. Know thus: (fhe omen) is bad. 
+51. I am a preda tory eagle. My summer quarte rs is a green rock (and) 
+my wi nter quarters is a red rock. I enjoy staying on the mountain. 
+Know thus: 
+52. The man became depressed (and) the sky cloudy. (Sud denly) sun 
+rose am ong (the clouds) and joy came in the midst of depression, it 
+says. Know thus: (The omen) is good. 
+53. A gray cloud passed; it rain ed over people. A black cloud passed; 
+it rained over everything. The crop ripened; the fresh grass sprout­
+ed. It was good for animals and men, it says. Know thus: (The omen) 
+is good. 
+54. The sl ave's words are a request to his maste r; the raven's words 
+are a prayer to heaven. Heaven above heard it; men below und er­
+stood it, it says. Know thus: (The omen) is good. 
+55. A brave son of man went to the army (in war). In the field of 
+fight, he got himself made an authoritative envoy, it says. When he 
+comes home, he comes as a famous (and) joyful (warrior), (and) his 
+horse as a capable (mount), it says. Know thus: (The omen) is ex­
+trem ely good. 
+--- pdf page 15 ---
+24 Text 
+0 000 00 
+56. ugri I) a kut ]ug (a)d g(I)r m(a)n. y (a)g(a)k Ig( a) c;: yayl (a)g(l)ffi, 
+ku�l(u)g 1g(a)c;: ki�l(a)g(I)m. (a) �ta turu up(a)n m(a) IJ il(a) yiir m(a)n 
+tir. (a)nc;:a biliiJ I(a) r: (a)dg ti ol. 
+0 0 0 0 0 
+57. k(a)n(I)gi olm(i )�, kol)aki to IJmi�. k(a) n(I)gi n( a) lig< olg(a)y ol? 
+b(a)gli g ol. konaki n(a)l iB to Qg(a) y? kiin(a)�ka olurur ol. (a)�a 
+bilil )l (a)r: bu trk b(a)�mta az (a)mg (a)ki b(a)r ; k in y(a)na (a)dgii 
+bolur. 
+00 00 000 
+58. ogh ogi nta k(a )l] mta obk(a) la p(a)n t(a)z (i)p (a)n b(a )rmi�. y(a )­
+na s( a)k mmi� , k( a)lm(i) �. 'ogiim olin (a )l( a)ym, k(a)IJ (I) m s(a)bm 
+h!Jl(a)ym' tip k(a)lmi� tir. (a)nc;:a bi lil)l (a)r: (a) dgu ol . 
+000 00 000 
+59. pika t(a )gmi� ig y idJtm( a)y m, (a)yk a t(a)g mi�ig (a)r tatm( a)y m, 
+(a)d gtisi bolzun tir . (a)�a bili! Jl( a)r : (a) dgii ol. 
+0 000 0000 
+60. to�uz (a)rh s1gun kiy ik m(a)n. b(a)d <tik> liz iiza iiniip(a)n 
+mo l]r ayiir m(a)n. tiza t(a)l]ri (e)�idti , (a) sra ki�i bilti. (a)�t(a) g 
+ktic; l tig m(a)n tir. (a)nc;a bili !Jl(a)r: (a)d gii ol. 
+0 0000 000 
+61. turnya ku� tii�nakil)a konm i�. tuymahn tuz(a)k(k)a ilin mi�. 
+uc;:a um atm olurur tir. (a)�a bili l)l(a )r: y(a)b <l> (a)k ol. 
+000 0 0 0 
+62. y(a)rgun kiyi k m(a)n. y(a) yl( a)g t(a) g( 1)ma (a)g l)p(a) n y(a)y­
+l(a)yur turur m(a)n. m(a)I J ilig m(a)n tir . (a) �a bi li!Jl(a)r: (a)dgii 
+ol. 
+Translation 25 
+56. I am a stallion happy in his stud. My summer qu arters is (be­
+neath) the nut-trees (and ) my wi nter quarters is (beneath) th e trees 
+wh ere birds crowd. I enjoy staying there, it says. Know thus: (The 
+omen) is good. 
+57. Her favorite (lover) has di ed (and ) her p ail has frozen. Why 
+should her favorite (l over) die? He has the status of a beg. Why 
+should her pail freeze? It is pl aced in the sunshine. Know thus: at 
+the beginning of this omen there is a li ttle pain; (but) la ter it becomes 
+good again. 
+58. A son, being angr y with his mother (and) father, ran away (from 
+home). (La ter) he thou ght it over (and) came back. He came back 
+saying 'l will accept my mother's advice (and) listen to my father's 
+words', it says. Know thus: (The omen) is good. 
+59. I will not make one that has reached (the stage of) a year stink, 
+(or) one that has reached (the stage of) a month go bad. Ma y good 
+come to them, it says. Know thus: (The omen) is good. 
+60. I am a male mara! deer with a nine-b ranched horn. Rising on 
+my big (and) powerful knees, I bellow. Heaven above heard it (and) 
+men below realized it. That powerful am !, it says. Know thus: (The 
+omen) is good. 
+61. A cra n e settled on its resting-place, (but) by not noticing it , was 
+caught in a snare. lt sits without being able to fly, it says. Know thus: 
+(The omen) is bad. 
+62. I am a yargun deer. Clim bing the mountain which is my sum­
+mer reside nce, I stay there for the summe r. I am happy, it says. 
+Know thus: (The omen) is good. 
+--- pdf page 16 ---
+26 Text 
+0 0 0 0 
+63. k( a)ni(I)k stisi (a)bka unmi�. s( a)gtr i\=ra (a )li k kiyik kirrni;;.;. 
+(a)l(i)gin tutrni�. k(a)r a k(a)m(a)g stisi ogir (a)r tir. (a)�a biliiJ­
+l(a)r: (a)dgu ol. 
+0 0000 000 
+64. kok boymul tog(a)n ku� m(a)n. kori.ijlt ig k(a)yaka konuup(a)n 
+kozl(a)yi. ir m(a)n , y(a)g(a)kl (I)g togr(a)k i.iza tu�i.ip (a)n y(a)yl(a)y ur 
+m(a)n tir. (a)�a biliD l(a)r: (a )ny1g ( a)dgi. i ol. 
+00 000 000 
+65. s(a)rniz (a)t (a)gz1 k(a)t(1)g bol l!. idi si um (a)z tir. (a) n \=3 bil iiJ-
+l(a)r: y(a)bl(a)k ol. 
+(a)mtl (a)rnr(a)k ogl(a)n(I)m, (a)�a bil il) l (a)r: bu Hk bitig (a)dgu 
+ol. (a)n\=(1)p (a)lku k(a)nti .i iili.igi (a)rk li g ol. 
+b( a)r s yu (e)kinti (a)y bi� yi g(i)rmik a t(a )ygi.int(a)n m(a)ms­
+t(a)nt(a)ki ki�(i)g di <n>l(a)r burua gur u (e)�(i)d [i p] i�(i)m (i)z isig 
+s(a)J ) un ita�u� i.i�i.in bitid(i)m. 
+Translation 27 
+63. The ar my of the khanate went out for hun ting. (Mean while) a 
+roe-buck enter ed the game bat tue. (The khan) caught it with (his) 
+hand. All his common soldi ers rejoice, it says. Know thus: (The 
+ome n) is good. 
+64. I am a gray falcon with a white neck. Sitting on a rock with a 
+wide view , I look around. Settling down on a poplar full of nut s, I 
+spend the summ er, it says. Know thus: (The omen) is very good . 
+65. A fat horse's mouth became hard. Its master cannot do anything 
+(to heal it). , it says. Know thus: (The omen) is bad. 
+Now, my dear sons, know thus: this book of divination is good. 
+Thus, everyone is master of his own fate. 
+In the Year of Tiger , on the fifteenth (day of) the second month, I, the 
+yo ung pious (dis ciple) stay ing at the Tay-gt in -tan monastery, after 
+having lis tened to the burua g11ru (i .e. the spiritual master of pre­
+sage) , wr ote (this book) for our affec tionat e big brother General 
+haquk. 
+--- pdf page 17 ---
+EXPL ANATIONS 
+1.1. y(a)r(I)n 'in the morning'. Clauson derived this word from yaru­
+'to become brig ht, shin e' (ED :970). This etymology has rightly been 
+rejected by Erda! on the ground that the final vowel of the verb is 
+not 1, but u (1977:88). 
+1.2. ki�a 'in the evening'. Clauson derives this word from ke:�- 'to be 
+lat e' (ED:6 94). Accord ing to Erdal, it is the equative form of the ex­
+tin ct noun *ke which is also the root of ken and kedin (1 977:88). In 
+my opini on, ki�a is de rived from ke� [ke:�l 'late' with the ancient da­
+tive- lo cative su ffix {+A} (cf. Tekin 1985:254). 
+1.3. orgin 'taht'. Clauson derives this word from orge-, a verb about 
+the existence of which he has doubts (ED:225). OT orgin is a deriva­
+tive of org(i) - 'to elevate, raise, erect', a verb which actually occurs in 
+th e Shine -Usu inscription (south 10): (e)l orginin (a) �ta org( i)p(a)n 
+it (i)t d(i )m 'hess ich dann reichshof auffi.ihr en' (Ramstedt 19 15:30 -31 ). 
+2.1. ala 'm ottled, dapp led, spotted' should be read a:la for the initial a 
+is written (cf. Trkm. a:la id.). 
+2.2. sooJ>u �mi� , korkm i�. These two examples and many others oc­
+curring in IB indic ate that the participial suffix -mi� did not observe 
+the rules of vowel (p alatal) harmony. As is known, the final sibil ant 
+of thi s su ffix is generally written with the palatal sign 52 in the Ork­
+hon inscriptions 
+2.3. (a)�i ir m(e)n 'I amble'. Erdal (1977:69) thi nks that this verb could 
+only be a�ii -, because the verb a�- 't o amble' takes the present tense 
+suf fix as -ar in MK. But the verb a�i i- means 't o cover, envel op' 
+which does not make sense here. 
+--- pdf page 18 ---
+30 Explan ation s 
+2.4. y(a)i(I)g 'cheerful, jolly'. This word was read (a)yi (I)g by Thom­
+sen and the ph rase (e)ki (a)ylh)g ki�i oglm was tra nslat ed as 'a two­
+month old child of man' (1912:19 6). Orkun (ETY TT:7 3) and Clauson 
+(ED:272) accepted this read ing and translation. Erda! (1 977:89) has 
+right ly rejected this read ing and suggested y(J)I (J)g citing the follow­
+ing passage from TT 1:1 4: tiitii� kari� kodg1l, y1h g yum�ak bolgJI 'Kav­
+gayla t;:att�mayt buak, 1hk ve yumu �ak ol'. But the vowel 1 of the 
+first syll able is not writt en. For that reason I am of the opinion that 
+the word should be read y(a)I(J)g 'cheerful, jolly'. This word, other­
+wis e unk nown and unat tested in the writt en records , survives in 
+Yakut as sah: 'cheerful, jolly' : kiilii: sah: 'la ughter and joke', kiilU : 
+sah: kisi 'a cheerful and witty person' (Pek. 12 88). 
+3. 1. t(a)l( I)m 'pr edatory'. An adjective der ived from tah- 'to damage, 
+pill age, attack, assault', a vari ety of well- at tested tal a-, which is also 
+attested in Ui g. ri :76: tahp quna ... "pl undering and stealing'. 
+3.2. k(a)r a ku� 'eagl e' . Thomsen (191 2:19 6) an d Orkun (ETY Il:73) 
+translated the phr ase as 'black-eagle' (kara karta l). But the whole 
+phr ase means 'eagle', as corrected by Clau son (19 61 :219 and ED:643). 
+3.3. t(a) n(I)m tiisi 'th e feathers of my body'. Thomsen (191 2:19 6) and 
+foll owing him Orku n (ETY IT :73) transla ted the ph rase as 'the appear­
+anc e of my body' (vt ic udt imt in gort int i�U) , analiz ing the secon d 
+word as tiis-i. 
+3.4. t(a)pladuk (u)min . The vowel connecting the accusative suffix -n 
+shou ld be read i, for the accusative suffix is written wit h the front n 
+sign. ln the Old Turkic runic texts there are several examples indic at­
+ing that the vowel occu rring between the 1s t and 2n d p. poss. suffix­
+es and the acc usative su ffix -n was originally i: s(a)b(I)m(i)n 'my 
+words' (KT S 1) , ogl(u) m(i)n 'm y son' (Suji 6), k( a)n(J )Q(i)n 'your 
+khan' (T 3). 
+Exp l anat ions 31 
+4.1. (a)sri 'spotted, dap pled'. It was Orku n who first recognized this 
+word and translated it as 'tekir ' (ETY fl:7 4). 
+5.1. tuyuglug. The word meaning 'ho of' has di fferent shapes in Mi d­
+dle Turkic texts and modern languages (cf. ED:519). The only surviv­
+ing form wh ich fits IB tuyug seems to be Tuv. duyug. 
+5.2. y(a)r ag(a)y 'it would fit to be', ' it would be suitable for'. This verb 
+occurring th rice in this omen was misunder stood by Cla uson in it s 
+first two occurrences: 'The golden- hoofed stud will flourish' (ED: 49), 
+'The golden-bodied camel stud will prosper' (19 60:21 9), 'The gold en­
+bod ied camel stud will flourish' (ED :305). The sentence altun tuyu ­
+glug adgHh k yaragay was under stood correctly only by Orkun: 'Altm 
+nalh aygtrhga yarar ' (ETY Il:74). 
+5.3. budl(a )l( I)g 'h aving a nose peg'. Scholars have had dif ficu lt ies in 
+rea di ng and in terpr et ing this word. Thomsen left it un translated. 
+Clauson (19 61:219) was certain that the second l in this word must be 
+an error for u; so he suggested that the word should be corrected to 
+read bodlug and under stood as 'having a body' . He translated the 
+phr ase altun bodlu g as 'golde n-bod ied' (1 961: 219 , ED:305). But his 
+cannot be correct , because the par al lel ism requ ir es that we should 
+have here a word denotin g a devic e whic h belongs to a camel and 
+corresponds to the 'nail' of a stallion. Such a word could onl y be a 
+'n ose peg' . 'A camel's nose peg' was very li kely calle d *budlu and 
+*bud la in Old Turkic as we understand from the historical and sur­
+vivin g forms of it: MK butlu camel's nose-pl ug' (Dan ko££ 1: 325, 329), 
+Kirg. buyla 'the rope tied to a camel's nose peg', Kzk. buyda id. , Ta­
+ranchi buyla 'a camel's wooden nose peg', Tuv. buyla id. , Trkm. 
+biiyli id., etc. The form in MK goes back to an olde r *budlu wh ich 
+su rvives in Trkm. biiyli (<*buyh <*budlu. Tuvinian buyla with its y 
+is obvious ly a loan word in this language. Consequently, there is no 
+scribal error in BL IDLLG which can be read either budl (u)l (u)g or 
+bud l(a)J(J)g 'having a nose peg'. 
+--- pdf page 19 ---
+32 Explan at ions 
+8.1. oziim yul intin 'pl uck my self (soul) out of (its) hole'. Clauson's 
+translation of this sentence as 'pull me out of the hole' (1960:219 -220) 
+cannot be correct, for a snake can be cut only when it is out of the 
+hole! Since k!l (!)pn k(e)sip(e)n 'cutting with a sword' precedes this 
+senten ce, the word in 'h ole' must have been used here figuratively. 
+The same is true of (e)b 'house' occurring in the following sentence. 
+8.2. (e)bint (i)n 'from its house' . The parallelism requir es that this 
+word should be un derstood as such and not as 'f rom its berries', as 
+su ggested by Clauson (19 60:2 20 and ED :l2 ). 
+The par all elism and the ru les of prosody also req uir e that the 
+words oztim and in tin occurring in the previous sentence oziim yul 
+intin must be oziimin and inin tin respectively: oziim[in] yul in 
+[in]tin I b(a)�(I)mm yul (e)bint(i)n. 
+9. The words k(a)t and biiii� [bii k] seem to have been used here sy­
+nonomously, as suggested by Erdal (1 977:91 ). 
+10.l .(a)sn(a)g(a)n 'yawning'. This word was first recognized as such 
+by Clauson (1 960:220). 
+10.2. k(a )mu�. An example of early labial ization; cf. k(a)mi� (38). 
+12. k(a)m (I)lmi � 'fell down'. This word w<�s first read k(a)m l(a) mt§ 
+and translated as 'p erf ormed shaman tr icks (?) ' by Thomse n 
+(1912:1 98). Later , however , it was corrected to read k(a)m(I)lmi �'fel l 
+do wn' by him (Sam/cdc Aflwndlinger 111 :250). This reading was ac­
+cepted by Orkun (ETY Il :75), but not by Malo v (1 951 :81 ) and by Clau­
+son (1 960:220 and ED :628). Alt houg h both readings and int erpreta­
+tions ar e possi ble , J believe that k(a )m(I)lmi� is mor e probabl e, 
+because it is rather un usual for a man who goes for hunting to make 
+magic on a mountain. 
+13.1 bul up(a)n 'f ind ing'. This word which was read bul u!)h)n by 
+Explan ations 33 
+Thomsen (1912: 198) is in fact bul up (a) n as first noticed and corrected 
+by Clauson (1960:220). 
+13.2. tiri lmi � 'stayed alive'. Orkun's translation of th is word, i.e. , 'di ­
+rilmi� ' is incorrect (ETY II:76) So is Cla uson's second translation in 
+his di ctionar y: 'was resuscitated' (E0:5 47), as point ed out by Erda ! 
+(1 977:93). His first translation in 'N otes', i. e., 'stayed alive' (19 60:220) 
+was correct! 
+14. bami� [ba:mi �] 'tied'. The spelling of a in this word indicat es that 
+it is a long one (MK ba:-, Trkm. ba:-, Khal. va:- id.). 
+16.1 . s0i)mr it(t)i 'fatten ed (itself)'. Thomsen (19 12: 199), Orkun (ETY 
+ll:23), Malov (1951) and Cla uson (ED:830) regarded this word as a ge­
+rund in -i functioning as a modifier of the following yi rin 'it s place', 
+and un der stood the phrase toru!- (a)t s(a)mriti yiri n op(a)n as 'a 
+lean horse, remembering the place which fattened him' (ED:830). Er­
+da! has rejected this interpretation on the ground that the geru nds in 
+-a /- e have alm ost never been used as modif iers of nouns in the Old 
+Central Asian Tur kic (1 977:93). He think s that the spelling smrltl 
+could be a scribal error for smrltp, i.e., s(a)mr it(i)p . This is possible; 
+but I am of the opin ion that there is no scribal error here and the 
+wor d in question is nothing but s(a)mri t(t)i. 
+16 .2 . ku dursugi! )a 'to it s tail'. The manuscript has KUDU RSU ­
+Gli)N li)A which is obviously a scribal error. 
+Al though a hapax legomena, the word is no doubt etymologicall y re­
+lat ed to kudruk 'tail', ku durgak 'tail (gown)', kudur gun 'crupper 
+(sadd le)', etc. all occurring in MK. 
+17. ya� 'fresh grass' . This word which occurs twic e in this par agraph 
+is spelt Y A;; in its second occurrence. The spel ling of a indicates that 
+it is long (MK ya:�, Trkm. ya:� id.). 
+--- pdf page 20 ---
+34 Expl anations 
+18. koz(i i)ni ik i 'it s wind ow' . The man uscript has kUzrt UJ<kl . The 
+letter e after UJ) is superfluous. 
+21.1. k(a)n iipgiik 'an old hoopoe'. Thomsen, Orku n, Malov and 
+Clauson have k( a)r a opgiik. Man uscri pt clearly has KRJ , i.e. k(a)n, 
+as pointed out by Erda) (1 977:95). 
+21.2. (a) td i 'it sang' . All the previous investigat ors read this t(e)di 'it 
+said' which does not make sense here. The verb at- 'to si ng, make a 
+sound' is well-att ested in the old Turkic texts: t(a)gda stg un (a)ts(a)r 
+'w hen deer bell ow at mou ntains ', iiza t[(a) Qri) kob(i i)rg(a)si (a)t 
+(a)r �a 'as if the br idge of heaven above thund ers' (Bilg e Kagan, 
+West), Uig. atiz- 'to play a musical instru ment', etc. 
+21.3. od m( a)Q 'do not get excited !'. Claus on identif ied this verb as the 
+root of MK iillig 'passion, sexual desire' and translated it as 'do not 
+get excited' (1 960:221, ED:SO). Erda! reminded that it could also be the 
+simplex of the ver b iidiir - 'se�ip aymnak' (1 977:95). I agree with 
+Clauson , for what we need here is a verb meanin g 'to get excited' 
+wh ich is followed by kormal] 'do not look! '. But the verb meaning 
+'t o get excited' was in all lik ely hood with o in Old Turkic , for it sur­
+vi ves in Kirghiz as oyi i- (<*o dii - or *odi- ). Ther efore the readings 
+ii&. and iillig in Claus on and Danko££ should be corrected to read ij().. 
+and ollig, respectively, 
+21 .4. iirk(i i)tm(a)Q 'do not frighte n!'. The manu script has Urkttl] 
+which is read iirkittiiJ and transla ted as 'you frightened me' by Clau­
+son (ED:39). But this mean ing does not fit the context: 'do not get ex­
+ci ted, do not look, you frightened me'. It seems that a hoopoe's si ng­
+in g before the dayb reak of the New Year is probably regarded as a 
+sign of bad lu ck and people are warned as to not getting excited, not 
+loo kin g at it and not frighten it. l thi nk that iirktll] is a scribal error 
+here for iirktllll], i.e. iirk(ii)tm(a )IJ. 
+Expl anations 35 
+22.1. uzu n tonlug 'w oman'. There seems to be no do ubt that this is 
+an ex pression used to de note women, not mon ks as thought by 
+Thomsen (1912: 200) and Orkun (ETY 11:7 8). 
+22.2. kozl]i i 'm irror'. Thomsen read this word kiiz(i i) IJii 'bel l'. Sinc e 
+uzun tonlug means 'a woman' and not 'a monk', it is onl y logical to 
+think that what we have here is kozl]i i 'mir ror' as Malov and Clau­
+son th ought. 
+22.3. y(a)l) ra- 't o mu mb le', k(ii)I Jriin- 'to mu tter to oneself'. Clauson 
+(1 960:22 1) thought that the subject of these verbs was the mi rror. It 
+seems to be more logical to thi nk that the subject of these verbs is the 
+woman who dropped her mir ror int o a lake as Malov first in terpret­
+ed (19 51) and Erda! (1 977:96) reaffirmed. 
+23. c,;(a)k(i)k 'lar k'. The ma nuscript has t;Uk. Clauson thought that it 
+was perhaps an error for c,;avtl) 'you r reputation' which is followed by 
+ahl ) 'your name' (19 60:221-2 22). But the second word is clearly spel l 
+tl!) which can only be read (a) til ] as pointed out by Er da I (1 977:96). 
+Sinc e k(a )kiik is some kind of a bird of prey, it is quite reason able to 
+assume th at the word spell t;Uk is an error for t;kk, i.e. c,;(a) k(i)k 'la rk', 
+as suggested by Erda! (1 977:96). 
+24 . yiitiiriip 'having lost'. Thomsen and other scholar s read this 
+word yiitiirilJ. 'being loaded', taking the final letter to be iik. But it is 
+clear ly Up in the manus cri pt, as first point ed out by Er da! (1 977:96). 
+Ther efore th e word should be read yii tiiriip, alth ough it is the only 
+case in IB where the letter Up is used to write the front-vocalic iip. 
+As for the id enti fication of the verb yiltiir-, all the previous schol­
+ars exc ept Cla uson took it to be a variet y of an original yi idi ir- 'to 
+load'. But in a runic text an inte rvoca lic d could not have been writ ­
+ten with the lett er t. Claus on thoug ht that , 'if it is correctly spell', 
+yiit iir- cou ld be an Old Turkic causative form of MK yii&. 'to lo ad 
+--- pdf page 21 ---
+36 Explan ati ons 
+one's self ', i. e. yiit(t)i ir- (1 960:222). But this is im possible , for the 
+causative form of yiid- is yiidiir-, not *yiidti ir-. 
+The best solut ion for yiitiir- seems to be to regard it as the causative 
+of *yilt-, i.e. a diale ctal form of OT yit-, which su rvi ves only in Ya­
+kut slit- 'to be lost, get lost' (caus. stiter- <*ytitiir- ). 
+25. bu kursi 'a wooden plough'. This word seems to have survived 
+only in Modern Uighur: (lit.) buqu sa, (dial.) bug ursa 'a wooden 
+plough', (Jar. 58) b oqu sa, bu qu sa, bu qusae id., Tar.(R ad.) pogursa 
+'handle of a plough'. Claus on has bokurs1 and Da nkoff boqursi. 
+26. t(a)l)l(a)r - 'to break (of dawn)'. Claus on regards this verb as an er­
+ror for tal]la - (ED:51 0). But it seems to be a derivative of tal]la 'at 
+da wn', as suggested by Erdal (1 977:97). 
+27. (a) msi- 'to become poisonous'. Thomsen translated the sentence 
+b ori agzt amsimi� as The wolf's mouth (stil l) suck ed (?)' (1 912:201) 
+an d Orkun as 'kurdun agz1 sula nm1�' (E TY II :80). Clauson who re­
+garde d amsi- a simu lativ e form of am- 'to suck' translated the sen­
+tence in the same way: 'the wol fs mouth watered' (ED :164). But this 
+meaning does not fit the following sentence which is asan tiikal bol­
+mi� 'It (i.e. the sheep) became safe and sou nd' . Furth ermore, the 
+verb amsi- cannot be a deriv ative of the verb am-, because the suffix 
++si- form s verbs only from nou ns, as Erdal rightf ully point ed out 
+(19 77:98). 
+In my opinion what we have here is amsi- 'to become poisonous', 
+a verb which seems to have survi ved onl y in Yakut amt iy- 'to get 
+poisonous, become poisonous'. Yakut amt iy- regularly goes back to 
+an older *ams i-. 
+29. 1. oyma (a)r . Thomsen transla ted this phrase as 'a gambler' , 
+thinking that oyma would be a de verbal nou n deriv ed from *oy- 'to 
+play', i.e. the root of oyun 'pla y, game' (191 2:201, 213 , note XXIX). 
+This inter pretation was accepted by Orku n (ETY II :80) and Malov 
+(19 51 : ). Accord ing to Clauson oyma must be a dev erbal noun de-
+Explan ations 37 
+rived from oy- 't o hollow out'. He then translated the phrase oyma 
+ar as 'a man who makes hole s (to set out the game' (1961:222), thin k­
+ing that 'in many Turkish games, the play consisted in put ting peb­
+bles or counters in holes' (ED:273). 
+In my opini on, oyma is an action noun in -rna derived from oy- 'to 
+hollow out' and the ph rase oyma Gi)r means 'a man who is an expert 
+in hollowin g out the internal organs of a slaug htered animal'. See 
+my interpretation of o� i�t below. 
+29.2. o� i�t. The group of letters USlt; between two separation marks 
+was read USift by Thomsen and translated as 'hazardous (?) (191 2:201). 
+Orkun accepted this readin g and in terpretation and transl ated the 
+word as 'tehl ikeli', i.e. 'dangerous' (ETY 11:80). Malov's translation of 
+the word is 'skilful' (1951: ). 
+The group of letters USit; can be read, if it represents one word, in 
+four di fferen t ways: OSift, USift, o�Ift and u�I�. None of these readin gs, 
+howe ver, is meaningful in Turkic. ln my opin ion wh at we have 
+here are two synonomous words, i.e . o� i�t, which mak e sense. The 
+second word i� is well-known. The first word occurs in MK wit h the 
+meaning 'the heart , center of a tree-trunk, branch or horn' (ED:255). 
+MK als o give s an example for this word: m iii) liZ 0�1 'the core of a 
+horn'. This word seems to have survive d only in Yakut and there 
+only in the binary is-os which means 'abdom en, internal organs, in ­
+testi nes, etc. of animal s and hu man beings' (Pek. 1883). Yaku t is in 
+this bin ary is Common Turkic i�t, and os goes back to an older and 
+original *o�, a form which is ide ntical with MK o�. Consequently, I 
+believe that the group of letters US!� represents the binar y o� i�t 
+which surviv es in Yakut is -os ( <*i�t o�) in reverse order. 
+29.3. oyg(a)h . Thomsen and following him other scho lar s read this 
+word oy(u)g (a)] (I)p. But the last letter is clearly I, not p, and the 
+spot after the letter G does not look li ke a word-separation mark, as 
+first noticed and pointed out by Erdal (1977:99). Consequently, the 
+group of lette rs UYG.L J can be read oyg(a)h and this fits the context: 
+--- pdf page 22 ---
+38 Expl anati ons 
+o� i� oyg(a)h b( a)rmi� 'went in order to hollow out the internal or­
+gans (of a slaughte red animal'. 
+Thus, I think that what the man mentioned in this omen partici­
+pat ed in was not a gamb lin g but it was some kind of a contest in 
+which the contestents were expected to hollow out the internal or­
+gans of slaugh tered anim als as fast as they cou ld. 
+31. b(a)r s kiyik 'a ti ger' . Clauson think s that these two words occur­
+rin g al so in the paragraph 49 refer not to one an im al but two, i.e. 'a 
+leopard and a deer', on the ground that m(e)l ) occurs in Ui ghur and 
+Kara khanid Turkic with the specifi c mea nin g of 'b ird-seed, pou lt ry 
+food' (1961 :222; ED:16 6, entry el)). But in Old Turkic and in IB kiyik is 
+a generic term for any 'wild four-l egged game animal' as defined cor­
+rectly by Cl aus on himself (ED:755). In fB kiyik often occurs after the 
+specific names of wild game animals used as their modi fi ers, e.g. , 
+aJik kiyik (63), Sigun kiyik (60), yargun kiyik (62) and bars kiyik (31, 
+49). The word ma l) occurring in the binar y al) mal) in this omen 
+must have a bro ader mean ing , i.e. 'wild game, food', as the verb 
+mal)la- occurring in the sentence bars kiyik al)l ayli mal)layl i bartni§ 
+'a tiger went looking for wild game and prey' (49) indic ates. 
+36. 1. iikii� (a)tl h)g, kob1 (a)th)g. Clauson translates the first phrase as 
+'having many tit les' and the second as 'havin g a reputation of being 
+unluc ky' (1 961:2 22). But OT a:t 'na me, ti tle, reputation' has a long a 
+and a long a in ini tial position is alm ost always written in ffi, e.g. ak 
+'wh ite' (5, 19), ala 'dappled, spotted' (2), at(a)n- 'to become famous' 
+(55), etc. Therefore, if the word in these phrases were at 'name , title' 
+it s ini tial long a would have been writt en, as pointed out also by Er­
+da! (1 977: 10 2). 
+36 .2. u�ruglu g 'having (flying) flags'. The word u�rug occurs twice in 
+U II and in one of its occurrences it seems to have been used synono­
+mously with tug 'flag, stand ard': tug uc;rug topli tarhgta'when flags 
+were dr awn high on the summit ' (U lf :40, 1 070). Thus, the phras e 
+Explanation s 39 
+u�rugl ug qut can be under stood as 'good fortune to be celebrated 
+wit h (flying) flags'. 
+37. bi c;a < b1�-a. This is another example of early palatal ization in IB; 
+cf. yi� 'mount ain forest' (17 ) < YI§. 
+38. (a)bm c;u k(a)tun bolzun 'may the concubine be a que en'. It was 
+Claus on who first und erstood this sentence correctly (19 61:223). 
+39. th)gig 'the dar k roan (hor se' (ace.). It was Clauson wh o first inter ­
+preted this word correctly (19 61: 223). 
+40.1. t(a)I(I)m un 'a bold youth'. The word tahm 'p redatory' is gener­
+ally used to qualif y kara ku§ 'eagle' in JB and Uighur. Here, howev­
+er, it is used to qualif y un, i. e. 'a young man'. It is a regular verbal 
+noun de riv ed from tah- 'to plu nder, pil lage, da mage', a vari ety or 
+perhap s the olde r form of the more common tala-. 
+40. 2. y( a) r(I)n (a)�a 'o penin g (his) should er'. Clau son reads this 
+yan n�a and and translates it as 'u ntil he cleaves' (ED :954). This int er­
+pretation cannot be accepted, because the gerundial suf fix is 
+-gm�a in Old Turkic , not -m�a. What we have here are two words 
+written together and the first word y(a)r( J)n is in the suf fixle ss accu­
+sative form. 
+40.3. y(a)si c;in 'with a broad-headed arrow'. The in strumental form 
+of yasi�. The spel ling of the suffix -n with the front-voca lic sign indi ­
+cates that the connective vowel is i, not 1. 
+41 .1. bu zagul (a)p bot - 'to be abou t to give birth to a calf'. Clauson 
+thinks that the form bu zagula�I is 'gr amma tic all y im posibble' 
+(ED :391) . But a futu re-parti cipial suf fix -c;I al so occur s in other texts: 
+y(a)r(a)m(a )c;I 'it will not be good' (funyukuk : 23), ol mOi)� i y(i )tm 
+(a)c;i s(a)n 'you will not die an d perish' (Shine -U su: D 5), kul na�1 
+k1srak 'a mar e in foal' (MK), etc. 
+--- pdf page 23 ---
+40 Explanati ons 
+41.2. iiliigda ozmi� 'i t was saved from its fate'. Cla uson suspects that 
+the -g- in the first word is a scribal error for -m-, on the ground that 
+the stock phrase in 1 B is oliimda ozm1� 'it escaped death' (19 61:2 23). 
+He can be right in his reasoning; but the expression iilii gda oz- is 
+equally normal and possible. 
+43. tog(a)n iigiiz qu�1 qu�l( a)y u b( a)rmi�. In this sentence i.igiiz ku�1 
+'river bi rds' is the object of qu �layu bar- 'to go hunting for birds', as 
+Clauson first noticed and pointed out (1 961:223). 
+44. 1. titi nmi�. The stem-final n of the verb is written with the front­
+voca lic sign. This indic ates that the vowel 1 of the second sylla ble is 
+palata li zed. 
+44.2. iigii�iip(a)n. Clauson's ogii�- 'to rub one another' (ED:l 19) and 
+ogi- 'to grind' (ED :1010 should be corrected to read iigii�- and iigi- re­
+spe ctively , for it su rvives in most of the Turkic la nguag es with an 
+in it ial ii. 
+46.1. b( a)smu yimi� 'it kept on eating while sinkin g down'. It was 
+Clauson who first in terpreted this sentence correctly (E D: 374). The 
+verb ba sm- 'to be oppr essed' means here 'to sink down, go down' . 
+46.2. y(a)b<l>(a)q ol. The manuscript has YBq 
+47. iimaWi)yi i b(a) rmi� 'went visi ting'. Claus on was the first to cor­
+rect Thomsen's omal(a)yi i 'crawling' (19 61 :223). But his read ing the 
+verb with o should be corrected ; d. MK iima 'guest' (Dank off 1:126), 
+Tat., Bsk. oma 'a work carried out coll ect iv ely (with the help of 
+nei ghbors) <*iime, Trk. imece id. <*iim ece, etc. 
+48.1. k(a)n 'old'. Thomsen transcribed this word as k(a)ra 'black' and 
+the others foll owed him. But the manuscri pt has k(a)n, as first n o­
+ticed by Er dal (19 77: 106). 
+Explan ations 41 
+48.2. s(a)p(a)r m(e)n. The manuscript has spr which can only be read 
+s(a)p( a)r. On the other hand, the verb sap- 'to thread (a needle); to 
+fix, rep air (something broken)' is back-voca lic everywhere. Erdal is 
+right in thinkin g that this mistake could be an evi dence supportin g 
+the assumpti on that IB was fir st wr itten in the Uighur script 
+(19 77:106) . 
+49.1. b(a)rs kiyik 'a tiger'. Clauson thinks that these two words refer 
+not to one anim al but two, as they also do, accord ing to him , in the 
+paragraph 31 (19 61 :222, ED:1 86). But this cannot be correct, especi all y 
+in this case, because the tiger meets 'a wild goat' on its half -way as we 
+un derstand from the foll owin g sente nce, wher eas no ment ion is 
+made of 'a deer' . 
+49.2. b( a)rm(i )�. Thomsen transcribed this word as b(a) rm1� , but the 
+manuscript has BRms. 
+49.3. (a)mga 'wild goat'. Thomsen transcribed this word m( a)ga and 
+lef t it it un tra nslat ed (1 912: 205). So did Orkun who follo wed him 
+(ETY II: 85). Malov read the word m(a)ga and equated it wi th Mong o­
+lian mo gay 'snake' (19 51 : ). It was Clauson who first read and in ter­
+preted the word correctly: (a)mga 'wild goat' (1 961 :223). His do ubts 
+about this word' s occurrence wit h in itial a in stead of 1, however , is 
+out of plac e, for it als o occur s in the Orkhon inscriptions with an ini­
+tial a (KT K8, BQ E31). Starting from Karakhanid Turkic , however , it 
+occurs wit h initial 1. It is also wit h an initial i in Mong olian: Secret 
+Hi story ima 'an, Wri tten Mongo lian ima gan. There seems to be no 
+doub t that Turkic amga, 1mga and Mo. ima gan are cognates dis play­
+ing at the same time an an cient Alt aic alt ernation a - 1 in the first 
+sylla ble. 
+50.1 . tig r( a)t -, y( a) dr(a)t-. The two sentences ending in these two 
+verbs have not been underst ood correctly by the previous scholars. 
+There is no doubt that the first verb means 'to make a horse break 
+--- pdf page 24 ---
+--- ---
+42 Explanati ons 
+win d on the move', i.e. 'to make a horse run until it breaks wind', as 
+under stood from Kasgan's example s. The second verb which is a 
+Hap. leg . seems to have survi ved in Alt ay and Teleut yayrat- 'to 
+knock down, destroy' mus t have here a meaning li ke 'to make a 
+horse run unt il it becomes exhausted', because it occurs in a sentence 
+which is parallel to the preceed ing one ending in tigrat. 
+50.2. ii�(ii)rgii 'sweat-cloth of a horse put under its saddle'. The word 
+occurs as ii�argi i and i�ir gii in Chagata y (ED: 31 ). lt su rvives in the 
+north-east ern Turkic lan gu ages with an init ia l ii (Khak. ii�iirg ii 
+'sweat-cloth', Shor iijii rge 'f elt cloth put under the sadd le', Bar. 
+iitsiirgo, etc.) and in Tara and Kurdak as i� irgi . Clauson's etymol ogy 
+deriving it from o�iir - 'to extiungui sh' cannot be correct (E D:31). His 
+o�iirgii shou ld then be corrected to read ii�iirgii. 
+50.3. topuul gh)n �a 'until it is pierce d'. This word was misread by 
+Thomsen as topu u](u )g (a) n�a (1912 :206). Clauson thought that it 
+was an error for top la :gulu g (a)n� a (19 61 :224; ED:31, entr y o�iirgii ). 
+But such a reading does not make sense here. What we have here is 
+the verb topul- 'to be pier ced' wit h the geru ndial suffix -gm�a, as S. 
+Tezcan first noticed and point ed out (Tony ukuk yaz1hnda bi rka� 
+diizeltme', TDA YB 19 75-76:1 77). The verb topul- 't o pierce' is well­
+attested in Old Turkic (cf. DTS and ED). It survives in Kiierik toptm­
+'t o be pierced' (<* top lun -), toptintlr - 'to pier ce, bore a hole' 
+(<*topluntur -) and top hk 'a hole' (<*top lu k, i.e . topu l-uq). Clauso n's 
+tupul- (ED: 440) should ther efore be corrected. 
+52. bolti. Clauson regarded this word as a mi stranscription of bul(t ).. 
+h. Acco rdi ng to him (e)r busu�lug t(ii)l ]ri bu hti(I)g is a sentence with­
+out a copula and the word bul (I)ti forms a phrase with the following 
+ara 'amo ng', i. e. bul(I)h ara 'among the clouds', because this phrase is 
+the counterpart of busan� (a)ra 'in the midst of depression' (1961:2 24). 
+This sounds logical, but BU LTI woul d be a mjs spell in g for bulh )h 
+(th e na rrow unrounde d vowel of the second syl lable should have 
+Explanat ions 43 
+been written) and the phrase bul (I)h ara would be wrong grammati­
+cal ly, because it lacks the accusative suffix -n after the possessive suf­
+fix -1, as poi nted out by Erda! (19 77: 109). In my opinion , the copyist 
+simpl y forgot to write the word bu ht after bol h of the first sentenc e 
+and before ara of the second sente nce, for only in this way we can 
+have an exact parallel ism between the two parts of the second sen­
+tence: <buht> ara kiin tugmi�, busan� (a)ra m(ii.)l]i k(a)lrni�. 
+54. kul s(a)bi 'the slave's words', kuzgun s(a)bi 'the raven's words'. 
+Clauson regarded kul and kuzgun as the subjects and s(a)bi as the ob­
+jects of the two sentenc es (1961:2 24). This int erpretation cannot be 
+correct , for if that were the case there would have been the accusa­
+tive suffix -n in the word s(a)bi in its both occurrences, as Erda! 
+poi nted out (1977:109). 
+55 .1 . tor(i i)tmi�. Thomsen read this word tiirtmi� 'prodd ed' wh ic h 
+does not make sense in this context. Clauson corrected this word first 
+as tor etmi� 'he crea ted' whic h is wrong (19 61:2 24) and later as 
+tori itm i�? which is correct (ED :536). I think his transl ation of sii yi­
+rint a (a )rklig s(a)b�I tor(ii)tmi� as 'h e got himself mad e an in depen­
+dent envoy in the fighting area' is correct. 
+55.2. yitiglig 'capable' . Thomsen's translated this word as 'rejoicing 
+(?)' (191 2:20 7) which is wrong. So is Malov's translation of the phrase 
+(a)ti yitiglig as 'his horse is dressed in parade harness' (1 951 ). Clauson 
+tra nsl at ed the same phr ase as 'with a reput ation for cleverness' 
+(19 61 :224) which is all wrong. In my opin ion, yitiglig is an adjective 
+deriv ed from yitig 'ab ilit y, capability', a verbal noun in -g from yit -, 
+i.e. yet- 'to overtake, overcome, be able or capable'. 
+57.1 .k (a)n(I) g 'favor ed one , favorite'. The group of lett ers qNGI 
+whic h occurs twic e in this paragraph was read k(a)ngi by Thomsen 
+(1912: 207). He transl ated this word as 'prin ce'. Clauso n first thought 
+that it probably was a scribal error for kai)I, ie ., 'his father' (1961 :225). 
+--- pdf page 25 ---
+44 Explan ations 
+La ter, however, he came to the con fusion that kamg must have a 
+meanin g like 'a favorite, a favorite horse' (E0: 637). Pritsak analized 
+the word as k(a )n+gl and translated it as 'belonging to the khan' ( 
+'Zu m Par all elismus im Alt ttir kischen', Stu dia Orien talia, 1964), a 
+view which has rightly been criticised by Erda! (19 77: 110 -1 11) . 
+In my opinio n, Clauson was right in his second interpretation. 
+What we actually have here is k(a ) nh)g, i.e. a verbal noun in -g plus 
+-1, i.e. the 3rd p. poss. suffix. The verb kan- means 'to be satisfied' and 
+the verbal noun kamg has a meaning li ke 'satisf action, cheerfulnes' 
+or the like. But here k(a)n( l)g see ms to have a specialized meaning 
+lik e 'someone who is favored, a favorite person', not 'a favorit e 
+horse' as Clau son thought. 
+57.2. kol )aki, kon aki 'he r pail'. The spelling of the word konli.k 'a 
+leather pail' with IJ in its first occurrence must be an error, for the 
+word occurs in MK and in modern languages with n. 
+60. 1. (a)rh 'bifur cated, branched' (?). This word occurring after too]<. uz 
+'9' and before s1gun kiyi k 'male mara! deer' was translated by Thom­
+sen as 'th icket' (191 2:208) which does not mak e muc h sense. Malov 
+read the word aral(lh and translat ed the phr ase tokuz aral(lh as 'liv ­
+ing in the nin e islands' (19 51) . B ut aral 'i sland' is a Mongolian word 
+and not found in Turkic before the 15 th century, as Clauson pointed 
+out (19 61 :225 ). Besides, the adjecti val suffix expres sing possessio n 
+was -hg/-lig , and not -h /-li in Old Tu rkic. 
+In his dictiona ry, Cla uson, read ing the word arab, estimated two 
+meanings for the phrase toku z ara!J: 1) 'nine months old' , 2) 'wit h 
+nine po ints to its horns' (ED :230). In my opinion , Cla uson's second 
+choice is the most lik elie st of the mean ings estimat ed so far for this 
+word. The horns of a deer are the most imp orta nt parts of its body 
+di stin gu ishing it from other wild anim a ls, and the word tokuz '9' in­
+dic ates that the bif urcated horns of thi s mal e deer had nine points or 
+branches. Alth ough It is not an easy task to explain the structur e of 
+arh or arall, it can at least for the time being be said that it is som 
+how ety molog icall y related to ara 'di stance between two points'. 
+Ex planations 45 
+60.2. bG i) d<iik>. This word occurring before tiz 'knee(s)' is spelt bdz 
+i. e., b( a)d(i)z 'ornament', which is ut of plac e here. It is probably a 
+scribal error for b(a)d� 'big, great', as Clauson thought (ED:310). 
+61. 1. turnya 'crane'. The manuscript has TURnyYA which is a scribal 
+error for TURnyA. 
+61. 2. tii�nakil)a. The word tii� nak was translated 'companion' by 
+Thomsen (191 2:208). Claus on correctly translated this word as 'nest ' 
+(1 961:2 25), but he mistrans cribed it as to�nek in his di ctionar y 
+(ED:565). This word is obviously a derivative of the verb ti.i�na- 'to 
+settle down in lodgings' (cf. tii�- 'to di smount from a horse, stay for 
+the night', tii�iin 'lodgi ngs, inn'). 
+61.3. tuz( a)k (k)a. Thomsen read this word tozka and translated 'in 
+the dus t' (191 2:208) and Orkun followed him (ETY Il:89). Malov too 
+read it tozka, but translated the word toz as 'birch bark' (1951 ). These 
+readin gs and translati ons were all wrong. It was Cla uson who first 
+read and int erpreted the word correctly (19 61:225). 
+64. boymul <*boynul. This word meaning 'having a white neck' was 
+read buymul by Clauson (1961 :225, ED:386). I suggested that it shoul d 
+be read with o, not with u, for it is very probable that this word is de­
+rived, with the labial ization of n, from boyun , i.e. boymul <*boynul 
+(d. MK ba �d koy 'a sheep with a white spot on its head'). The word 
+bo ymu l see ms to have survived with its ori gi nal meaning only in 
+Yakut: moy bor 'whit e stripe around the neck', moymor 'white hair 
+on the neck' <*moymol <*boymul. 
+Coloph on: 
+1. t(a )ygiint(a)n =C hinese Ta-yun t'ang 'Salle du Grand Nu age' (Ha­
+mil ton 19 75:13 -14 ). 
+--- pdf page 26 ---
+46 Explanations 
+2. di<n>t(a)r. The manuscript has d!TR which is obviously an error 
+for dln TR. 
+3. burua < Middle Persian munv' 'presage, augure' (Hamilton 
+1975:16). 
+4. guru 'a venered person, spri tual master' < Skr. guru (Hamilton 
+19 75:17 ). 
+5. (e) �(i) d[(i) p] i-; (i)m (i )z. Thomsen read the group of letters sdslqmz 
+as (e) �(i)d �i�(i )m(i)z and regarded it as a clerical error for (e)�(i)d(i)�� 
+(i) m(i )z, i.e. 'our hearers' (1 912:2 09). Hamilton argues that the third 
+letter should be p, not s as Thomsen thought, and he reads the group 
+of letters as above (19 75: 17 ). I think Hamilton is right in his reason­
+ing. 
+6. isig 'cordial, affectionate' . Thomsen regarded this word as a part of 
+the personal name, i.e. 'lsig Sangun' (191 2:209). Hamilton, on the 
+other hand, thinks that the word isig 'warm, hot' has probably a fig­
+urative meaning here like 'cordial, affectionate' and he cites two ex­
+amples from F. W. K. Muller's Zwei Pfahlinsc hriften ... , i.e . el ogasi 
+isig adgii totok oga, el qaya isig adgi.i totoq ar tol]a (19 75:18). I think 
+Hamilton is right in this assumption of his. 
+7. it a�uk. Thomsen read this it a-�uk , for it is spell with the front t 
+sign (1912: 209. Hamilton reads the same word as it A�uk, regarding 
+a\uk 'open; frank' as the second part of the personal name(1975: 18 ). 
+But a-;uk can hardly be used as a personal name. In my opinion, 
+it a�uk is one word going back to an older *t ta �uk, i.e. the word tt 
+'dog' having two diminuti ve suffixe s, +a� and +uq, as Erda! has re­
+cently suggested (1991 :34). 
+GLOSSARY 
+(a)b hunt, hunting 
+a.-ka banni� 12 
+a.-ka i.inmi� 63 
+(a)bt �u conc ubine 
+a. katun bolzun 38 
+(a)�- to open 
+a.-a 40 
+(yann a .. .. yonyur) 
+(a)d g(I)r stallion 
+a. man 56 
+(a)dg(t)rl(I)k fit to be a stallion 
+altun tuyuglug a. yaragay 5 
+(a)d (t)g bear 
+a.-!J tOI]UZh 6 
+a.-IIJ karm yanlmi� 6 
+(a)g- to rise, climb 
+a.- 1pan 62 
+(tagtma a.) 
+(a)g(t)l pen 
+a.-ll ]ta 47 
+(a)g( t) n dumb 
+a.-ka 19 
+(a)gh)z mouth 
+a.-t 27, 65 
+(a. ams i- 27) 
+ak [a:k] white 
+a. bisi 5 
+a. at 19 
+(a) l- to take 
+a.-aym 58 
+(olin al-) 
+ala [a:la] mottled, dappled, spot­
+ted 
+a. athg yol t(ii)l]ri men 2 
+(a)l ku everyone 
+a. kanti.i uli.igi arklig ol 66 
+(a)]p tough, brave, hero 
+a. ar ogh 55 
+antag a. armi� 40 
+antag a. man 10 
+(a)ltun gold, golden 
+a. orgin i.iza 1 
+a. ba�hg ytlan man 8 
+a. budlahg bugrahk yaragay 5 
+a. kanathg tahm kara ku� man 
+3 
+a. ku rugsaktmin k1ho;:m kasi­
+pan 8 
+a. tuyuglug adguhk yaragay 5 
+(a)mga wild mountain goat 
+asri a. 49 
+a.-ka 49 
+(a)rnr(a)k dear 
+a. oglamm 66 
+(a)rnt i now 
+a. amrak oglamm an� a hili IJ Hir 
+66 
+(a)� a like that, so, in that way 
+a. bilil) 2, 6, 11, 16, 19, 21, 25, 26, 
+31, 41, 49, 54 
+--- pdf page 27 ---
+48 Gl ossary 
+31, 41, 49, 54 
+a. bilii:J Hir 1, 3, 4, 7, 8, 9, 10 , 12 , 
+13, 14 , 15 , 17, 18, 20, 22, 23, 24, 
+27, 28, 29, 30, 32, 33, 34, 35, 36, 
+37, 38, 39, 40, 42, 43, 44, 45, 46, 
+47, 48, 50, 51, 52, 53, 55, 56, 57, 
+58, 59, 60, 61, 62, 63, 64, 65, 66 
+(a)�(I)p thus 
+a. alku kantii iiliigi arkli g ol 66 
+(a)mn wit h h im 
+a. kahyu banpan 35 
+(a)nta ther e 
+'-' 
+a. turupan mfu)ilaytir man 56 
+(a)�t(a )g like that, so 
+a. alp anni� 40 
+a. alp man 10, 
+a. kii�liig man 3, 20, 60 
+a. tir 44 
+(a)ny(l)g bad; very 
+a. ol 22 
+a. adgii ol 5, 11 , 18 , 55, 64 
+a. yablak ol 36 
+(a)r - to become tired 
+a.-1p 17 
+(a.- Ol)-) 
+ara [a:r a], (a)r a among, in the 
+mid st 
+[bulu t] a. 52 
+busanr; a. 52 
+kam1� a. ka lmt� 38 
+kamu� a. ba�tm 10 
+(a)r h (?) -branched, -forked (?) 
+tokuz a. stgun kiyik man 60 
+(a)s(I)g adv ant age, profit 
+a. -1 bar 32 
+(a)sra below 
+a. ki�i bilti 60 
+a. toz turdt 15 
+a. yir ka kiriir 20 
+(iize ... a.) 
+(a)t horse 
+ak a. 19 
+ozli ik a. 17 
+ng a. 50 
+toruk a. 16 
+a.-1 35, 55 
+at(a)n - [a:tan] iinle nmek, iinlti 
+olmak 
+a.-mi� 55 
+(a)t l(t) g ho rsem an, mou nted; 
+hav ing horse(s ) 
+ala a. 2 
+kobta . 36 
+sang a. 11 
+tikii� a. 36 
+yaztg a. 11 
+(a)y month 
+eki nti a.67 
+a.-ka 59 
+(a)y(a)k cup, goblet, bowl 
+a.- tml a 42 
+a.-m 42 
+(idi� a.) 
+(a)ym - to fear, be afraid 
+a .- rna 19 
+(kork- a.-) 
+az la :z] a li ttle 
+a. amgaki bar 57 
+Glossary 
+az- [a :z] to go astray, lose one's 
+way 
+a.- h 15, 15, 15 
+(ur;a a.- 15 ) 
+(yonyu a.- 15) 
+(yiigtirti a.- 15 ) 
+ba- [ba :] to tie 
+adguti b.! 14 
+kangd1 b.! 33 
+kahgh b.! 14 
+b.-mi� 14 
+(ku zgun ug tgar;ka b.-mi�) 
+b(a)g(l)� rope(s) 
+b.-I na tag 18 
+b(a)r there is, exist ; existent 
+as1g1 b. 32 
+amgak i b. 57 
+b. ol 18 
+b(a)r- to go 
+b.-1pan 17, 35 
+b. -If man42 
+b.-m i� 5, 5, 12 , 16, 27 , 29, 30, 31, 
+34, 35, 42, 43, 43, 44, 44, 47, 49, 
+49, 55, 58 
+(abka b. 12 ) 
+(af)ka maf)ka b. 31 ) 
+(kazga nr;ka b. 30) 
+(stikii b. 34, 35, 55) 
+(tabasiiJa rii b. 5) 
+(yunttl]aru b. 5) 
+(kodupan b. 42) 
+(kopupan b. 43) 
+(tiizipiin b. 58) 
+(tiniip b. 49) 
+(tirktipan b. 27) 
+(kahyu b. 44 
+(ku�layu b. 43) 
+(timiilayi i b.47) 
+(yiigtirti b. 44) 
+(oygah b. 29) 
+b(a )rs ti ger, leopard 
+b. kiyik 31, 49 
+b. man 10 
+b. ytl 67 
+b(a)sm- to go down , sink 
+b.-u yimi� 46 
+b(a)� head; beginning 
+b.-1m 10 
+b.-u nm 8 
+b.-mta 57 
+b.-hg 8 
+b(a)y rich, wealthy 
+b. ar konyi 27 
+b(a) dizUi- to de corate, adorn 
+b.-y iir 28 
+(mal] ita- b.-) 
+b(a) d[iik] big, great (ms. bdz) 
+b. tiz 60 
+b(a)g beg, lord 
+b. iir 5 
+miil] ilig b. 5 
+b.-if)arii 54 
+b.-lig 57 
+b(a)gl(i)k fit to be a beg 
+b. yaragay 5 
+bi mare 
+b.-si 5 
+bir;- to cut 
+49 
+--- pdf page 28 ---
+50 Gl ossary 
+a. bilir)Hir 1, 3, 4, 7, 8, 9, 10, 12 , 
+13, 14, 15 , 17, 18 , 20, 22, 23, 24, 
+27, 28, 29, 30, 32, 33, 34, 35, 36, 
+37, 38, 39, 40, 42, 43, 44, 45, 46, 
+47, 48, 50, 51, 52, 53, 55, 56, 57, 
+58, 59, 60, 61, 62, 63, 64, 65, 66 
+(a )�(J)p thus 
+a. alku kant ii iil iigi a rklig ol 66 
+(a)mn with him 
+a. kahyu banpan 35 
+(a)�ta there 
+a. turupan mal) ilayi ir man 56 
+(a)�t(a)g l i ke that, so 
+a. alp armi� 40 
+a. alp man 10, 
+a. kiir;liig man 3, 20, 60 
+a. tir 44 
+(a)n y(t)g bad; very 
+a. ol 22 
+a. adgii ol 5, 11, 18 , 55, 64 
+a. yab lak ol 36 
+(a)r - to become tired 
+a.-1p 17 
+(a.- Of)-) 
+art a mountain pass 
+a. iiza soku�m i� 6 
+ara [a:ra], (a)r a among, in the 
+midst 
+[b ulut] a. 52 
+busanr; a. 52 
+kam1� a. kalm1� 38 
+kam u� a. ba�un 10 
+(a)rh (?) -branched, -forked (?) 
+tok uz a. s1gun ki yik man 60 
+(a)s(J)g advan tage, profit 
+a. -1 bar 32 
+(a)sra below 
+a. ki�i bil ti 54, 60 
+a. toz tur d1 15 
+a. yirka kiriir 20 
+(iize ... a.) 
+artat- to damage, spoiJ 
+ayka tagmi�ig a.-maym 59 
+(a) t horse 
+ak a. 19 
+ozli ik a. 17 
+hg a. 50 
+toruk a. 16 
+a.-t 35, 55 
+at(a)n - [a :ta n] iin lenm ek, iin li.i. 
+olmak 
+a.-mj� 55 
+(a )tl(J) g hor seman, mounted; 
+hav i ng horse(s) 
+ala a. 2 
+kobJ a. 36 
+san ga . 11 
+iik ii� a. 36 
+yaz•g a. 11 
+(a)y mon th 
+ekinti a.67 
+a.-ka 59 
+(a)y( a)k cu p, goblet, bowl 
+a.-1 1nta 42 
+a.-Il l 42, 42 
+(idi � a.) 
+(a)ym- to fear, be af ra id 
+a. -ma 19 
+Glossary 
+(kork- a.-) 
+az [a:z] a lit tle 
+a. amgaki bar 57 
+az- [a :z] to go astray, lose one's 
+way 
+a.-b 15, 15, 15 
+(ur; a a.- 15) 
+(yonyu a.- 15 ) 
+(yiigiirii a.- 15) 
+aztg tusk 
+tol) uzm a.-1 smmi� 6 
+ba- [b a:] to tie 
+adg iiti b.! 14 
+kahgdt b.! 33 
+kahgh b.! 14 
+b.-mi� 14 
+b(a)g(t)!? rope(s) 
+b.-1 na ta g 18 
+b(a)r there is, exist; existent 
+as1g1 b. 32 
+amgaki b. 57 
+b. oi lS 
+b(a)r- to go 
+b.- 1pan 17, 35 
+b.-lf man 42 
+b.-mi� 5, 5, 12, 16, 27, 29, 30, 31, 
+34, 35, 42, 43, 43, 44, 44, 47, 49, 
+49, 55, 58 
+(abka b. 12 ) 
+(al)ka mal)ka b. 31 ) 
+(ka zganr;ka b. 30) 
+(s iika b. 34, 35, 55) 
+(tabasil )ar ii b. 5) 
+(yunt ll) aru b. 5) 
+(kodupan b. 42) 
+(kopup an b. 43) 
+(tazipan b. 58) 
+(ilnilp b. 49) 
+(ilrkiipan b. 27) 
+(kahyu b. 44 
+(ku�layu b. 43) 
+(ilmalayi.i b.47) 
+(yiigiirii b. 44) 
+(oygah b. 29) 
+b(a)rs tiger, leopard 
+b. kiyik 31, 49 
+b. man 10 
+b. y11 67 
+b(a)sm- to go down, sink 
+b.-u yim i� 46 
+b(a)� head; beginning 
+b.-lffi 10 
+b.-ur un 8 
+b.-mta 57 
+b.-hg 8 
+b(a)y rich, weal thy 
+b. ar kony1 27 
+b(a )di zUi.- to decorate, adorn 
+b.-yilr 28 
+b(a) d[iik] big, great (ms. bdz) 
+b. tiz 60 
+b(a)g beg, lord 
+b. ar 5 
+mal)ilig b. 5 
+b.-i l)arii 54 
+b.-lig 57 
+b(a)gl(i)k fit to be a beg 
+b. yaragay 5 
+51 
+--- pdf page 29 ---
+52 Gl ossary 
+bi mare 
+b.-si 5 
+bi.;- to cut 
+b.-a 37 
+bil belly, waist 
+b.-in 37 
+bit- to know; to understand 
+b.-ii) 2, 6, 11 , 16 , 19, 21, 25, 26, 
+31 , 41, 49, 54 
+b.-i I)l ar 1, 3, 4, 7, 8, 9, 10, 12, 13, 
+14, 15 , 17, 18, 20, 22, 23, 24, 27, 
+28, 29, 30, 32, 33, 34, 35, 36, 37, 
+38, 39, 40, 42, 43, 44, 45, 46, 47, 
+48, 50, 51, 52, 53, 55, 56, 57, 58, 
+59, 60, 61, 62, 63, 64, 65, 66 
+b.-ti 54, 60 
+bir one; a/ an 
+b. bukur s1ka 25 
+b. kan okiiziig 37 
+b. tabilku 32 
+bir- to give 
+kut b.-gay man 2 
+kut b.-rni� 47 
+bi� five 
+b. yi girrnik a 67 
+bi� - to ripen 
+tang b.-di 53 
+bit i- to write 
+b.-d im 67 
+bitig book 
+bu trk b. 66 
+bodun peop le 
+b. iiza 53 
+bot- to become 
+b.-mi� 27, 41 
+b.-h 26, 32, 32, 32, 52, 53, 65 
+b.-ur 57 
+b.-zun 23, 38, 47, 47, 48, 59 
+(buzagula<;I b.- 41) 
+Uidgu b.- 57) 
+(asan tukal b.- 27) 
+(kutl ug b.- 23) 
+(yaruk b.- 26) 
+bol ug ex istence 
+tic;: b.-ta 19 
+bo� free 
+b. kony 29 
+bo tula - (a camel) to give birth to 
+a foal 
+b.-mi � 5 
+boymul having a white neck 
+kok b. tog(a)n ku� 64 
+boz gray 
+b. bu1Jt 53 
+bor i wolf 
+b. agZJ 27 
+b.-ka 27 
+bu thi s 
+b. 1rk 57 
+b. 1rk bitig 66 
+budla camel's no se peg, nose­
+plug 
+altun b.-hg 5 
+b ugra male camel 
+titir b. man 20 
+bugr at(I)k fit to be a camel stal­
+lion 
+altun budl al1g b. ya ragay 5 
+Glo ssary 53 
+bul- to find 
+b. -gay ol 24 
+b.-mi� 31, 42 
+b.-b 23 
+b.- upan 13, 31 
+buht, bulh)t cloud 
+b. ara 52 
+boz b. 53 
+kara b. 53 
+b.-!Ig 52 
+bu] ul) corner, quarter 
+b.-tak 1 23 
+buku rst wooden pl ough 
+b.-ka 25 
+bu rua < Middle Pers ian mwrw ' 
+'pre sage, omen ' 
+b. guru e�id[ip] (Colophon) 
+busan.; grief , pain 
+b. ara 52 
+busu�lug grieved 
+ar b. 52 
+buz(a)gu calf 
+ur ul) asri irkak b. 41 
+buzagul(a)- to calve (of a cow) 
+b.-<;I bol m1� 41 
+bl ik corner , corner post (of a 
+house) 
+b.-il)a tagi 9 
+c;:(a)k(i)k lar k (ms. �Uk) 
+... ati!) kutlug bolzun 23 
+c;:1g (a)ny poor 
+c;:. ar ogh 30 
+<;Int (a) n sandal-wood < Skr. candana 
+c;:. 1ga<; iiza 4 
+di<n>t(a)r rel igious , believer 
+kic;:ig d. 67 (< Sogd. oyn6'r) 
+(a)b house 
+a. ortanmi� 9 
+a.-i nlin 8 
+a. -il)arii 5, 55 
+(a) dgii good; good men 
+a. bol- 57 
+a. soz sab 11 , 58 
+a. ol 1, 2, 3, 7, 15, 17 , 18 , 19, 20, 
+23, 26, 27, 28, 29, 30, 31, 32, 34, 
+35, 38, 40, 41, 42, 47, 49, 52, 53, 
+54, 56, 58, 59, 60, 62, 63, 66 
+anytg a. ol 5, 11, 18, 55, 64 
+a.-si 28, 48, 59 
+(a. uyun 28) 
+(a) dgliti well 
+a. ba! 14 
+a. i:itiin! 19 
+a. sakmmi� 42 
+a. yal bar! 19 
+(a)g(i)n roof 
+a.-i naUig 18 
+(a)l( i) g hand 
+a.-in tutmi � 63 
+(a) lik roe-buck 
+a. kiyik 63 
+(a)mg(a)k pain 
+a.-i 57 
+(a)mig udder 
+a. ti ta- 24 
+(a)msi- to get poisonous 
+a.-mi� 27 
+(bi:iri agzi a.) 
+--- pdf page 30 ---
+54 Glo ssary 
+(li.)IJ wild game 
+a.- in mal) in bu lmi� 31 
+a.-ka mii l)ka barmi� 31 
+(ii)l )l(a )- to hunt a game (of a ti­
+ger) 
+a. -y ti mal) lay ti ba rmi� 49 
+(a)r man, men 
+a. abka barrni� 12 
+a. busu�Iu g ... bolh 52 
+a. timalayt i barmi? 47 
+a. kug u ku�ka soku�mi? 35 
+a. stika barmi? 35 
+a. Uirklayii kalir 7 
+alp a. ogh 55 
+bay a. konyi 27 
+bag a. 5 
+.,:tgany a. ogh 30 
+oyma ii. 29 
+(a)r- to be 
+antag alp a.-rni? 40 
+miil) ilig bag a.-rni� 5 
+soku? mi? a. -rni? 6 
+(ii)rd(a)mlig capable 
+alp a. man 10 
+(ii)rklig pow erful, aut horita ti ve; 
+ma ster 
+a. sab�ti 55 
+tiil}rida a. 1 2 
+alk u kantt i tiltigi a. ol 66 
+(a)s(a)n saf e, sound 
+a. ttikiil bol -27, 42 
+a. tiikal korii?- 15 
+(a)sn(a)- to yawn 
+ii.- giin bars man 10 
+(a)sr i mottl ed, da ppled, spotted 
+a. arnga 49 
+a. i nga k 41 
+ii. i rkak buzagu 41 
+a. logan kti? 4 
+W?- to amble 
+a.-i. ir man 2 
+(a)t flesh 
+a.-il ) 23 
+(a) t- to sing 
+ii.-d i 21 
+(e)ki two 
+e. yaltg ki?i oglm 2 
+e. tiki izi ig b ir bukur stka 
+kolmi? 25 
+(e)kinti second 
+e. ay bi? yigirmik a (colophon) 
+(eHt- to ca rry 
+e.-i kal- 7, 11 
+(e)?i d-, (e)?(i ) d- to hear, listen 
+e.-[ ip] 67 
+e.-ti 54, 60 
+guru < Skr . gur1 1 'reverend, 
+spiritual mast er' 
+bur ua g. (Colo phon) 
+I�g(I)n - to lose, let go 
+I.- 111 i? 22 
+1d- to send 
+I.-1 11i? ] 9 
+1du J5Iuk fi t to be de dic ated to 
+He aven 
+1. yaragay 41 
+Ig(a)� tree 
+.,:mtan 1. 4 
+ku?lug 1. 56 
+yagak 1. 56 
+1.-ka 14 
+uk omen 
+bu 1. ba?mta 57 
+bu 1. bitig 66 
+i.,: interior, in side ; abdomen 
+kara kii i.-i 18 
+O? i . 29 
+i.,:- to drink 
+i. -ipan 17 
+i.,:(i) elde r brother 
+i.- miz isig saQun ita�tuk 67 
+i�trii in, wit hin 
+sagu i. 63 
+i di master , owner 
+i. -si 65 
+id i? cup, vessel 
+i. -imtii 42 
+i.-in 42, 42 
+(i. ayak) 
+il realm 
+i.-i tur- 28 
+i. -ig it- 48 
+ilin - to be caught 
+i.-mi? 61 
+(tuzakka i. -) 
+in hole (of a snake) 
+i .-tin 8 
+i ng(a) k cow 
+asri i. 41 
+in g(a)n female camel 
+i.-i 5 
+(tiri il) 1l 
+Gl ossary 
+irk(a)k male 
+i. buzagu 41 
+i. yuntta 24 
+isi g warm , cord ial, affetionate 
+i. Sal]un ita�tuk 67 
+it- to organize 
+ilig i. -mi? man 48 
+55 
+ita�tu� personal name ('pupp y') 
+isig sal)un ita�tuk 67 
+k(a)l- to remain, be left 
+k.-mi�13, 17 , 38 
+k.-maduk 9 
+k(a)h- to rise in the air 
+k.-yu bar- 35, 44 
+k(a)lti how 
+otsuz subsuz k. uym 45 
+k(a)m(a)g everyth ing; common, 
+ordinary 
+k. i.iza 26, 53 
+kara k. siisi 63 
+k(a)mt� ladle 
+yagltg k. 13 
+k(a)mh)l - to be struck down, fall 
+down 
+k .-ffil? 12 
+k(a)mi? reed (bk. kamu?) 
+k. ara 38 
+k(a)m?(a)- to move 
+k.-yu umatm tur- 16 , 25, 37, 39 
+k(a)mu? reed (bk. kami? ) 
+k. ara 10 
+k(a)n khan, ruler 
+k. olurupan ordu yapmi!,i 28 
+k. stika banni? 34 
+--- pdf page 31 ---
+56 Glossar y 
+k(a) nat, k(a)n(a)t wing 
+k.-ll]a 35 
+k.-hg 3 
+k( a)nc;a wither, where 
+k. banr man 42 
+k(a)n(I) g (?) favorite (?) 
+k .-1 57, 57 
+k(a)nl(J)k khanate 
+k. stisi 63 
+k(a)nta where 
+k. nagtida bulgay ol 24 
+k(a)l] father 
+k.-1 35 
+k.-rm sabm hl]laym 58 
+ogifia k.-t JJa 35 
+k.-ll]ta 58 
+k(a)p- to grasp, catch 
+k.- mi� 44 
+k(a)r a black; comm on, ord inar y 
+k. kamag siisi 63 
+k. ku� 3, 43, 51 
+k. bu ht 53 
+k(a)n old 
+k. oktiztig 37 
+k. iipgiik 21 
+k. yol U1I]ri 48 
+k(a)r(l)n belly 
+k.-1 6 
+k(a)r�(I) adver sary, rival 
+k.-sm 19 
+k(a)t floor 
+tokuz k. iit;tirgiilJ 50 
+k.-ll]a tagi 9 
+k(a)t(t)g hard 
+k. bolh 65 
+k(a)t(t)gdt tigh tly, firmly (see 
+kahgti) 
+k. ba! 33 
+k(a)t(J )gt t tigh tly, firmly (see 
+kahgd1) 
+k. ba! 14 
+k(a)t un qu een 
+k. bolzu n 38 
+k(a)ya rock 
+kizii k. 51 
+ya�tl k. 51 
+k.-g 40 
+k.-ka 49, 64 
+k(a)zg(a)nt; profit, earnings 
+k.-ka barrni� 30 
+klih )t; sword 
+k.-m kasipan 8 
+ki�l(a)g wi nter quar ters 
+k.-1m 51, 56 
+k1zd red 
+k. kaya 51 
+kob1 empt y, non-e xistent, non­
+pr esent 
+k. athg 36 
+kod - to leave, abandon 
+k.-upan 42 
+k.-m<ad>uk 9 
+kodt down , dow nwards 
+k. yadrat! 50 
+tal)ridan k. 44 
+kol- to ask for 
+k.-mi� 47 
+(kut k.-) 
+kon- to settle 
+k.-mi� 61 
+k.-upan 64 
+kontur- to settle (people) 
+k.-u 34 
+(kot; iirii k.-u) 
+kony sheep 
+bo� k. 29 
+k.-1 27 
+kop al l, everyone 
+k. asan tiikal korii�mi� 15 
+k. i::igirar 15 , 29 
+kop- to rise in the air 
+k.-upan 43 
+kork- to fear, be afraid 
+k.-mi� 2 
+k.-ma! 2, 19 
+kork(t)nt; fear 
+k.- tl] 36 
+kudr uk tail 
+k.-m 50 
+kudu rsug base of the tail (?) 
+k. -ll]a tagi 16 
+kugu swan 
+k. ku� 35, 35 
+kul male servant 
+k. sabt 54 
+kulu n foal 
+tag liik k. 24 
+kulu nla- to foal (of a mare) 
+k.-rni� 5 
+kum ursga ant 
+k. yirni� 37 
+kun�uy princes s 
+Glossar y 
+k.-t 5 
+kurtga old woman 
+k. yurtta kalmi� 13 
+kurugs(a)k stomach 
+k.-tmin 8 
+ku� bird 
+kara k. 3, 43, 51 
+kugu k. 35 
+togan k. 4, 44, 44, 64 
+turnyya k. 61 
+k. ogh 51 
+iigiiz k.-1 43 
+k.-ka 35 
+k. -lu g 56 
+k.-UIJ hm akt 44 
+ku�l(a)- to hunt birds 
+k.-yu barnli�43 
+57 
+kut divine favor, bl essing, good 
+fortune 
+k. bir- 2, 47 
+k. kol- 47 
+k. -mta 56 
+k.-Ul) 36 
+kutlug fortunate, happy, blessed 
+tigri!Ja k. adg tr man 56 
+k. bolzun 23 
+kuzgun raven 
+k. sab1 54 
+k.-u g 14 
+k(a) kiik a spe cies of falcon 
+k. tazakin 23 
+kOi))- to come 
+k.-ir 7, 7, 11 , 30, 31, 34, 34, 55 
+k.-mi� 5, 42, 52, 58, 58 
+--- pdf page 32 ---
+58 Glo ssar y 
+k.-siir 55 
+k(a)l iir- to give bir th 
+k.-mj� 41 
+k(a )n tii own, one·s own 
+alku k. iiltigi arklig ol 66 
+k<ii)l)riin- to mutter to oneself 
+k.-t ir 22 
+k(a)ra kii framework of a tent 
+k. i�i 18 
+k(a)s- to cut 
+k.-ipiin 8 
+ki�a in the evening 
+yarm k. 1, 2 
+yann yaJJray ur k. kaQriintir 22 
+ki�(i)g young 
+k. di [n]t ar 67 
+kidiz felt 
+k.-ig 33 
+kin afterwards, later 
+k. yana iidgii bolur 57 
+kir- to ent er; lo penetr ate 
+k.-mi� 63 
+k .- tir 20 
+kisi wif e, womenf olk 
+k.- sin 29, 29 
+( oglarun k. 29) 
+(oglm k. 29) 
+ki�a- to fetter, hobble (a horse) 
+k.-mi� 39 
+ki�i man/ men, human bei ng(s ) 
+k. bilti 54, 60 
+k. korkm i� 2 
+k. ogb 15 
+k. oghn 2 
+k.-k ii 53 
+kiyik wi ld ani mal, wild game 
+bars k. 31, 49 
+iilik k. 63 
+s1gun k. 60 
+yargun k. 62 
+k. ogh 15 , 45 
+ko�ii r- to make migrate 
+k.- ii 34 
+(k.- konlur -) 
+kok blue 
+k. boy mul logan ku� 64 
+kol Jak e 
+k.- kii 22 
+kol- to yoke oxen, harness 
+k.-mi� 25 
+konak pail (see kol)ak) 
+k.- i 57 
+kol)ak pail (see konak) 
+k.-i 57 
+koptik froth 
+k.-i. imin 20 
+kor- to look at, see 
+k.- miif) ! 21 
+k.-lipan 17 , 17 
+ki:ir i.ikli ig having a wide vi ew 
+k. kayaka konupan 64 
+k. oi lS 
+korti�- to see one anoth er, meet 
+k .-m i� 15 
+kozl (a)- to watch for, lo ok 
+ar ound 
+k.-yi .ir man 64 
+koz!) i.i mi rror 
+Glossary 59 
+k.-sin 22 
+koz(ii)ntik window (of a tent) 
+k.-i 18 
+ki.i� power , str engt h 
+k.-il)ii 17 
+ki.i�li.ig powerful, strong 
+k. man 3, 20, 60 
+kiln sun; day 
+k. ortu 24 
+k. tug -26, 52 
+kiin( a)� su nshine 
+k.-kii olurur ol 57 
+m(a)mst(a)n cloist er 
+m.-tak1 67 
+m(ii)n I (u sed only copuJatively) 
+adglf m. 56 
+alp m. 10 
+bars m. 10 
+iirdiiml ig m. 10 
+kara ku� 111. 3, 51 
+kiyik ogh m. 45 
+kii�ltig 111. 3, 20, 60 
+miiJ] ilig 111. 62 
+s1g un kiyik 111. 60 
+tiinsi 111 . 1 
+titir bugra m. 20 
+toga n ku� m. 4 
+yar gun kiyik 111. 62 
+yllan m. 8 
+y ol tiif) ri m. 2, 48 
+birgay m. 2 
+olg ay m. 41 
+banr m. 42 
+a�tir m. 2 
+kozlay iir m. 64 51, 56 
+miil)iliiy i.ir m. 1, 4, 51, 56 
+mof)riiy ilr m. 60 
+sa�ar m. 20 
+sapar m. 48 
+tutar m. 3 
+ulayur m. 48 
+yaylay ur m. 64 
+yaylayur turur m. 62 
+yi yiir m. 3 
+yonyur m. 20 
+it mi� m. 48 
+m( a)l) food 
+m.-in 31 
+m.- ka 31 
+UiQkii m. bar-) 
+m(ii)l )i joy 
+bus an� ara m. kiilmi? 52 
+m( a)l)il( a)- to rejoice, be happy 
+m.-yiir man 1, 4, 28, 51, 56 
+(m.- badizla- 28) 
+m(ii) l)ilig joyful, happy 
+m. bag S 
+111. man 62 
+m(a)l)l(a)- to look for 
+iif)l ayli m.-y li ba rmi� 49 
+min - to mount , ride (a horse) 
+m.-mi? 16 
+mil ) thousand 
+m. tabllku tii ma n bolh 32 
+yiiz tabllku m. bol h 32 
+mol)ra- to bellow 
+m.-ylir man 60 
+mUI)lug distr essing 
+--- pdf page 33 ---
+60 Glo ssary 
+m. ol 22 
+n(a) �iik how 
+n. yonym 45 
+na what (bk. natag) 
+n. tag 18 , 18 
+n. tag oi lS , 18 
+n(a) gii where, in what place 
+n.-da 24 
+n(a)liik why 
+n. olgay ol 57 
+n. tol)gay 57 
+n(a)t(a)g like what, how (bk. na) 
+agni n. 18 
+odgur - to wake 
+o.-u 20 
+(ud1gmag o.-) 
+ogl(a)n sons, childr en; boy 
+o. k(a)ki. ik tazakin bulh 23 
+o.-1m 66 
+o.-m 29 
+(o. kisi 29) 
+og(u)l child , off spri ng; son; 
+young of an ani mal 
+o. -1 oginHi kal )mta obkala pan 
+58 
+alp ar 0.-1 55 
+<;lgany ar o.-1 30 
+ki�i o.-1 15 
+kiyik o.-1 15 , 45 
+ku� o.- 1 15 
+o.-1 yutuz1 29 
+o.-m 2, 29 
+(o. ki�i 29) 
+ogn thie f 
+o. soku �up tut upan minrni� 16 
+ol it (used only copulatively) 
+any1g o. 22 
+any1g adgt i o. 11, 18 , 64 
+any1g yablak o. 36 
+bar o. 18 
+baglig o. 57 
+adgu o. 1, 2, 3, 5, 7, 15, 17, 18, 
+19. 20, 23, 26, 27, 28, 29, 30, 31, 
+32, 34, 35, 38, 40, 41, 42, 47, 49, 
+52, 53, 54, 55, 56, 58, 59, 60, 62, 
+63, 64, 66 
+arklig o. 66 
+k6rti kli .ig o. 18 
+ITIUJ) lug 0. 22 
+na tag 0. 18, 18 
+yabJZ o. 12, 24, 44, 45 
+yablak o. 6, 8, 9, 16 , 22, 25, 26, 
+33, 37, 39, 43, 46, 50, 61, 65 
+olurur o. 57 
+k1z1l kaya k1�lag un o. 51 
+naguda bu lga y ol 24 
+kamg• naltik ol gay ol 57 
+ol ur- to sit 
+o.-upan 1, 4, 28 
+o.-ur 61 
+o.-ur ol 57 
+on ten 
+tokuz o. bo� kony 29 
+OJ)- to fade, wilt 
+o.-up 17 
+(ar- o.-) 
+ordu royal camp, roy al residence 
+kan ... o. yapmi � 28 
+Gl ossary 61 
+o.-sll)aru 34 
+ortu the middle , mid­
+o. yir da 49 
+kiin o. 24 
+tiin o. 24 
+0� abdom en, internal organs, in 
+testi nes 
+0. i� 29 
+ot grass 
+ya � o . 1 7,5 3 
+o. -suz 45 
+(o. sub 45) 
+oy- to hollow out 
+o.-gah 29 
+(o� i'< o.-) 
+oy ma th e act of hollowing out 
+o. ar 29 
+oz- to escape 
+o .-mi �13, 17, 41 , 49 
+o.-upa n 49 
+o- to think, remember (bk. od-) 
+o-pan 16 
+obk(a)Hi- to get angry 
+5.-pan 58 
+od- 'to get exci ted' 
+o.-maD 21 
+og mother 
+6.-i 35 
+o.-inta 58 
+6.-irJa 35 
+6.-i.im 58 
+(o. kan) 
+ogir - to rejoice, be joyful 
+o.-a 30, 31, 34, 49 
+o.-ar 15, 29, 35, 42, 63 
+(6.- sebin- 15, 3o, 31, 34, 35, 42, 
+49) 
+ogr(ii)n <;ii joy 
+0.-1) 36 
+ogr(ii)n�iiliig joyful 
+0.-li ig 55 
+okiiz ox(en) 
+0.-i.ig 25, 37 
+ol- to die 
+o.-gay man 41 
+o. -gay ol 57 
+0.-rni� 57 
+oll im death 
+5.-da 13, 17 
+o.-ta 49, 49 
+OJ) desolate, uni nhabited 
+o. yirda 17 
+ol)i separated, parted 
+idi�imta ayak1mta 6. 42 
+orgin throne 
+o. ilza l 
+ort<a)n- to be burnt 
+6.-mi� 9 
+ot advice 
+6.-in al- 58 
+otiig request 
+o.-ka 19 
+otiin- to request, pray 
+o.! 19 
+6.-i.ir 54 
+oz self 
+6.-i lm 8 
+0.-ii l) 47 
+--- pdf page 34 ---
+62 Glos sary 
+o.-i 34, 55 
+o.-in 46 
+ozliik favorite 
+o. at 17 
+s(a)b words, speech, message 
+adgii soz s, 7, 11 
+s.-t 54, 54 
+(ku zgun s.-1 54) 
+(kul s.-1 54) 
+s.-m 58 
+s(a) b�I messenger 
+arklig s. 55 
+sang athg s. 11 
+s(a)�- to scatter 
+s.-ar man 20 
+s(a)gu a game battue 
+s. i�ra alik kiy ik kirmi� 63 
+s(a)km- to think 
+s.-mi� 42, 58 
+s(a)nr; - to pie rce, put to rout 
+s.- mi� 34 
+s(a)I ) un general 
+s. itar;uk 67 
+s( a)p - to join, mend or repair 
+(someth ing broken) 
+s.-ar man 48 
+s(a) r(I)g yellow 
+s. athg sabr;1 11 
+s(a)b- to like 
+s.-di ikf unin 3 
+s<a >bin - to rejoice, be happy 
+s.-ti 30, 31, 34, 49 
+s.-tir 15 , 35, 42 
+(ogir- s.-) 
+s(a)m iz fat 
+s. at agzt 65 
+s(a)mrit - to fatten oneself 
+s.-(t)i ]6 
+s1gun male maral deer 
+s. kiyik man 60 
+sm- to be broken 
+s.- mi� 6 
+smuk broken thing or part 
+s.-n)m sapar man 48 
+soku �- lo come across, meet 
+s.-m i� 2, 6, 27, 35, 47, 49 
+(amgaka s.- 49) 
+(bori ka s.-27) 
+(kugu ku�ka s.- 35) 
+(taiJrik a s.- 47) 
+(ki�i oghn s.- 2) 
+s.-up 16 
+soz words, message, tidi ngs 
+s. sab 7, 11 
+sub water 
+s. ir;ipan 17 
+s. koriipan 17 
+s.-ka 33 
+s.-suz 45 
+(ot s. 45) 
+s u � u l un- to be skinned, be 
+plucked out 
+s.-m i� 44 
+suk- lo pu t in 
+s.-m i� 33 
+sil army; war 
+s. yirinta 55 
+s.-ka bar- 34, 35, 55 
+Glossary 63 
+s.-si 34, 63, 63 
+(kanhk s.-si 63) 
+(kara kamag s.-si 63) 
+t(a) b(t} lku Spi raea, spiraea altai­
+en 
+bir t. 32 
+mii J t. 32 
+ytiz t. 32 
+t(a)b (i)� g(a)n hare 
+t. tii risi 44 
+t. tipan 44 
+t(a)g mountain 
+t. iizii 17 
+t.-da 12, 51 
+t.-1ma 62 
+t(a}l(t)m predatory; daring, bold 
+t. kara ku� 3, 43, 51 
+t. un 40 
+t(a)l ula- to choose 
+t.-pan 1 9 
+t(a)lu y sea 
+t.-da 3 
+t(a)n body 
+t.-1m ti.isi 3 
+t(a)IJ dawn 
+t. taf)la rd 1 26 
+t(a )l)l (a)r - to break (of dawn) 
+tal) t.-d1 26 
+t(a) pla- to li ke 
+t.-duku min 3 
+(t.- seb-) 
+t(a)kt yet 
+tanu n tiisi t. tiikamazkan 3 
+t. ur! 33 
+t(a)ng crops 
+t. bi�di 53 
+t(a)ygiint(a)n place name (Ta­
+yun t 'an g) 
+t. mamstantak1 67 
+t(a)ba camel 
+t. ti tigka tii�mi� 46 
+t.-sil)a rii 5 
+t(a)g like 
+na t. 18, 18 
+na t. ol 18, 18 
+t(a)g- to reach 
+tal)rika t.-ir 20 
+t(a) gi up to, down to, right to 
+b.-il)ii t. 9 
+kahn at . 9 
+yi lil)a kudu rsugll) a t. 16 
+t(a) gliik blin d 
+t. kulun 24 
+t( a)gmi� one that has reached 
+t.-ig 59, 59 
+(ayka t. 59) 
+(y1lk a t. 59) 
+t(a)gi ir- to cause to reach, bring, 
+deliver 
+t.-m i� 35 
+t(a)n si <C hin. t' ien-tzu 'th e Son 
+of He aven', i.e . the Chinese 
+Empe ror 
+I. man 1 
+t(a )l)ri sky, heaven; god 
+I. bu hthg boltt 52 
+t. e�idti 54, 60 
+t. kiir;il)ii 17 
+--- pdf page 35 ---
+64 Gl ossary 
+t. kutmta 15 
+t. man 2, 48 
+t. unamaduk 38 
+t.-da arklig 12 
+t.-dan kod1 44 
+t. -garti yalbar - 54 
+t.-ka 20, 47 
+t(a)I )rili g devout, religiou s 
+t. ku rtga 13 
+t(a )ri skin 
+t.-si 44 
+t(a) rit- to sweat (intr.) 
+t.-ziin 50 
+t( a)rklay ii quickly, in haste 
+ar t. kalir 7 
+t(a)r trii crosswise 
+hg1g t. ki�a mi� 39 
+t(a )z- to flee 
+t. -ip an 58 
+t<a> z(a)k animal dung 
+kakiik t. -in 23 
+tig, t(I)g roan; roan horse 
+t. at 50 
+t.-Ig 39 
+tii)l( a)- to li sten 
+t.-ym 58 
+hrl)( a)k claw 
+togan ku� t.-1 44 
+togan ku�ul ) t.-1 44 
+htin - to be torn 
+t.-mi� 44 
+tig rO:Ot- to make a hor se brea k 
+wind on the move 
+hg a t ... t.! 50 
+til(a) - to wish 
+t.-yiir 24 
+ti lkti fox 
+t. yi rni� 46 
+ti- to say 
+t.-mi� 2, 2, 41 , 47 
+t.-p 58 
+t.-pan 44 
+t.-r 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 
+16 , 17 , 18 , 19, 19 , 20, 21, 22, 23, 
+24, 25, 26, 27, 28, 29, 30, 31, 32, 
+33, 34, 35, 36, 37, 38, 39, 40, 41, 
+42, 42, 43, 44, 45, 46, 48, 49, 50, 
+52, 53, 54, 55, 55, 56, 58, 59, 60, 
+61, 62, 63, 64, 65 
+tir il- to come together 
+t.-ipan 28 
+ti ri l- to live, stay al ive 
+t.-mi� 13 
+titig mud 
+t.-ka tii�mi� 46 
+titi r female camel 
+l. bugr a man 20 
+tiz knee(s) 
+t. iiza ii niipan 60 
+tog(a)n falcon 
+t. ku� 4, 44, 44, 64 
+t. ku�u l) 44 
+L iigiiz ku�J 43 
+togr(a)k poplar 
+ya gakhg t. iize 64 
+ton ou ter garment 
+uzun t.-lug 22, 42 
+tol)- to freeze 
+Glossary 65 
+t.-gay 57 
+t.-mi � 57 
+toi)UZ boar, swin e 
+t.-h 6 
+1.-UI) 6 
+(ad 1g t.) 
+tok uz nin e 
+t. arh s1gun kiyik 60 
+t. kat 50 
+t. on bo� kony 29 
+topul- to be pier ced 
+t.- gmc;:a 50 
+toruk lean, emaciated 
+t. at 16 
+toz du st 
+t. turd 1 15 
+tOr t four 
+t. bulun tak1 28 
+tor(i.i)t - to get oneself made 
+t.-mi� 55 
+tug- to rise (of sun) 
+ktin t.-d1 26 
+ktin t.-mi� 52 
+tum(a)n fog, mist 
+t. turd1 15 
+tu r- to stan d up, rise; to stay, 
+conti nue to exist 
+t.-dl 15, 1 5 
+t.- mi� 28 
+t.-u 17 
+t. -u pan 5, 56 
+t.-ur 16, 25, 37, 39 
+t. -ur man 62 
+(toz t.- 1 5) 
+(tuman t.- 15 ) 
+(kam �ayu umat m t.- 16, 25, 37, 
+39) 
+(t.-u kal- 17) 
+turgur - to raise, set up , bring 
+forth 
+yallghg t.-u 20 
+tun1ya crane 
+I. ku� 61 
+tut- to catch 
+t.-ar man 3 
+t. -mi� 63 
+t.-upa n 16 
+tutug stake 
+!. ur- 29 
+tuy- to feel, notice 
+t.-matm 61 
+tuyug hoof 
+altun t.-lug 5 
+tuz(a)k trap 
+t.-ka ilin - 61 
+tlig- to knot 
+t.-iip So 
+tiigiini.ik smoke hole (in a tent) 
+t.-i 18 
+tiika- to grow full y 
+t.-mazkan 3 
+tiik(a)l complete, safe and sound 
+asan t. 15, 27, 42 
+(asan t. bol- 27, 42) 
+tiim(a)n ten thousand 
+t. bolh 32 
+tii feather 
+t.-si 3 
+--- pdf page 36 ---
+66 Gl ossary 
+tiin nig ht 
+t. ortu 24 
+tii�- to fall down 
+t.-mi :;; 46 
+t.-tipan 64 
+tii�niik resting pl ace 
+t.-il )a 61 
+u- to be able; to get on, manage 
+u-matm 16, 25, 37, 39, 61 
+(w;a u. 61) 
+(kam :;;ayu u. 16, 25, 37, 39) 
+u-maz 65 
+u-ym 45 
+u�- to fly 
+u.-a azh 15 
+u. -a umat m 61 
+u�rug flag 
+u.-lug kutul ) 36 
+ud1gm( a) one who is asle ep 
+u.-g odguru 20 
+udu foll owing it, th en, ther eaf ­
+ter, an d 
+tal) tal )lar dJ u. yir yarud1 u. 
+kti n tugd1 26 
+ul a- to join 
+u.-yur man 48 
+ulug big , great 
+u. ab 9 
+una- to agree, approve 
+u.-mad uk 38 
+ur- to bea t; to put on, mou nt; to 
+depo sit e 
+u.! 33 
+u.-up 35 
+u.- upan 29, 40 
+(tutug u.- 29) 
+un young man 
+u . ... ya hl)u sun yonyur 
+unl( a)n - to giv e bir th to a son 
+u. -mi :;; 5 
+ut - to win (at gambl ing or bet­
+ting) 
+u.-m i:;; 29 
+utru op posite , facing, across 
+u . ... kopu pan barmi :;; 43 
+u . ... soku :;;mi :;; 2 
+u. yi rda ogn soku�up 16 
+ut uz- to lose (at gamb lin g or bet­
+ting) 
+u. -mad uk 29 
+uya lair 
+u. -S1 l) aru 31 
+uyur able , capable 
+u.-1 28 
+(adgi.isi u. -1) 
+uzun long 
+ozi.il) u. bolzun 47 
+u. tonlug 22, 42 
+iio; thr ee 
+ti. bolugt a 19 
+ii.-;ii n for 
+sal) un it a.-;uk i.i. bitidim 67 
+ii.-;iin.-; thir d 
+i.i. kun.-;uy1 5 
+i.i. y!lt a 15 
+ii.-;(i i)r gii fe lt bla nket put unde r 
+the sa ddl e 
+i.i.-1 ) 50 
+Glossary 67 
+iig( ii)r herd, stud 
+u. -il)a 56 
+iigii�- to be pl ucked out or worn 
+out 
+ii.-tipan 44 
+iigiiz river 
+ti. ku�1 43 
+iikii� many 
+ti. athg 36 
+iil iig fate 
+ii.-da ozmi� 41 
+ti.-i 66 
+iimal (ii)- to go vis it ing 
+ii.-yti barmi� 47 
+li n- to ascend, cl imb; to ri se, 
+stand up 
+ti. -di 53 
+ii.-mi :;; 63 
+ii. -tip 49 
+ti. -iip an 60 
+til)ii �- to be ski n ned, be lacerat­
+ed, be torn off 
+ti.-tipan 44 
+iipgiik hoopoe 
+kan ti. 21 
+iirk- to be scared, frightened 
+ii.-t ipan 27 
+iirk(U)t- to scare, frighten 
+u.-mal)! 21 
+Uriil) white 
+u. asri ingak 41 
+ti. asri irkak buzagu 41 
+ii. asri togan ku:;; 4 
+ii. in gani 5 
+ti. koptikt imin 20 
+iiza above; on, over 
+i.i. tal) ri e:;;idti 54, 60 
+i.i. tal) rika Hig ir 20 
+ii. Iuman turdi15 
+art ti. 6 
+bodun ti. 53 
+1gao; i.i. 4 
+kamag i.i. 26, 53 
+orgin ti. 1 
+tag ii. 17 
+tiz ti. 60 
+tograk i.i. 64 
+yi � ti. 17 
+iiziik broken, torn off 
+i.i.-i oin 48 
+y(a)b(1)z bad 
+y. ol 12, 24, 44, 45 
+y(a)bl(a)k bad 
+y. ol 6, 8, 9, 16 , 22, 25, 33, 37, 39, 
+43, 46, 50, 61 ,65 
+any1g y. ol 36 
+y( a) dr (a )t- to make (a horse) li e 
+on the ground 
+y.! 50 
+y(a)g- to rain 
+y.-d 1 53, 53 
+y(a)g(a)k nut , walnut 
+y. 1gao; 56 
+y.-hg 64 
+y(a)gt enemy 
+y.-g 34 
+y(a)gl(t)g greasy 
+y. kam 1o; l 3 
+--- pdf page 37 ---
+68 Glossary 
+y(a)gn- to be galled 
+y.-pan 16 
+y(a)l(a)b(a)t; envoy 
+yaztg atbg y. 11 
+y(a) lb(a)r - to beg, pray, implore 
+y.! 19 
+y.-ur 54 
+y(a)lg(a)- to lick 
+y.-yu 13 
+y(a)l( I )g joyful, jolly 
+eki y. h;;i oglm 2 
+y(a)i(I)m bare, free from vegeta­
+tion (of a cli ff) 
+y. kayag 40 
+y. kayaka 49 
+y(a)ll)us al one 
+y.-un yon yur 40 
+y(a)na again 
+y. adgii bolur 57 
+y. ad giiti sakmmi� 42 
+y. kalmi� 42 
+y. sakmmi� 58 
+y . ... ki:irii�mi� 15 
+y. h ti nmi� 44 
+y. tokuz on bo� kony utmi� 29 
+y(a)l )ra- to mumble 
+y.-yur 22 
+y(a )p- to mak e, build 
+y.-m i� 28 
+(ordu y.-) 
+y(a)r - to split, cleave 
+y .-a ur- 40 
+y( a)ra- to fit, be suit able; to be ad­
+vantageous, benef icial 
+y.- gay 5, 5, 5, 41 
+y. -mi? 30 
+y(a)rgun kind of deer (?) 
+y. kiyik man 62 
+y(a)r (•)l- to be split 
+y.-mi;; 6 
+y(a)r (t)n in the morning 
+y. yal]ray ur 22 
+un y. 40 
+y. kit;a 1, 2 
+y(a) ru- to become bright 
+y.-dl 26 
+y. -mazkan 21 
+y(a )ruk bright , shining 
+y. bolt1 26 
+y(a)sit; a broad long arrow-head 
+y.-in 40 
+ya� [y a:�] , y(a)� fresh; fresh grass 
+y. yip an 17 
+y. ot 17, 53 
+y(a)� (I)I green 
+y. kaya 51 
+y(a)t - to I ie down 
+y.-tp an 3 
+y(a)t(J)gh one who Lies down 
+y.-g turguru 20 
+yla)yl( a)- to spend the su mmer 
+y.-yur man 64 
+y.-yur turur man 62 
+y(a)yl (a)g sum mer qua rters 
+y. taguna agtpan 62 
+y.-11 11 51 
+y(a)z(J)g da rk brown (h orse 
+coat); a dar k brown horse 
+Glossary 69 
+y. athg ll 
+y. kod1 yadr at! 50 
+y1 d1t- to make somet hing stink 
+y. -maym 59 
+yll year 
+bars y. 67 
+y. ya ruma zkan 21 
+y.- ka 59 
+y.-ta 15 
+y1 l( a)n snak e 
+altun ba�hg y. man 8 
+ytlk 1 horse, horse herd; animal 
+y.-ka 53 
+y.-IJ 47 
+yig(i)rmi twent y 
+bi� y.-k a 67 
+yi- to eat 
+y. -mi� 37, 46, 46 
+y.-p an 17 
+y.-yi ir man 3 
+yil mane 
+y. -iiJa 16 
+(y. kud ursug) 
+yir earth; pl ace, land, terri tory 
+y. yarud1 26 
+y.-da 16, 17, 49 
+y.-in 16 
+y.- inta 55 
+y. -ka 20 
+yi � mou nt ain forest 
+y. iiza 17 
+yitiglig capable 
+ah y. kalir 3 
+yol road, way, path 
+y. sub 17 
+y. tiil]ri 2, 48 
+y.-1 30 
+y.-ta 35 
+yo� [yo:k] non-existent 
+korkmt;uJ y. 36 
+kut uiJ y. 36 
+ogriin t;ii!J y. 36 
+yon- to walk , pass; to li ve, get 
+on 
+y.-dJ 53, 53 
+y.-ym 45 
+y.-yu az- 15 
+y. -yu bar- 17 
+y .-yur 20, 40, 49 
+yul - to pluck out , cut off 
+y.! 8, 8 
+yunt horse 
+y. -ll]aru 5 
+y.-ta 24 
+yurt camp, camp in g-site 
+y.-ta 13 
+yutuz wif e, housewife 
+y. -1 29 
+(oguJ y. ) 
+yiigiir - to run 
+y.- ii 15, 16, 44 
+(y .-ii az- 15 0 
+(y.-ii bar- 16, 44) 
+yiitiir- to lose 
+y.-iip 24 
+yiiz hu ndred 
+y. tab1lku 32 
+y. boltt 32 
+--- pdf page 38 ---
+BIBL IOGRAPHY 
+Ar lot to, A. Thomas, Old Turkic oracle books, in: Monumenta Serica 
+XXIX (1 970-71) , 685-696. 
+Claus on, Sir Gerard, Notes on Irk Bit ig, in: UAJb. XXXIII, 3-4 (19 61 ), 
+21 8-225. 
+Cla us on, Sir Gerard, An Etymological Dictimzary of Pre- Thirtwrtlz­
+Centur y Turkish, Oxford 19 72. 
+Erdal , Mar cel, Irk Biti g Dzerine Yeni Not lar, in: TDA Y- Belleten 1977. 
+87-1 19. 
+Erdal , Mar cel, Ein unbemer kter chasarischer Ei genname, in: Tilrk 
+Oilleri Araf?trr malan 19 91, 31- 36. 
+Erdal , Ma rcel, Old Turkic Word Formation: A Functional Approach 
+to the Lexicon, I and H, Wiesbaden 1991. 
+Hamil ton , Jame s, Le conte bo uddihique du bon et du mauvais 
+prince erz version oui·goure, Paris 1971 . 
+Hamil ton, Ja mes, Le colophon de I' Irq Bit ig, in : Turcica VU (1 975), 7-
+19. 
+Malo v, Se rgej Je. , Pamjatni ki drevn et jurkskoj pis 'me nno sti , Mosk­
+va 19 51, 80-92. 
+Nad elja jev, V. M. and A. M. Nasil ov, E. R. Teni shev, A. M. Shcher ­
+bak , Drevmtju rkski j slovar' , Leningrad 1969. 
+Orkun , Htisey in Nam1k , Eski Tiirk Yazr tlan 11 (19 38), 71-93. 
+Peka rskij, Ed uard K., Slovar' jakutskogo jazyka, I-III , Petrograd 191 7-
+19 30. 
+Te kin , Teki n, A Gramma r of Orklwn Turkic, Bloomington 19 68. 
+Tek in , Tekin, Orhon Yazr tlan, Ankara 19 88. 
+Tezca n, Semih , Tonyukuk ya z1tmda birka� dtizel tme, in: IDA Y- 8 
+19 75-1 976, Anka ra 19 76, 173-181 . 
+Thom sen, Vilhe lm, Dr. M. A. Stein's Man us cripts in Turkish 
+'Runi c' Scrip t from Miran and Tun-h uang, in: JRAS 1912 , 19 0-214. 
+Thom sen, Vilhelm , Samlede Afhandli nger lll , Kopenhage n 19 22, 
+226-254. 
+--- pdf page 39 ---
+FACSIMILES 
+--- pdf page 40 ---
+75 
+J": �. 
+'}-�;,. 
+--- pdf page 41 ---
+76 
+. ' 
+F·· ':� : / � �' . ·- ' 
+: ;'.!,;.; t, �-•- w• � · ' 1..:.l;.· · ..., -
+�, - . . - . --�.':\.. ' 
+_, •. • • 
+•. . �' • • . t · .. � 
+-� ··";<';. t..a ' ,!" ....... � .J ._ ·'' .. . , •• J 
+"' •n . • . . ,_.._ ; .. :A'f_.. i�. 
+... . \"'-:"· 
+77 
+�\tJ.e�i'4��,;-���- ,�--�.·.<·?·�·r\\·��L����2 
+. . 
+,-l �r.l ,;:.J.� .... :. ·, -� •, I �· :.-). • , 
+, _ . .,. •. """ t,; . - .. -, " 
+" �<:· ... r--.--- . . : . : .. . ·· 
+. . ' 
+.�_;. .,. � ·. . ... -: 
+. , 
+. �-\-! .. -
+�- ... . 
+' �... 
+...� �- ... . 
+_ . ..... -,..: ·, 
+. .. . ·- ��· 
+. . . . � � 
+--- pdf page 42 ---
+78 
+79 
+��)�������-���� ,. 
+� filt�����{��\�:������t 
+--- pdf page 43 ---
+80 81 
+.. 
+• � � � II( 
+,, � "" j. 
+'J � "'- II\ 
+... � 
+� � 
+" 
+.. 
+�Q 
+.. "' � c � 
+. . 
+� 
+" "" 
+c 
+·. , 
+:.. -
+':t 
+:\ � ... 
+-: � " -
+� '� � � ,.. 
+� ,... -
+,, 'I 
+.... � *' 
+ol 
+� � ., � -;,. 
+\' � 
+.. 
+� .; ... � " 
+� ... 'p � 
+!"�. � � � � 
+0 
+II "1' .. 
+t 
+,, 
+� 
+--- pdf page 44 ---
+.. � � "'_. � , �c. 
+�,. -e <7 ..J6 7 , :s _... 
+o ,.- I P ,. :=- * , � 
+(1 -T v ,. � : T 7f � 
+J �Q ,.,. :r + ,v 
+--. -fi p -:_ ....--�� p ..,. 
+? Ji _,-� -. -1» .:- � 
+?�=- _,.. r� " 
+fiJ - � 
+::.- .. '-' ... ,... �,. 
+�, ,: � � 7--:. 
+1;; � F ,A.�- ,v� ::� 
+.T ,. .V � A ,,-. ,- ;. > 
+�, �� .ai� ..J7� 
+;.- v?Y Y" -Jl'V 
+,- � � ...r -F .= ,.,. � 
+.1 
+� � 
+- J ,-,v rl.., �71 
+,.-: -r�Jt -.� 71 
+��'li? 71: J� J" 
+�* � =-9 �� � 
+:: ...- �:: • �*' r,. 
+:� I J"Y' .-"'k 
+:: _1-;7 : ,. � " 
+9 Q O oo o o ·�o 
+.J� �.C ;> ,?- *.-1 
+(l I ., _,.,.. * ; .., -li 
+T9 :._,. J"� IJ� 
+e:: ,y ;79'" - Y ,.. ? 
+t'£ PY A V V':: � 
+,.. ., ::: ....-��..,. )II" 
+:: =-.YY ..J ,_� , 
+:..1� .:-pc_ ,c 
+R3 
+00 
+(.>) 
+--- pdf page 45 ---
+84 85 
+� i « "" -
+'t 
+Oi01 � 1 - � ., Ia & iii � 
+... 
+• � 
+� ,. 
+" 
+• 
+� � ., f\ "" .., � � � � Q ... t! 
+':' � ., 
+�� 't 
+ll 
+"- � • « 
+II 
+" .,_ 
+il 
+'C �e � 
+h 
+)a e • "" n Ita � 
+II A \a � 1\o � � ., 
+• 
+0 ll « "' ;._ ·� � Ill( ... ' � 
+II • " 
+0 
+• .. 
+� �- � ., " 
+�· ' ;... , � ., 
+0 
+II ... .,. .. 
+1"1 
+� if � 
+II 
+� w-- 1\. « I. ll II 
+�e 
+II 
+�" " t • � =.. .. , 
+� 
+':r � ,. • "' 
+o- t<. {t 
+" ..: � � Q � 
+II • �" � � 
+('\ Ia )a � 
+1\ 
+· - -- - - - -- -
+• � 
+• � � :.. � 
+I( .. '� i Q ' � · " n � � 
+? -t • 
+II 
+" • � � � " 
+,, 
+A ':r � 
+.. , � � 
+.. 
+� " . , "' �' � � 
+., " � � 
+- � I\ 
+• .. l Q � � " 
+� �. � Ia \; � � •• 
+- ': �- 0 • 
+•• .,. 
+-t 'I' � 
+II 
+� � 
+� � " � 
+., 
+,. 
+d 
+-
+� � l\ 
+� 
+1). 
+� � \I 
+., 't � 
+� � l\ � 
+)a -le " . 1: - II 
+" '-., ., ., , ,. ... • 
+� �e lt ' "" � � tt 
+4.t ., " � � 
+- 11 f\ 
+.,. • ;. l\ " • 
+� -"C � • � 'J. � I� G 
+•r \1 � 
+::: � 
+--- pdf page 46 ---
+86 87 
+� I. " 
+� • 
+t; '·� 
+� '- • 
+\ A. 
+- « � 
+� � � � � • 
+� • b ... � � '- ,., 
+•• a. C) 
+� f �-
+1\ .. � � 
+� � � ' .. 
+� \ � r. ., " .,. ., � 
+'- • 
+II 
+� � 
+II �� -( " 
+� 
+·� .. ... � 
+t � 
+·' 
+,.. ... ._ l « 
+� Ill' � 
+,, - t )fro "' 
+•• 
+., � � 
+"'· 
++ 
+• k\ Q 
+1\ � � 
+II � � 
+Q 1\· � · II 
+tl '-
+� 
+lilt 
+tf-
+HJ 
+•• 
+� � 
+� � 
+' G' � � r. f\ .. 
+� 
+1. � 
+:. ., 
+•• 
+j) IP • 
+� 
+" '-' 
+- � '·' � 
+._, 
+II " ,, 
+.. I 
+• 
+.... ' .,. � lllfl � « � 
+-r � • � 
+II 
+� �-
+� t � � .. � 
+(). .,. � �c A �Q 
+� ;:, � )t. 
+H- � � 
+,, .. � 
+• 
+• � 
+.. 
+� i. it. " 
+"• � " " • � 
+.. II ' ., 1: 
+" I... Nl 
+" w � 
+� 
+"' " 
+n • .. 
+t' � f\ ' 
+-
+« 
+« 
+{} 
+II « 
+>i' � ... 
+ira )a ).. 
+., 
+It 
+' 1:' � 
+.� 
+lta 
+• f) -
+,, l) � 
+� 
+., � 
+;. , 
+� 1\ " t\t � � ;+. 
+II 
+). � 
+� 
+;.. 
+1\ 
+... ' IIIII 
+� 
+'I � • � • � " 
+a. ' 
+•• 
+..... !n 
+,,. � H ,J 
+0 
+•• 
+--
+--- pdf page 47 ---
+88 89 
+e 
+• 
+t. � ... 
+� � .,. & � 
+-
+� � � � '\ � .. ;. 
+� ... � 
+• 
+Q 
+\ 
+T ., 
+,.. 
+II 
+\j 
+�c � t) )\a 
+A. 
+� ;. ¢l � � 
+() i � 
+� � � ... ·� ,.. � 
+I, 
+i .. 
+� � 
+" ': II\ II 
+� t t 
+·.I 
+� 0 � � �·t e 
+t; 
+� :.. 
+" 
+� 
+It 
+� 
+a 
+� � h 0 
+•I 
+� 
+• � 0 « 
+Q � ».. � 0 r. 
+'• I 't * .. 
+" \ 
+• � 
+':f � 
+II 
+� ' � � II 
+). 
+� 
+"' � Oo 0 
+� I. (I 
+� t 
+� � 
+' � � " ·� 
+Ia 
+' t\ � � � � 'I' - �t 'I 
+� . 
+e :. � � � 
+II 
+� .. � 
+� � l\ 
+-
++ 't � ,c ... 1• , 
+c � � 
+� Yr • ., � ,, � � � � :Ill\ � ' " � � 9 � & � 
+� 1 ( •, � ... . ,, .. �e .. , r- � � Ia � " .Ia. & .. It • It 
+� � "' l 
+,. � 
+4-. � ., II 
+r • 
+• 
+t ! � � � � � � 
+., 
+� D. � �. It w .. 
+� t Ill. ., 
+,, Ill\ )ll � � � 
+� (t 1\ 
+·� .. 
+� 
+w � 
+I) "' 
+f 
+u 
+.�a. .. � . 
+II 
+� .,... • � IJ � Ia 
+� 
+� 
+0 � -( � *" Ia � '-
+� 
+-! 
+·� . :� l 
+.. · � 
+�. 
+� � �- f\ 0 )l ' � 0 -( 
+r!. - " 
+� c. !;}. � • � 
+� .t· ·�. 
+� 
+� " ' '(t � ._.. ... 
+.,n � .,. � - . , 
+--- pdf page 48 ---
+90 
+I -{> 
+N- e. 
+� 
+� 
+� 
+• 
+)l 
+.. 
+.,... 
+)r. 
+• D 
+' 
+• ' 
+t\ 
++ 
+0 .... 
+• � 
+� "" 
+" 
+"" � 
+' �" 
+' � 
+' 
+" 
+'- "- 4- ,, \... 
+�" 
+- I I � a-a 
+Ill( 
+0 
+�. " '-' .. 
+� '*' ... -: -l,t 
+� � II � 
+� 
+0 '"' �1fa 
+�e f' � ,, '-' 
+• 
+1-r 
+h \I 
+H 
+� 
+tt « � � 
+" 
+91 
+� 
+� �' ;. A " 
+0 
+� �c 
+" � � 
+I\ "' " � -< " 
+\· • 
+I 
+"' 1+. 
+I\ 
+� 
+, . 
+� �c 
+� I I 
+" 
+- � " 
++ + 
+� � 
+.. I. ' • " ,, � � 
+'� 
+\ � 
+�c " " � 
+': 1\ � �c 
+� 
+• • 
+.... )a. 1\ 
+� 1,. � .., 
+.... \\ 
+--- pdf page 49 ---
+92 93 
+-1:: 
+--- pdf page 50 ---
+94 
+<:1--
+-
+' � \ � � � � � \ 
+• ... � � � A � � . 
+., II � � + & � ,, ' 
+' � � " � 
+\�� : • � � " Nl 
+1.1 't' II 
+' I I 
+"' . � � � � ..., 
+� � \ I\ 1\ 
+I( � .. � 
+�· � � � \a 
+II \I 11 
+' ',\ 
+-\" 
+--
+.-..------.&:--- .. -
+� . �� � ·� 
+\) � 
+' "- ., d L 
+. � \.1 It' « 
+e l A � � 
+r1 HI ._ '-
+�- �� � .. l• 
+� � � 
+C) 
+� , .t � � 
+� 
+" 
+�� 
+� 
+� 
+� 
+0 
+0 ., 
+I 
+' 
+1\ 
+�� Q 1\ 
+0 -= 
+• 1 
+� � 
+,, 
+. I 
+� "' � " 
+� � "' � "' � " � 
+" �· � 
+l. �Q ,.. 
+, .. 
+II( � " l, 
+... ll- t) =-. 
+� '� � � 
+:.. � � 
+• � t 
+\) 
+� N- 1-. � � � � , , 
+' 1 � �-
+(, • 
+)a � 
+l. - � 
+�. � ..... .. 
+� 0' � � " 
+� � . � � • � & 
+.: ir �� l � 
+l' � '� 
+� � � I I � 
+� " t � l 
+' 
+• 
+' 
+' 
+' 
+' 
+' 
+&_ , ' � 
+� 
+� � � � \\ II 
+·� � �. 
+... � � � 
+� i t "' 
+�� � � � �' 1 
+" 
+95 
+--- pdf page 51 ---
+97 
+96 
+-
+..... 
+--- pdf page 52 ---
+98 
+·' 
+.. , 
+I 
+t 
+' 
+' 
+t 
+j 
+' . 
+0 • 
+99 
+--- pdf page 53 ---
+10 0 
+I 
+'<l 
+rJ 
+') 
+,, 
+101 
+--- pdf page 54 ---
+102 
+('. "' 
+-· ::. 
+� � � � ... 
+II ':f .. � �" 1\ /t. "'I 
+" • I.. "' �� � 
+� � A � � �V ' 
+II � 
+�,;,; 1). �c , , " ., . � t. �o 
+:' � �-.. A �- . • � ,._ 
+� = t "' " " Q �" 1\ 
+�� .._ � " � Ita � " .. 
+� Q 0 �" -t � 
+,,. 
+« 
+��1tf- � 
+� � (r II .,. 
+\� �#-
+\. .::. ..,. lor ! . ,, 
+-
+-� � �- * � 
+" (} Ia 
+�\ ,,. � ... � 
+103 
+h • � 
+., .. 
+I I � It' 0 II 
+' ·'> 0 • 
+\ 
+C\ 
+-
+0 � 
+II 
+--- pdf page 55 ---
+104 
+(•, 
+d 
+� � -r \ p � � ... u ,. 
+� t � a A � �. 't : 
+� f' 1: � � � � . l . . 
+I> ':1' " " II. .. � �)!" 
+� +: � � !'" "'� �ot: � ·w. f\'f n>- ., 
+� • � '.. Q �-.· - • 1). � .. • h b t\C .. l\ 
+� 
+«' :.., � � 
+,. "' 
+.. � 
+Ill' 
+�. 
+a 
+" 
+� 
+-
+• 
+� 
+.. 
+l 
+' 
++\\ 
+�� �..,, 
+\i.l l " '= A 
+�; �� , \1 ' 1\ �� 
+�c 11 4* • 
+· n I I 
+A ;.. " '-t 
+' "' �� .,. 
+ol,t 1'1 ;, � 
+,, · , 
+�� � � J. � " 
+f\ � � )a ·� ,iJ � � . " Q 
+� � �� .;;; 'T' � 
+""- �)a �� 
+II 
+� 'Jta � 
+"� ,. II '� h 11 
+(Y 
+� � .t � \\ 
+0 
+�� �� « 
+:. � ': � � n�.� _.. )Ia A 
+'r • r '- "· � 
+, tl 'c • � � 
+G '� ., • ,. ' 
+� ; � .. � 
+II 
+�-�� ija () t.. 
+() � � 
+• 
+I 
+c. :tl G. 
+105 
+c 
+0 � 
+' . ; .. 
+Q + 0 
+� 
+l 
+tij 
+\\ 
+8 l 
+" 
+\\ 
+� 
+• 
+� 
+��f 
+�J 0 
+I 
+h 
+� ' 
+--- pdf page 56 ---
+106 
+<:') 
+' 
+.. " 4. -= � 0 I 
+'- ' � . "" 
+t 
+ir � A )a � � �A 
+�-( � - ': tl 
+.. • � 
+• 
+: � 'c � .. ... ;� --� 
+n 
+� --
+A. fl: �� ... ,. 
+� ' � .;, ,\. -� ;'-·� • � 1\ .r.� � �--� .. 
+� � � ,. I I f\ 
+1\ " 
+�'" 
+& � 
+� � 
+.__ �.,. 
+� )II � 
+lt.� � 
+� 0 
+,, 
+� (\ 
+« ., � G \I 
+• 
+' 
+0 
+I 
+I 
+' 
+l 
+�, 1' �� ._ A 
+II, ' � - � ll 
+... . tl_ .. 
+. ..,. � � .. . · .. ' "· 
+� �'�· ·, � 
+�' -" � -= �,;, 't . � 0 . . " 
+� � �. �� C) 
+.I 
+··') 
+107 
+� -:: -r � I Ia � � � 
+h ,_ � ' � 
+� t1 � j,IJ 
+�� � � 'l .� .. .. � i. u:' .,. � · n 
+I. t.. �c ,. A 
+� 
+n � � A " � � -= 
+t .,. • h �-- � t-· � 
+t Ita � � �: � • • " 
+� e .,-_. : ". 
+•.I 
+- Q, ' 
+• 
+� e 
+II 
+� • !} ,.. 0 � � � 
+� ; tt. � 
+� � NJ .; 
+. " � � � 
+* .. ' � . � � C) ' · IU • 
+H-�t. 
+ll-�� :.., 
+·, 
+" 
+• '� 1. , 
+\l � )- A ,. 
+I 
+, 
+.. 
+- .. ... � 
+II t� 
+�� �- :. ., \01 It • 
+0 
+--- pdf page 57 ---
+10 8 
+�f � 
+� � 
+" .. . 
+. .,. 
+� 
+0 
+� it. i.. 
+� � 
+� 
+1\� �t.oe tt 
+�-= �«- """ 
+�" ,, .. .. , 
+A �e ' ,. -•· " 
+• J+,. • '- � 
+.... .. .,. � '!' c� � II (� � " t.. aH- �� 
+�.. ., -= 
+t .. 
+� 
+. � . ,, 
+. ' 
+. ,. 
+0 \. 
+Q I I 
+Q 
+.J 
+,., 
+I 
+• 
+i 
+wr.,.=.t � A �•4\ 
+� t:\ .,. 
+1 � II .,. � 
+• " � � '= � Mit � h 
+���� �� 7 � ; .. "' � � ,, « "' • 
+\1 1:. \. 
+�u ���'- .. � :.. .. 
+109 
+--- pdf page 58 ---
+110 
+111 
+--- pdf page 59 ---
+112 113 
+--- pdf page 60 ---
+114 115 
+--- pdf page 61 ---
+116 
+<t 
+' l 
+I 'I 
+0 � 
+. ,, 
+• D 
+' I­' ., 
+\ 0 
+117 
+--- pdf page 62 ---
+118 119 
+--- pdf page 63 ---
+120 121 
+\ 
+--- pdf page 64 ---
+12 2 
+f 
+..:t 
+,., 
+:::r 
+123 
+--- pdf page 65 ---
+12 4 
+--- -- -� 
+125 
+--- pdf page 66 ---
+126 
+----- - - - -
+� 
+� 
+0 
+-te 
+• 
+� 
+� 
+� 
+'Ia 
+"' 
+0 
+l 
+� 
+:., 
+� 
+� 
+() 
+12 7 
+• � ': � �c • 1'. I. . . A • t. � � A 
+• " • A, � ' 
+� ; " ., ' 
+' • � t: \c 
+� � • I. 
+' 1- � .. " 
+0 ·-
+--- pdf page 67 ---
+128 129 
+------=- . 
+--- pdf page 68 ---
+130 
+� � " )II :. ... .:. � 
+� � � � 4" 
+l ; I\ 
+� " cr • t 
+-· 
+f' 
+� 9 1., :A '\: � 
+� 
+'-�< 
+.. "' l ,. � 
+� 
+� 
+� 
+� ;.· * � 0 0 
+'r � .(O Q 
+� f t 
+�-
+1-. Ita � G ., 
+l:-t\ 
+v. • -
+;. 1\, � " • 
+� • () 
+• 
+.. � 
+,. "' I. • �e 
+� f -r • )l ' 
+� �e 0 
+� • • 
+�- Ia 0 ' �0 0 ' 
+;t � 0 
+" 0 
+� �' � Ia Ia • 
+� 
+c ' 
+� & 
+.., .. 
+�' � A. 0 
+� � 
+jQ 
+., � f) 
+... 
+t • 
+() 
+-
+� 
+• • 
+41! »a 
+,J... ·� 
+� Q . 
+.-c 
+.f � 
+0 
+... � -Ia 
+131 
+Ma ..,.. A 
+* /'.. <c , : 
+, ., • � ... ,. )II · 
+0 (e A; 
+,.. ll �� 
+� 
+it- , ., � • .. u c; �' " ':a � 'I' 
+-� � 
+� � 
+,. � J>JJ c 0 
+-: 
+� 
+'t 
+(, Ill 
+i). (' *' � 
+" 
+� � ��� �� �� 
+0 
+• 
+�1no;. \ � e 0 
+�.It���,������ ����.�������*'.-}'p*:sl2 1!�t'f.�l����4-i��� . 
+-'����������·�� r.-)�� �· ,} 0 � � � 
+��� � �-: �- �. r-l,:,;• t ,, �. '''"'- . � -
+., • � ' 0 • f �.y .. .... -
+..... ,.. . ""· \. \ .. � 
+� 0 0 
+L.o:> 
+--- pdf page 69 ---
+132 133 
+--- pdf page 70 ---
+
+--- pdf page 71 ---
+
+--- pdf page 72 ---
+
+--- pdf page 73 ---
+
+--- pdf page 74 ---
+
+--- pdf page 75 ---
+
+--- pdf page 76 ---
+
+--- pdf page 77 ---
+
+--- pdf page 78 ---
+
+--- pdf page 79 ---
+
+--- pdf page 80 ---

@@ -1,0 +1,38 @@
+Step 43.  Later Han against Old Chinese, over the record's characters.
+Baxter and Sagart table: 4006 characters parsed.
+The record: 81 distinct characters.
+
+Of the 60 characters present in both reconstructions:
+   same              38    63.3%
+   onset             16    26.7%
+   coda               4     6.7%
+   onset and coda     2     3.3%
+   (not in Schuessler's table: 5)
+   (not in Baxter and Sagart: 16)
+
+   a different class of segment in one position or both:  22 of 60,  37%
+
+The characters where it differs, and how
+       Later Han    Old Chinese    onset                  coda
+  軍    kun          [k]ʷəәr                               dental nasal -> liquid
+  權    gyan         [g]ʷrar                               dental nasal -> liquid
+  韓    gɑn          [g]ˤar                                dental nasal -> liquid
+  路    lɑ           Cəә.rˤak-s                            open -> velar stop
+  粥    tśuk         t-quk          palatal -> velar       
+  稚    ḍi           lrəәj-s        dental -> liquid       
+  維    wi           ɢʷij           glide -> velar         
+  詹    tśam         [t]am          palatal -> dental      
+  衍    jan          N-q(r)anʔ      palatal -> velar       
+  邪    ja           səә.ɢA         palatal -> velar       
+  支    tśe          ke             palatal -> velar       
+  若    ńɑk          nak            palatal -> dental      
+  車    tśʰa         [t.qʰ](r)A     palatal -> velar       
+  而    ńə           [g]ew          palatal -> velar       
+  尸    śi           l̥̥[əә]j       palatal -> liquid      
+  道    dou          lˤuʔ-s         dental -> liquid       
+  于    wɑ           ɢʷ(r)a         glide -> velar         
+  塗    dɑ           lˤa            dental -> liquid       
+  閼    ʔɑt          qˤat           glottal -> velar       
+  氏    dźe          k.deʔ          palatal -> dental      
+  臣    dźin         [g]i[ŋ]        palatal -> velar       dental nasal -> velar nasal
+  單    dźan         dar            palatal -> dental      dental nasal -> liquid

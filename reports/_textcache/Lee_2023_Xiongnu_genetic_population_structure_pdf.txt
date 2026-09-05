@@ -1,0 +1,1532 @@
+ANTHR OPOLOGY
+Genetic population structure of the Xiongnu Empire at
+imperial and local scales
+JuhyeonLee1†,BryanK.Miller2,3,4†*,JamsranjavBayarsaikhan2,5,ErikJohannesson6,
+AliciaVentrescaMiller2,3,7,ChristinaWarinner8,9*,ChoongwonJeong1*
+TheXiongnuestablishedthefirstnomadicimperialpower,controllingtheEasternEurasiansteppefromca.200
+BCE to 100 CE. Recent archaeogenetic studies identified extreme levels of genetic diversity across the empire,
+corroborating historical records of the Xiongnu Empire being multiethnic. However, it has remained unknown
+how this diversity was structured at the local community level or by sociopolitical status. To address this, we
+investigated aristocratic and local elite cemeteries at the western frontier of the empire. Analyzing genome-
+wide data from 18 individuals, we show that genetic diversity within these communities was comparable to
+the empire as a whole, and that high diversity was also observed within extended families. Genetic heteroge-
+neitywashighestamongthelowest-statusindividuals,implyingdiverseorigins,whilehigher-statusindividuals
+harboredlessgeneticdiversity,suggestingthatelitestatusandpowerwasconcentratedwithinspecificsubsets
+of the broader Xiongnu population.
+Copyright©2023The
+Authors,some
+rightsreserved;
+exclusivelicensee
+AmericanAssociation
+fortheAdvancement
+ofScience.Noclaimto
+originalU.S.Government
+Works.Distributed
+underaCreative
+CommonsAttribution
+License4.0(CCBY).
+INTRODUCTION
+The Xiongnu Empire was the first of many historically documented
+steppe empires to arise in Eurasia, and its formation foreshadowed
+the rise of subsequent nomadic imperial powers, including the
+Mongol Empire, whose reach a millennium later stretched from
+the East Sea to the Carpathian Mountains (1). Centered on the ter-
+ritory of present-day Mongolia, the Xiongnu empire controlled the
+Eastern Eurasian Steppe and surrounding regions in northern
+China, southern Siberia, and Central Asiafor nearly three centuries,
+starting from ca. 209 BCE until their eventual disintegration in the
+late first century CE. At its height, the Xiongnu profoundly influ-
+enced the political economies of Central, Inner, and East Asia, be-
+coming a major political rival of imperial China and establishing
+far-flung trade networks that imported Roman glass, Persian tex-
+tiles, Egyptian faience, Greek silver, and Chinese bronzes, silks,
+and lacquerware deep into the heart of their empire (2).
+The Xiongnu represented a radically new kind of political entity
+that incorporated heterogeneous nomadic and sedentary groups
+spanning the Eastern Steppes and as far west asthe Altai Mountains,
+under a single authority. As the Xiongnu expanded their empire
+from its core in central and eastern Mongolia, they conquered
+and integrated numerous neighboring groups. They successfully ex-
+panded into western Mongolia and southern areas of Lake Baikal,
+while winning decisive victories in northern China (3). However,
+the Xiongnu were much more than just experts in mobilizing
+cavalry forces for conquests. They were also shrewd trade partners
+who exerted considerable influence over the Silk Road kingdoms of
+Central Asia (4), with even greater control over Eurasian exchange
+networks during the late Xiongnu period (ca. 50 BCE to 100 CE).
+Nevertheless, a detailed understanding of their internal social and
+political organization is lacking (5).
+Historical narratives of the Xiongnu were largely authored by
+their Han Chinese political rivals, who repeatedly and dismissively
+characterized their polityas a “simple body” of nomadic elites (3, 6).
+Much of what is now known about Xiongnu sociopolitical organi-
+zation has been gleaned from textual evidence alongside a growing
+body of archaeological sites throughout Inner Asia, consisting pri-
+marily of cemeteries (2, 7–9). The mortuary record indicates that
+there is a sociopolitical hierarchy among the Xiongnu, with clear
+differences between individuals in terms of burial type, investment
+in construction, and offerings. Most identified graves of the late
+Xiongnu period are shaft pits set beneath thick stone rings on the
+surface. These conspicuous burials represent the vast network of re-
+gional and local elites of Xiongnu society, while commoners were
+likely buried under less conspicuous stone piles or in unmarked
+pits (10). The uppermost aristocratic ruling elites of the empire
+were buried in large square stone tombs, often flanked by satellite
+burials of lower-status individuals, forming a mortuary complex
+(11). Elites in square tombs and large circular graves were richly
+buried, typically in decorated wood-plank coffins and accompanied
+by foreign luxury goods, gold, or gilt objects, and sacrifices of horses
+and other valuable livestock. Metal discs and crescents representing
+the sun and moon, a symbol of the Xiongnu empire, are also fre-
+quently found in such elite graves. Because of their wealth and con-
+spicuous appearance on the landscape, many Xiongnu graves have
+been looted since antiquity, but the differences in grave forms nev-
+ertheless reflect clear social gradations, with the square tombs as an
+exclusive political faction within the empire (2).
+Previous archaeogenetics studies have sought to identify the
+people who made up the Xiongnu and have found an extremely
+high level of genetic diversity across the Xiongnu empire (12–16).
+Recently, a genome-wide study of 60 individuals from 27
+Xiongnu sites found that this diversity was initially formed by the
+1SchoolofBiologicalSciences,SeoulNationalUniversity,Seoul08826,Republicof
+Korea. 2Max Planck Institute for the Science of Human History, Jena 07745,
+Germany. 3Museum of Anthropological Archaeology, University of Michigan,
+AnnArbor,MI48109,USA.4HistoryofArt,UniversityofMichigan,AnnArbor,MI
+48109,USA.5NationalMuseumofMongolia,Ulaanbaatar,Mongolia.6CircleCRM
+GroupInc.,Calgary,ABT2B2X3,Canada.7DepartmentofAnthropology,University
+ofMichigan,AnnArbor,MI48109,USA.8MaxPlanckInstituteforEvolutionaryAn-
+thropology,Leipzig04103,Germany.9DepartmentofAnthropology,HarvardUni-
+versity,Cambridge,MA02138,USA.
+†Theseauthorscontributedequallytothiswork.
+*Correspondingauthor.Email:cwjeong@snu.ac.kr(C.J.);warinner@fas.harvard.edu
+(C.W.);bkmil@umich.edu(B.K.M.)
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 1of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+unification of two genetically distinct pastoralist populations in
+Mongolia—one descending from groups associated with the Deer-
+stone Khirigsuur, Mönkhkhairkhan, and Sagly/Uyuk cultures in the
+west and the other the descendants of the Ulaanzuukh and Slab
+Grave cultures in the east—followed by additional population
+influx from other regions, most likely Sarmatia (near present-day
+Ukraine) and imperial China (14). However, while this evidence
+supports previous claims that the Xiongnu Empire was likely a mul-
+tiethnic, multicultural, and multilingual entity, until now, it has not
+been possible to determine whether such diversity was composed of
+a heterogeneous patchwork of locally homogenous communities or
+whether local communities themselves were also internally diverse.
+Moreover, many aspects of Xiongnu political constituencies still
+remain unknown, such as who made up the imperial elite occupants
+of the square tombs, and what their relationship was to lower-status
+individuals, including those buried in satellite graves within their
+elaborate tomb complexes. It also remains unclear whether high-
+status square tomb elites and local elites in the standard circular
+graves were drawn from the same segments of the Xiongnu popu-
+lation, or whether local elites were more likely to genetically resem-
+ble prior local populations than their incoming imperial
+counterparts, which would suggest that demographic processes as-
+sociated with empire formation may have been stratified by status
+and origin.
+To address these questions, here, we genetically investigate in
+detail a range of burials from the aristocratic elite cemetery of Ta-
+khiltyn Khotgor (TAK) and the local elite cemetery of Shombuuzyn
+Belchir (SBB), located at the far western frontier of the empire in
+Mongolia’s present-day Khovd province. Analyzing the genome-
+wide data of 18 individuals from high and low-status burials, we
+show that both communities harbored an extremely high level of
+genetic diversity that is comparable to that of the Xiongnu
+Empire as a whole. High genetic diversity is reflected within indi-
+vidual tomb complexes and burial clusters and even extended
+family groups. Thus, we find that the same sociopolitical processes
+that produced a genetically diverse empire on a vast scale also op-
+erated at the smallest scale, creating highly diverse local communi-
+ties over the span of only a few generations. There are also
+discernable genetic patterns with respect to social and political
+status at TAK and SBB, where individuals of the lowest status
+(based on grave form and mortuary remains) have the highest
+degree of genetic heterogeneity. In contrast, higher-status individu-
+als are less genetically diverse and have high levels of eastern Eur-
+asian ancestry. This further suggests the existence of an aristocracy
+in the Xiongnu empire, that elite status and power was concentrated
+within specific subsets of the broader population.
+RESULTS
+Generationofgenome-widedatafromXiongnuaristocratic
+elites,localelites,andsubordinates
+Before this study, two archaeogenetic studies had intensively inves-
+tigated Xiongnu-era cemeteries in the political core of the Xiongnu
+empire at Egyin Gol (12) and Tamir Ulaan Khoshuu (16), but these
+studies did not generate genome-wide data and thus they have
+limited capacity to trace individual ancestries and relationships.
+Other studies have focused on producing genome-wide datasets
+(13–15), but the small number of individuals they analyzed per
+site make these data insufficient to explore genetic diversity
+within Xiongnu communities or potential associations with socio-
+political status. To address this, we conducted an intensive genome-
+wide archaeogenetic investigation of two Xiongnu cemeteries, the
+aristocratic elite cemetery of TAK and the local elite cemetery of
+SBB, which are located at the far western frontier of the Xiongnu
+empire in the Altai mountains. These cemeteries include the full
+social spectrum of individuals from exclusive square tombs to stan-
+dard circular gravesto meager pit graves. This dataset helpsto better
+understand the genetic diversity, heterogeneity, and relationships
+among elites and subordinates at Xiongnu communities in the
+social and spatial edges of their empire. We then compared these
+frontier Xiongnu communities to previously published archaeoge-
+nomic data for 29 additional Xiongnu sites across Mongolia
+(Fig. 1A) (13, 14).
+The aristocratic cemetery of TAK, dating to ca. 40 BCE to 50 CE
+(17, 18), is notable not only for its large circular graves of local elites
+but also for its numerous square tombs (Fig. 1B and fig. S1), which
+Fig.1.MapofXiongnusitesinthisstudy,andburialplansoftheTAKandSBB
+cemeteries.(A)Geographiclocationsofthesitesanalyzedinthestudyarepre-
+sentedwiththeculturalaffiliationandthetimeperiod.Newlysequencedindivid-
+ualswereexcavatedfromthearistocraticelitecemeteryofTakhiltynKhotgor(TAK)
+(yellow square) and the local elite cemetery of Shombuuzyn Belchir (SBB) (red
+circle)inwesternMongolia. PreviouslyreportedXiongnusiteswithfiveormore
+sequenced individuals are also labeled in the figure: Salkhityn Am (SKT),
+UguumurUul(UGU),andtheIl’movayaPad(IMA)(14).OtherXiongnusitesarein-
+dicatedwithwhitediamonds(earlyXiongnu)orblackdiamonds(lateXiongnu).
+Sitesofthepreceding EarlyIronAge(EIA)associatedwiththeSagly/Uyuk (pink
+triangle) and SlabGrave(green down-pointing triangle) archaeological cultures
+arealso shown.(B)Plan detail oftheTAKcemetery indicating thesquaretomb
+complexes and associated graves (yellow). See fig. S1 for afull cemetery plan.
+(C)PlanoftheSBBcemeteryindicatingstonecircleandstonepilegraves.Excava-
+tionfocusedonadensegravecluster(pink)andaselectionofotherrepresentative
+graves (red). See fig. S2 for afull cemetery plan. For both sites, tomb or grave
+numbersareindicatedinboldred;eachanalyzedindividualisnumberedinblack.
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 2of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+were reserved for individuals of the highest status within the impe-
+rial Xiongnu hierarchy. Flanking many of these tombs are low-
+status “commoner ” graves consisting of simple stone piles over
+stone cist or earthen pit burials. Together, these square tombs and
+satellite graves form extended mortuary complexes. At TAK, two
+complete square tomb mortuary complexes have been excavated,
+THL-82 and THL-64, and a third complex, THL-25, has been
+partly excavated (fig. S1). THL-82 consists of a large central elite
+square tomb flanked by two satellite graves to its east and west
+(Fig. 1B). The tomb contained the remains of an adult female,
+TAK001, who was buried in a decorated wood-plank coffin with
+six horses, Chinese bronze chariot pieces, and a bronze spouted
+pot (19). The use of a wood-plank coffin, in strict adherence with
+elite Xiongnu political culture and rituals, is particularly notewor-
+thy in this frontiercontext, asthe large larch wood planks must have
+been imported at great effort and expense into this largely treeless
+mountain region (20). The satellite graves each contained an adult
+male interred in an earthen pit burial (TAK008 and TAK009), one
+of whom (TAK008) was interred in a prone (face-down) position,
+which differs from the supine (face-up) position that is more typical
+of Xiongnu burials. THL-64 consisted of a large central elite square
+tomb with two satellite graves on its eastern side (Fig. 1B). Like
+THL-82, the tomb also contained the remains of an adult female,
+TAK002, who was buried in a wood-plank coffin with one horse,
+four caprines (either sheep or goat), and a golden disc and crescent,
+representing the sun and moon (17). The satellite graves each con-
+tained an adolescent male (TAK003 and TAK004) buried in simple
+stone cists in a semi-flexed position, a position consistent with long-
+standing local mortuary traditions in western Mongolia (21). Tomb
+complex THL-25, for which only the satellite graves have been ex-
+cavated to date, consisted of a large central square tomb flanked by
+three satellite graves on its eastern side (Fig. 1B). The three satellite
+graves consisted of simple earthen pit burials, marked only by small
+piles of stones, containing the remains of a child (TAK005) and two
+adult males (TAK006 and TAK007). In total, we genetically inves-
+tigated eight individuals from TAK cemetery, seven new to this
+study and one (TAK001) published in a previous study (14).
+Located approximately 50 km to the southwest of TAK, the local
+elite cemetery of SBB is situated along a strategic high mountain
+pass and spans a period from ca. 50 BCE to 210 CE (18, 20). Con-
+sistent with other local elite Xiongnu cemeteries, it consists primar-
+ily of circular graves containing the remains of both adult females
+and males, as well as children (datafile S1A). Fifteen of the 33 graves
+have been excavated to date, of which 11 were genetically screened
+in this study and 10 of 11 were sufficiently preserved for genome-
+wide analysis (Fig. 1C and fig. S2). The analyzed individuals span
+the full spectrum of marked social status, from individuals in
+large stone-encircled graves with decorated wood-plank coffins
+and elaborate grave goods to humble burials consisting of small
+stone cists (fig. S2). Five of the analyzed graves were arranged into
+a cluster (graves 12, 13, 14, 15, and 18), while the others were spa-
+tially dispersed and selected as a representative sample of the re-
+mainder of the cemetery (graves 2, 7, 8, 19, 26, and 29). Graves 7,
+8, 15, and 19 were the highest-status graves analyzed in this study,
+and each consisted of an adult female buried in a wood-plank coffin
+surrounded by a stone ring. Grave 7 contained the remains of an
+older adult female (SBB002) buried with a disassembled wooden
+cart, a bronze cauldron, a ceramic cooking pot, and a golden sun
+disc and moon crescent nailed to the wood-plank coffin. Grave 8
+contained the remains of an older adult female (SBB003) buried
+in a quatrefoil-decor ated coffin and interred with gilded glass
+beads and a Chinese mirror fragment, as well as a large deposit of
+livestock offerings consisting of at least 12 caprines (sheep or goats).
+Grave 15 contained the remains of an adult female (SBB007) buried
+in a decorated wood-plank coffin overlain with wooden cart pieces,
+as well as horse-riding tack, a gilded iron belt clasp, and a Han
+Dynasty–painted lacquer cup. Grave 19 contained the remains of
+a young adult female (SBB008) who had apparently died in child-
+birth; she was buried alongside an infant and wore a paste-bead
+necklace containing a faience bead depicting the phallus of Bes,
+an Egyptian god associated with the protection of children. Like
+SBB003, this woman was also buried with Chinese mirror frag-
+ments. The remaining graves were simpler, consisting of a small
+stone circle or stone pile overlying a stone cist. Grave 13 contained
+the remains of a middle-aged adult male (SBB001) buried with a
+bow, arrows, and spear. An adolescent (SBB011) buried in grave
+12 was also buried with a bow, arrows, and spear, and a child
+(SBB009) buried in grave 26 was buried with a child-sized bow.
+Three additional children were buried in graves 14 (SBB005), 18
+(SBB006), and 29 (SBB004), and grave goods consisted of varied
+glass beads in graves 14 and 18, while the child in grave 29 was
+buried with silk, leather, and felt. Last, grave 2 (SBB010) contained
+the remains of an older adult male buried with an iron sun disc and
+moon crescent. Screening of burial sediments recovered traces of
+silk clothing in all SBB burials.
+For this study, we generated new genome-wide data for 19 indi-
+viduals from TAK and SBB, of which 17 yielded sufficient human
+DNA for analysis (>0.1% human DNA), and we further enriched
+these DNA libraries for a panel (“1240K”) of 1,233,013 ancestry-in-
+formative single-nucleotide polymorphisms (SNPs) using an in-sol-
+ution DNA capture method (22). Afterenrichment and sequencing,
+between 11,950 and 659,982 SNPs were successfully covered by at
+least one high-quality read for each individual (data file S1A). For
+six individuals with endogenous DNA preservation in excess of 30%
+(SBB003, SBB007, SBB010, TAK002, TAK006, and TAK008), we
+also produced whole-genome shotgun sequencing data to 0.7 to
+2.5× coverage (data file S1A). All libraries exhibited characteristic
+patterns of ancient DNA damage, including short fragment
+lengths and cytosine deamination at fragment ends. Genetic sex
+was determined for all 17 individuals (data file S1A), and all indi-
+viduals exhibited low contamination (<6%; data file S1A), as esti-
+mated using mitochondrial DNA for all individuals (23) and the
+X chromosome for 10 males (24). For downstream population
+genetic analyses, we performed pseudo-haploid genotype calling
+(https://github.com/stschiff/sequenceTools; v1.5.2 last accessed at
+25 April 2022) and concatenated our new genotype data with pre-
+viously published genotype data for TAK001 (14) and other ancient
+(13–15, 22, 25–58) and present-day (25, 29, 59–63) individuals (data
+file S1B). We also attempted to assign uniparental haplogroups to
+each individual and successfully determined the mitochondrial
+haplogroup for 17 individuals and the Y-chromosome haplogroup
+for 6 of 10 males (data file S1A). We estimated genetic relatedness
+among individuals from TAK, SBB, and previously reported sites
+(14). Two pairs of genetic relatives were identified at the SBB site:
+one pair of second-degree relatives (SBB005-SBB007) and a pair of
+second-degree or more distant relatives (SBB001-SBB005; data
+file S1E).
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 3of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+ModelingXiongnuancestry
+Before proceeding to a more granular genetic analysis of the TAK
+and SBB sites, and of the Xiongnu population more generally, we
+first refined and updated our modeling of Xiongnu ancestry to in-
+corporate newly available genome-wide data from the preceding
+Late Bronze Age (LBA) and Early Iron Age (EIA) periods in
+central and eastern Mongolia (15). In a previous study, we
+modeled individuals of the early Xiongnu period as a mixture of
+two distinct genetic groups present in Mongolia during the EIA
+(ca. 900 to 300 BCE): “Chandman_IA” and “SlabGrave.” Chandma-
+n_IA was representative of people in far western Mongolia associ-
+ated with Sagly/Uyuk (ca. 500 to 200 BCE), Saka (ca. 900 to 200
+BCE), and Pazyryk (ca. 500 to 200 BCE) groups in Siberia and Ka-
+zakhstan. “SlabGrave” was representative of people in eastern and
+central Mongolia associated with Slab Grave (ca. 1000 to 300
+BCE) mortuarysites (14). Likely arising out of the LBA Ulaanzuukh
+archaeological culture (ca. 1450 to 1150 BCE) in eastern Mongolia,
+Slab Grave groups expanded into central and northern Mongolia as
+far north as the Lake Baikal region (7, 14, 64). Overall, individuals
+from the Ulaanzuukh and the Slab Grave cultures present a homo-
+geneous genetic profile that has deep roots in the region and is re-
+ferred to as Ancient Northeast Asian (ANA) (14). The recent
+publication of additional genome-wide data for Ulaanzuukh and
+Slab Grave individuals (15) provided an opportunity to investigate
+the genetic profile of the Slab Grave individuals across a wider geo-
+graphical distribution (Fig. 1A) and to refine our genetic modeling
+of the formation of the Xiongnu more generally. We updated our
+admixture modeling of Ulaanzuukh and Slab Grave individuals
+using the qpAdm program (25).
+First, we detected a subtle genetic shift in eastern Mongolia
+between the preceding pre–Bronze Age period and LBA Ulaan-
+zuukh individuals (n = 13) (Fig. 2A, fig. S3; and data file S2A).
+We model this difference as gene flow from a nearby LBA
+population in northern Mongolia, such as that found in the north-
+ernmost province of Khovsgol (“Khovsgol_LBA”). Collectively,
+Ulaanzuukh individuals are adequately modeled as having a
+24.5% contribution from Khovsgol_LBA (P = 0.550; data file
+S2A), and at an individual level most also fit the same model with
+13.9 to 33.4% contributions from Khovsgol_LBA (data file S2A),
+with the exception of one individual with an unusually high Khovs-
+gol_LBA contribution (ULN005; 63.5%). On the basis of the admix-
+ture modeling results, we grouped 12 of 13 Ulaanzuukh individuals
+as an analysis unit (“Ulaanzuukh1”), excluding ULN005 for its
+much higher Khovsgol_LBA affinity (separately analyzed as
+“Ulaanzuukh2”), and used it as a representative of the Ulaanzuukh
+gene pool.
+To better understand the genetic make-up of Iron Age Slab
+Grave individuals (n = 16), we compared their genetic profiles
+with the preceding Ulaanzuukh individuals. Incorporating data
+from 11 newly published individuals (15), we identified a subtle
+genetic heterogeneity not detected in our previous study (14).
+While 13 of 16 individuals are cladal with Ulaanzuukh1, the re-
+maining 3 individuals require additional Khovsgol_LBA ancestry
+(Fig. 2, fig. S3, and data file S2B). In particular, Slab Grave individ-
+uals I6359, I6369, and DAR001 are markedly distinct from the
+others by carrying high proportions of Khovsgol_LBA ancestry
+(42.6 to 79.7%) (data file S2B). This pattern, in which most Slab
+Grave individuals are genetically homogeneous while some have a
+large and heterogeneous ancestry fraction deriving from a Khovs-
+gol_LBA-like gene pool, is likely due to population mixing in
+their recent past and is consistent with archaeological evidence
+that the Slab Grave culture expanded into central and northern
+Mongolia and replaced the preceding inhabitants in the region
+with a low level of mixing (65). On the basis of individual ancestry
+modeling, we assigned most of the Slab Grave individuals (13 of 16)
+into a single group “SlabGrave1,” while we assigned the remaining
+Fig.2.qpAdmmodelingofTAKandSBBindividuals.Thegeneticprofilesofancientindividualsaremodeledasthemixtureoftwoorthreepopulations.Theancestry
+proportionofeachsourcepopulationisrepresentedbythesizeoftheboxonthexaxis.Horizontalbarsrepresent±1SEestimatedbyqpAdmusing5-cMblockjackkn-
+ifing.DetailedresultsarepresentedindatafileS2.(A)UlaanzuukhandSlabGraveindividualsaremodeledasthemixturebetweenAncientNortheastAsian(ANA),rep-
+resentedbyeastMongolia_preBAinthisstudy,andKhovsgol_LBA.WemodeledTakhiltynKhotgor(TAK)(B)andShombuuzynBelchir(SBB)(C)individualsasthemixture
+oftheprecedinggroupsfromMongoliaandthesurroundingregions:SlabGrave1,Chandman_IA,Han_2000BP,Gonur1_BA,earlyXiongnu_west,Khovsgol_LBA,andUKY.
+WepresenttwomodelsforTAK008andTAK009.
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 4of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+three individuals with high Khovsgol_LBA ancestry into another
+group, “SlabGrave2,” for their use in the downstream group-based
+analyses.
+To characterize the genetic profiles of our new Xiongnu-period
+individuals, we modeled the ancestry composition of the TAK and
+SBB individuals using qpAdm (Fig. 2). Most individuals (15 of 18)
+are adequately modeled by the admixture models previouslyapplied
+to Xiongnu individuals, which used Ulaanzuukh/SlabGr ave and
+Han_2000BP as eastern Eurasian sources (data file S2C) (14).
+Eight of these 15 individuals are adequately modeled with two an-
+cestries, SlabGrave1 and Chandman_IA: Five are mixed between
+SlabGrave1 and Chandman_IA (SBB001, SBB002, SBB006,
+SBB008, and SBB009; 32 to 91% from SlabGrave1), one is indistin-
+guishable from Chandman_IA (TAK005), and two are indistin-
+guishable from SlabGrave1 (SBB004 and TAK004). A further five
+individuals aremodeled using anadditional East Asian ancestrydis-
+tinct from ANA, here represented by Han_2000BP (14): Three are
+modeled as a mixture of SlabGrave1, Chandman_IA, and
+Han_2000BP (SBB003, SBB005, and SBB007; 28 to 77% from Slab-
+Grave1, 11 to 52% from Chandman_IA, and 12 to 19% from
+Han_2000BP), and two are modeled as a mixture of SlabGrave1
+and Han_2000BP (TAK002 and TAK006; 48 to 74% from Slab-
+Grave1 and 26 to 52% from Han_2000BP). Last, two individuals
+require an Iranian/Central Asian ancestry represented by
+Gonur1_BA (26): One is modeled as the mixture of SlabGrave1,
+Chandman_IA, and Gonur1_BA (SBB010; 39% from SlabGrave1,
+48% from Chandman_IA, and 13% from Gonur1_BA), and the
+other as the mixture of Chandman_IA and Gonur1_BA (TAK003;
+28% from Gonur1_BA). TAK003 has a higher Gonur1_BA-related
+ancestry proportion than previously described early Xiongnu indi-
+viduals with the same ancestry combination (“earlyXiongnu_w-
+est”), corroborating a previous report of continued gene flow
+from Central Asia between the early and late Xiongnu periods (14).
+We note that all qpAdm admixture models equally fit when Slab-
+Grave1 was replaced by “AR_Xianbei_IA” from the Mogushan ar-
+chaeological site in Inner Mongolia that belongs to the Iron Age
+Xianbei context (data file S2C) (27). All but two males (BUL002
+and I6365) associated with the Ulaanzuukh and Slab Grave cultures
+belong to Y-haplogroup Q, all three AR_Xianbei_IA males belong
+to Y-haplogroup C, and the Xiongnu males harbor both Q and C
+(data file S1C) (14, 15). Although not conclusive, this suggests that
+the ANA ancestry source of the Xiongnu-period individuals may
+not be exclusively traced back to the Slab Grave culture but may
+also include nearby groups with a similar ANA genetic profile,
+such as the Xianbei.
+The remaining 3 of 18 individuals are excavated from the same
+mortuary complex, THL-82, and require a distinct eastern Eurasian
+ancestral component. Two individuals from satellite graves,
+TAK008 and TAK009, have a high proportion of western Eurasian
+ancestry but are not modeled as a sister clade with either Chandma-
+n_IA orearlyXiongnu_west (qpWave P = 1.98 × 10−7 for Chandma-
+n_IA and qpWave P = 2.42 × 10−3 forearlyXiongnu_west). We then
+compared their genetic profile with earlyXiongnu_west by calculat-
+ing f4(Mbuti, world-wide; TAK008/TAK009, earlyXiongnu_west)
+for a set of world-wide ancient and present-day populations.
+While there is no population showing significant extra affinity
+with earlyXiongnu_w est, several populations show extra affinity
+with TAK008/TAK009. For TAK009, the top signals are mostly
+ancient individuals/popula tions from East Asia (fig. S4). In line
+with this, we adequately model TAK009 as a mixture of earlyXiong-
+nu_west and various East Asian populations, including Khovs-
+gol_LBA, SlabGrave1, and Han_2000BP (data file S2C). For
+TAK008, we observe an overall similar trend but find populations
+withhigh Ancient North Eurasian (ANE) affinity, such asthe Upper
+Paleolithic individual from the Ust-Kyakhta-3 site (UKY) (28) and
+present-day Native Americans (Mixe and Quechua), among the top
+signals (fig. S4). Consistent with this, TAK008 is adequately
+modeled with ~10% contribution from Khovsgol_LBA or UKY,
+but not with other East Asian proxies with no ANE affinity, such
+as SlabGrave1 or Han_2000BP (datafile S2C). TAK001, a previously
+published female from a square tomb (14), is well explained by the
+same model with TAK008 and TAK009 but with different admix-
+ture proportions. TAK001 derives 90.7% of her ancestry from
+Khovsgol_LBA and the rest from earlyXiongnu_west. It is rather
+unexpected to observe the presence of Khovsgol_LBA ancestry in
+a form not associated with SlabGrave ancestry during the
+Xiongnu period, as it had largely been replaced by Slab Grave in
+Mongolia by the EIA (14). Khovsgol_LBA ancestry was also report-
+ed from the Mongol era site Khalzan Khoshuu, which is located
+only 95 km away from the TAK site (14). Further sampling is re-
+quired to understand the spatial and temporal distribution of
+Khovsgol_LBA ancestryafter the LBA, especially in the Altai region.
+HighgeneticdiversitywithinXiongnucommunitiesand
+acrosstheempire
+To examine spatial patterns of Xiongnu genetic diversity at TAK
+and SBB, as well as across their empire as a whole, we performed
+principal components analysis (PCA) (Fig. 3) following the ap-
+proach described by (66), projecting ancient individuals onto the
+genotype dataset of present-day individuals genotyped on the Affy-
+metrix Axiom Genome-Wide Human Origins 1 (“HO”) array (data
+file S1B) (59). All new Xiongnu individuals fall within the diverse
+range of genetic profiles previously reported for the Xiongnu (14)
+and are widely scattered along PC1 between western and eastern
+Eurasians. This pattern indicates that the marked genetic heteroge-
+neity observed for the Xiongnu as a whole was also present at sites
+along its western frontier, far from the imperial core. We next quan-
+tified the level of genetic heterogeneity within each site and com-
+pared it with the overall Xiongnu genetic diversity within
+Mongolia (Fig. 4). We used the PC1 coordinates of each individual
+as a primary variable of the analysis because PC1 capturesthe major
+axis of genetic variation within both the Xiongnu and Eurasians in
+general: High and low PC1 values represent high genetic affinity to
+eastern and western Eurasians, respectively.
+On the basis of the broad distribution of SBB and TAK individ-
+uals along the PC1 axis, we find that each site is highly heteroge-
+neous. To statistically compare the genetic diversity of each site
+and the Xiongnu as a whole (“all Xiongnu”), we applied the
+Brown-Forsythe test for the null hypothesis that two groups have
+equal PC1 variances (data file S1D). TAK is highly heterogeneous
+to the level indistinguishable from the variance across all Xiongnu
+individuals (P = 0.622), while SBB shows less diversity than all
+Xiongnu (P = 0.030). We also compared the genetic diversity of
+the previously published Xiongnu sites with at least five sampled
+individuals (14). The early Xiongnu site Salkhityn Am (SKT;
+n = 11) in northern Mongolia exhibits a high degree of heterogene-
+ity similar to all Xiongnu (P = 0.411). The late Xiongnu site of
+Uguumur Uul (UGU; n = 5) located further to the east shows a
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 5of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+more intermediate level of diversity with higher contributions of
+western Eurasian ancestry, but is still statistically comparable to
+the all Xiongnu (P = 0.185); however, the small sample size for
+this site provides limited statistical resolution. Still, UGU shows
+much higher diversity than the preceding EIA groups (P = 0.001
+and 0.015 for SlabGrave and Chandman_IA, respectively). In con-
+trast, another late Xiongnu site that is located further to the north-
+east, Il’movaya Pad (IMA; n = 8), has predominantly eastern
+Eurasian ancestry. Its genetic diversity is much lower than all
+Xiongnu (P = 0.002), and is comparable to those of the preceding
+EIA groups (P = 0.975 and 0.398 for SlabGrave and Chandman_IA,
+respectively) (Fig. 4). We note that the low genetic diversity at the
+IMA site may be an artifact of biased sampling as only eight indi-
+viduals were analyzed among 300 circular grave and square tomb
+burials at the site (67). By repeating PC coordinates calculation
+100 times for each individual with genotype data downsampled to
+10,000 SNPs, we found that the results were not affected by higher
+uncertainty in PC coordinates in low-coverage individuals (fig. S5).
+The comparable level of genetic diversity of all Xiongnu individ-
+uals broadly and local communities suggests that the dynamic de-
+mographic processes that constituted the highly heterogeneous
+Xiongnu empire also occurred at local scales. High genetic diversity
+within the cemeteries of TAK, SBB, and UGU confirm the coresi-
+dence of individuals with diverse genetic backgrounds within a
+single local community and that this continued even into the late
+Xiongnu period, centuries after the political formation of the
+Xiongnu and the associated demographic processes of genetic ad-
+mixture that were already in progress during the initial early
+Xiongnu period. Overall, the high genetic diversity found among
+the Xiongnu during all periods prevents any meaningful attempt
+to define a “representative” Xiongnu genetic profile, as it is
+instead population-level genetic heterogeneity spanning nearly the
+entire breadth of Eurasian genetic diversity that most characterizes
+the Xiongnu Empire.
+Geneticdiversityandarchaeologicalsignifiersof
+socialstatus
+To better understand how Xiongnu genetic diversity might be struc-
+tured by social status or social group affiliation, we examined ar-
+chaeogenetic data from the aristocratic elite cemetery of TAK
+(Fig. 3D) and the local elite cemetery of SBB (Fig. 3E) separately.
+At TAK, two complete square tomb complexes have been excavated
+(THL-82 and THL-64), allowing genetic diversity within discrete
+mortuary units to be investigated. For the richest tomb complex,
+THL-82, which contained an older adult female buried in a
+square tomb (TAK001) flanked by two satellite graves of adult
+males (TAK008 and TAK009), we identified no genetic relatedness
+between them. While the genetic profile of the high-status female
+strongly differed from that of the two low-status males (Fig. 3D),
+the latter were genetically similar to each other and had much
+Fig.3.GeneticdiversityoftheXiongnu.(A)Principalcomponentsanalysis(PCA)ofTakhiltynKhotgor(TAK)(yellowsquares)andShombuuzynBelchir(SBB)(redcircles)
+individuals.OtherXiongnuindividualsareshownashollowdiamonds(earlyXiongnu)andblackdiamonds(lateXiongnu).AncientindividualswereprojectedonthePCs
+calculatedwith2077present-dayEurasianindividuals(gray).InsetshowsPC1onthex-axisandPC3ontheyaxis.PC3explainsthe0.33%ofthetotalvariance.Thexaxis
+andyaxistickshavethesamevaluesacrossallpanels,excepttheinsetof(A)wheretheyaxisrangesfrom −0.04to0.06.(B)PCAofGolMod2(azuresquares)andother
+Xiongnusiteswithfiveormoregeneticallyanalyzedindividuals:SalkhitynAm(SKT)(purplesquares),UguumurUul(bluecircles),andIl’movayaPad(IMA)(greencircles).
+(C)PCAoftheprecedingEarlyIronAge(EIA)Sagly/Uyuk(pinktriangles)andSlabGrave(greendown-pointingtriangles)individuals.(D)PCAofTAKindividuals,withcolor
+indicatingtombcomplexandsizereflectinggravetype.(E)PCAofSBBindividuals,withcolorindicatingclustermembershipandsizereflectinggravetype.SBB005isa
+second-degreegeneticrelativeofSBB001andSBB007.
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 6of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+higher levels of western Eurasian ancestry (Fig. 2B and data file
+S2C). That is, these two males are collectively modeled with
+86.8% earlyXiongnu_west ancestry, while TAK001 requires only
+9.3% of this ancestry component. In contrast to the high western
+ancestry of the low-status males, the high-status women
+(TAK001) shows a high level of eastern ancestry, represented by
+Khovsgol_LBA, not SlabGrave1.
+For the other square tomb complex, THL-64, which contained
+an adult female buried in a square tomb (TAK002) along with
+two satellite graves of adolescents, we determined that both adoles-
+cents were males. Unlike THL-82, however, the two low-status
+young males were genetically dissimilar (Fig. 2B and data file
+S2C), with one (TAK003) having a very high level of western Eur-
+asian ancestry (Chandman_IA and Gonur1_BA) and the other
+(TAK004) having a high level of eastern Eurasian ancestry (Slab-
+Grave1). The high-status female likewise had a high degree of
+eastern Eurasian ancestry (Fig. 3D) deriving from two sources
+(SlabGrave1 and Han_2000BP).
+Last, we analyzed the three satellite graves associated with THL-
+25, for which the square tomb has not been excavated. Two of the
+three individuals yielded sufficient DNA for analysis: a child
+(TAK005) and an adult male (TAK006). We determined that both
+were unrelated males and that they were highly genetically dissim-
+ilar (Fig. 3D). The child had a very high level of western Eurasian
+ancestry (Chandman_IA), while the adult male had the highest
+eastern Eurasian ancestry (SlabGrave1 and Han_2000BP) observed
+at the TAK site. Thus, we find very high genetic diversity within in-
+dividual tomb complexes at the TAK cemetery. Although both
+high-status females had relatively high levels of eastern Eurasian an-
+cestry, the low-status satellite males exhibited extremely high
+genetic heterogeneity ranging from very high levels of western Eur-
+asian ancestry to very high levels of eastern Eurasian ancestry. If the
+low-status males were retainers or servants of the high-status
+females, it suggests that they were drawn from diverse parts of the
+Xiongnu empire and possibly beyond.
+Fig.4.GeneticdiversityoftheXiongnuatlocalandimperialscales.LeftpresentsPC1coordinatesforindividualsatTakhiltynKhotgor(TAK),ShombuuzynBelchir
+(SBB),andthreepreviouslyreportedXiongnusiteswithfiveormoresequencedindividuals(14).Forcomparison,wealsodisplayPC1coordinatesforXiongnu,Chand-
+man_IA,andSlabGraveindividualsasthreeindependentclusters.Thecoloroftheboxesindicatesthetimeperiod:EarlyIron,pink;earlyXiongnu,darkgray;lateXiongnu,
+lightgray;andentireXiongnu,lightblue.Newlyreportedsites(TAKandSBB)aremarkedbyasurroundingbox.ThePC1distributionofXiongnuindividualsasawhole
+exceedsthatofthepriorEarlyIronAge(EIA).WiththeexceptionofIl’movayaPad(IMA),thePC1distributionofindividualswithineachXiongnusiteisbroaderthanthatof
+eitherChandman_IAorSlabGrave,andtheoverallPC1distributionofindividualsatXiongnusitesisgenerallyhigh.Thisindicatesthatthehighgeneticdiversityobserved
+amongtheXiongnuasawholeisalsoreflectedwithinXiongnucommunities.Ontheright,wecomparePC1coordinatesofTAK/SBBindividualsaccordingtotheirsocial
+status(highversuslow).Thecoloroftheboxesindicatessocialstatus:green,high;yellow,low;anditmatchesthecolorofthedotsontheleft.TheoverallPC1distribution
+ofthehigh-classindividualsismorerestrictedthanthatofthelowerclassindividuals.
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 7of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+At the SBB site, we found loweroverall genetic diversity, and spe-
+cifically, no individuals with very high levels of western Eurasian
+ancestry (Fig. 3E). However, the individuals with the highest
+levels of western Eurasian ancestry were both adult males
+(SBB001 and SBB010), although they derived their western ancestry
+from slightly different sources (Chandman_IA for SBB001 and
+Chandman_IA and Gonur1_BA for SBB010). As at TAK, the
+highest-status graves belonged to females (SBB002, SBB003,
+SBB007, and SBB008), whose modeled ancestries all included Slab-
+Grave1, with other minorancestry contributions. The genetic deter-
+mination of SBB007 as female was particularly noteworthy because
+the grave goods included horse-riding equipment, a gilded iron belt
+clasp, and a Han-painted lacquer cup, which have been assumed in
+other contexts to be accouterments associated with male horse-
+mounted warriors. Similarly, SBB010, an adult male, was buried
+with a bone tube case containing an iron needle, indicating that
+sewing implements were not exclusively associated with women.
+We also determined the genetic sex of three children (SBB004,
+SBB005, and SBB006) and one adolescent (SBB009) whose sex
+was uncertain. SBB005 and SBB006 were females, while SBB004
+and SBB009 were males. SBB009, an adolescent 11 to 12 years
+old, was buried with a child-sized bow similar to the bow buried
+with the adult male SBB001 and the older adolescent SBB011, cor-
+roborating accounts of males in Xiongnu society learning to wield
+bows at a young age (68), likely by a young male’s early teens as in
+the case of SBB009, but likely not in very early childhood, as evi-
+denced by the absence of such equipment in the grave of SBB004,
+a child 4 to 6 years old.
+Examining spatial relationships of burials at SBB, we did not find
+a significant correlation between spatial proximity and genetic an-
+cestry profiles (Fig. 3E). To represent the similarity of the genetic
+ancestry profiles of two individuals, we used the Euclidean distance
+between two points defined in the space of the top two PCs. We
+could not reject the null hypothesis that the spatial proximity
+between two burials and genetic distance was unrelated, with a P
+value of 0.146 provided by the Mantel test. Nor could we support
+a hypothesis that the individuals in the five-grave cluster in SBB
+(consisting of SBB001, SBB005, SBB006, and SBB007; SBB011 did
+not produce analyzable genome-wide data) were more similar in
+their genetic profilesthan the others. To determine this, we replaced
+the geographic distance of each individual pair with 1 for within-
+cluster pairs and 0 for the others, respectively (Mantel test P
+value = 0.3085). However, we did find that the relatives were
+placed significantly closer to each other (Mantel test P
+value = 0.0025), based on the two pairs of related individuals
+buried next to each other: the pair SBB001 and SBB005 and the
+pair SBB005 and SBB007. These were the only genetically related
+individuals identified at either SBB or TAK. Although the adult
+male SBB001 and the female child SBB005 were second-degree rel-
+atives, they were genetically dissimilar to one another, with the male
+having a much higher level of western Eurasian ancestry (Chand-
+man_IA). SBB005 was also a second-degree relative of SBB007,
+the high-status woman buried with the gilded belt clasp and Han
+lacquer cup. Both females shared a minor ancestry component
+modeled as Han_2000BP. Previous investigations of genome-wide
+genetic relatedness among the Xiongnu have identified 10 other
+cases of kinship pairs (14). Among these, all pairs were buried
+within the same site or at closely neighboring sites, and most
+pairs are genetically similar. However, one pair of second-degree
+maternally related males at the site of Tamiryn Ulaan Khoshuu
+(TUH001 and TUH002) in north-centr al Mongolia likewise
+showed a relatively high degree of genetic dissimilarity (14), with
+one male having substantially more western Eurasian ancestry
+than the other, although the difference was not as great as
+between SBB001 and SBB005. Such extended families containing
+higher degrees of genetic diversity may have been relatively
+common among the Xiongnu, but denser sampling of cemeteries
+will be necessary to identify them. Beyond detecting genetic relat-
+edness (69, 70), we also examined runs of homozygosity (ROH)
+blocks (71). We found that SBB005 had long ROH blocks totaling
+55.1 centimorgan (cM), with the longest block extending 40.7 cM
+(fig. S6), suggesting that she is the offspring of a pair of second-
+degree relatives. Because consanguinity can distort estimates of
+genetic relatedness, the degree of genetic relatedness between her
+(SBB005) and SBB001 and SBB007 may be slightly overestimated.
+Nevertheless, the overall patterns of genetic diversity, heterogeneity,
+and genetic relatedness at SBB suggest that some local elite families
+were highly genetically diverse, with marriages occurring between
+genetically heterogeneous individuals that created complex net-
+works of extended kinship.
+GeneticdynamicsoftheXiongnuelite
+Together, we observe a high degree of genetic heterogeneity and di-
+versity at the elite sites of TAK and SBB, with the highest genetic
+heterogeneityobserved among the lowest-status individuals. In con-
+trast, we find that the highest-status individuals in this study, the
+aristocratic and local elite females, tended to be less diverse
+(P = 0.011 for Brown-Forsythe test to compare the PC1 variances
+of low-status and high-status individuals) with higher levels of
+eastern Eurasian ancestry. Eastern Eurasian ancestry is represented
+by the higher PC1 values and the mean of PC1 of the high-status
+individuals is significantly greater than that of the low-status indi-
+viduals (P = 0.032 for one-sided Welch’s t test to test the null hy-
+pothesis that PC1 mean of high-status individuals is equal to that
+of low-status individuals). This suggests that elite status and
+power was disproportionately concentrated among individuals
+who traced their ancestry back to the preceding EIA Slab Grave
+groups. Three of the six elite females, one low-status female child,
+and one low-status male had minor ancestry contributions consis-
+tent with Han_2000BP (14, 72), suggesting that interregional con-
+nections to groups in Han Dynasty China may have been greater,
+and more complex, than previously understood.
+Before this study, only one other individual from an elite square
+tomb had been analyzed in a genome-wide manner: DA39 from
+Tomb 1 at the imperial elite site of Gol Mod2 in central-northMon-
+golia (13). This adult male, buried in one of the largest square tomb
+complexes excavated to date, surrounded by at least 27 satellite
+burials, and containing rare exotic items such as Roman glass
+bowls, was likely a chanyu, or ruler of the empire (73, 74). Like
+the elite women at the western frontier, he also had very high
+eastern Eurasian ancestry (deriving 39.3 and 51.9% from Slab-
+Grave1 and Han_2000BP, respectively, and the rest from Chandma-
+n_IA; data file S2C) and was genetically similar to TAK002 in tomb
+THL-64 (Fig. 3B). Such patterns of ancestry, stratified by indicators
+of status and power, provide clues as to the nature of the political
+formation of the Xiongnu and the relative power dynamics of the
+empire’s diverse political actors.
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 8of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+Last, the concentration of wealth and elite status specifically
+among women in these frontier communities warrants further at-
+tention. It has been previously noted that Xiongnu-era female
+graves in peripheral regions of the empire tend to be especially
+wealthy and high status (75, 76). The elite women’s graves at TAK
+and SBB conform to fashions befitting higher-ranking persons in
+Xiongnu society. The association between the social rank and bio-
+logical sex is statistically significant with P value of 0.002 for the
+Fisher ’s exact test. The only females not elaborately buried in
+wood-plank coffins were children. The prominent status of
+Xiongnu women at TAK and SBB speaks to the powerful role of
+women in the empire and their likely prominent place in strategies
+for expansion and the integration of new realms and territories.
+DISCUSSION
+In this genome-wide archaeogenetic study, we find high genetic het-
+erogeneity among late Xiongnu-era individuals at two cemeteries
+located along the far western frontier of the Xiongnu empire and
+describe patterns of genetic diversity related to social status.
+Overall, we find that genetic heterogeneity is highest among
+lower-status individuals. In particular, the satellite graves surround-
+ing the elite square tombs at TAK show extreme levels of genetic
+heterogeneity, suggesting that these individuals, who were likely
+low-ranking retainers, were drawn from diverse parts of the
+empire. In contrast, the highest-status individuals at the two sites
+tended to have lower genetic diversity and a high proportion of an-
+cestry deriving from EIA Slab Grave groups, suggesting that these
+groups may have disproportionately contributed to the ruling elite
+during the formation of the Xiongnu empire. Nevertheless, the aris-
+tocratic elite mortuary pattern at the frontier cemetery of TAK con-
+trasts with that of the much larger square tomb cemeteries located
+within the core of the empire, where burial complexes like Gol Mod
+2 Tomb 1 are flanked by satellite burials of elite circular graves (10),
+whose mortuary treatment and grave inventories indicate that they
+were of much higher social rank than the retainersat TAK. Thus, the
+extreme genetic heterogeneity within satellite graves observed at
+TAK may be more typical of frontier contexts, but further research
+at core imperial cemeteries is needed to understand these dynamics.
+Despite the general trends associating genetic diversity and
+status, we also identified Xiongnu families at the sites of SBB and
+TUH whose extended kin networks were genetically diverse, pro-
+viding a snapshot of the admixture processes that shaped the
+Xiongnu genetic diversity. Of note, such unions were not limited
+to the early formative phase of the Xiongnu empire but continued
+throughout the late Xiongnu period. In contrast to some previous
+investigations of Xiongnu cemeteries (12, 16), we did not identify
+close (first-degree) relatives within the cemeteries nor did we
+observe a strong correlation between grave location and similarity
+in genetic profiles; however, we did observe two cases of second-
+degree relatives buried in close proximity to one another at the
+SBB site. Future studies with more comprehensive sampling of
+entire cemeteries are necessary to resolve how and where close
+kin were buried within different mortuary contexts.
+Last, our findings also confirm that the highest-status individu-
+als in this study were females, supporting previous observationsthat
+Xiongnu women played an especially prominent role in the expan-
+sion and integration of new territories along the empire’s frontier.
+Building on this work, future research focusing on dense sampling
+and genome-wide archaeogenetic analysis at large, extensively exca-
+vated Xiongnu cemeteries across the empire promises to reveal in
+high resolution the complex structure of Xiongnu society from its
+core to its vast frontier.
+MATERIALSANDMETHODS
+Archaeologicalsitesandsampledescription
+TAK
+This cemetery lies along the foothills of the Southern Altai and is a
+mixture of 34 exclusive square tombs of the Xiongnu aristocracy, 35
+small satellite burials flanking these tombs, and 60 large standard
+elite graves (47.403058N, 92.104914E; 1470-m elevation). Two
+large square tombs were excavated in the 1990s (19), and one of
+those individuals was later sampled for genetic analysis (TAK001)
+(14). In 2007, the two satellite burials beside that tomb, three satel-
+lite burials flanking another tomb, and the entire complex of a third
+tomb with two satellite burials were excavated, to investigate the dif-
+ferences between aristocratic tombs in the frontier and the core
+realms and to study the relationships between individuals in
+square tombs and those who accompanied them in death in the sat-
+ellite burials (17). While the contents and forms of the square tombs
+correspond as well to those of royal square tombs in central Mon-
+golia, the satellite burials are far smallerand more meager than stan-
+dard Xiongnu graves and many show burial traditions more akin to
+pre-Xiongnu local practices than to Xiongnu customs (10). Further
+information about the TAK burials are provided in data file S1A.
+SBB
+This small cemetery of 33 standard local elite graves (circular
+graves) is located at the far western edge of the Xiongnu realms in
+the high mountain passes of the Southern Altai (46.921828N,
+91.934913E; 2390-m elevation). Fifteen graves were excavated at
+the site, sampling across the burial ground but also giving special
+attention to the main cluster, which included males and females
+as well as a full spectrum of older and younger adults, and children
+and infant subadults (20). The manner of burial goods and funerary
+practices of these graves correspond to Xiongnu traditions in the
+core imperial realms, demonstrating a community of local elites
+who participated fully in the imperial network (10). Further infor-
+mation about the SBB burials are provided in data file S1A.
+Sampleprovenance
+Excavations were conducted in 2007, 2008, and 2010 undera permit
+of the Mongol-American Khovd Archaeology Project granted
+through the National Museum of Mongolia. The principal investi-
+gators of the project were J. Bayarsaikhan (National Museum of
+Mongolia) and B. K. Miller (at that time, University of Pennsylva-
+nia). The burial sites from which all human remains were excavated
+are (i) Takhiltyn-Khotgor (Mankhan sum, Khovd aimag, Mongolia)
+and (i) Shombuuzyn-Belchir (Mönkhkhairkhan sum, Khovd
+aimag, Mongolia). The time period of the burial sites was validated
+by radiocarbon dating (18). The risk of damage or looting of the
+sites is minimal (3, on scale of 1 to 10). Bone samples used for
+the genetic analysis were exported from Mongolia to Germany
+(Max Planck Institute for the Science of Human History, Jena)
+for analyses under contract no. 2015.03.30, reference no. MN DE
+7 14583. All human remains are housed at the National Museum
+of Mongolia in Ulaanbaatar, Mongolia.
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 9of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+SamplingforancientDNArecoveryandsequencing
+We extracted genomic DNA and prepared single-stranded DNA se-
+quencing library for 8 individuals from TAK site and 11 individuals
+from SBB site. For this, we followed published protocols (77, 78) in a
+dedicated ancient clean room facility at the Max Planck Institute for
+the Science of Human History. During the library preparation, we
+added unique 8-mer index sequences at both P5 and P7 Illumina
+adapters for double indexing. Details of the laboratory protocols
+are available online (https://protocols.io/view/a-z-of-ancient-dna-
+protocols-for-shotgun-illumina-36wgq529xgk5/v2). We then per-
+formed shallow shotgun sequencing to screen 19 individuals and
+found that 17 individuals are sufficiently preserved with ≥0.1%
+reads mapped on hs37d5, the human reference genome GRCh37
+with decoy sequences. To enrich these libraries for 1,233,013
+nuclear SNPs (1240K), we used oligonucleotide probes targeting
+1240K sites and performed in-solution DNA capture (22). We
+then generated single-end 76–base pair (bp) sequences on the Illu-
+mina HiSeq 4000 platform. For the 6 of 19 individuals with suffi-
+ciently high preservation (>30% human DNA), we produced in-
+depth whole-genome shotgun sequencing data at the Bauer Core
+Facility of Harvard University. For these shotgun libraries, we gen-
+erated paired-end 100-bp sequences on Illumina NovaSeq 6000
+platform. We demultiplexed the output sequences allowing at
+most one mismatch in each index. The sequencing scheme of
+each individual is described in data file S1F.
+Quantificationandstatisticalanalysis
+DNA sequence data processing
+Wetrimmed the Illuminaadapter sequences at the ends of each read
+and discarded reads shorter than 35 bp using AdapterRemoval
+v2.3.0 (79). Then, we mapped the retained reads to hs37d5 with
+the aln and samse modules in the Burrows-Wheeler Aligner
+program v0.7.17 with noncustom options for disabling seeding
+(“-l 9999”) and allowing additional mismatches (“-n 0.01”) (80).
+We removed polymerase chain reaction duplicates with dedup
+v0.12.5 (81) and then removed reads with the Phred-scaled
+mapping quality score lower than 30 using SAMtools v1.9 (82).
+We report the summary statistics based on the 1240K sites in data
+file S1A.
+Data quality control
+Before population genetic analysis, we assessed the authenticity of
+our ancient DNA sequence data using multiple measures. We first
+tabulated the postmortem damage pattern of each library using
+mapDamage v2.0.9 (83) and checked whether each library showed
+increased C-to-T misincorporation at both ends of the reads as ex-
+pected for single-stranded libraries (datafile S1A). We then estimat-
+ed the mitochondrial contamination rate of all individuals using
+schmutzi v1.5.4 (23). Schmutzi distinguishes between endogenous
+and contaminant reads based on the deamination frequencyand the
+read lengths. For males, we additionally estimated the nuclear con-
+tamination rate using the contamination module of the ANGSD
+v0.929 program based on the X chromosome data (24). In brief,
+the method compares mismatch rates between multiple reads of
+known polymorphic sites on X chromosomes and that of flanking
+monomorphic sites, interpreting higher mismatch rate of polymor-
+phic sites as evidence of contamination because males have onlyone
+X chromosome and thus reads from polymorphic sites should not
+show any more mismatches than those from monomorphic ones.
+Genotyping and dataset compilation
+For genotype calling, we randomly chose one high-quality base
+(Phred-scaled base quality score 30 or higher) from one high-
+quality read per each position and considered the chosen base as
+a homozygous genotype for that position (“pseudo-haploid geno-
+type”), using the pileupCaller v1.4.0.5 program with the “random-
+Haploid” option (https://github.com/stschiff/sequenceTools; v1.5.2
+last accessed at 25 April 2022). Because our libraries were single-
+stranded, we used the “singleStrandMode” option to use only neg-
+ative strand reads to genotype C/T SNPs and only positive strand
+reads to genotype G/A SNPs. We then merged genotyped data of
+17 new individuals with genotype data of previously published
+worldwide present-day (25, 29, 59–63) and ancient (13–15, 22,
+25–58) individuals, typed on the two sets of SNPs: the Affymetrix
+Axiom Genome-Wide Human Origins 1 array (“HumanOrigins”)
+(59) and a set of 1,233,013 SNPs including the HumanOrigins
+SNPs (1240K) (data file S1B).
+Sex determination and uniparental haplogroup assignment
+To determine the genetic sex of each individual, we estimated the
+ratio of the sequence coverage of sex chromosomes to that of auto-
+somes. It isexpected that the ratio of X to autosomalcoverage is~0.5
+for males and ~1 for females and the ratio of Y to autosomal cov-
+erage is ~0.5 for males and ~0 for females. The individuals with the
+ratio of Y to autosomal coverage >0.3 are reported as a male and
+individuals with the ratio <0.1 are reported as a female (data file
+S1A). We also retrieved uniparental haplogroups of each individual.
+First, we generated mitochondrial consensus sequences of quality ≧
+10, using the log2fasta program in the Schmutzi package (23). Each
+sequence is assigned into the specific haplogroup using HaploGrep
+v2.1.20 (data file S1A) (84). For the 10 males, we called 13,508 Y
+chromosome SNPs from the ISOGG database with pileupCaller
+v1.4.0.5 option “majorityCall” and assigned Y-chromosomal hap-
+logroup using a modified version of the yHaplo program (85)
+(https://github.com/ale xhbnr/yhaplo; version 2016.01.08. last ac-
+cessed at 28 April 2022) (data file S1A).
+Estimation of genetic relatedness
+We calculated the pairwise mismatch rate (pmr) of pseudo-haploid
+genotypes between every pairof individuals by dividing the number
+of sites genotyped differently from one another by the number of
+sites covered by both individuals (70). The low pmr value suggests
+close genetic relatedness between individuals, and we used pmr
+between unrelated individuals as the baseline to estimate the
+kinship coefficient. We observed two pairs of genetic relatives
+with sufficient coverage, SBB001 and SBB005 and SBB005 and
+SBB007 (data file S1E). SBB005 is inferred to be inbred between
+second-degree relatives by hapROH (fig. S6) (71). HapROH identi-
+fies ROH, regions that lack heterozygous genotypes and estimates
+the degree of inbreeding. Long ROH blocks suggest that parents
+of the individual are genetically related to each other.
+Populationgeneticanalysis
+Analysis of population structure and relationships
+We performed PCA on the merged Human Origins dataset using
+the smartpca v16000 program in the Eigensoft v7.2.1 package
+(Fig. 3 and fig. S3) (66). With the option “lsqproject: YES,” we
+first calculated eigenvectors with 2077 present-day Eurasian indi-
+viduals and projected the ancient individuals on the calculated ei-
+genvectors (25). PC1 separates the eastern and western Eurasians
+and we used PC1 to measure the genetic diversity of the Xiongnu
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 10of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+communities (Fig. 4). We also calculated f4 statistics with option
+“f4mode: YES” to further understand the genetic profiles of
+ancient individuals. We used qpDstat v970 from admixtools v7.0
+(59) on the 1240K dataset to maximize SNP coverage of ancient in-
+dividuals. SEs were calculated with 5 cM block jackknifing as imple-
+mented in the admixtools package (fig. S4).
+Admixture modeling using qpAdm
+We modeled ancient individuals as a mixture of source populations
+and estimated ancestry proportions using the qpWave v1200 and
+the qpAdm v1201 programs in the admixtools v7.0 package (25).
+We used the 1240K dataset for these analyses and used the following
+set of 10 populations as the base outgroup set (“right populations”):
+central African rainforest hunter-gatherer (Mbuti, n = 5), Anda-
+manese islander (Onge, n = 2), Taiwanese Aborigine (Ami,
+n = 2), Central American (Mixe, n = 3), Epipaleolithic Levantine
+(Natufian, n = 6) (25), Neolithic Iranians from the Ganj Dareh ar-
+chaeological site (Iran_N, n = 8) (25, 26), Epipaleolithic European
+hunter-gatherer (Villabruna, n = 1) (33), Anatolian Neolithic from
+the Barcin site (Anatolia_N, n = 23) (22), Eneolithic hunter-gather-
+er from northern Kazakhstan (Botai_pub, n = 3) (31), and Neolithic
+individuals from southern Russia (West_Siberia_N, n = 3) (26). For
+Xiongnu individuals, we added Khovsgol_LBA (n = 14) (69) to the
+base outgroup set to increase the resolution and to better distin-
+guish the eastern ancestries. When there are multiple combinations
+of source populationsthat fit the given target population, we tried to
+increase the resolution by taking the “rotating” approach (86), in
+which we added source populations in one model to the right pop-
+ulations when testing a competing source combination.
+Statistical tests for sociopolitical and spatiotemporal
+distribution of the genetic profiles
+We performed several tests using the program R v4.1.2 (87) to stat-
+istically compare the genetic profiles or prove the association
+between genetic profiles and other factors. To represent the
+genetic profiles, we used PC values calculated by PCA of present-
+day Eurasian individuals. We first grouped individuals by the ar-
+chaeological site or by the social status. We tested the equality of
+the PC1 mean and variances of the groups using Welch’s t test
+and Brown-Forsythe test, respectively, to compare the genetic an-
+cestry and diversity among groups. For Welch’s t test, we used the
+function t.test of R package stats (v4.1.2; the package “stats” is part of
+R) and for the Brown-Forsythe test, we used the function leveneTest
+of R package car (v3.1.0). We also tested the association between the
+similarity of the genetic profiles and the spatial proximity of the
+burials. We performed the Mantel test on matrices of physical dis-
+tances and the Euclidean distances between two points on the PC
+plane defined by the top two PCs, using the function mantel.rtest of
+R package ade4 (v1.7.19). To statistically test the association
+between sex and the social status and explain the sex bias in social
+status, we performed the Fisher ’s exact test using the fisher.test
+function of R package stats (v4.1.2; the package stats is part of R).
+SupplementaryMaterials
+ThisPDFfileincludes:
+Figs.S1toS6
+LegendsfordataS1andS2
+OtherSupplementaryMaterialforthis
+manuscriptincludesthefollowing:
+DataS1andS2
+View/requestaprotocolforthispaperfrom Bio-protocol.
+REFERENCESANDNOTES
+1. D.Sinor, The Cambridge Historyof Early Inner Asia(CambridgeUniv.Press,1990).
+2. U.Brosseder,B.K.Miller,Eds.,XiongnuArchaeology:MultidisciplinaryPerspectivesoftheFirst
+Steppe Empire in Inner Asia(BonnUniv.Press,2011).
+3. N.DiCosmo,AncientChinaandItsEnemies:TheRiseofNomadicPowerinEastAsianHistory
+(AncientChina&itsEnemies,CambridgeUniv.Press,2002).
+4. A.F.P.Hulsewé,M.Loewe,G.Ban,ChinainCentralAsia:TheEarlyStage,125B.C.-A.D.23:An
+Annotated Translation of Chapters 61 and 96 of the Historyof the Former Han Dynasty(E.J.
+Brill,1979).
+5. B.K.Miller, Xiongnu “kings”andthepoliticalorderofthesteppeempire.J.Econ.Soc.Hist.
+Orient 57, 1–43(2014).
+6. S.Qian,Shiji(ZhonghuaShuju,1959),vol.10,pp.2900.
+7. W.Honeychurch, Inner Asia and the Spatial Politics of Empire: Archaeology, Mobility,and
+Culture Contact(Springer,2014).
+8. T.Törbat, Khunnugiin Jiriin Irgediin Bulsh(MongolianStateEducationalUniv.Press,2004).
+9. G.Eregzen,Khünnübulshnykhelber,bütetsbaontsagiinkhamaaral[Structure,typology
+andchronologyofXiongnugraves],in Mongolchuudyn Garal, Ugsaa-Soyolyn Khögjil,
+A.O.a.T.Törbat,Ed.(InstituteofArchaeology,MAS,2020),pp.121–142.
+10. B.K.Miller,PermutationsofperipheriesintheXiongnuempire,in Xiongnu archaeology –
+Multidisciplinary Perspectives of the FirstSteppe Empire in Central Asia,U.Brosseder,
+B.K.Miller,Eds.(BonnContributionstoAsianArchaeology,BonnUniv.Press,2011),
+pp.559–578.
+11. U.Brosseder,Xiongnuterracetombsandtheirinterpretationaseliteburials,in Current
+Archaeological Research in Mongolia,H.P.JanBemmann,E.Pohl,D.Tseveendorzh,Eds.
+(BonnContributionstoAsianArchaeology,BonnUniv.Press,2009),pp.247–280.
+12. C.Keyser-Tracqui,E.Crubezy,B.Ludes, NuclearandmitochondrialDNAanalysisofa2,000-
+year-oldnecropolisintheEgyinGolValleyofMongolia. Am. J. Hum. Genet. 73,
+247–260(2003).
+13. P.deBarrosDamgaard,N.Marchi,S.Rasmussen,M.Peyrot,G.Renaud,T.Korneliussen,
+J.V.Moreno-Mayar,M.W.Pedersen,A.Goldberg,E.Usmanova,N.Baimukhanov,V.Loman,
+L.Hedeager,A.G.Pedersen,K.Nielsen,G.Afanasiev,K.Akmatov,A.Aldashev,A.Alpaslan,
+G.Baimbetov,V.I.Bazaliiskii,A.Beisenov,B.Boldbaatar,B.Boldgiv,C.Dorzhu,S.Ellingvag,
+D.Erdenebaatar,R.Dajani,E.Dmitriev,V.Evdokimov,K.M.Frei,A.Gromov,A.Goryachev,
+H.Hakonarson,T.Hegay,Z.Khachatryan,R.Khaskhanov,E.Kitov,A.Kolbina,T.Kubatbek,
+A.Kukushkin,I.Kukushkin,N.Lau,A.Margaryan,I.Merkyte,I.V.Mertz,V.K.Mertz,
+E.Mijiddorj,V.Moiyesev,G.Mukhtarova,B.Nurmukhanbetov,Z.Orozbekova,
+I.Panyushkina,K.Pieta,V.Smrčka,I.Shevnina,A.Logvin,K.-G.Sjögren,T.Štolcová,
+A.M.Taravella,K.Tashbaeva,A.Tkachev,T.Tulegenov,D.Voyakin,L.Yepiskoposyan,
+S.Undrakhbold,V.Varfolomeev,A.Weber,M.A.WilsonSayres,N.Kradin,M.E.Allentoft,
+L.Orlando,R.Nielsen,M.Sikora,E.Heyer,K.Kristiansen,E.Willerslev, 137ancienthuman
+genomesfromacrosstheEurasiansteppes. Nature 557, 369–374(2018).
+14. C.Jeong,K.Wang,S.Wilkin,W.T.T.Taylor,B.K.Miller,J.H.Bemmann,R.Stahl,C.Chiovelli,
+F.Knolle,S.Ulziibayar,D.Khatanbaatar,D.Erdenebaatar,U.Erdenebat,A.Ochir,
+G.Ankhsanaa,C.Vanchigdash,B.Ochir,C.Munkhbayar,D.Tumen,A.Kovalev, Adynamic
+6,000-yeargenetichistoryofEurasia’sEasternSteppe. Cell 183, 890–904.e29(2020).
+15. C.C.Wang,H.Y.Yeh,A.N.Popov,H.Q.Zhang,H.Matsumura,K.Sirak,O.Cheronet,
+A.Kovalev,N.Rohland,A.M.Kim,S.Mallick,R.Bernardos,D.Tumen,J.Zhao,Y.-C.Liu,J.-
+Y.Liu,M.Mah,K.Wang,Z.Zhang,N.Adamski,N.Broomandkhoshbacht,K.Callan,
+F.Candilio,K.S.D.Carlson,B.J.Culleton,L.Eccles,S.Freilich,D.Keating,A.M.Lawson,
+K.Mandl,M.Michel,J.Oppenheimer,K.T.Özdoğan,K.Stewardson,S.Wen,S.Yan,
+F.Zalzala,R.Chuang,C.-J.Huang,H.Looh,C.-C.Shiung,Y.G.Nikitin,A.V.Tabarev,
+A.A.Tishkin,S.Lin,Z.-Y.Sun,X.-M.Wu,T.-L.Yang,X.Hu,L.Chen,H.Du,J.Bayarsaikhan,
+E.Mijiddorj,D.Erdenebaatar,T.-O.Iderkhangai,E.Myagmar,H.Kanzawa-Kiriyama,
+M.Nishino,K.-i.Shinoda,O.A.Shubina,J.Guo,W.Cai,Q.Deng,L.Kang,D.Li,D.Li,R.Lin,
+Nini,R.Shrestha,L.-X.Wang,L.Wei,G.Xie,H.Yao,M.Zhang,G.He,X.Yang,R.Hu,
+M.Robbeets,S.Schiffels,D.J.Kennett,L.Jin,H.Li,J.Krause,R.Pinhasi,D.Reich, Genomic
+insightsintotheformationofhumanpopulationsinEastAsia. Nature 591,
+413–419(2021).
+16. C.Keyser,V.Zvénigorosky,A.Gonzalez,J.-L.Fausser,F.Jagorel,P.Gérard,T.Tsagaan,
+S.Duchesne,E.Crubézy,B.Ludes, Geneticevidencesuggestsasenseoffamily,parityand
+conquestintheXiongnuIronAgenomadsofMongolia.Hum.Genet.140, 349–359(2021).
+17. B.K.Miller,Z.Baiarsaikhan,T.Egiimaa,P.B.Konovalov,J.Logan,EliteXiongnuburialsatthe
+periphery:TombcomplexesatTakhiltynKhotgor,MongolianAltai,in Current Archaeo-
+logical Research in Mongolia,H.P.JanBemmann,ErnstPohl,D.Tseveendorzh,Eds.(Bonn
+ContributionstoAsianArchaeology,BonnUniv.Press,2009),pp.301–314.
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 11of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+18. U.Brosseder,J.Bayarsaikhan,B.K.Miller,T.Odbaatar, SevenradiocarbondatesforXiongnu
+burialsinwesternandcentralMongolia. Nüüdelchdiin öv sudlal 11, 234–240(2011).
+19. D.Navaan,Khünnügiinövsoyol:arkheologiinsudalgaanymaterial[XiongnuCulture:Studies
+of Archaeological Material](MongolianAcademyofSciences,1999).
+20. B.K.Miller,J.Bayarsaikhan,T.Egiimaa,P.B.Konovalov,E.Johanneson,M.Machicek,
+J.Logan,C.Neily, ShombuuzynBelchirdekhKhünnügiindursgal[Xiongnumonumentsof
+ShombuuzynBelchir]. Nüüdelchdiin öv sudlal 11, 156–183(2011).
+21. J.Gantulga,SagsaiKhelberiinBulsh(SagsaiTypeGraves),inMongolchuudynGaral,Ugsaa-
+Soyolyn Khögjil,T.T.A.Ochir,Ed.(InstituteofArchaeology,MAS,2020),pp.9–22.
+22. I.Mathieson,I.Lazaridis,N.Rohland,S.Mallick,N.Patterson,S.A.Roodenberg,E.Harney,
+K.Stewardson,D.Fernandes,M.Novak,K.Sirak,C.Gamba,E.R.Jones,B.Llamas,
+S.Dryomov,J.Pickrell,J.L.Arsuaga,J.M.B.deCastro,E.Carbonell,F.Gerritsen,A.Khokhlov,
+P.Kuznetsov,M.Lozano,H.Meller,O.Mochalov,V.Moiseyev,M.A.RojoGuerra,
+J.Roodenberg,J.M.Vergès,J.Krause,A.Cooper,K.W.Alt,D.Brown,D.Anthony,C.Lalueza-
+Fox,W.Haak,R.Pinhasi,D.Reich, Genome-widepatternsofselectionin230ancient
+Eurasians. Nature 528, 499–503(2015).
+23. G.Renaud,V.Slon,A.T.Duggan,J.Kelso, Schmutzi:Estimationofcontaminationand
+endogenousmitochondrialconsensuscallingforancientDNA. Genome Biol. 16,
+224(2015).
+24. T.S.Korneliussen,A.Albrechtsen,R.Nielsen, ANGSD:Analysisofnextgenerationse-
+quencingdata. BMC Bioinformatics 15, 356(2014).
+25. I.Lazaridis,D.Nadel,G.Rollefson,D.C.Merrett,N.Rohland,S.Mallick,D.Fernandes,
+M.Novak,B.Gamarra,K.Sirak,S.Connell,K.Stewardson,E.Harney,Q.Fu,G.Gonzalez-
+Fortes,E.R.Jones,S.A.Roodenberg,G.Lengyel,F.Bocquentin,B.Gasparian,J.M.Monge,
+M.Gregg,V.Eshed,A.-S.Mizrahi,C.Meiklejohn,F.Gerritsen,L.Bejenaru,M.Blüher,
+A.Campbell,G.Cavalleri,D.Comas,P.Froguel,E.Gilbert,S.M.Kerr,P.Kovacs,J.Krause,
+D.M.Gettigan,M.Merrigan,D.A.Merriwether,S.O’Reilly,M.B.Richards,O.Semino,
+M.Shamoon-Pour,G.Stefanescu,M.Stumvoll,A.Tönjes,A.Torroni,J.F.Wilson,L.Yengo,
+N.A.Hovhannisyan,N.Patterson,R.Pinhasi,D.Reich, Genomicinsightsintotheoriginof
+farmingintheancientNearEast. Nature 536, 419–424(2016).
+26. V.M.Narasimhan,N.Patterson,P.Moorjani,N.Rohland,R.Bernardos,S.Mallick,I.Lazaridis,
+N.Nakatsuka,I.Olalde,M.Lipson,A.M.Kim,L.M.Olivieri,A.Coppa,M.Vidale,J.Mallory,
+V.Moiseyev,E.Kitov,J.Monge,N.Adamski,N.Alex,N.Broomandkhoshbacht,F.Candilio,
+K.Callan,O.Cheronet,B.J.Culleton,M.Ferry,D.Fernandes,B.Gamarra,D.Gaudio,
+M.Hajdinjak,É.Harney,T.K.Harper,D.Keating,A.M.Lawson,M.Mah,K.Mandl,M.Michel,
+M.Novak,J.Oppenheimer,N.Rai,K.Sirak,V.Slon,K.Stewardson,F.Zalzala,Z.Zhang,
+G.Akhatov,A.N.Bagashev,A.Bagnera,B.Baitanayev,J.Bendezu-Sarmiento,
+A.A.Bissembaev,G.L.Bonora,T.T.Chargynov,T.Chikisheva,P.K.Dashovskiy,
+A.Derevianko,M.Dobeš,K.Douka,N.Dubova,M.N.Duisengali,D.Enshin,A.Epimakhov,
+S.Freilich,A.V.Fribus,D.Fuller,A.Goryachev,A.Gromov,S.P.Grushin,B.Hanks,M.Judd,
+E.Kazizov,A.Khokhlov,A.P.Krygin,E.Kupriyanova,P.Kuznetsov,D.Luiselli,F.Maksudov,
+A.M.Mamedov,T.B.Mamirov,C.Meiklejohn,D.C.Merrett,R.Micheli,O.Mochalov,
+S.Mustafokulov,A.Nayak,D.Pettener,R.Potts,D.Razhev,M.Rykun,S.Sarno,
+T.M.Savenkova,K.Sikhymbaeva,S.M.Slepchenko,O.A.Soltobaev,N.Stepanova,
+S.Svyatko,K.Tabaldiev,M.Teschler-Nicola,A.A.Tishkin,V.V.Tkachev,S.Vasilyev,
+P.Velemínský,D.Voyakin,A.Yermolayeva,M.Zahir,V.S.Zubkov,A.Zubova,V.S.Shinde,
+C.Lalueza-Fox,M.Meyer,D.Anthony,N.Boivin,K.Thangaraj,D.J.Kennett,M.Frachetti,
+R.Pinhasi,D.Reich, TheformationofhumanpopulationsinSouthandCentralAsia.Science
+365, eaat7487(2019).
+27. C.Ning,T.Li,K.Wang,F.Zhang,T.Li,X.Wu,S.Gao,Q.Zhang,H.Zhang,M.J.Hudson,
+G.Dong,S.Wu,Y.Fang,C.Liu,C.Feng,W.Li,T.Han,R.Li,J.Wei,Y.Zhu,Y.Zhou,C.-C.Wang,
+S.Fan,Z.Xiong,Z.Sun,M.Ye,L.Sun,X.Wu,F.Liang,Y.Cao,X.Wei,H.Zhu,H.Zhou,
+J.Krause,M.Robbeets,C.Jeong,Y.Cui, AncientgenomesfromnorthernChinasuggest
+linksbetweensubsistencechangesandhumanmigration.Nat.Commun.11, 2700(2020).
+28. H.Yu,M.A.Spyrou,M.Karapetian,S.Shnaider,R.Radzevičiūtė,K.Nägele,G.U.Neumann,
+S.Penske,J.Zech,M.Lucas,P.LeRoux,P.Roberts,G.Pavlenok,A.Buzhilova,C.Posth,
+C.Jeong,J.Krause, PaleolithictoBronzeAgeSiberiansrevealconnectionswithfirst
+AmericansandacrossEurasia. Cell 181, 1232–1245.e20(2020).
+29. I.Lazaridis,N.Patterson,A.Mittnik,G.Renaud,S.Mallick,K.Kirsanow,P.H.Sudmant,
+J.G.Schraiber,S.Castellano,M.Lipson,B.Berger,C.Economou,R.Bollongino,Q.Fu,
+K.I.Bos,S.Nordenfelt,H.Li,C.deFilippo,K.Prüfer,S.Sawyer,C.Posth,W.Haak,F.Hallgren,
+E.Fornander,N.Rohland,D.Delsate,M.Francken,J.-M.Guinet,J.Wahl,G.Ayodo,
+H.A.Babiker,G.Bailliet,E.Balanovska,O.Balanovsky,R.Barrantes,G.Bedoya,H.Ben-Ami,
+J.Bene,F.Berrada,C.M.Bravi,F.Brisighelli,G.B.J.Busby,F.Cali,M.Churnosov,D.E.C.Cole,
+D.Corach,L.Damba,G.vanDriem,S.Dryomov,J.-M.Dugoujon,S.A.Fedorova,
+I.G.Romero,M.Gubina,M.Hammer,B.M.Henn,T.Hervig,U.Hodoglugil,A.R.Jha,
+S.Karachanak-Yankova,R.Khusainova,E.Khusnutdinova,R.Kittles,T.Kivisild,W.Klitz,
+V.Kučinskas,A.Kushniarevich,L.Laredj,S.Litvinov,T.Loukidis,R.W.Mahley,B.Melegh,
+E.Metspalu,J.Molina,J.Mountain,K.Näkkäläjärvi,D.Nesheva,T.Nyambo,L.Osipova,
+J.Parik,F.Platonov,O.Posukh,V.Romano,F.Rothhammer,I.Rudan,R.Ruizbakiev,
+H.Sahakyan,A.Sajantila,A.Salas,E.B.Starikovskaya,A.Tarekegn,D.Toncheva,
+S.Turdikulova,I.Uktveryte,O.Utevska,R.Vasquez,M.Villena,M.Voevoda,C.A.Winkler,
+L.Yepiskoposyan,P.Zalloua,T.Zemunik,A.Cooper,C.Capelli,M.G.Thomas,A.Ruiz-
+Linares,S.A.Tishkoff,L.Singh,K.Thangaraj,R.Villems,D.Comas,R.Sukernik,M.Metspalu,
+M.Meyer,E.E.Eichler,J.Burger,M.Slatkin,S.Pääbo,J.Kelso,D.Reich,J.Krause, Ancient
+humangenomessuggestthreeancestralpopulationsforpresent-dayEuropeans. Nature
+513, 409–413(2014).
+30. M.E.Allentoft,M.Sikora,K.-G.Sjögren,S.Rasmussen,M.Rasmussen,J.Stenderup,
+P.B.Damgaard,H.Schroeder,T.Ahlström,L.Vinner,A.-S.Malaspinas,A.Margaryan,
+T.Higham,D.Chivall,N.Lynnerup,L.Harvig,J.Baron,P.D.Casa,P.Dąbrowski,P.R.Duffy,
+A.V.Ebel,A.Epimakhov,K.Frei,M.Furmanek,T.Gralak,A.Gromov,S.Gronkiewicz,
+G.Grupe,T.Hajdu,R.Jarysz,V.Khartanovich,A.Khokhlov,V.Kiss,J.Kolář,A.Kriiska,I.Lasak,
+C.Longhi,G.M.Glynn,A.Merkevicius,I.Merkyte,M.Metspalu,R.Mkrtchyan,V.Moiseyev,
+L.Paja,G.Pálfi,D.Pokutta,Ł.Pospieszny,T.D.Price,L.Saag,M.Sablin,N.Shishlina,
+V.Smrčka,V.I.Soenov,V.Szeverényi,G.Tóth,S.V.Trifanova,L.Varul,M.Vicze,
+L.Yepiskoposyan,V.Zhitenev,L.Orlando,T.Sicheritz-Pontén,S.Brunak,R.Nielsen,
+K.Kristiansen,E.Willerslev, PopulationgenomicsofbronzeageEurasia. Nature 522,
+167–172(2015).
+31. P.deBarrosDamgaard,R.Martiniano,J.Kamm,J.V.Moreno-Mayar,G.Kroonen,M.Peyrot,
+G.Barjamovic,S.Rasmussen,C.Zacho,N.Baimukhanov,V.Zaibert,V.Merz,A.Biddanda,
+I.Merz,V.Loman,V.Evdokimov,E.Usmanova,B.Hemphill,A.Seguin-Orlando,F.E.Yediay,
+I.Ullah,K.-G.Sjögren,K.H.Iversen,J.Choin,C.delaFuente,M.Ilardo,H.Schroeder,
+V.Moiseyev,A.Gromov,A.Polyakov,S.Omura,S.Y.Senyurt,H.Ahmad,C.M.Kenzie,
+A.Margaryan,A.Hameed,A.Samad,N.Gul,M.H.Khokhar,O.I.Goriunova,V.I.Bazaliiskii,
+J.Novembre,A.W.Weber,L.Orlando,M.E.Allentoft,R.Nielsen,K.Kristiansen,M.Sikora,
+A.K.Outram,R.Durbin,E.Willerslev, ThefirsthorseherdersandtheimpactofearlyBronze
+AgesteppeexpansionsintoAsia. Science 360, eaar7711(2018).
+32. M.Feldman,E.Fernández-Domínguez,L.Reynolds,D.Baird,J.Pearson,I.Hershkovitz,
+H.May,N.Goring-Morris,M.Benz,J.Gresky,R.A.Bianco,A.Fairbairn,G.Mustafaoğlu,
+P.W.Stockhammer,C.Posth,W.Haak,C.Jeong,J.Krause, LatePleistocenehumangenome
+suggestsalocaloriginforthefirstfarmersofcentralAnatolia. Nat. Commun. 10,
+1218(2019).
+33. Q.Fu,H.Li,P.Moorjani,F.Jay,S.M.Slepchenko,A.A.Bondarev,P.L.Johnson,A.Aximu-
+Petri,K.Prüfer,C.DeFilippo,M.Meyer,N.Zwyns,D.C.Salazar-Garcia,Y.V.Kuzmin,
+S.G.Keates,P.A.Kosintsev,D.I.Razhev,M.P.Richards,N.V.Peristov,M.Lachmann,
+K.Douka,T.F.G.Higham,M.Slatkin,J.-J.Hublin,D.Reich,J.Kelso,T.B.Viola,S.Pääbo,
+Genomesequenceofa45,000-year-oldmodernhumanfromwesternSiberia.Nature 514,
+445–449(2014).
+34. Q.Fu,C.Posth,M.Hajdinjak,M.Petr,S.Mallick,D.Fernandes,A.Furtwängler,W.Haak,
+M.Meyer,A.Mittnik,B.Nickel,A.Peltzer,N.Rohland,V.Slon,S.Talamo,I.Lazaridis,
+M.Lipson,I.Mathieson,S.Schiffels,P.Skoglund,A.P.Derevianko,N.Drozdov,V.Slavinsky,
+A.Tsybankov,R.G.Cremonesi,F.Mallegni,B.Gély,E.Vacca,M.R.GonzálezMorales,
+L.G.Straus,C.Neugebauer-Maresch,M.Teschler-Nicola,S.Constantin,O.T.Moldovan,
+S.Benazzi,M.Peresani,D.Coppola,M.Lari,S.Ricci,A.Ronchitelli,F.Valentin,C.Thevenet,
+K.Wehrberger,D.Grigorescu,H.Rougier,I.Crevecoeur,D.Flas,P.Semal,M.A.Mannino,
+C.Cupillard,H.Bocherens,N.J.Conard,K.Harvati,V.Moiseyev,D.G.Drucker,J.Svoboda,
+M.P.Richards,D.Caramelli,R.Pinhasi,J.Kelso,N.Patterson,J.Krause,S.Pääbo,D.Reich,
+ThegenetichistoryoficeageEurope. Nature 534, 200–205(2016).
+35. É.Harney,H.May,D.Shalem,N.Rohland,S.Mallick,I.Lazaridis,R.Sarig,K.Stewardson,
+S.Nordenfelt,N.Patterson,I.Hershkovitz,D.Reich, AncientDNAfromChalcolithicIsrael
+revealstheroleofpopulationmixtureinculturaltransformation. Nat. Commun. 9,
+3336(2018).
+36. C.Jeong,A.T.Ozga,D.B.Witonsky,H.Malmström,H.Edlund,C.A.Hofman,R.W.Hagan,
+M.Jakobsson,C.M.Lewis,M.S.Aldenderfer,A.DiRienzo,C.Warinner, Long-termgenetic
+stabilityandahigh-altitudeEastAsianoriginforthepeoplesofthehighvalleysofthe
+Himalayanarc. Proc. Natl. Acad. Sci. U.S.A. 113, 7485–7490(2016).
+37. E.R.Jones,G.Gonzalez-Fortes,S.Connell,V.Siska,A.Eriksson,R.Martiniano,
+R.L.McLaughlin,M.GallegoLlorente,L.M.Cassidy,C.Gamba,T.Meshveliani,O.Bar-Yosef,
+W.Müller,A.Belfer-Cohen,Z.Matskevich,N.Jakeli,T.F.G.Higham,M.Currat,
+D.Lordkipanidze,M.Hofreiter,A.Manica,R.Pinhasi,D.G.Bradley, UpperPalaeolithic
+genomesrevealdeeprootsofmodernEurasians. Nat. Commun. 6, 8912(2015).
+38. H.Kanzawa-Kiriyama,T.A.Jinam,Y.Kawai,T.Sato,K.Hosomichi,A.Tajima,N.Adachi,
+H.Matsumura,K.Kryukov,N.Saitou,K.-I.Shinoda, LateJomonmaleandfemalegenome
+sequencesfromtheFunadomarisiteinHokkaido,Japan. Anthropol. Sci. 127,
+190415(2019).
+39. G.M.Kılınç,A.Omrak,F.Özer,T.Günther,A.M.Büyükkarakaya,E.Bıçakçı,D.Baird,
+H.M.Dönertaş,A.Ghalichi,R.Yaka,D.Koptekin,S.C.Açan,P.Parvizi,M.Krzewińska,
+E.A.Daskalaki,E.Yüncü,N.D.Dağtaş,A.Fairbairn,J.Pearson,G.Mustafaoğlu,Y.S.Erdal,
+Y.G.Çakan,İ.Togan,M.Somel,J.Storå,M.Jakobsson,A.Götherström, Thedemographic
+developmentofthefirstfarmersinAnatolia. Curr. Biol. 26, 2659–2666(2016).
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 12of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+40. G.M.Kılınç,N.Kashuba,D.Koptekin,N.Bergfeldt,H.M.Dönertaş,R.Rodríguez-Varela,
+D.Shergin,G.Ivanov,D.Kichigin,K.Pestereva,D.Volkov,P.Mandryka,A.Kharinskii,
+A.Tishkin,E.Ineshin,E.Kovychev,A.Stepanov,L.Dalén,T.Günther,E.Kırdök,M.Jakobsson,
+M.Somel,M.Krzewińska,J.Storå,A.Götherström, Humanpopulationdynamicsand
+Yersinia pestisinancientnortheastAsia. Sci. Adv. 7, eabc4587(2021).
+41. M.Krzewińska,G.M.Kılınç,A.Juras,D.Koptekin,M.Chyleński,A.G.Nikitin,N.Shcherbakov,
+I.Shuteleva,T.Leonova,L.Kraeva,F.A.Sungatov,A.N.Sultanova,I.Potekhina,S.Łukasik,
+M.Krenz-Niedbała,L.Dalén,V.Sinika,M.Jakobsson,J.Storå,A.Götherström, Ancient
+genomessuggesttheeasternPontic-CaspiansteppeasthesourceofwesternIronAge
+nomads. Sci. Adv. 4, eaat4457(2018).
+42. T.C.Lamnidis,K.Majander,C.Jeong,E.Salmela,A.Wessman,V.Moiseyev,V.Khartanovich,
+O.Balanovsky,M.Ongyerth,A.Weihmann,A.Sajantila,J.Kelso,S.Pääbo,P.Onkamo,
+W.Haak,J.Krause,S.Schiffels, AncientFennoscandiangenomesrevealoriginandspread
+ofSiberianancestryinEurope. Nat. Commun. 9, 5018(2018).
+43. I.Lazaridis,A.Mittnik,N.Patterson,S.Mallick,N.Rohland,S.Pfrengle,A.Furtwängler,
+A.Peltzer,C.Posth,A.Vasilakis,P.J.P.McGeorge,E.Konsolaki-Yannopoulou,G.Korres,
+H.Martlew,M.Michalodimitrakis,M.Özsait,N.Özsait,A.Papathanasiou,M.Richards,
+S.A.Roodenberg,Y.Tzedakis,R.Arnott,D.M.Fernandes,J.R.Hughey,D.M.Lotakis,
+P.A.Navas,Y.Maniatis,J.A.Stamatoyannopoulos,K.Stewardson,P.Stockhammer,
+R.Pinhasi,D.Reich,J.Krause,G.Stamatoyannopoulos, GeneticoriginsoftheMinoansand
+Mycenaeans. Nature 548, 214–218(2017).
+44. J.Li,Y.Zhang,Y.Zhao,Y.Chen,A.Ochir,H.Zhu,H.Zhou, ThegenomeofanancientRouran
+individualrevealsanimportantpaternallineageintheDonghupopulation. Am. J. Phys.
+Anthropol. 166, 895–905(2018).
+45. M.Lipson,O.Cheronet,S.Mallick,N.Rohland,M.Oxenham,M.Pietrusewsky,T.O.Pryce,
+A.Willis,H.Matsumura,H.Buckley,K.Domett,G.H.Nguyen,H.H.Trinh,A.A.Kyaw,T.T.Win,
+B.Pradier,N.Broomandkhoshbacht,F.Candilio,P.Changmai,D.Fernandes,M.Ferry,
+B.Gamarra,E.Harney,J.Kampuansai,W.Kutanan,M.Michel,M.Novak,J.Oppenheimer,
+K.Sirak,K.Stewardson,Z.Zhang,P.Flegontov,R.Pinhasi,D.Reich, Ancientgenomes
+documentmultiplewavesofmigrationinSoutheastAsianprehistory. Science 361,
+92–95(2018).
+46. I.Mathieson,S.Alpaslan-Roodenberg,C.Posth,A.Szécsényi-Nagy,N.Rohland,S.Mallick,
+I.Olalde,N.Broomandkhoshbacht,F.Candilio,O.Cheronet,D.Fernandes,M.Ferry,
+B.Gamarra,G.G.Fortes,W.Haak,E.Harney,E.Jones,D.Keating,B.Krause-Kyora,
+I.Kucukkalipci,M.Michel,A.Mittnik,K.Nägele,M.Novak,J.Oppenheimer,N.Patterson,
+S.Pfrengle,K.Sirak,K.Stewardson,S.Vai,S.Alexandrov,K.W.Alt,R.Andreescu,
+D.Antonović,A.Ash,N.Atanassova,K.Bacvarov,M.B.Gusztáv,H.Bocherens,M.Bolus,
+A.Boroneanţ,Y.Boyadzhiev,A.Budnik,J.Burmaz,S.Chohadzhiev,N.J.Conard,R.Cottiaux,
+M.Čuka,C.Cupillard,D.G.Drucker,N.Elenski,M.Francken,B.Galabova,G.Ganetsovski,
+B.Gély,T.Hajdu,V.Handzhyiska,K.Harvati,T.Higham,S.Iliev,I.Janković,I.Karavanić,
+D.J.Kennett,D.Komšo,A.Kozak,D.Labuda,M.Lari,C.Lazar,M.Leppek,K.Leshtakov,
+D.L.Vetro,D.Los,I.Lozanov,M.Malina,F.Martini,K.M.Sweeney,H.Meller,M.Menđušić,
+P.Mirea,V.Moiseyev,V.Petrova,T.D.Price,A.Simalcsik,L.Sineo,M.Šlaus,V.Slavchev,
+P.Stanev,A.Starović,T.Szeniczey,S.Talamo,M.Teschler-Nicola,C.Thevenet,I.Valchev,
+F.Valentin,S.Vasilyev,F.Veljanovska,S.Venelinova,E.Veselovskaya,B.Viola,C.Virag,
+J.Zaninović,S.Zäuner,P.W.Stockhammer,G.Catalano,R.Krauß,D.Caramelli,G.Zariņa,
+B.Gaydarska,M.Lillie,A.G.Nikitin,I.Potekhina,A.Papathanasiou,D.Borić,C.Bonsall,
+J.Krause,R.Pinhasi,D.Reich, ThegenomichistoryofsoutheasternEurope. Nature 555,
+197–203(2018).
+47. H.McColl,F.Racimo,L.Vinner,F.Demeter,T.Gakuhari,J.V.Moreno-Mayar,G.vanDriem,
+U.GramWilken,A.Seguin-Orlando,C.delaFuenteCastro,S.Wasef,R.Shoocongdej,
+V.Souksavatdy,T.Sayavongkhamdy,M.M.Saidin,M.E.Allentoft,T.Sato,A.-S.Malaspinas,
+F.A.Aghakhanian,T.Korneliussen,A.Prohaska,A.Margaryan,P.deBarrosDamgaard,
+S.Kaewsutthi,P.Lertrit,T.M.H.Nguyen,H.-C.Hung,T.M.Tran,H.N.Truong,G.H.Nguyen,
+S.Shahidan,K.Wiradnyana,H.Matsumae,N.Shigehara,M.Yoneda,H.Ishida,T.Masuyama,
+Y.Yamada,A.Tajima,H.Shibata,A.Toyoda,T.Hanihara,S.Nakagome,T.Deviese,A.-
+M.Bacon,P.Duringer,J.-L.Ponche,L.Shackelford,E.Patole-Edoumba,A.T.Nguyen,
+B.Bellina-Pryce,J.-C.Galipaud,R.Kinaston,H.Buckley,C.Pottier,S.Rasmussen,T.Higham,
+R.A.Foley,M.M.Lahr,L.Orlando,M.Sikora,M.E.Phipps,H.Oota,C.Higham,D.M.Lambert,
+E.Willerslev, TheprehistoricpeoplingofSoutheastAsia. Science 361, 88–92(2018).
+48. J.V.Moreno-Mayar,B.A.Potter,L.Vinner,M.Steinrücken,S.Rasmussen,J.Terhorst,
+J.A.Kamm,A.Albrechtsen,A.-S.Malaspinas,M.Sikora,J.D.Reuther,J.D.Irish,R.S.Malhi,
+L.Orlando,Y.S.Song,R.Nielsen,D.J.Meltzer,E.Willerslev, TerminalPleistoceneAlaskan
+genomerevealsfirstfoundingpopulationofNativeAmericans. Nature 553,
+203–207(2018).
+49. M.Raghavan,P.Skoglund,K.E.Graf,M.Metspalu,A.Albrechtsen,I.Moltke,S.Rasmussen,
+T.W.StaffordJr.,L.Orlando,E.Metspalu,M.Karmin,K.Tambets,S.Rootsi,R.Mägi,
+P.F.Campos,E.Balanovska,O.Balanovsky,E.Khusnutdinova,S.Litvinov,L.P.Osipova,
+S.A.Fedorova,M.I.Voevoda,M.DeGiorgio,T.Sicheritz-Ponten,S.Brunak,
+S.Demeshchenko,T.Kivisild,R.Villems,R.Nielsen,M.Jakobsson,E.Willerslev, Upper
+PalaeolithicSiberiangenomerevealsdualancestryofNativeAmericans. Nature 505,
+87–91(2014).
+50. M.Raghavan,M.Steinrücken,K.Harris,S.Schiffels,S.Rasmussen,M.DeGiorgio,
+A.Albrechtsen,C.Valdiosera,M.C.Ávila-Arcos,A.-S.Malaspinas,A.Eriksson,I.Moltke,
+M.Metspalu,J.R.Homburger,J.Wall,O.E.Cornejo,J.V.Moreno-Mayar,T.S.Korneliussen,
+T.Pierre,M.Rasmussen,P.F.Campos,P.deBarrosDamgaard,M.E.Allentoft,J.Lindo,
+E.Metspalu,R.Rodríguez-Varela,J.Mansilla,C.Henrickson,A.Seguin-Orlando,
+H.Malmström,T.StaffordJr.,S.S.Shringarpure,A.Moreno-Estrada,M.Karmin,K.Tambets,
+A.Bergström,Y.Xue,V.Warmuth,A.D.Friend,J.Singarayer,P.Valdes,F.Balloux,
+I.Leboreiro,J.L.Vera,H.Rangel-Villalobos,D.Pettener,D.Luiselli,L.G.Davis,E.Heyer,
+C.P.E.Zollikofer,M.S.PoncedeLeón,C.I.Smith,V.Grimes,K.-A.Pike,M.Deal,B.T.Fuller,
+B.Arriaza,V.Standen,M.F.Luz,F.Ricaut,N.Guidon,L.Osipova,M.I.Voevoda,O.L.Posukh,
+O.Balanovsky,M.Lavryashina,Y.Bogunov,E.Khusnutdinova,M.Gubina,E.Balanovska,
+S.Fedorova,S.Litvinov,B.Malyarchuk,M.Derenko,M.J.Mosher,D.Archer,J.Cybulski,
+B.Petzelt,J.Mitchell,R.Worl,P.J.Norman,P.Parham,B.M.Kemp,T.Kivisild,C.Tyler-Smith,
+M.S.Sandhu,M.Crawford,R.Villems,D.G.Smith,M.R.Waters,T.Goebel,J.R.Johnson,
+R.S.Malhi,M.Jakobsson,D.J.Meltzer,A.Manica,R.Durbin,C.D.Bustamante,Y.S.Song,
+R.Nielsen,E.Willerslev, GenomicevidenceforthePleistoceneandrecentpopulation
+historyofNativeAmericans. Science 349, aab3884(2015).
+51. M.Rasmussen,Y.Li,S.Lindgreen,J.S.Pedersen,A.Albrechtsen,I.Moltke,M.Metspalu,
+E.Metspalu,T.Kivisild,R.Gupta,M.Bertalan,K.Nielsen,M.T.P.Gilbert,Y.Wang,
+M.Raghavan,P.F.Campos,H.M.Kamp,A.S.Wilson,A.Gledhill,S.Tridico,M.Bunce,
+E.D.Lorenzen,J.Binladen,X.Guo,J.Zhao,X.Zhang,H.Zhang,Z.Li,M.Chen,L.Orlando,
+K.Kristiansen,M.Bak,N.Tommerup,C.Bendixen,T.L.Pierre,B.Grønnow,M.Meldgaard,
+C.Andreasen,S.A.Fedorova,L.P.Osipova,T.F.G.Higham,C.B.Ramsey,T.v.O.Hansen,
+F.C.Nielsen,M.H.Crawford,S.Brunak,T.Sicheritz-Pontén,R.Villems,R.Nielsen,A.Krogh,
+J.Wang,E.Willerslev, AncienthumangenomesequenceofanextinctPalaeo-Eskimo.
+Nature 463, 757–762(2010).
+52. M.Rasmussen,S.L.Anzick,M.R.Waters,P.Skoglund,M.DeGiorgio,T.W.Stafford,
+S.Rasmussen,I.Moltke,A.Albrechtsen,S.M.Doyle,G.D.Poznik,V.Gudmundsdottir,
+R.Yadav,A.-S.Malaspinas,S.S.WhiteV,M.E.Allentoft,O.E.Cornejo,K.Tambets,
+A.Eriksson,P.D.Heintzman,M.Karmin,T.S.Korneliussen,D.J.Meltzer,T.L.Pierre,
+J.Stenderup,L.Saag,V.M.Warmuth,M.C.Lopes,R.S.Malhi,S.Brunak,T.Sicheritz-Ponten,
+I.Barnes,M.Collins,L.Orlando,F.Balloux,A.Manica,R.Gupta,M.Metspalu,
+C.D.Bustamante,M.Jakobsson,R.Nielsen,E.Willerslev, ThegenomeofaLatePleistocene
+humanfromaClovisburialsiteinwesternMontana. Nature 506, 225–229(2014).
+53. M.Rasmussen,M.Sikora,A.Albrechtsen,T.S.Korneliussen,J.V.Moreno-Mayar,
+G.D.Poznik,C.P.Zollikofer,M.S.PoncedeLeón,M.E.Allentoft,I.Moltke,H.Jónsson,
+C.Valdiosera,R.S.Malhi,L.Orlando,C.D.Bustamante,T.W.StaffordJr.,D.J.Meltzer,
+R.Nielsen,E.Willerslev, TheancestryandaffiliationsofKennewickMan. Nature 523,
+455–458(2015).
+54. M.Sikora,V.V.Pitulko,V.C.Sousa,M.E.Allentoft,L.Vinner,S.Rasmussen,A.Margaryan,
+P.deBarrosDamgaard,C.delaFuente,G.Renaud,M.A.Yang,Q.Fu,I.Dupanloup,
+K.Giampoudakis,D.Nogués-Bravo,C.Rahbek,G.Kroonen,M.Peyrot,H.M.Coll,
+S.V.Vasilyev,E.Veselovskaya,M.Gerasimova,E.Y.Pavlova,V.G.Chasnyk,P.A.Nikolskiy,
+A.V.Gromov,V.I.Khartanovich,V.Moiseyev,P.S.Grebenyuk,A.Y.Fedorchenko,
+A.I.Lebedintsev,S.B.Slobodin,B.A.Malyarchuk,R.Martiniano,M.Meldgaard,L.Arppe,
+J.U.Palo,T.Sundell,K.Mannermaa,M.Putkonen,V.Alexandersen,C.Primeau,
+N.Baimukhanov,R.S.Malhi,K.-G.Sjögren,K.Kristiansen,A.Wessman,A.Sajantila,
+M.M.Lahr,R.Durbin,R.Nielsen,D.J.Meltzer,L.Excoffier,E.Willerslev, Thepopulation
+historyofnortheasternSiberiasincethePleistocene. Nature 570, 182–188(2019).
+55. E.Skourtanioti,Y.S.Erdal,M.Frangipane,F.B.Restelli,K.A.Yener,F.Pinnock,P.Matthiae,
+R.Özbal,U.-D.Schoop,F.Guliyev,T.Akhundov,B.Lyonnet,E.L.Hammer,S.E.Nugent,
+M.Burri,G.U.Neumann,S.Penske,T.Ingman,M.Akar,R.Shafiq, Genomichistoryof
+neolithictobronzeageAnatolia,northernLevant,andsouthernCaucasus. Cell 181,
+1158–1175.e28(2020).
+56. M.Unterländer,F.Palstra,I.Lazaridis,A.Pilipenko,Z.Hofmanová,M.Groß,C.Sell,J.Blöcher,
+K.Kirsanow,N.Rohland,B.Rieger,E.Kaiser,W.Schier,D.Pozdniakov,A.Khokhlov,
+M.Georges,S.Wilde,A.Powell,E.Heyer,M.Currat,D.Reich,Z.Samashev,H.Parzinger,
+V.I.Molodin,J.Burger, AncestryanddemographyanddescendantsofIronAgenomadsof
+theEurasianSteppe. Nat. Commun. 8, 14615(2017).
+57. M.A.Yang,X.Gao,C.Theunert,H.Tong,A.Aximu-Petri,B.Nickel,M.Slatkin,M.Meyer,
+S.Pääbo,J.Kelso,Q.Fu, 40,000-year-oldindividualfromAsiaprovidesinsightintoearly
+populationstructureinEurasia. Curr. Biol. 27, 3202, 3208.e9(2017).
+58. M.A.Yang,X.Fan,B.Sun,C.Chen,J.Lang,Y.-C.Ko,C.-h.Tsang,H.Chiu,T.Wang,Q.Bao,
+X.Wu,M.Hajdinjak,A.M.-S.Ko,M.Ding,P.Cao,R.Yang,F.Liu,B.Nickel,Q.Dai,X.Feng,
+L.Zhang,C.Sun,C.Ning,W.Zeng,Y.Zhao,M.Zhang,X.Gao,Y.Cui,D.Reich,M.Stoneking,
+Q.Fu, AncientDNAindicateshumanpopulationshiftsandadmixtureinnorthernand
+southernChina. Science 369, 282–288(2020).
+59. N.Patterson,P.Moorjani,Y.Luo,S.Mallick,N.Rohland,Y.Zhan,T.Genschoreck,T.Webster,
+D.Reich, Ancientadmixtureinhumanhistory. Genetics 192, 1065–1093(2012).
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 13of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+60. P.Flegontov,N.E.Altınışık,P.Changmai,N.Rohland,S.Mallick,N.Adamski,D.A.Bolnick,
+N.Broomandkhoshbacht,F.Candilio,B.J.Culleton,O.Flegontova,T.M.Friesen,C.Jeong,
+T.K.Harper,D.Keating,D.J.Kennett,A.M.Kim,T.C.Lamnidis,A.M.Lawson,I.Olalde,
+J.Oppenheimer,B.A.Potter,J.Raff,R.A.Sattler,P.Skoglund,K.Stewardson,E.J.Vajda,
+S.Vasilyev,E.Veselovskaya,M.G.Hayes,D.H.O’Rourke,J.Krause,R.Pinhasi,D.Reich,
+S.Schiffels, Palaeo-EskimogeneticancestryandthepeoplingofChukotkaandNorth
+America. Nature 570, 236–240(2019).
+61. C.Jeong,O.Balanovsky,E.Lukianova,N.Kahbatkyzy,P.Flegontov,V.Zaporozhchenko,
+A.Immel,C.-C.Wang,O.Ixan,E.Khussainova,B.Bekmanov,V.Zaibert,M.Lavryashina,
+E.Pocheshkhova,Y.Yusupov,A.Agdzhoyan,S.Koshel,A.Bukin,P.Nymadawa,
+S.Turdikulova,D.Dalimova,M.Churnosov,R.Skhalyakho,D.Daragan,Y.Bogunov,
+A.Bogunova,A.Shtrunov,N.Dubova,M.Zhabagin,L.Yepiskoposyan,V.Churakov,
+N.Pislegin,L.Damba,L.Saroyants,K.Dibirova,L.Atramentova,O.Utevska,E.Idrisov,
+E.Kamenshchikova,I.Evseeva,M.Metspalu,A.K.Outram,M.Robbeets,L.Djansugurova,
+E.Balanovska,S.Schiffels,W.Haak,D.Reich,J.Krause, Thegenetichistoryofadmixture
+acrossinnerEurasia. Nat. Ecol. Evol. 3, 966–976(2019).
+62. S.Mallick,H.Li,M.Lipson,I.Mathieson,M.Gymrek,F.Racimo,M.Zhao,N.Chennagiri,
+S.Nordenfelt,A.Tandon,P.Skoglund,I.Lazaridis,S.Sankararaman,Q.Fu,N.Rohland,
+G.Renaud,Y.Erlich,T.Willems,C.Gallo,J.P.Spence,Y.S.Song,G.Poletti,F.Balloux,G.van
+Driem,P.deKnijff,I.G.Romero,A.R.Jha,D.M.Behar,C.M.Bravi,C.Capelli,T.Hervig,
+A.Moreno-Estrada,O.L.Posukh,E.Balanovska,O.Balanovsky,S.Karachanak-Yankova,
+H.Sahakyan,D.Toncheva,L.Yepiskoposyan,C.Tyler-Smith,Y.Xue,M.S.Abdullah,A.Ruiz-
+Linares,C.M.Beall,A.D.Rienzo,C.Jeong,E.B.Starikovskaya,E.Metspalu,J.Parik,R.Villems,
+B.M.Henn,U.Hodoglugil,R.Mahley,A.Sajantila,G.Stamatoyannopoulos,J.T.S.Wee,
+R.Khusainova,E.Khusnutdinova,S.Litvinov,G.Ayodo,D.Comas,M.F.Hammer,T.Kivisild,
+W.Klitz,C.A.Winkler,D.Labuda,M.Bamshad,L.B.Jorde,S.A.Tishkoff,W.S.Watkins,
+M.Metspalu,S.Dryomov,R.Sukernik,L.Singh,K.Thangaraj,S.Pääbo,J.Kelso,N.Patterson,
+D.Reich, TheSimonsgenomediversityproject:300genomesfrom142diversepopula-
+tions. Nature 538, 201–206(2016).
+63. P.Qin,M.Stoneking, DenisovanancestryinEastEurasianandnativeAmericanpopula-
+tions. Mol. Biol. Evol. 32, 2665–2674(2015).
+64. T.Törbat,L.Erdenebold,Dörvöljinbulshnytarkhats,tüünniiezdiinorshuulgynyos,ontslog
+[SlabBurialsDistribution,theirBurialRites,andCharacterization],inMongolchuudynGaral,
+Ugsaa-SoyolynKhögjil,T.T.A.Ochir,Ed.(InstituteofArchaeology,MAS,2020),pp.87–118.
+65. R.J.Losey,A.L.Waters-Rist,T.Nomokonova,A.A.Kharinskii, Asecondmortuaryhiatuson
+LakeBaikalinSiberiaandthearrivalofsmall-scalepastoralism. Sci. Rep. 7, 2319(2017).
+66. N.Patterson,A.L.Price,D.Reich, Populationstructureandeigenanalysis. PLOS Genet.
+2,(2006).
+67. P.Konovalov, Khunnu v Zabaikal’e (Pogrebal’nye pamiatniki) [Xiongnu in Transbaikal Area
+(Funerary Sites)](Buriatskoeknizhnoeizdatel’stvo,1976).
+68. S.Qian,Shiji(ZhonghuaShuju,1959),vol.10,p.2880.
+69. C.Jeong,S.Wilkin,T.Amgalantugs,A.S.Bouwman,W.T.T.Taylor,R.W.Hagan,S.Bromage,
+S.Tsolmon,C.Trachsel,J.Grossmann,J.Littleton,C.A.Makarewicz,J.Krigbaum,M.Burri,
+A.Scott,G.Davaasambuu,J.Wright,F.Irmer,E.Myagmar,N.Boivin,M.Robbeets,F.J.Rühli,
+J.Krause,B.Frohlich,J.Hendy,C.Warinner, BronzeAgepopulationdynamicsandtherise
+ofdairypastoralismontheeasternEurasiansteppe. Proc. Natl. Acad. Sci. U.S.A. 115,
+E11248–E11255(2018).
+70. D.J.Kennett,S.Plog,R.J.George,B.J.Culleton,A.S.Watson,P.Skoglund,N.Rohland,
+S.Mallick,K.Stewardson,L.Kistler,S.A.LeBlanc,P.M.Whiteley,D.Reich,G.H.Perry, Ar-
+chaeogenomicevidencerevealsprehistoricmatrilinealdynasty. Nat. Commun. 8,
+14115(2017).
+71. H.Ringbauer,J.Novembre,M.Steinrücken, Parentalrelatednessthroughtimerevealedby
+runsofhomozygosityinancientDNA. Nat. Commun. 12, 5425(2021).
+72. A.Kovalev,D.Erdenebaatar,S.Matrenin,I.I.Grebennikov,TheShouxiangchengfortressof
+theWesternHanperiod:ExcavationsatBaianBulag,NomgonSum,Ömnögov'aimag,
+Mongolia,inXiongnuArchaeology:MultidisciplinaryPerspectivesoftheFirstSteppeEmpirein
+InnerAsia,U.Brosseder,B.K.Miller,Eds.(BonnContributionstoAsianArchaeology,Bonn
+UniversityPress,2011),pp.475–508.
+73. B.K.Miller,F.Allard,D.Erdenebaatar,C.Lee, AXiongnutombcomplex:ExcavationsatGol
+Mod2cemetery,Mongolia(2002–05). Mongolian J. Anthropol. Archaeol. Ethnology 2,
+1–21(2006).
+74. D.Erdenebaatar,T.Iderkhangai,E.Mijiddorj,S.Orgilbayar,N.Batbold,B.Galbadrakh,
+A.Maratkhaan, Balgasyn Tal dakh’Gol Mod 2-yn Khünnügiin Yazgurtny Bulshny Sudalgaa
+(MonkhiinUseg,2015).
+75. U.Brosseder,FremdefraueninIvolga?,in Scripta Praehistorica in Honorem Biba Teržan,
+M.Blecic,Ed.(NarodnimuzejSlovenije,2007),vol.44,pp.883–893.
+76. K.M.Linduff,ThegenderofluxuryandpoweramongtheXiongnuineasternEurasia,inAre
+All Warriors Male? Gender Roles on the Ancient Eurasian Steppe(AltaMira,2008),chap.9,
+pp.175–212.
+77. M.Kircher,S.Sawyer,M.Meyer, Doubleindexingovercomesinaccuraciesinmultiplex
+sequencingontheIlluminaplatform. Nucleic Acids Res. 40, e3–e3(2012).
+78. M.-T.Gansauge,A.Aximu-Petri,S.Nagel,M.Meyer, Manualandautomatedpreparationof
+single-strandedDNAlibrariesforthesequencingofDNAfromancientbiologicalremains
+andothersourcesofhighlydegradedDNA. Nat. Protoc. 15, 2279–2300(2020).
+79. M.Schubert,S.Lindgreen,L.Orlando, AdapterRemovalv2:Rapidadaptertrimming,
+identification,andreadmerging. BMC. Res. Notes 9, 88(2016).
+80. H.Li,R.Durbin, FastandaccurateshortreadalignmentwithBurrows–Wheelertransform.
+Bioinformatics 25, 1754–1760(2009).
+81. A.Peltzer,G.Jäger,A.Herbig,A.Seitz,C.Kniep,J.Krause,K.Nieselt, EAGER:Efficient
+ancientgenomereconstruction. Genome Biol. 17, 60(2016).
+82. H.Li,B.Handsaker,A.Wysoker,T.Fennell,J.Ruan,N.Homer,G.Marth,G.Abecasis,
+R.Durbin;1000GenomeProjectDataProcessingSubgroup, Thesequencealignment/map
+formatandSAMtools. Bioinformatics 25, 2078–2079(2009).
+83. H.Jónsson,A.Ginolhac,M.Schubert,P.L.Johnson,L.Orlando, mapDamage2.0:Fastap-
+proximateBayesianestimatesofancientDNAdamageparameters. Bioinformatics 29,
+1682–1684(2013).
+84. H.Weissensteiner,D.Pacher,A.Kloss-Brandstätter,L.Forer,G.Specht,H.-J.Bandelt,
+F.Kronenberg,A.Salas,S.Schönherr, HaploGrep2:Mitochondrialhaplogroupclassifica-
+tionintheeraofhigh-throughputsequencing. Nucleic Acids Res. 44, W58–W63(2016).
+85. G.D.Poznik,IdentifyingY-chromosomehaplogroupsinarbitrarilylargesamplesofse-
+quencedorgenotypedmen. bioRxiv,088716(2016).https://doi.org/10.1101/088716.
+86. E.Harney,N.Patterson,D.Reich,J.Wakeley, AssessingtheperformanceofqpAdm:A
+statisticaltoolforstudyingpopulationadmixture. Genetics 217, iyaa045(2021).
+87. RCoreTeam(2021).
+Acknowledgments
+Funding:ThisworkwassupportedbyMaxPlanckSociety(A.V.M.andC.W.),TheEuropean
+ResearchCouncilundertheEuropeanUnion’sHorizon2020researchandinnovationprogram
+804884-DAIRYCULTURES(C.W.),NationalResearchFoundationofKorea(NRF)grantfundedby
+theKoreagovernment(MSIT)2020R1C1C1003879(C.J.),TheSilkRoadFoundation(BKM),anda
+dissertationresearchgrantfromAmericanCouncilofLearnedSocietiesandtheHenryLuce
+Foundation(B.K.M.).Authorcontributions:Conceptualization:B.K.M.,C.W.,andC.J.
+Methodology:J.L.,B.K.M.,J.B.,E.J.,A.V.M.,C.W.,andC.J.Investigation:J.L.,B.K.M.,J.B.,E.J.,A.V.M.,
+C.W.,andC.J.Visualization:J.L.,B.K.M.,C.W.,andC.J.Supervision:B.K.M.,C.W.,andC.J.Writing–
+originaldraft:J.L.,B.K.M.,C.W.,andC.J.Writing–reviewandediting:J.B.,E.J.,andA.V.M.
+Competinginterests:Theauthorsdeclarethattheyhavenocompetinginterests.Dataand
+materialsavailability:Alldataneededtoevaluatetheconclusionsinthepaperarepresentin
+thepaperand/ortheSupplementaryMaterials.Allnewlygeneratedsequencingdatareported
+inthisstudy,includingrawreads(FASTQ)andalignedreads(BAM),areavailablefromthe
+EuropeanNucleotideArchiveundertheaccessionnumberPRJEB55185.Thegenotypedatafor
+the1240KpanelhavebeendepositedintheEdmondDataRepositoryoftheMaxPlanckSociety
+[https://doi.org/10.17617/3.DYCH7D].
+Submitted18October2022
+Accepted16March2023
+Published14April2023
+10.1126/sciadv.adf3904
+Lee et al., Sci. Adv.9,eadf3904(2023) 14April2023 14of14
+SCIENCE ADV ANCES | RESEARCH ARTICLE
+Downloaded from https://www.science.org on August 26, 2026
+
+Genetic population structure of the Xiongnu Empire at imperial and local scales
+Juhyeon Lee, Bryan K. Miller, Jamsranjav Bayarsaikhan, Erik Johannesson, Alicia Ventresca Miller, Christina
+Warinner, and Choongwon Jeong
+Sci. Adv. 9 (15), eadf3904.  DOI: 10.1126/sciadv.adf3904
+View the article online
+https://www.science.org/doi/10.1126/sciadv.adf3904
+Permissions
+https://www.science.org/help/reprints-and-permissions
+Use of this article is subject to the Terms of service
+Science Advances (ISSN 2375-2548) is published by the American Association for the Advancement of Science. 1200 New York Avenue
+NW, Washington, DC 20005. The title Science Advances is a registered trademark of AAAS. 
+Copyright © 2023 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim
+to original U.S. Government Works. Distributed under a Creative Commons Attribution License 4.0 (CC BY).
+Downloaded from https://www.science.org on August 26, 2026
