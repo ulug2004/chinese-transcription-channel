@@ -1,0 +1,69 @@
+Step 49.  The ruling clan name: 攣鞮 and 虛連題.
+Aligned one-character-to-one-syllable pairs: 772
+
+======================================================================
+1.  Why the two-character form resists reading
+======================================================================
+   A Chinese l- character writing a source syllable that begins with
+   a vowel: 0 of 140.
+       of those 140 syllables, ʔ      took 137  (98%)
+       of those 140 syllables, ń      took   1  (1%)
+       of those 140 syllables, t      took   1  (1%)
+       of those 140 syllables, b      took   1  (1%)
+   So el, which is vowel-initial, cannot be written by 攣.
+
+   a source r written with a Chinese l-       177 of 200   88.5%
+   a source l written with a Chinese l-        85 of 88    96.6%
+   The source syllable began with a liquid. Old Turkic has no initial
+   liquid, which is the wall. In 虛連題 the liquid is medial and
+   the wall is not there, so that is the form searched below.
+
+======================================================================
+2.  NEW: how Turkic k and q were written in Chinese
+======================================================================
+   Counted on the Ligeti glossaries, which are Ming rather than
+   Later Han. Used here because Sanskrit has no q at all, the same
+   reason the paper uses this corpus for front rounded vowels.
+
+   Turkic back q   n=66
+       h-              43   65.2%
+       aspirated k     20   30.3%
+       plain k/g        2    3.0%
+       other            1    1.5%
+
+   Turkic front k  n=35
+       aspirated k     31   88.6%
+       h-               2    5.7%
+       other            1    2.9%
+       plain k/g        1    2.9%
+
+   The two are written differently: a back q takes an h- character,
+   a front k takes an aspirated one. That decides 虛, which is
+   polyphonic with exactly those two values.
+
+======================================================================
+3.  What fits 虛連題
+======================================================================
+   Words matching  velar + V | liquid + V + nasal | dental + V  : 2
+       karındaş       kardeş [DLT]
+       kırındı        her şeyin kınntısı, kazıntısı, soyuntu su [DLT]
+
+   karındaş, priced on each reading of 虛
+       虛 = kʰɨɑ, a source plain k           0.425%   1 in 235
+       虛 = hɨɑ,  a source back q           10.151%   1 in 9
+
+   Nothing is inserted, nothing discarded, no metathesis: 虛 writes
+   ka, 連 writes rın with its -n on the page, 題 writes daş with the
+   sibilant unwritten, which Table 7 licenses at 75%.
+
+   WHAT IS NOT SETTLED
+   - The q rate is Ming, not Later Han. It cannot be checked against
+     the Sanskrit corpus, which has no q.
+   - The vowel of the second syllable is not separately measured; the
+     open-vowel rate is used for it.
+   - 攣鞮 is treated as an abbreviation of the longer form. The two
+     are conventionally taken as variants of one name, but this step
+     does not demonstrate the relation, it assumes it.
+   - 虛 is absent from Schuessler's table under its traditional form
+     and present under the simplified 虚. Four other characters of
+     the record are in the same position: 戶 撑 祿 脫.
