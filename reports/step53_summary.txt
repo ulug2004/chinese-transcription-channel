@@ -1,0 +1,78 @@
+Step 53.  羯, and whether the transcription can separate two readings.
+   Schuessler gives 羯 as ɨat.
+
+======================================================================
+1.  What a character with this vowel writes
+======================================================================
+   character tokens whose Schuessler vowel contains ɨa: 28
+       source a     28  100.0%
+
+   the corpus-wide distribution of source vowels, for comparison:
+       source a   1187   53.8%
+       source ā    322   14.6%
+       source i    245   11.1%
+       source u    232   10.5%
+       source ī     90    4.1%
+       source e     45    2.0%
+
+   A source e is 2.0% of the corpus and 0 of 28 in this column.
+   On the Later Han layer the character writes a source a.
+
+======================================================================
+2.  What that does to each reading
+======================================================================
+   *ket, the Yeniseian reading, has a front e. That vowel does not
+   appear in the column above at all. This is the first item in the
+   record where the transcription tells against a Yeniseian reading
+   rather than licensing it alongside a Turkic one, as at 閼氏.
+
+   kıyat, the reading in this supplement, has two syllables and 羯 is
+   one character. The character's vowel is a diphthong, so a glide is
+   available without inserting anything, but the word itself is the
+   problem: see below.
+
+======================================================================
+3.  What the lexicons hold for this frame
+======================================================================
+   one-syllable words, velar + vowel + dental stop: 8
+       get        excited' (1 960:221, ED:SO). Erda! reminded th [IrkB]
+       kad        kar fırtınası, insan öldüren bora, tipl [DLT]
+       kat        kat [DLT]
+       ked        bir şeyi anlatmakta obartma ve pekitme istenir [DLT]
+       kid        arka, äon, sonra [DLT]
+       kod        m<(a)d>� tir. (a)n�a biliQI(a)r: y(a)bl(a)k ol [IrkB]
+       kut        kut, uğur, devlet, baht, talih, saadet [DLT]
+       köt        göt, arka [DLT]
+
+   kıyat    is NOT a headword in any of the three lexicons
+   kiyat    is NOT a headword in any of the three lexicons
+   ket      is NOT a headword in any of the three lexicons
+   kat      IS a headword: kat [DLT]
+   kad      IS a headword: kar fırtınası, insan öldüren bora, tipl [DLT]
+
+   Neither reading's word is attested. kat 'layer' and kad, which
+   Kāşgarî glosses 'kar fırtınası, insan öldüren bora, tipi', a
+   blizzard or a killing gale, are the attested words that fit, and
+   neither is an obvious ethnonym.
+
+======================================================================
+4.  What this step does and does not establish
+======================================================================
+   ESTABLISHES. On the Later Han layer, 羯 writes a source a, 28 of
+   28. A front e is not among them, and a source e is only 2.0% of
+   the corpus, so the absence is not an artefact of rarity alone.
+
+   DOES NOT ESTABLISH. That the Yeniseian reading is wrong. Two
+   objections stand against using this measurement here at all:
+     - The Jie appear in the fourth century CE. A Later Han value for
+       a fourth-century ethnonym mixes periods, which §7 of the paper
+       warns against in general terms. This is the first thing to
+       settle, and this step does not settle it.
+     - *keʔt is a PROTO-Yeniseian reconstruction. The vowel of the
+       fourth-century word it descends from is not given by it, and
+       Vovin proposes the comparison, not the vowel.
+
+   AND IT CUTS THE WAY THE PAPER MUST BE MOST CAREFUL ABOUT. A result
+   that weakens a Yeniseian reading and leaves a Turkic frame standing
+   is the one kind of finding this paper should present with the
+   objections attached, not the conclusion.

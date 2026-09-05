@@ -1,0 +1,187 @@
+Step 54.  The two rows that both read uluğ, and why only one of them can.
+Aligned one-character-to-one-syllable pairs: 772
+
+   The characters, from Schuessler:
+       呼  hɑ, hɑ
+       都  tɑ
+       而  ńə, ńɨ
+       尸  śi
+       道  dou, dou
+       皋  kou
+       若  ńɑk
+       鞮  te, de
+       烏  ʔɑ
+       累  lui, lyai
+       若  ńɑk
+       鞮  te, de
+
+======================================================================
+1.  What writes a source syllable that begins with a vowel
+======================================================================
+   opportunities: 140
+       Chinese ʔ     137   97.9%
+       Chinese ń       1    0.7%
+       Chinese t       1    0.7%
+       Chinese b       1    0.7%
+
+   A glottal onset takes 137 of 140, 97.9%. Every other class in the
+   table together takes 3.
+       Chinese k  writes a vowel-initial syllable    0 of 140
+       Chinese h  writes a vowel-initial syllable    0 of 140
+       Chinese g  writes a vowel-initial syllable    0 of 140
+       Chinese l  writes a vowel-initial syllable    0 of 140
+       Chinese ŋ  writes a vowel-initial syllable    0 of 140
+
+   Both elements of the long reading are vowel-initial. 皋 is kou, a
+   velar, and 呼 is hɑ. Neither class writes a vowel-initial syllable
+   anywhere in the corpus. 烏 in the short name is ʔɑ, which is the
+   137-of-140 case.
+
+======================================================================
+2.  What writes a source liquid, and where the -l- of uluğ would go
+======================================================================
+   source syllables with an l- or r- onset: 288
+       Chinese l     262   91.0%
+       Chinese b      12    4.2%
+       Chinese p       4    1.4%
+       Chinese d       2    0.7%
+       Chinese h       2    0.7%
+       Chinese k       2    0.7%
+       Chinese tśʰ     2    0.7%
+       Chinese n       1    0.3%
+
+   Characters in 呼都而尸道皋若鞮 carrying a liquid onset: 0
+   Characters in 烏累若鞮 carrying a liquid onset: 1  (累 lui)
+
+   Taking a source l on its own, without r: 85 of 88, 96.6%.
+
+   The long name has no liquid in it at all. uluğ read at 皋 needs its
+   -l- to be unwritten, in the position the corpus writes a liquid
+   91.0% of the time for a liquid of either kind and 96.6% for an l.
+
+======================================================================
+3.  How many characters a transcription is allowed to leave idle
+======================================================================
+   characters minus source syllables, over 1017 pairs:
+        -2      1    0.1%
+        -1     92    9.0%
+        +0    772   75.9%
+        +1    152   14.9%
+
+   four or more spare characters: 0 of 1017, 0.00%
+
+   On Öz-Uluğ İnakt, 都 tɑ, 而 ńə, 尸 śi and 道 dou are credited with
+   nothing. Step 50 established that the corpus's own expansions are
+   mostly a Chinese semantic suffix appended to a finished
+   transcription, 鬼 鳥 國 城, which is not what these four are.
+
+======================================================================
+4.  烏累若鞮 priced
+======================================================================
+   烏 ʔɑ  → u-    a vowel-initial syllable on a glottal    97.9%
+   累 lui → -lu   a source l on a Chinese l-               96.6%
+                   rounded vowel                           65.7%
+        -ğ unwritten, the coda table of §8, 8 of 21    38.1%
+   uluğ over two characters: 23.67%, about 1 in 4
+
+   THAT FIGURE IS NOT COMPARABLE WITH A WHOLE-NAME FIGURE. It prices
+   one two-syllable element, and a short string is cheap by
+   construction: every additional character multiplies in another
+   rate below 1. Köngen's 1 in 5 at 軍臣 is a whole name, and 1 in 37
+   retires Baγatur in §8.1. The comparison this figure supports is
+   with the other element in the same slot, not with those.
+
+   若鞮 is not priced here. The paper treats it in §9 as one title
+   element shared by six names, and pricing it once per row would
+   count the same evidence six times.
+
+======================================================================
+5.  呼都而尸道皋若鞮 priced, as far as it can be
+======================================================================
+   It cannot be priced, and that is the result. Two of its six
+   non-title characters are asked to do something the corpus does 0
+   times in 140, and a zero has no rate to multiply.
+       呼 hɑ  → öz     vowel-initial on an h-   0 of 140
+       皋 kou → uluğ   vowel-initial on a k-    0 of 140
+   The remaining four characters carry nothing. Whatever the name
+   says, this is not it.
+
+======================================================================
+6.  What the long string could hold instead
+======================================================================
+   Reading the first six characters as six syllables, in the classes
+   the characters actually carry:
+       呼 hɑ    velar or h        k g q h
+       都 tɑ    dental stop       t d
+       而 ńə    palatal nasal     n ñ y
+       尸 śi    sibilant          s ş
+       道 dou   dental stop       t d
+       皋 kou   velar             k g q
+
+   first two characters as one word: 77
+       gafta          hebdomas [Cod]
+       garde          d amsi- a simu lativ e form of am- 'to suck' [IrkB]
+       hata           ata,I, 32 bkz> ata [DLT]
+       hatum          uxor [Cod]
+       hopti          se sublevavit [Cod]
+       kadag          kanal, ırmak [DLT]
+       kadak          clavus [Cod←chadak]
+       kadan          clavus [Cod←cadan]
+       kadaş          kardeş, hısım, akraba [DLT]
+       kadık          ağaçtan oyulmuş nesne [DLT]
+       kadın          kayın, dünür, hısım.I, 32, 403, 528 [DLT]
+       kadız          ağaç kabuğu [DLT]
+       ... 65 more
+
+   characters 3-4 as one word: 31
+       nisan          signum [Cod]
+       yacsi          bonus [Cod]
+       yahşı          iyi; güzel, her şeyin güzeli [DLT]
+       yarsöv         ineducatus [Cod←jarsöv]
+       yarşı          bir şeyi yarıya bõlen kimse; bir ;eyin yarıs [DLT]
+       yarşım         bir yarışlık yer [DLT]
+       yassik         macer [Cod←jassik]
+       yasuc          aytmac «confessio [Cod]
+       yasuk          i. q. jaxok [Cod←jasuk]
+       yasul          yassı, yayvan, yassı ve engln olan her yer [DLT]
+       yası           yassı, enli [DLT]
+       yasık          gedeleç [DLT]
+       ... 19 more
+
+   characters 5-6 as one word: 93
+       dagen          adhuc [Cod]
+       dakı           dahi [DLT]
+       dangal         saman kesmiği [DLT]
+       tadgun         Fırat ve ona benzer akan dere [DLT]
+       tagar          çuval, dağarcık, içerisine buğday ve başka ş [DLT]
+       tagay          dayı [DLT]
+       tage           fortasse tagel idem [Cod]
+       takuk          horoz, tavuk [DLT]
+       takı           dahi. [DLT]
+       talgag         Insanı öldürecek derecede şiddetli tipi [DLT]
+       talguk         baltanın sapını sıkıştırmak Içln çakılan çiv [DLT]
+       talguç         hayvan sırtına yükletilen yükü sıkiştirmak i [DLT]
+       ... 81 more
+
+======================================================================
+7.  What this step establishes
+======================================================================
+   ESTABLISHES. Öz-Uluğ İnakt is not available. It needs a
+   vowel-initial syllable written with a velar twice over, which is 0
+   of 140, and it leaves four of eight characters carrying nothing,
+   which the corpus does 0.00% of the time. It is the weakest reading
+   in the file and should carry no proposal.
+
+   ESTABLISHES. Uluğ at 烏累若鞮 is ordinary. The glottal is the
+   majority spelling for a vowel-initial syllable, the liquid is
+   written, and only the final -ğ is unwritten, which §8 measures at
+   8 of 21.
+
+   DOES NOT ESTABLISH. What the long name says. The frame searches
+   above are offered as a starting point for someone else, not as a
+   reading. Nothing in section 6 is proposed.
+
+   A CAUTION ABOUT THE ZERO. The 0 of 140 is a Sanskrit figure. The
+   claim it supports is about Chinese scribal practice, not about
+   Turkic, and it is the same class of argument as §8.5's q and k
+   measurement, with the same limitation stated there.
