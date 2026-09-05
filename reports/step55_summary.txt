@@ -1,0 +1,143 @@
+Step 55.  The eight-character name split 3-3-2, and what stands at each frame.
+Aligned one-character-to-one-syllable pairs: 772.  Lexicon headwords: 9323.
+
+   THE CUT IS A HYPOTHESIS. The Chinese writes no word division. This
+   step bounds the space at each frame; it proposes nothing, and the
+   supplement row stays empty whatever it returns.
+
+   Unwritten codas are charged at the coda table's own rates:
+       a source -k written with an open character   38.1%
+       a source -l written with an open character   56.8%
+       a source -m written with an open character   17.4%
+       a source -n written with an open character   12.9%
+       a source -p written with an open character   20.0%
+       a source -r written with an open character   56.8%
+       a source -t written with an open character   28.3%
+       a source -ŋ written with an open character    9.1%
+       a Turkic back q on an h-class character, §8.5    65.2%
+
+   Sanskrit has no ö or ü, so their rates come from the Ligeti
+   Turkic pairs, 64 instances:
+       a Turkic ö or ü written with a rounded  character  62   96.9%
+       a Turkic ö or ü written with a front    character   2    3.1%
+   Step 47 used only the front cell, which was the cell it needed,
+   pricing -gün against the front-vowel character 臣 gin. Nothing
+   there is affected. This step needs the whole table.
+
+   The final-character device, step 52: an extra final character
+   writing the word's last consonant, its vowel writing nothing,
+   45.7% of the time. 骨都侯, 虛閭權渠 and 狐鹿姑 all use it, so a
+   three-character frame is searched for two-syllable words too.
+
+======================================================================
+Frame 呼都而   呼(h-, open) 都(t-, open) 而(ń-, central)
+======================================================================
+   What can stand at each position, measured:
+       呼 h-  onset: h 66%, q 65%, k 65%, g 65%, w 2%, v 2%, l 1%   (back-vowel word)
+              vowel: a 69%, u 30%, o 30%, ı 6%, i 6%, e 6%
+       都 t-  onset: t 30%, c 18%, ç 17%, ñ 12%, w 6%, v 6%, y 1%   (back-vowel word)
+              vowel: a 69%, u 30%, o 30%, ı 6%, i 6%, e 6%
+       而 ń-  onset: ñ 75%, c 12%, y 2%   (back-vowel word)
+              vowel: ı 6%, i 6%, e 6%, a 4%, u 4%, o 4%
+
+   headwords that fit the frame at all: 4
+
+       kayıñ            0.0100%  1 in 10027     kayın ağacı                    [DLT]
+           2 syllables + final consonant   |   ka 65/69, yı 1/6, -ñ on 而 75, device 46
+       kadıñ            0.0079%  1 in 12585     kayın ağacı                    [DLT]
+           2 syllables + final consonant   |   ka 65/69, dı 1/6, -ñ on 而 75, device 46
+       kuyeyu           0.0000%  1 in 10303257  gener                          [Cod←chuyeyu]
+           3 syllables   |   ku 65/30, ye 1/6, yu 2/4
+       keyic            0.0000%  1 in 97512232  indumentum                     [Cod]
+           2 syllables + final consonant   |   ke 0/6, yi 1/6, -c on 而 12, device 46
+
+======================================================================
+Frame 尸道皋   尸(ś-, front) 道(d-, rounded) 皋(k-, rounded)
+======================================================================
+   What can stand at each position, measured:
+       尸 ś-  onset: ş 85%, w 9%, v 9%, y 5%, ç 4%, z 2%, s 2%   (back-vowel word)
+              vowel: ı 86%, i 86%, e 86%, a 25%, ü 3%, ö 3%, u 1%
+       道 d-  onset: d 85%, t 19%, y 5%, b 4%, r 1%, n 1%, m 1%   (back-vowel word)
+              vowel: ü 97%, ö 97%, u 66%, o 66%, a 2%, ı 1%, i 1%
+       皋 k-  onset: q 86%, k 86%, g 18%, h 5%, y 3%, m 1%, r 1%   (back-vowel word)
+              vowel: ü 97%, ö 97%, u 66%, o 66%, a 2%, ı 1%, i 1%
+
+   headwords that fit the frame at all: 111
+
+       şebük            0.9977%  1 in 100       çabuk                          [DLT]
+           2 syllables + final consonant   |   şe 85/86, bü 4/97, -k on 皋 86, device 46
+       sidük            0.4461%  1 in 224       sidik                          [DLT]
+           2 syllables + final consonant   |   si 2/86, dü 85/97, -k on 皋 86, device 46
+       yitük            0.3230%  1 in 309       kaybolan şey, yıtik.           [DLT]
+           2 syllables + final consonant   |   yi 5/86, tü 19/97, -k on 皋 86, device 46
+       çetük            0.2638%  1 in 379       kedi                           [DLT]
+           2 syllables + final consonant   |   çe 4/86, tü 19/97, -k on 皋 86, device 46
+       yatuk            0.0628%  1 in 1592      atılan, unutulan her şey; temb [DLT]
+           2 syllables + final consonant   |   ya 5/25, tu 19/66, -k on 皋 86, device 46
+       çatuk            0.0513%  1 in 1949      Çin'den getirilen bir balık bo [DLT]
+           2 syllables + final consonant   |   ça 4/25, tu 19/66, -k on 皋 86, device 46
+       yirük            0.0168%  1 in 5953      yirilmiş, uzunlamasına ylrilmi [DLT]
+           2 syllables + final consonant   |   yi 5/86, rü 1/97, -k on 皋 86, device 46
+       yerük            0.0168%  1 in 5953      yirilmiş, uzunlamasına yirilmi [DLT]
+           2 syllables + final consonant   |   ye 5/86, rü 1/97, -k on 皋 86, device 46
+       şünük            0.0081%  1 in 12420     çınar ağacı                    [DLT]
+           2 syllables + final consonant   |   şü 85/3, nü 1/97, -k on 皋 86, device 46
+       yitik            0.0044%  1 in 22792     keskin, bilenmiş               [DLT]
+           2 syllables + final consonant   |   yi 5/86, ti 19/1, -k on 皋 86, device 46
+       yıdıg            0.0040%  1 in 24943     kötü kokan her şey             [DLT]
+           2 syllables + final consonant   |   yı 5/86, dı 85/1, -g on 皋 18, device 46
+       sıruk            0.0035%  1 in 28196     sırık, çadır direği. I. 381    [DLT]
+           2 syllables + final consonant   |   sı 2/86, ru 1/66, -k on 皋 86, device 46
+       yaruk            0.0033%  1 in 30621     yerde, duvarda, dağda, sırçada [DLT]
+           2 syllables + final consonant   |   ya 5/25, ru 1/66, -k on 皋 86, device 46
+       sınuk            0.0028%  1 in 35528     sınık, kırılmı                 [DLT]
+           2 syllables + final consonant   |   sı 2/86, nu 1/66, -k on 皋 86, device 46
+       şebeng           0.0028%  1 in 35850     demirden yapılmış baston, cop  [DLT]
+           2 syllables + final consonant   |   şe 85/86, be 4/1, -g on 皋 18, device 46
+       ... 96 more, all cheaper
+
+======================================================================
+How to read the two lists together
+======================================================================
+   呼都而: 4 fits.   尸道皋: 111 fits.
+   Best of each, multiplied:
+       kayıñ 0.010% x şebük 0.998% = 0.00010%, 1 in 1005115
+   Against 1 in 37, which retires Baγatur in §8.1, and 1 in 5, the
+   cheapest whole name in the supplement.
+
+   THE TWO FRAMES FAIL IN OPPOSITE WAYS, AND BOTH FAILURES ARE REAL.
+   呼都而 is empty for a structural reason, not for want of looking:
+   而 has a central vowel, and a central Chinese vowel takes any
+   source vowel only 4 to 6 percent of the time, so the third
+   syllable costs about a factor of twenty whatever fills it; and
+   而's ń- accepts a source ñ at 75%%, c at 12%% and y at 2%%, while a
+   source n is 0. Four headwords in 9323 clear both, and the best of
+   them is a birch tree at 1 in 10,000.
+
+   尸道皋 fails the other way. It has room for 111 words, and its
+   cheapest occupants are common nouns: quick, urine, cat, a lost
+   thing, the lazy one. Nothing in it reads as a ruler's title.
+
+   A CROWDED FRAME IS EVIDENCE AGAINST ITSELF. Section 6.3 of the
+   paper measures that looking a reconstruction up in a Turkic
+   dictionary finds a plausible word whether or not one is there. The
+   count above is the size of that haystack, and a hit inside a large
+   one carries no weight on its own.
+
+======================================================================
+What this step establishes
+======================================================================
+   ESTABLISHES. How much room each frame has, and what the cheapest
+   occupants of it are. Nothing more.
+
+   DOES NOT ESTABLISH. That the 3-3-2 cut is right. The Chinese marks
+   no division, and step 54's finding stands: nothing about this row
+   is proposed, and none of the words above is a candidate until the
+   cut itself is argued from something other than the wish for one.
+
+   DOES NOT ESTABLISH. That the Later Han layer is the right one. The
+   name is from Hou Hanshu 89, a century later than the bulk of the
+   record, and 尸 looks like an Eastern Han title element: 0 of 20 in
+   the Western Han ruler names, 7 of 13 in the Southern Xiongnu
+   titles, always as 尸逐. If it is formulaic, frame two is not a
+   word frame at all and every figure in it is beside the point.

@@ -1,0 +1,166 @@
+Step 58.  The corpus repaired, and every price recomputed on it.
+
+   pairs before                     1017
+   promoted from the parked pool      93
+   pairs after                      1110
+   aligned one-to-one before         772
+   aligned one-to-one after          865
+   written: data\derived\nti_transcription_pairs_v2.csv
+
+==============================================================================
+THE HEADLINE RATES, BEFORE AND AFTER
+==============================================================================
+                                              before           after            delta
+   source k written with a Chinese k-          190/220    86.4%   204/236    86.4%   +0.1 pts
+   source g written with a Chinese g-           52/90     57.8%    64/110    58.2%   +0.4 pts
+   source l written with a Chinese l-           85/88     96.6%    97/100    97.0%   +0.4 pts
+   source m written with a Chinese m-          171/180    95.0%   193/202    95.5%   +0.5 pts
+   source c written with a Chinese dź-           0/48      0.0%     0/53      0.0%   +0.0 pts
+   source c written with a Chinese tś-          32/48     66.7%    37/53     69.8%   +3.1 pts
+   source t written with a Chinese tśʰ-         67/182    36.8%    67/188    35.6%   -1.2 pts
+   source ś written with a Chinese ś-           56/66     84.8%    65/76     85.5%   +0.7 pts
+   source i or e on a front vowel              327/380    86.1%   349/406    86.0%   -0.1 pts
+   source u or o on a rounded vowel            190/289    65.7%   207/324    63.9%   -1.9 pts
+   source a on an open vowel                  1045/1509   69.3%  1127/1634   69.0%   -0.3 pts
+   a vowel-initial syllable on a glottal       137/140    97.9%   137/140    97.9%   +0.0 pts
+   a vowel-initial syllable on a velar           0/140     0.0%     0/140     0.0%   +0.0 pts
+
+   Rates that moved by a point or more:
+       source c written with a Chinese tś-      66.7% -> 69.8%  (+3.1)
+       source u or o on a rounded vowel         65.7% -> 63.9%  (-1.9)
+       source t written with a Chinese tśʰ-     36.8% -> 35.6%  (-1.2)
+
+
+==============================================================================
+TABLE 2a.  On the repaired corpus, RAW price, dearest first
+==============================================================================
+   chinese    reading                     1 in  per char  chars roles  cells
+   若鞮         İnakt                232,393,120      0.0%      2 SS     6 measured, 1 assumed/unmeasured
+   且鞮侯        Çatıgka                  224,965      1.6%      3 SSS    7 measured
+   屠耆         Doğru                    188,583      0.2%      2 SS     5 measured
+   呴犁湖        Kalık                      1,695      8.4%      3 SSN    5 measured
+   閼氏         Elti                       1,339      2.7%      2 DN     2 measured
+   虛閭權渠       Kalkan                     1,163     17.1%      4 SCSN   6 measured
+   烏珠留若鞮      Çal İnakt                  1,138      9.6%      3 NSC    3 measured
+   服匿         Buknik                       691      3.8%      2 SS     6 measured
+   骨都侯        Kutak                        567     12.1%      3 SSN    6 measured
+   且渠         Çaka                         562      4.2%      2 SS     4 measured
+   壺衍鞮        Kayantı                      345     14.3%      3 SSS    7 measured
+   孤塗         Kutı                         161      7.9%      2 SS     4 measured
+   狐鹿姑        Kurluga                      128     19.8%      3 SSS    8 measured
+   復株累若鞮      Büktel İnakt                 113     20.6%      3 SSC    6 measured
+   伊稚斜        İdiya                         66     24.7%      3 SSS    6 measured
+   當戶         Tamga                         46     14.6%      2 SS     5 measured
+   胡祿         Külüg                         41     15.5%      2 SS     5 measured
+   匈奴         Hung                          23     20.8%      2 SN     3 measured
+   車牙若鞮       Tunga İnakt                   22     21.2%      2 SS     4 measured
+   詹師廬        Çamşılı                       17     38.8%      3 SSS    7 measured
+   烏維         Abı                           17     24.2%      2 SS     4 measured
+   呼韓邪        Kaganya                       15     39.8%      3 SSS    7 measured
+   烏累若鞮       Uluğ İnakt                    13     27.1%      2 SS     5 measured
+   徑路         Kıngrak                        8     34.6%      2 SS     6 measured
+   郅支         Çitçi                          5     43.4%      2 SS     5 measured
+   稽粥         Kiçük                          4     47.5%      2 SS     5 measured
+   頭曼         Duman                          3     50.7%      2 SS     5 measured
+   軍臣         Köngen                         3     52.2%      2 SS     6 measured
+
+==============================================================================
+TABLE 2b.  On the repaired corpus, PER CHARACTER, dearest first
+==============================================================================
+   chinese    reading                     1 in  per char  chars roles  cells
+   若鞮         İnakt                232,393,120      0.0%      2 SS     6 measured, 1 assumed/unmeasured
+   屠耆         Doğru                    188,583      0.2%      2 SS     5 measured
+   且鞮侯        Çatıgka                  224,965      1.6%      3 SSS    7 measured
+   閼氏         Elti                       1,339      2.7%      2 DN     2 measured
+   服匿         Buknik                       691      3.8%      2 SS     6 measured
+   且渠         Çaka                         562      4.2%      2 SS     4 measured
+   孤塗         Kutı                         161      7.9%      2 SS     4 measured
+   呴犁湖        Kalık                      1,695      8.4%      3 SSN    5 measured
+   烏珠留若鞮      Çal İnakt                  1,138      9.6%      3 NSC    3 measured
+   骨都侯        Kutak                        567     12.1%      3 SSN    6 measured
+   壺衍鞮        Kayantı                      345     14.3%      3 SSS    7 measured
+   當戶         Tamga                         46     14.6%      2 SS     5 measured
+   胡祿         Külüg                         41     15.5%      2 SS     5 measured
+   虛閭權渠       Kalkan                     1,163     17.1%      4 SCSN   6 measured
+   狐鹿姑        Kurluga                      128     19.8%      3 SSS    8 measured
+   復株累若鞮      Büktel İnakt                 113     20.6%      3 SSC    6 measured
+   匈奴         Hung                          23     20.8%      2 SN     3 measured
+   車牙若鞮       Tunga İnakt                   22     21.2%      2 SS     4 measured
+   烏維         Abı                           17     24.2%      2 SS     4 measured
+   伊稚斜        İdiya                         66     24.7%      3 SSS    6 measured
+   烏累若鞮       Uluğ İnakt                    13     27.1%      2 SS     5 measured
+   徑路         Kıngrak                        8     34.6%      2 SS     6 measured
+   詹師廬        Çamşılı                       17     38.8%      3 SSS    7 measured
+   呼韓邪        Kaganya                       15     39.8%      3 SSS    7 measured
+   郅支         Çitçi                          5     43.4%      2 SS     5 measured
+   稽粥         Kiçük                          4     47.5%      2 SS     5 measured
+   頭曼         Duman                          3     50.7%      2 SS     5 measured
+   軍臣         Köngen                         3     52.2%      2 SS     6 measured
+
+==============================================================================
+WHAT THE REPAIR DID TO EACH NAME
+==============================================================================
+   chinese    reading             1 in before   1 in after    change rank
+   若鞮         İnakt               221,007,230  232,393,120     -4.9% 
+   且鞮侯        Çatıgka                 194,264      224,965    -13.6% 
+   屠耆         Doğru                   174,204      188,583     -7.6% 
+   呴犁湖        Kalık                     1,439        1,695    -15.1% 
+   閼氏         Elti                      1,183        1,339    -11.6% 
+   虛閭權渠       Kalkan                    1,063        1,163     -8.7% 
+   烏珠留若鞮      Çal İnakt                 1,008        1,138    -11.4% 
+   服匿         Buknik                      677          691     -2.1% 
+   骨都侯        Kutak                       516          567     -8.9% 
+   且渠         Çaka                        511          562     -9.2% 
+   壺衍鞮        Kayantı                     370          345      7.3% 
+   孤塗         Kutı                        164          161      1.9% 
+   狐鹿姑        Kurluga                     142          128     11.1% 
+   復株累若鞮      Büktel İnakt                124          113      9.6% 
+   伊稚斜        İdiya                        93           66     40.9% 
+   當戶         Tamga                        48           46      2.5% 
+   胡祿         Külüg                        42           41      0.5% 
+   匈奴         Hung                         21           23     -7.6% -1
+   車牙若鞮       Tunga İnakt                  21           22     -1.5% +1
+   詹師廬        Çamşılı                      16           17     -2.7% -1
+   烏維         Abı                          20           17     20.3% +1
+   呼韓邪        Kaganya                      16           15      4.9% 
+   烏累若鞮       Uluğ İnakt                   14           13      4.3% 
+   徑路         Kıngrak                       8            8      0.1% 
+   郅支         Çitçi                         5            5      8.4% 
+   稽粥         Kiçük                         4            4      4.3% 
+   頭曼         Duman                         3            3     -1.9% 
+   軍臣         Köngen                        3            3      0.7% 
+
+   rows newly priceable: 0
+   rows that moved more than 10% or changed rank: 10
+       且鞮侯        Çatıgka            -13.6%  rank +0
+       呴犁湖        Kalık              -15.1%  rank +0
+       閼氏         Elti               -11.6%  rank +0
+       烏珠留若鞮      Çal İnakt          -11.4%  rank +0
+       狐鹿姑        Kurluga            +11.1%  rank +0
+       伊稚斜        İdiya              +40.9%  rank +0
+       匈奴         Hung               -7.6%  rank -1
+       車牙若鞮       Tunga İnakt        -1.5%  rank +1
+       詹師廬        Çamşılı            -2.7%  rank -1
+       烏維         Abı                +20.3%  rank +1
+
+==============================================================================
+THRESHOLDS THE PAPER USES
+==============================================================================
+   1 in 37 retires Baγatur in §8.1. Rows dearer than that:
+       若鞮         İnakt              1 in 232,393,120 was 1 in 221,007,230
+       且鞮侯        Çatıgka            1 in 224,965    was 1 in 194,264
+       屠耆         Doğru              1 in 188,583    was 1 in 174,204
+       呴犁湖        Kalık              1 in 1,695      was 1 in 1,439
+       閼氏         Elti               1 in 1,339      was 1 in 1,183
+       虛閭權渠       Kalkan             1 in 1,163      was 1 in 1,063
+       烏珠留若鞮      Çal İnakt          1 in 1,138      was 1 in 1,008
+       服匿         Buknik             1 in 691        was 1 in 677
+       骨都侯        Kutak              1 in 567        was 1 in 516
+       且渠         Çaka               1 in 562        was 1 in 511
+       壺衍鞮        Kayantı            1 in 345        was 1 in 370
+       孤塗         Kutı               1 in 161        was 1 in 164
+       狐鹿姑        Kurluga            1 in 128        was 1 in 142
+       復株累若鞮      Büktel İnakt       1 in 113        was 1 in 124
+       伊稚斜        İdiya              1 in 66         was 1 in 93
+       當戶         Tamga              1 in 46         was 1 in 48
+       胡祿         Külüg              1 in 41         was 1 in 42

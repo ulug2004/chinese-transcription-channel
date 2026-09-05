@@ -1,0 +1,41 @@
+chinese,reading,price,one_in,per_char,n_chars,n_syllables,roles,measured_cells,assumed_cells,note,alignment
+若鞮,İnakt,0.000000005,221007230,0.00007,2,2,SS,6,1,,ńɑk=i  de=nakt
+且鞮侯,Çatıgka,0.000005148,194264,0.01727,3,3,SSS,7,0,,tsɑ=ça  te=tıg  go=ka
+屠耆,Doğru,0.000005740,174204,0.00240,2,2,SS,5,0,,dɑ=doğ  ki=ru
+呴犁湖,Kalık,0.000694717,1439,0.08857,3,2,SSN,5,0,,huo=ka  lei=lık  湖 writes nothing 14.9%
+閼氏,Elti,0.000844704,1183,0.02906,2,2,DN,2,0,,ʔɑt=el  氏 writes nothing 14.9%
+虛閭權渠,Kalkan,0.000940730,1063,0.17513,4,2,SCSN,6,0,,hɨɑ=kal  liɑ writes -l 97% x device 46%  gyan=kan  渠 writes nothing 14.9%
+烏珠留若鞮,Çal İnakt,0.000991621,1008,0.09972,3,1,NSC,3,0,"title element 若鞮 excluded, argued once in §9",烏 writes nothing 14.9%  tśo=çal  liu writes -l 97% x device 46%
+服匿,Buknik,0.001476482,677,0.03843,2,2,SS,6,0,,buk=buk  ṇɨk=nik
+骨都侯,Kutak,0.001934320,516,0.12460,3,2,SSN,6,0,,kuət=ku  tɑ=tak  侯 writes nothing 14.9%
+且渠,Çaka,0.001956824,511,0.04424,2,2,SS,4,0,,tsɑ=ça  gɨɑ=ka
+壺衍鞮,Kayantı,0.002700001,370,0.13925,3,3,SSS,7,0,,gɑ=ka  jan=yan  te=tı
+孤塗,Kutı,0.006090933,164,0.07804,2,2,SS,4,0,,kuɑ=ku  dɑ=tı
+狐鹿姑,Kurluga,0.007031427,142,0.19158,3,3,SSS,8,0,,ɣuɑ=kur  lok=lu  kɑ=ga
+復株累若鞮,Büktel İnakt,0.008020039,124,0.20017,3,2,SSC,6,0,"title element 若鞮 excluded, argued once in §9",buk=bük  ṭio=tel  lui writes -l 97% x device 46%
+伊稚斜,İdiya,0.010678348,93,0.22021,3,3,SSS,6,0,,ʔi=i  ḍi=di  ja=ya
+當戶,Tamga,0.020799024,48,0.14422,2,2,SS,5,0,,tɑŋ=tam  gɑ=ga
+胡祿,Külüg,0.023777804,42,0.15420,2,2,SS,5,0,,gɔ=kü  lok=lüg
+車牙若鞮,Tunga İnakt,0.045545330,21,0.21341,2,2,SS,4,0,"title element 若鞮 excluded, argued once in §9",tśʰa=tu  ŋa=ŋa
+匈奴,Hung,0.047014531,21,0.21683,2,1,SN,3,0,,huoŋ=huŋ  奴 writes nothing 14.9%
+烏維,Abı,0.048596220,20,0.22045,2,2,SS,4,0,,ʔɑ=a  wi=bı
+詹師廬,Çamşılı,0.059926087,16,0.39133,3,3,SSS,7,0,,tśam=çam  ṣi=şı  liɑ=lı
+呼韓邪,Kaganya,0.060203683,16,0.39193,3,3,SSS,7,0,,hɑ=ka  gɑn=gan  ja=ya
+烏累若鞮,Uluğ İnakt,0.070445920,14,0.26542,2,2,SS,5,0,"title element 若鞮 excluded, argued once in §9",ʔɑ=u  lui=luğ
+徑路,Kıngrak,0.119494462,8,0.34568,2,2,SS,6,0,,keŋ=kıŋ  lɑ=rak
+郅支,Çitçi,0.173871322,5,0.41698,2,2,SS,5,0,,tśit=çit  tśe=çi
+稽粥,Kiçük,0.216426593,4,0.46522,2,2,SS,5,0,,kei=ki  tśuk=çük
+頭曼,Duman,0.262030345,3,0.51189,2,2,SS,5,0,,do=du  mɑn=man
+軍臣,Köngen,0.270021015,3,0.51964,2,2,SS,6,0,,kun=kön  gin=gen
+冒頓,Bögü Tuğ,,,,,,,,,blocked: 頓 writing gü (zero(inventory gap)),
+握衍朐鞮,Okyan Kutuğtı,,,,,,,,,no rate for 鞮 writing tuğ; 朐 writing ku; 衍 writing yan,
+搜諧若鞮,Sarıg İnakt,,,,,,,,,blocked: 諧 writing rıg (zero(inventory gap)),
+呼都而尸道皋若鞮,,,,,,,,,,no proposal,
+攣鞮,El-indi,,,,,,,,,no rate for 鞮 writing in; 攣 writing el,
+虛連題,Kıyalığ El-indi,,,,,,,,,no rate for 虛 writing kı,
+單于,Çarvuş,,,,,,,,,no rate for 于 writing vuş; 單 writing çar; 于 writing çar,
+撑犁孤塗單于,(compound of the three rows below),,,,,,,,,compound row,
+撑犁,Tanglı,,,,,,,,,no Later Han reading for 撑,
+谷蠡,Körklü,,,,,,,,,no rate for 蠡 writing klü; 谷 writing kör; 蠡 writing kör,
+甌脫,Otuyat,,,,,,,,,no rate for 脫 writing tu; 甌 writing o,
+羯,,,,,,,,,,no proposal,

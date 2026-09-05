@@ -1,0 +1,112 @@
+Step 56.  The two-character blind spot, and a control set that closes it.
+
+======================================================================
+1.  The hole
+======================================================================
+   the verified corpus, by transcription length:
+        1 characters   172
+        3 characters   381
+        4 characters   342
+        5 characters    88
+        6 characters    23
+        7 characters     6
+        8 characters     3
+        9 characters     1
+       13 characters     1
+        2 characters     0   <-- the gap
+
+   the Xiongnu record, by name length:
+        1 characters    1 rows    2.5%
+        2 characters   21 rows   52.5%
+        3 characters    9 rows   22.5%
+        4 characters    5 rows   12.5%
+        5 characters    2 rows    5.0%
+        6 characters    1 rows    2.5%
+        8 characters    1 rows    2.5%
+   Two-character names are 21 of 40, 52.5% of the record.
+
+   The parked two-character entries were not rejected on sound. Their
+   phonetic score is 1.00, the same as the verified set. They were
+   parked because a two-character Chinese string is often an ordinary
+   word, and the labeller could not separate a transcription from a
+   calque by shape.
+
+======================================================================
+2.  The test, validated against ground truth in both directions
+======================================================================
+   Every character's Later Han initial must match the consonant class
+   of the source syllable it aligns to, at exact alignment.
+
+   applied to                                 passes                
+   known CALQUES, 2 characters                   1 of 310     0.3%
+   known CALQUES, 3 characters                   0 of 120     0.0%
+   known CALQUES, 4 characters                   0 of 147     0.0%
+   known TRANSCRIPTIONS, 3 characters          162 of 284    57.0%
+   known TRANSCRIPTIONS, 4 characters           32 of 160    20.0%
+   the PARKED 2-character pool                  95 of 174    54.6%
+
+   FALSE POSITIVES. The test accepts 1 of 310 known calques, 0.3%.
+   CONSERVATISM. It accepts only 57.0% of known transcriptions, so it
+   under-collects rather than over-collects.
+   THE POOL LOOKS RIGHT. The parked pool passes at 54.6% against the
+   57.0% of the known-good pool: it behaves like transcriptions, not
+   like calques.
+
+   The calques the test would wrongly accept, for inspection:
+       護摩       homa
+   (護摩 is the standard transcription of homa, the fire ritual. It
+   is mislabelled in the source data, not by this test.)
+
+======================================================================
+3.  The control set
+======================================================================
+   passed the test            95
+   rejected by inspection      2
+       母天       mātṛ           a semantic translation that passes by coincidence
+       諸人       jana           a semantic translation that passes by coincidence
+   CONTROL SET                93
+
+       菩提 bodhi       禪頭 jantu       南無 namo        計都 ketu        婆稚 baḍin       娑羅 śāla      
+       末尼 maṇi        摩尼 maṇi        尸羅 śīla        僧伽 saṃgha      突迦 durgā       恒伽 gaṅgā     
+       洛沙 lakṣa       波暮 padma       商迦 Śaṅkha      俱胝 koṭi        韋紐 viṣṇu       韋糅 viṣṇu     
+       伽陀 gāthā       伽他 gāthā       偈佗 gāthā       乾陀 gandha      健陀 gandha      健杜 gandha    
+       乾杜 gandha      陪也 bhaya       滿陀 moṭa        質帝 citta       呼麽 homa        制吒 ceṭa      
+       制徵 ceṭī        曩謨 namo        俱舍 kośa        劫波 kalpa       也他 yathā       迦羅 kāla      
+       迦羅 kāla        揭帝 gate        羯磨 karma       那羅 nara        舍利 śārī        南牟 namo      
+       南謨 namo        南摩 namo        曩莫 namo        納莫 namo        婆羅 pāla        婆羅 bāla      
+       蘇摩 soma        素摩 soma        舍那 śāṇa        奢那 śāṇa        瑜伽 yoga        牟尼 muni      
+       悉地 siddhi      波利 pari        犍椎 ghaṇṭā      犍遲 ghaṇṭā      犍槌 ghaṇṭā      犍抵 ghaṇṭā    
+       楗槌 gaṇḍi       富羅 pura        耶舍 yaśa        答摩 tamas       佛陀 buddha      南莫 namo      
+       違紐 viṣṇu       尸棄 śikhī       誓耶 jayā        路迦 loka        娑呵 sahā        計都 ketu      
+       牟藍 mūla        暮羅 mūla        舍夷 Śākya       伽耶 gayā        伽邪 gayā        部陀 budha     
+       羅陀 rādha       波羅 pala        伽羅 kalā        波慕 padma       摩訶 mahā        犍度 skandha   
+       ... 9 more, in the CSV
+
+   written: data\derived\nti_two_character_control.csv
+
+======================================================================
+4.  What the control set can now answer, and 匈奴
+======================================================================
+   Of 93 two-character transcriptions:
+     of a 2-syllable source             93  100.0%
+
+   THE 匈奴 QUESTION. The supplement reads 匈奴 as Hung and discards
+   奴 nɑ as a Chinese pejorative, which requires two characters to
+   write a one-syllable word. In the control set that is 0 of 93,
+   0.0%.
+
+   AND 奴 ITSELF IS A SOUND CHARACTER IN THIS CORPUS. It occurs 7
+   times in the verified pairs and all 7 are phonetic, writing the
+   nu of manuṣya: 末奴沙, 摩奴闍, 摩奴娑, 摩奴曬. It never appends a
+   category. The characters that do append one are 天 27, 鬼 9,
+   樹 9, 國 8, 山 7, 城 2, and 奴 is not among them.
+
+   WHAT THAT DOES AND DOES NOT SETTLE. It does not show that 奴 is
+   part of the Xiongnu name. The case for dropping it rests on
+   Chinese usage in ethnonyms, where 奴 'slave' is a known pejorative,
+   and that is an argument from Chinese practice which this corpus
+   cannot test. What it does show is that the supplement's stated
+   reason, that 奴 is appended rather than read, is not supported by
+   transcription practice and is contradicted by the only direct
+   evidence held here. The entry has to make the Chinese-usage
+   argument or drop the claim.

@@ -1,0 +1,94 @@
+trad,simp,skt,n_chars,n_syl,align,pos,phon_score,source_file,promoted_by
+菩提,菩提,bodhi,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+禪頭,禅头,jantu,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+南無,南无,namo,2,2,exact,verb,1.0,nti_ambiguous.csv,step56 both-initials test
+計都,计都,ketu,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+婆稚,婆稚,baḍin,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+娑羅,娑罗,śāla,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+末尼,末尼,maṇi,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+摩尼,摩尼,maṇi,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+尸羅,尸罗,śīla,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+僧伽,僧伽,saṃgha,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+突迦,突迦,durgā,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+恒伽,恒伽,gaṅgā,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+洛沙,洛沙,lakṣa,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+波暮,波暮,padma,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+商迦,商迦,Śaṅkha,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+俱胝,俱胝,koṭi,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+韋紐,韦纽,viṣṇu,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+韋糅,韦糅,viṣṇu,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+伽陀,伽陀,gāthā,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+伽他,伽他,gāthā,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+偈佗,偈佗,gāthā,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+乾陀,干陀,gandha,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+健陀,健陀,gandha,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+健杜,健杜,gandha,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+乾杜,干杜,gandha,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+陪也,陪也,bhaya,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+滿陀,满陀,moṭa,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+質帝,质帝,citta,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+呼麽,呼麽,homa,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+制吒,制吒,ceṭa,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+制徵,制征,ceṭī,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+曩謨,曩谟,namo,2,2,exact,verb,1.0,nti_ambiguous.csv,step56 both-initials test
+俱舍,俱舍,kośa,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+劫波,劫波,kalpa,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+也他,也他,yathā,2,2,exact,adverb,1.0,nti_ambiguous.csv,step56 both-initials test
+迦羅,迦罗,kāla,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+迦羅,迦罗,kāla,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+揭帝,揭帝,gate,2,2,exact,foreign,1.0,nti_ambiguous.csv,step56 both-initials test
+羯磨,羯磨,karma,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+那羅,那罗,nara,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+舍利,舍利,śārī,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+南牟,南牟,namo,2,2,exact,verb,1.0,nti_ambiguous.csv,step56 both-initials test
+南謨,南谟,namo,2,2,exact,verb,1.0,nti_ambiguous.csv,step56 both-initials test
+南摩,南摩,namo,2,2,exact,verb,1.0,nti_ambiguous.csv,step56 both-initials test
+曩莫,曩莫,namo,2,2,exact,verb,1.0,nti_ambiguous.csv,step56 both-initials test
+納莫,纳莫,namo,2,2,exact,verb,1.0,nti_ambiguous.csv,step56 both-initials test
+婆羅,婆罗,pāla,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+婆羅,婆罗,bāla,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+蘇摩,苏摩,soma,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+素摩,素摩,soma,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+舍那,舍那,śāṇa,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+奢那,奢那,śāṇa,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+瑜伽,瑜伽,yoga,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+牟尼,牟尼,muni,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+悉地,悉地,siddhi,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+波利,波利,pari,2,2,exact,adjective,1.0,nti_ambiguous.csv,step56 both-initials test
+犍椎,犍椎,ghaṇṭā,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+犍遲,犍迟,ghaṇṭā,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+犍槌,犍槌,ghaṇṭā,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+犍抵,犍抵,ghaṇṭā,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+楗槌,楗槌,gaṇḍi,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+富羅,富罗,pura,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+耶舍,耶舍,yaśa,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+答摩,答摩,tamas,2,2,exact,adjective,1.0,nti_ambiguous.csv,step56 both-initials test
+佛陀,佛陀,buddha,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+南莫,南莫,namo,2,2,exact,verb,1.0,nti_ambiguous.csv,step56 both-initials test
+違紐,违纽,viṣṇu,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+尸棄,尸弃,śikhī,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+誓耶,誓耶,jayā,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+路迦,路迦,loka,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+娑呵,娑呵,sahā,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+計都,计都,ketu,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+牟藍,牟蓝,mūla,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+暮羅,暮罗,mūla,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+舍夷,舍夷,Śākya,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+伽耶,伽耶,gayā,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+伽邪,伽邪,gayā,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+部陀,部陀,budha,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+羅陀,罗陀,rādha,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+波羅,菠萝,pala,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+伽羅,伽罗,kalā,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+波慕,波慕,padma,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+摩訶,摩诃,mahā,2,2,exact,adjective,1.0,nti_ambiguous.csv,step56 both-initials test
+犍度,犍度,skandha,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+建陀,建陀,skandha,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+建圖,建图,skandha,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+乾度,干度,skandha,2,2,exact,noun,1.0,nti_ambiguous.csv,step56 both-initials test
+騫茶,骞茶,skanda,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+難陀,难陀,nanda,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+居樓,居楼,kuru,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+槃頭,槃头,pāṇḍu,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+盧至,卢至,ruci,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test
+盧遮,卢遮,ruci,2,2,exact,proper noun,1.0,nti_ambiguous.csv,step56 both-initials test

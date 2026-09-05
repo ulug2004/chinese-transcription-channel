@@ -1,0 +1,202 @@
+<title>Name Prices</title>
+<style>
+:root{--bg:#fbfaf7;--fg:#1c1a17;--dim:#6d675e;--line:#e2ddd4;--card:#fff;--accent:#8a3324;--warn:#fdf6ec;--warnb:#e8d5b0}
+:root:not([data-theme="light"]){}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#16150f;--fg:#eae6dd;--dim:#9a9287;--line:#2f2c25;--card:#1e1c16;--accent:#e0906f;--warn:#241f16;--warnb:#463b28}}
+:root[data-theme="dark"]{--bg:#16150f;--fg:#eae6dd;--dim:#9a9287;--line:#2f2c25;--card:#1e1c16;--accent:#e0906f;--warn:#241f16;--warnb:#463b28}
+body{background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;margin:0;padding:28px 20px 80px}
+.wrap{max-width:860px;margin:0 auto}
+h1{font-size:26px;line-height:1.25;margin:0 0 6px;letter-spacing:-.01em}
+.sub{color:var(--dim);margin:0 0 30px;font-size:15px}
+h2{font-size:19px;margin:38px 0 6px;letter-spacing:-.005em}
+h3{font-size:15px;margin:26px 0 6px;text-transform:uppercase;letter-spacing:.06em;color:var(--dim)}
+p{margin:10px 0}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:16px 0}
+.warn{background:var(--warn);border-color:var(--warnb)}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:14px 0}
+table{border-collapse:collapse;width:100%;font-size:14px;min-width:520px}
+th,td{padding:7px 10px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--dim);font-weight:600;border-bottom:1px solid var(--fg)}
+td.n{text-align:right;font-variant-numeric:tabular-nums}
+td.han{font-size:15px}
+.dim{color:var(--dim)}
+tr.dear td.n:first-of-type{color:var(--accent);font-weight:600}
+.big{font-size:30px;font-weight:600;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.stat{display:flex;gap:26px;flex-wrap:wrap;margin:14px 0}
+.stat div{min-width:96px}
+.stat .lab{font-size:12px;color:var(--dim);text-transform:uppercase;letter-spacing:.05em}
+ul{margin:10px 0;padding-left:20px}li{margin:6px 0}
+code{background:var(--card);border:1px solid var(--line);border-radius:4px;padding:1px 5px;font-size:13px}
+.rule{height:1px;background:var(--line);margin:34px 0}
+</style>
+<div class="wrap">
+<h1>Every name in the record, priced by one method</h1>
+<p class="sub">Steps 57 and 58 &middot; run overnight 5&ndash;6 September 2026</p>
+
+<div class="card">
+<div class="stat">
+<div><div class="lab">rows</div><div class="big">40</div></div>
+<div><div class="lab">priced</div><div class="big">28</div></div>
+<div><div class="lab">not priced</div><div class="big">12</div></div>
+<div><div class="lab">dearer than 1 in 37</div><div class="big">17</div></div>
+</div>
+<p style="margin-bottom:0">Sixteen of these rows had never carried a figure. The other twelve had one produced by its own hand-written calculation. This is the first time all of them have been computed the same way.</p>
+</div>
+
+<h2>The headline</h2>
+<p><b>Seventeen of the 28 priced rows are dearer than 1 in 37</b>, which is the figure that retires <i>Ba&gamma;atur</i> in &sect;8.1. By the standard the paper already applies, more than half the supplement&rsquo;s priced readings sit on the wrong side of its own threshold.</p>
+<p>That is not automatically a verdict. A price is a ranking device, not a probability, and a longer name is dearer by construction. But it is the number a reviewer will compute for themselves, so we should be the ones to publish it.</p>
+
+<h2>The table, after the corpus fix</h2>
+<p class="dim" style="font-size:14px">Sorted dearest first. <b>1 in</b> is the raw product; <b>per char</b> is the geometric mean, comparable across name lengths. Rows above the 1-in-37 line are marked. <b>Roles</b>: S = a character writes one syllable, D = two (compression), C = a bare consonant, N = nothing.</p>
+<div class="scroll"><table>
+<tr><th>chinese</th><th>reading</th><th>1 in</th><th>per char</th><th>before fix</th><th>&Delta;</th><th>roles</th></tr>
+<tr class="dear"><td class="han">若鞮</td><td>İnakt</td><td class="n">232,393,120</td><td class="n">0.0%</td><td class="n dim">221,007,230</td><td class="n dim">+5%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">且鞮侯</td><td>Çatıgka</td><td class="n">224,965</td><td class="n">1.6%</td><td class="n dim">194,264</td><td class="n dim">+16%</td><td class="dim">SSS</td></tr>
+<tr class="dear"><td class="han">屠耆</td><td>Doğru</td><td class="n">188,583</td><td class="n">0.2%</td><td class="n dim">174,204</td><td class="n dim">+8%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">呴犁湖</td><td>Kalık</td><td class="n">1,695</td><td class="n">8.4%</td><td class="n dim">1,439</td><td class="n dim">+18%</td><td class="dim">SSN</td></tr>
+<tr class="dear"><td class="han">閼氏</td><td>Elti</td><td class="n">1,339</td><td class="n">2.7%</td><td class="n dim">1,183</td><td class="n dim">+13%</td><td class="dim">DN</td></tr>
+<tr class="dear"><td class="han">虛閭權渠</td><td>Kalkan</td><td class="n">1,163</td><td class="n">17.1%</td><td class="n dim">1,063</td><td class="n dim">+9%</td><td class="dim">SCSN</td></tr>
+<tr class="dear"><td class="han">烏珠留若鞮</td><td>Çal İnakt</td><td class="n">1,138</td><td class="n">9.6%</td><td class="n dim">1,008</td><td class="n dim">+13%</td><td class="dim">NSC</td></tr>
+<tr class="dear"><td class="han">服匿</td><td>Buknik</td><td class="n">691</td><td class="n">3.8%</td><td class="n dim">677</td><td class="n dim">+2%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">骨都侯</td><td>Kutak</td><td class="n">567</td><td class="n">12.1%</td><td class="n dim">516</td><td class="n dim">+10%</td><td class="dim">SSN</td></tr>
+<tr class="dear"><td class="han">且渠</td><td>Çaka</td><td class="n">562</td><td class="n">4.2%</td><td class="n dim">511</td><td class="n dim">+10%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">壺衍鞮</td><td>Kayantı</td><td class="n">345</td><td class="n">14.3%</td><td class="n dim">370</td><td class="n dim">-7%</td><td class="dim">SSS</td></tr>
+<tr class="dear"><td class="han">孤塗</td><td>Kutı</td><td class="n">161</td><td class="n">7.9%</td><td class="n dim">164</td><td class="n dim">-2%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">狐鹿姑</td><td>Kurluga</td><td class="n">128</td><td class="n">19.8%</td><td class="n dim">142</td><td class="n dim">-10%</td><td class="dim">SSS</td></tr>
+<tr class="dear"><td class="han">復株累若鞮</td><td>Büktel İnakt</td><td class="n">113</td><td class="n">20.6%</td><td class="n dim">124</td><td class="n dim">-9%</td><td class="dim">SSC</td></tr>
+<tr class="dear"><td class="han">伊稚斜</td><td>İdiya</td><td class="n">66</td><td class="n">24.7%</td><td class="n dim">93</td><td class="n dim">-29%</td><td class="dim">SSS</td></tr>
+<tr class="dear"><td class="han">當戶</td><td>Tamga</td><td class="n">46</td><td class="n">14.6%</td><td class="n dim">48</td><td class="n dim">-4%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">胡祿</td><td>Külüg</td><td class="n">41</td><td class="n">15.5%</td><td class="n dim">42</td><td class="n dim">-2%</td><td class="dim">SS</td></tr>
+<tr><td class="han">匈奴</td><td>Hung</td><td class="n">23</td><td class="n">20.8%</td><td class="n dim">21</td><td class="n dim">+10%</td><td class="dim">SN</td></tr>
+<tr><td class="han">車牙若鞮</td><td>Tunga İnakt</td><td class="n">22</td><td class="n">21.2%</td><td class="n dim">21</td><td class="n dim">+5%</td><td class="dim">SS</td></tr>
+<tr><td class="han">詹師廬</td><td>Çamşılı</td><td class="n">17</td><td class="n">38.8%</td><td class="n dim">16</td><td class="n dim">+6%</td><td class="dim">SSS</td></tr>
+<tr><td class="han">烏維</td><td>Abı</td><td class="n">17</td><td class="n">24.2%</td><td class="n dim">20</td><td class="n dim">-15%</td><td class="dim">SS</td></tr>
+<tr><td class="han">呼韓邪</td><td>Kaganya</td><td class="n">15</td><td class="n">39.8%</td><td class="n dim">16</td><td class="n dim">-6%</td><td class="dim">SSS</td></tr>
+<tr><td class="han">烏累若鞮</td><td>Uluğ İnakt</td><td class="n">13</td><td class="n">27.1%</td><td class="n dim">14</td><td class="n dim">-7%</td><td class="dim">SS</td></tr>
+<tr><td class="han">徑路</td><td>Kıngrak</td><td class="n">8</td><td class="n">34.6%</td><td class="n dim">8</td><td class="n dim">&middot;</td><td class="dim">SS</td></tr>
+<tr><td class="han">郅支</td><td>Çitçi</td><td class="n">5</td><td class="n">43.4%</td><td class="n dim">5</td><td class="n dim">&middot;</td><td class="dim">SS</td></tr>
+<tr><td class="han">稽粥</td><td>Kiçük</td><td class="n">4</td><td class="n">47.5%</td><td class="n dim">4</td><td class="n dim">&middot;</td><td class="dim">SS</td></tr>
+<tr><td class="han">頭曼</td><td>Duman</td><td class="n">3</td><td class="n">50.7%</td><td class="n dim">3</td><td class="n dim">&middot;</td><td class="dim">SS</td></tr>
+<tr><td class="han">軍臣</td><td>Köngen</td><td class="n">3</td><td class="n">52.2%</td><td class="n dim">3</td><td class="n dim">&middot;</td><td class="dim">SS</td></tr>
+</table></div>
+
+<h3>The same rows, sorted per character</h3>
+<p class="dim" style="font-size:14px">This is the ranking that is not just a proxy for name length.</p>
+<div class="scroll"><table>
+<tr><th>chinese</th><th>reading</th><th>1 in</th><th>per char</th><th>before fix</th><th>&Delta;</th><th>roles</th></tr>
+<tr class="dear"><td class="han">若鞮</td><td>İnakt</td><td class="n">232,393,120</td><td class="n">0.0%</td><td class="n dim">221,007,230</td><td class="n dim">+5%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">屠耆</td><td>Doğru</td><td class="n">188,583</td><td class="n">0.2%</td><td class="n dim">174,204</td><td class="n dim">+8%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">且鞮侯</td><td>Çatıgka</td><td class="n">224,965</td><td class="n">1.6%</td><td class="n dim">194,264</td><td class="n dim">+16%</td><td class="dim">SSS</td></tr>
+<tr class="dear"><td class="han">閼氏</td><td>Elti</td><td class="n">1,339</td><td class="n">2.7%</td><td class="n dim">1,183</td><td class="n dim">+13%</td><td class="dim">DN</td></tr>
+<tr class="dear"><td class="han">服匿</td><td>Buknik</td><td class="n">691</td><td class="n">3.8%</td><td class="n dim">677</td><td class="n dim">+2%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">且渠</td><td>Çaka</td><td class="n">562</td><td class="n">4.2%</td><td class="n dim">511</td><td class="n dim">+10%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">孤塗</td><td>Kutı</td><td class="n">161</td><td class="n">7.9%</td><td class="n dim">164</td><td class="n dim">-2%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">呴犁湖</td><td>Kalık</td><td class="n">1,695</td><td class="n">8.4%</td><td class="n dim">1,439</td><td class="n dim">+18%</td><td class="dim">SSN</td></tr>
+<tr class="dear"><td class="han">烏珠留若鞮</td><td>Çal İnakt</td><td class="n">1,138</td><td class="n">9.6%</td><td class="n dim">1,008</td><td class="n dim">+13%</td><td class="dim">NSC</td></tr>
+<tr class="dear"><td class="han">骨都侯</td><td>Kutak</td><td class="n">567</td><td class="n">12.1%</td><td class="n dim">516</td><td class="n dim">+10%</td><td class="dim">SSN</td></tr>
+<tr class="dear"><td class="han">壺衍鞮</td><td>Kayantı</td><td class="n">345</td><td class="n">14.3%</td><td class="n dim">370</td><td class="n dim">-7%</td><td class="dim">SSS</td></tr>
+<tr class="dear"><td class="han">當戶</td><td>Tamga</td><td class="n">46</td><td class="n">14.6%</td><td class="n dim">48</td><td class="n dim">-4%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">胡祿</td><td>Külüg</td><td class="n">41</td><td class="n">15.5%</td><td class="n dim">42</td><td class="n dim">-2%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">虛閭權渠</td><td>Kalkan</td><td class="n">1,163</td><td class="n">17.1%</td><td class="n dim">1,063</td><td class="n dim">+9%</td><td class="dim">SCSN</td></tr>
+<tr class="dear"><td class="han">狐鹿姑</td><td>Kurluga</td><td class="n">128</td><td class="n">19.8%</td><td class="n dim">142</td><td class="n dim">-10%</td><td class="dim">SSS</td></tr>
+<tr class="dear"><td class="han">復株累若鞮</td><td>Büktel İnakt</td><td class="n">113</td><td class="n">20.6%</td><td class="n dim">124</td><td class="n dim">-9%</td><td class="dim">SSC</td></tr>
+<tr><td class="han">匈奴</td><td>Hung</td><td class="n">23</td><td class="n">20.8%</td><td class="n dim">21</td><td class="n dim">+10%</td><td class="dim">SN</td></tr>
+<tr><td class="han">車牙若鞮</td><td>Tunga İnakt</td><td class="n">22</td><td class="n">21.2%</td><td class="n dim">21</td><td class="n dim">+5%</td><td class="dim">SS</td></tr>
+<tr><td class="han">烏維</td><td>Abı</td><td class="n">17</td><td class="n">24.2%</td><td class="n dim">20</td><td class="n dim">-15%</td><td class="dim">SS</td></tr>
+<tr class="dear"><td class="han">伊稚斜</td><td>İdiya</td><td class="n">66</td><td class="n">24.7%</td><td class="n dim">93</td><td class="n dim">-29%</td><td class="dim">SSS</td></tr>
+<tr><td class="han">烏累若鞮</td><td>Uluğ İnakt</td><td class="n">13</td><td class="n">27.1%</td><td class="n dim">14</td><td class="n dim">-7%</td><td class="dim">SS</td></tr>
+<tr><td class="han">徑路</td><td>Kıngrak</td><td class="n">8</td><td class="n">34.6%</td><td class="n dim">8</td><td class="n dim">&middot;</td><td class="dim">SS</td></tr>
+<tr><td class="han">詹師廬</td><td>Çamşılı</td><td class="n">17</td><td class="n">38.8%</td><td class="n dim">16</td><td class="n dim">+6%</td><td class="dim">SSS</td></tr>
+<tr><td class="han">呼韓邪</td><td>Kaganya</td><td class="n">15</td><td class="n">39.8%</td><td class="n dim">16</td><td class="n dim">-6%</td><td class="dim">SSS</td></tr>
+<tr><td class="han">郅支</td><td>Çitçi</td><td class="n">5</td><td class="n">43.4%</td><td class="n dim">5</td><td class="n dim">&middot;</td><td class="dim">SS</td></tr>
+<tr><td class="han">稽粥</td><td>Kiçük</td><td class="n">4</td><td class="n">47.5%</td><td class="n dim">4</td><td class="n dim">&middot;</td><td class="dim">SS</td></tr>
+<tr><td class="han">頭曼</td><td>Duman</td><td class="n">3</td><td class="n">50.7%</td><td class="n dim">3</td><td class="n dim">&middot;</td><td class="dim">SS</td></tr>
+<tr><td class="han">軍臣</td><td>Köngen</td><td class="n">3</td><td class="n">52.2%</td><td class="n dim">3</td><td class="n dim">&middot;</td><td class="dim">SS</td></tr>
+</table></div>
+
+<div class="rule"></div>
+<h2>What the corpus fix changed: very little</h2>
+<p>The 93 recovered two-character pairs took the corpus from <b>1,017 to 1,110</b>, and the aligned one-to-one set from 772 to 865. Every rate was recomputed.</p>
+<div class="scroll"><table>
+<tr><th>rate</th><th>before</th><th>after</th><th>&Delta; pts</th></tr>
+<tr><td>source c written with a Chinese t&#347;-</td><td class="n dim">66.7%</td><td class="n">69.8%</td><td class="n">+3.1</td></tr>
+<tr><td>source u or o on a rounded vowel</td><td class="n dim">65.7%</td><td class="n">63.9%</td><td class="n">&minus;1.9</td></tr>
+<tr><td>source t written with a Chinese t&#347;&#688;-</td><td class="n dim">36.8%</td><td class="n">35.6%</td><td class="n">&minus;1.2</td></tr>
+<tr><td>source &#347; written with a Chinese &#347;-</td><td class="n dim">84.8%</td><td class="n">85.5%</td><td class="n">+0.7</td></tr>
+<tr><td>source m written with a Chinese m-</td><td class="n dim">95.0%</td><td class="n">95.5%</td><td class="n">+0.5</td></tr>
+<tr><td>source l written with a Chinese l-</td><td class="n dim">96.6%</td><td class="n">97.0%</td><td class="n">+0.4</td></tr>
+<tr><td>source g written with a Chinese g-</td><td class="n dim">57.8%</td><td class="n">58.2%</td><td class="n">+0.4</td></tr>
+<tr><td>source a on an open vowel</td><td class="n dim">69.3%</td><td class="n">69.0%</td><td class="n">&minus;0.3</td></tr>
+<tr><td>source i or e on a front vowel</td><td class="n dim">86.1%</td><td class="n">86.0%</td><td class="n">&minus;0.1</td></tr>
+<tr><td>source k written with a Chinese k-</td><td class="n dim">86.4%</td><td class="n">86.4%</td><td class="n">+0.1</td></tr>
+<tr><td><b>source c written with a Chinese d&#378;-</b></td><td class="n dim"><b>0 of 48</b></td><td class="n"><b>0 of 53</b></td><td class="n">&mdash;</td></tr>
+<tr><td><b>a vowel-initial syllable on a velar</b></td><td class="n dim"><b>0 of 140</b></td><td class="n"><b>0 of 140</b></td><td class="n">&mdash;</td></tr>
+<tr><td>a vowel-initial syllable on a glottal</td><td class="n dim">97.9%</td><td class="n">97.9%</td><td class="n">&mdash;</td></tr>
+</table></div>
+<p><b>No zero moved.</b> The two the supplement leans on hardest are unchanged: a source voiceless affricate on <i>d&zacute;-</i> is 0 of 48 &rarr; 0 of 53, and a vowel-initial syllable on a velar stays 0 of 140. The largest movement anywhere is 3.1 points.</p>
+<p>Two rows swapped rank with a neighbour and nothing crossed a threshold. So the answer to the question you asked is: <b>the corpus defect was real and worth repairing, and repairing it does not change any conclusion we have drawn.</b> That is the good outcome. It means the sensitivity paragraph reads as robustness rather than as a correction.</p>
+
+<h2>The engine against the figures already in print</h2>
+<div class="scroll"><table>
+<tr><th>chinese</th><th>reading</th><th>in print</th><th>uniform</th></tr>
+<tr><td class="han">&#36557;&#33251;</td><td>K&ouml;ngen</td><td class="n dim">1 in 5</td><td class="n">1 in 3</td></tr>
+<tr><td class="han">&#36554;&#29273;&#33509;&#38798;</td><td>Tunga &#304;nakt</td><td class="n dim">1 in 20</td><td class="n">1 in 22</td></tr>
+<tr><td class="han">&#30070;&#25142;</td><td>Tamga</td><td class="n dim">1 in 46</td><td class="n">1 in 46</td></tr>
+<tr><td class="han">&#29392;&#40575;&#22993;</td><td>Kurluga</td><td class="n dim">1 in 52</td><td class="n">1 in 128</td></tr>
+<tr><td class="han">&#28560;&#32047;&#33509;&#38798;</td><td>Ulu&#287; &#304;nakt</td><td class="n dim">1 in 4</td><td class="n">1 in 13</td></tr>
+</table></div>
+<p>Three agree closely. <b>Two do not, and both hand figures were the generous one.</b></p>
+<ul>
+<li><b>&#29392;&#40575;&#22993; Kurluga</b>, 1 in 52 in print against 1 in 128 here. Step 51 said so itself: it excluded the junction step from its denominator and called the result an upper bound. The uniform engine charges it.</li>
+<li><b>&#28560;&#32047;&#33509;&#38798; Ulu&#287;</b>, 1 in 4 against 1 in 13. Same cause: step 54 priced the element while excluding a step, and I flagged that in the entry as not comparable to a whole-name figure.</li>
+</ul>
+<p>Neither is a mistake exactly, but both are cases where a bespoke calculation was gentler with itself than a uniform one is. That is the argument for having built this.</p>
+
+<div class="rule"></div>
+<h2>Three things that need your decision</h2>
+
+<div class="card warn">
+<h3 style="margin-top:0">1. &#33509;&#38798; as &#304;nakt comes out at 1 in 232 million</h3>
+<p>This is the paper&rsquo;s own reading, argued in &sect;9, and the only one in the supplement the paper puts its weight behind.</p>
+<p>The cause: <b>&#33509; is <i>&#324;-</i>, a palatal nasal, and a source <i>n</i> is written with it 0 times in 126.</b></p>
+<p><b>But that zero is almost certainly an artefact, and I have built the distinction into the engine.</b> Sanskrit has both a dental <i>n</i> and a palatal <i>&ntilde;</i>, so a Sanskrit <i>n</i> always had a Chinese <i>n-</i> available and never needed a palatal character. The corpus therefore never tested the substitution. Turkic has no palatal nasal at all, so a Turkic <i>n</i> facing a <i>&#324;-</i> character is a situation Sanskrit could not produce. The engine now labels these <b>inventory-gap zeros</b> and keeps them separate from contested zeros such as the 0 of 140.</p>
+<p>So &sect;9 is not refuted. But the paper currently rests an argument on a correspondence its own corpus cannot price, and does not say so. That needs a sentence, and I would not draft it without you.</p>
+</div>
+
+<div class="card">
+<h3 style="margin-top:0">2. The two dearest real proposals</h3>
+<p><b>&#19988;&#38798;&#20399; &#199;at&#305;gka at 1 in 224,965</b> and <b>&#23648;&#32819; Do&#287;ru at 1 in 188,583.</b> Both are three or four orders of magnitude beyond anything else in the file. &#199;at&#305;gka&rsquo;s own entry already admits it &ldquo;adds material the transcription does not have&rdquo;. Do&#287;ru has no such admission and no figure in its entry.</p>
+</div>
+
+<div class="card">
+<h3 style="margin-top:0">3. Twelve rows still cannot be priced, and the reasons are worth reading</h3>
+<div class="scroll"><table>
+<tr><th>chinese</th><th>reading</th><th>why not</th></tr>
+<tr><td class="han">冒頓</td><td>Bögü Tuğ</td><td class="dim">blocked: 頓 writing gü (zero(inventory gap))</td></tr>
+<tr><td class="han">握衍朐鞮</td><td>Okyan Kutuğtı</td><td class="dim">no rate for 鞮 writing tuğ; 朐 writing ku; 衍 writing yan</td></tr>
+<tr><td class="han">搜諧若鞮</td><td>Sarıg İnakt</td><td class="dim">blocked: 諧 writing rıg (zero(inventory gap))</td></tr>
+<tr><td class="han">呼都而尸道皋若鞮</td><td><i>no proposal</i></td><td class="dim">no proposal</td></tr>
+<tr><td class="han">攣鞮</td><td>El-indi</td><td class="dim">no rate for 鞮 writing in; 攣 writing el</td></tr>
+<tr><td class="han">虛連題</td><td>Kıyalığ El-indi</td><td class="dim">no rate for 虛 writing kı</td></tr>
+<tr><td class="han">單于</td><td>Çarvuş</td><td class="dim">no rate for 于 writing vuş; 單 writing çar; 于 writing çar</td></tr>
+<tr><td class="han">撑犁孤塗單于</td><td>(compound of the three rows below)</td><td class="dim">compound row</td></tr>
+<tr><td class="han">撑犁</td><td>Tanglı</td><td class="dim">no Later Han reading for 撑</td></tr>
+<tr><td class="han">谷蠡</td><td>Körklü</td><td class="dim">no rate for 蠡 writing klü; 谷 writing kör; 蠡 writing kör</td></tr>
+<tr><td class="han">甌脫</td><td>Otuyat</td><td class="dim">no rate for 脫 writing tu; 甌 writing o</td></tr>
+<tr><td class="han">羯</td><td><i>no proposal</i></td><td class="dim">no proposal</td></tr>
+</table></div>
+<p style="margin-bottom:0">Several of these are informative rather than technical. <b>&#25789;&#38798; El-indi</b> and <b>&#34395;&#36899;&#38988;</b> fail because no alignment exists at all, which is exactly what their own entries say about themselves. <b>&#25746;&#29359;</b> is unpriceable because &#25746; is missing from Schuessler&rsquo;s table in both its shapes.</p>
+</div>
+
+<div class="rule"></div>
+<h2>Two errors of mine, one of which I told you yesterday</h2>
+<div class="card warn">
+<p style="margin-top:0"><b>I mapped the Turkic velar nasal to the wrong Sanskrit phoneme in step 55.</b> Turkic <i>&ntilde;</i> / <i>ng</i> is a <i>velar</i> nasal, and I priced it against Sanskrit <i>&ntilde;</i>, which is <i>palatal</i>. It should be Sanskrit <i>&#7749;</i>.</p>
+<p><b>This changes what I told you about kay&#305;&ntilde; and kay&#305;n.</b> I said the frame at &#32780; admitted the birch tree at 75% and excluded the kinsman at 0 of 126, and made something of the transcription choosing the useless word. Under the correct mapping <b>both are excluded</b>: a Turkic velar nasal on <i>&#324;-</i> is 0 of 7, and a Turkic <i>n</i> on <i>&#324;-</i> is 0 of 126. The frame is closed to both, and my nice story about the tree and the kinsman was an artefact of my own mapping error. The conclusion about that row is unchanged and in fact stronger, but the reasoning I gave you was wrong and you should not repeat it.</p>
+<p style="margin-bottom:0"><b>Four characters were silently unpriceable.</b> &#25142; &#34395; &#31108; &#33073; are tabulated by Schuessler only in their simplified shapes. The engine now maps the traditional form onto the simplified one and records the substitution, which is what made &#30070;&#25142; Tamga and &#34395;&#38391;&#27402;&#28417; Kalkan priceable at all. &#25746; is absent in both shapes and remains a genuine hole.</p>
+</div>
+
+<h2>What I did not do</h2>
+<p>Nothing was rewritten, retired, or restatused, no document was rebuilt, and nothing was pushed. The corpus fix is written to <code>nti_transcription_pairs_v2.csv</code> alongside the original, with a provenance column on every row, so it can be regenerated either way and adopted only when you say so.</p>
+</div>
