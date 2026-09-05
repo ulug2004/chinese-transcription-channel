@@ -42,8 +42,9 @@ for html, dxhtml, stem in JOBS:
     if pdf(html, stem + ".pdf"):
         print("  pdf ", os.path.getsize(stem + ".pdf"))
 
-# refresh the author's editing copies
+# The author's hand-editable copies. These are committed to docs\edit\ on
+# the author's machine, which the build never writes to. See docs/edit/README.md.
 for src, dst in [("paper_submission_jdmdh.docx", "paper_EDIT.docx"),
                  ("supplementary_S1_candidate_readings.docx", "supplement_S1_EDIT.docx")]:
     if os.path.exists(src):
-        shutil.copyfile(src, dst); print("refreshed", dst)
+        shutil.copyfile(src, dst); print("refreshed", dst, "-> docs/edit/")

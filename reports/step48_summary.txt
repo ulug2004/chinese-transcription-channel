@@ -1,0 +1,154 @@
+Step 48.  The candidate space for 車牙, priced.  若鞮 is fixed as Inakt.
+Aligned one-character-to-one-syllable pairs: 772
+
+======================================================================
+1.  What the supplement's reading needs, measured
+======================================================================
+   a source affricate written with tśʰ-          1 of 54       1.9%
+   a source affricate written with tś-          32 of 48      66.7%
+   a source t written with tśʰ-                 67 of 198     33.8%
+   a source k written with k-                  190 of 220     86.4%
+   a source g written with k-                   16 of 90      17.8%
+   a source g written with ŋ-                   13 of 90      14.4%
+   a source velar nasal written with ŋ-          5 of 7       71.4%
+   a source a written with an open vowel      1045 of 1509    69.3%
+   a source i or e written with an open vowel   24 of 380      6.3%
+   a source u or o written with an open vowel   86 of 289     29.8%
+
+   A source vowel-initial syllable written with a Chinese ŋ- is 0 of 140;
+   137 of those 140 took a glottal. That is the step the entry itself
+   calls unsupported, and it is a measured zero, not a rarity.
+
+======================================================================
+2.  What each character permits, one syllable each
+======================================================================
+
+----------------------------------------------------------------------
+車 on tśʰa: a source t or d, open, any coda unwritten
+----------------------------------------------------------------------
+   da           23.43%   et [Cod]
+   taş          17.58%   dış, taşra, gurbet; geniş açıklık; yazı; yaban [DLT]
+   taz          17.58%   kel, daz, boynuzsuz, bitkisiz, çorak [DLT]
+   tas          17.58%   her nesnenin kötüsü, bayağısı,I, 329 [DLT]
+   tar          13.30%   dar [DLT]
+   tal          13.30%   dal, yaş dal,I, 412; 11. 105; III. 156 [DLT]
+   tü           10.07%   tüy, kıl, saç; renk, at tonu [DLT]
+   tu           10.07%   °n sterilis [Cod]
+   to           10.07%   bulamaç gibi pişirllen blr un [DLT]
+   do           10.07%   wn' by him (Sam/cdc Aflwndlinger 111 :250). Th [IrkB]
+   tag           8.93%   liik k. 24 [IrkB]
+   dag           8.93%   atlara ve başkalarına vurulan dağ, dağlamak· I [DLT]
+   ... 71 more fit the frame
+
+----------------------------------------------------------------------
+車 on kɨɑ: a source k or g, open, any coda unwritten
+----------------------------------------------------------------------
+   ka           59.81%   kap, akar konan kap, zarf [DLT]
+   kaş          44.86%   kaş, lekesiz beyaz veya kara ta [DLT]
+   kaz          44.86%   kaz [DLT]
+   kas          44.86%   kabuk, her ağacın kabuğu; sertllk, katilık [DLT]
+   kar          33.94%   kar· 1. 7,186, 326, 386 [DLT]
+   kal          33.94%   yaşlı adam [DLT]
+   kü           25.70%   ün, şan [DLT]
+   ku           25.70%   (? ma) pellex [Cod←cu]
+   kak          22.78%   erik, kaysı gibl meyvelerin kurusu [DLT]
+   küz          19.27%   güz, güz mevslmi, sonbahar [DLT]
+   köz          19.27%   ateş koru, köz [DLT]
+   kuz          19.27%   güne; gormeyen yer, gôlgeli yer [DLT]
+   ... 65 more fit the frame
+
+----------------------------------------------------------------------
+牙 on ŋa: a source g or velar nasal, open
+----------------------------------------------------------------------
+   gu            4.30%   fiillerin emir kipi üzerine gelerek zaman, yer [DLT]
+   ge            0.91%   zarf (mefulüileyh) edatı [DLT]
+   gil           0.52%   annus [Cod]
+   get           0.26%   excited' (1 960:221, ED:SO). Erda! reminded th [IrkB]
+   gic           0.02%   rar berurmen «credo [Cod]
+
+======================================================================
+3.  The two characters together
+======================================================================
+
+   on 車 = tśʰa
+      da gu                  1.0073%  1 in 99     et / fiillerin emir kipi 
+      taş gu                 0.7554%  1 in 132    dış, taşra, gurbet;  / fiillerin emir kipi 
+      taz gu                 0.7554%  1 in 132    kel, daz, boynuzsuz, / fiillerin emir kipi 
+      tas gu                 0.7554%  1 in 132    her nesnenin kötüsü, / fiillerin emir kipi 
+      tar gu                 0.5717%  1 in 174    dar / fiillerin emir kipi 
+      tal gu                 0.5717%  1 in 174    dal, yaş dal,I, 412; / fiillerin emir kipi 
+      tü gu                  0.4328%  1 in 231    tüy, kıl, saç; renk, / fiillerin emir kipi 
+      tu gu                  0.4328%  1 in 231    °n sterilis / fiillerin emir kipi 
+
+   on 車 = kɨɑ
+      ka gu                  2.5707%  1 in 38     kap, akar konan kap, / fiillerin emir kipi 
+      kaş gu                 1.9281%  1 in 51     kaş, lekesiz beyaz v / fiillerin emir kipi 
+      kaz gu                 1.9281%  1 in 51     kaz / fiillerin emir kipi 
+      kas gu                 1.9281%  1 in 51     kabuk, her ağacın ka / fiillerin emir kipi 
+      kar gu                 1.4591%  1 in 68     kar· 1. 7,186, 326,  / fiillerin emir kipi 
+      kal gu                 1.4591%  1 in 68     yaşlı adam / fiillerin emir kipi 
+      kü gu                  1.1047%  1 in 90     ün, şan / fiillerin emir kipi 
+      ku gu                  1.1047%  1 in 90     (? ma) pellex / fiillerin emir kipi 
+
+   The second column is empty of real words, and the reason is
+   structural: Old Turkic has no initial g-, so 牙 cannot open a
+   second word. The g belongs medially, inside a single word.
+
+======================================================================
+4.  One Turkic word spanning both characters
+======================================================================
+   The frame is C V (C) g V (C), with both Chinese characters open
+   so both source codas are unwritten and priced by Table 7.
+
+   on 車 = tśʰa
+      toña             4.9809%  1 in 20     bebür, kaplan cinsinden bir hayvan; kişi [DLT]
+      tañuk            1.8975%  1 in 52     hakanlara sefer ve benzeri zamanlarda ye [DLT]
+      toñuz            1.6053%  1 in 62     domuz [DLT]
+      toñus            1.6053%  1 in 62     porcus [Cod←tongus]
+      tagar            1.3304%  1 in 75     çuval, dağarcık, içerisine buğday ve baş [DLT]
+      tüñür            1.2148%  1 in 82     dünür, karının hısımları [DLT]
+      toga             1.0073%  1 in 99     hastalık, iç ağırlIğı. [DLT]
+      tañis            0.7929%  1 in 126    miraculum [Cod←tangis]
+      targak           0.5068%  1 in 197    tarak [DLT]
+      talgag           0.5068%  1 in 197    Insanı öldürecek derecede şiddetli tipi [DLT]
+      ... 53 more fit
+
+   on 車 = kɨɑ
+      kaña            29.5840%  1 in 3      tabulatum [Cod←canga]
+      kalñu            7.2152%  1 in 13     suyun yüzünde durma, suyun yüzüne çıkma [DLT]
+      küñüz            4.0970%  1 in 24     örenliklerde, yıkıntılarda bulunan küllü [DLT]
+      közñü            4.0970%  1 in 24     ayna [DLT]
+      koñuz            4.0970%  1 in 24     osurgan bõceği [DLT]
+      kazñuk           3.6321%  1 in 27     kazık,III, 383 bkz> kazuñuk [DLT]
+      karga            3.3955%  1 in 29     karga,I, 254, 425 [DLT]
+      kagal            3.3955%  1 in 29     lentus [Cod]
+      köñül            3.1004%  1 in 32     gönül, kalp, yürek; anlayış [DLT]
+      koñur            3.1004%  1 in 32     (yani kestane rengi) olmak [DLT]
+      ... 72 more fit
+
+
+======================================================================
+5.  What the search returns
+======================================================================
+   The threshold that retires Baγatur in the paper is 1 in 37.
+   One candidate clears it with a sense worth having: toña, at 1 in 20,
+   on the FIRST tabulated reading of 車, so no polyphony argument is
+   needed. Kāşgarî's own entries, on two different pages:
+
+      toña        bebür, kaplan cinsinden bir hayvan; kişi adı   III, 368
+      toñalamak   yiğit ve kuvvetlilerin yaptığı işi yapmak      III, 405
+
+   The first records it as a personal name, in the eleventh-century
+   dictionary itself and not in any modern reconstruction. The second
+   is a verb derived from it meaning to do what heroes and strong men
+   do, which puts the heroic sense in the source independently of the
+   comparison, on a different page from the noun.
+
+   NOT CHECKED: toña is the epithet in the name Alp Er Toŋa, whom
+   Kāşgarî elegises and later tradition identifies with Afrasiab.
+   The index searched here carries headwords only, so that cannot be
+   confirmed from it. It must be checked in the Dīwān itself before
+   being used, and it is not needed: the two entries above stand alone.
+
+   The other cheap forms are not names: kalñu floating on water,
+   közñü a mirror, koñuz a dung beetle, karga a crow, köñül the heart.

@@ -18,6 +18,7 @@ Stdlib only. No network.
 import csv, io, os, re, sys, zipfile, html, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+import sys; sys.path.insert(0, HERE)
 ROOT = os.path.dirname(HERE)
 DER  = os.path.join(ROOT, "data", "derived")
 LEX  = os.path.join(ROOT, "my_resources", "lexicons")
@@ -146,6 +147,13 @@ def load_lexicon(path, hk, gk, label):
         for r in csv.DictReader(f):
             h = (r.get(hk) or "").strip()
             g = (r.get(gk) or "").strip()
+            if h and "Codex" in label:
+                # medieval Latin spelling -> the transcription used elsewhere
+                import codex_orth
+                n = codex_orth.normalize(h)
+                if n != h.lower():
+                    g = g + "  [Cod. " + h + "]"
+                    h = n
             if h and len(h) < 24:
                 rows.append((h, g, label, skeleton(h)))
     print("  %-22s %d headwords" % (label, len(rows)))

@@ -1,0 +1,135 @@
+Step 47.  Reading 軍臣, every permitted form priced.
+Aligned one-character-to-one-syllable pairs: 772
+
+======================================================================
+1.  The rates, all counted from the corpora in this repository
+======================================================================
+   source k written with a Chinese k-            190 of 220     86.4%
+   source g written with a Chinese g-             52 of 90      57.8%
+   source k written with a Chinese g-             12 of 220      5.5%
+   source c written with a Chinese dź-             0 of 48       0.0%
+   source j written with a Chinese dź-            13 of 33      39.4%
+   source i or e written with a front vowel      327 of 380     86.1%
+   source a written with a front vowel           372 of 1509    24.7%
+   source u or o written with a front vowel        2 of 289      0.7%
+   source u or o written with a rounded vowel    190 of 289     65.7%
+   source a written with a rounded vowel          34 of 1509     2.3%
+   source ö or ü written with a front vowel        2 of 64       3.1%
+   source -n written with a Chinese -n            77 of 93      82.8%
+
+   The ö/ü row is from the Ligeti Turkic glossaries, because
+   Sanskrit has no front rounded vowel. It is the control the paper
+   already uses for that gap. Everything else is Later Han.
+
+======================================================================
+2.  Each half of the name
+======================================================================
+   軍 kun, first element
+      kön       47.01%
+      kün       47.01%
+      kon       47.01%
+      kun       47.01%
+      kan        1.61%
+      ken        1.61%
+      kın        1.61%
+      kin        1.61%
+   臣, second element, on whichever reading each one needs
+      -gen       41.17%   (needs 臣 = gin)
+      -gin       41.17%   (needs 臣 = gin)
+      -gan       11.79%   (needs 臣 = gin)
+      -ken        3.89%   (needs 臣 = gin)
+      -kin        3.89%   (needs 臣 = gin)
+      -gün        1.49%   (needs 臣 = gin)
+      -kan        1.11%   (needs 臣 = gin)
+      -gun        0.33%   (needs 臣 = gin)
+      -çen        0.00%   (needs 臣 = dźin)
+      -çin        0.00%   (needs 臣 = dźin)
+      -çan        0.00%   (needs 臣 = dźin)
+
+======================================================================
+3.  The whole name
+======================================================================
+   form               cost  odds        what it would have to be
+   küngin          19.352%  1 in 5      kön- + -gIn, but see the harmony test below
+   küngen          19.352%  1 in 5      kön- + the -gAn participle
+   küngan           5.544%  1 in 18     a back-vowel -gAn on a front stem: disharmonic
+   künkin           1.827%  1 in 54     noun + noun, kin meaning a grudge
+   künken           1.827%  1 in 54     noun + noun, ken being a place-name element
+   küngün           0.703%  1 in 142    kön- + -gUn, the shape modern Turkish would use
+   künkan           0.523%  1 in 191    noun + noun, kan meaning blood
+   küngun           0.156%  1 in 642    disharmonic, and -gUn is not a participle in the period
+   künçin           0.000%  excluded    excluded: 0 of 48
+   künçen           0.000%  excluded    excluded: 0 of 48
+   künçan           0.000%  excluded    excluded: 0 of 48
+
+   kön, kon and kun cost exactly what kün costs: same onset, same
+   rounded vowel, same written -n. The transcription cannot separate
+   them, so the first element is chosen on meaning, not on evidence.
+
+======================================================================
+4.  Which suffix existed, counted in the lexicons
+======================================================================
+   A cheap transcription of a word that cannot be formed is worth
+   nothing. These are headwords in the DLT index, the Codex and the
+   Irk Bitig glossary, 9379 in all.
+
+   -gAn  front  -gen/-ken      67 headwords, 33 glossed as habitual
+        bezetgen       daima bezeten
+        bitilgen       daima yazılan
+        edergen        çok arıyan; hakkını arayan
+        egilgen        daima eğilen, eğilebllen
+   -gAn  back   -gan/-kan     144 headwords, 76 glossed as habitual
+        agıtgan        daima çıkartan, yükselten
+        anutgan        daima hazırlıklı, hazırlayan
+        arıtgan        her zaman temizleyen, ayıklayan
+        asurgan        çok aksıran
+   -gUn  front  -gün/-kün      16 headwords, 0 glossed as habitual
+   -gUn  back   -gun/-kun      26 headwords, 0 glossed as habitual
+   -gIn  front  -gin/-kin      18 headwords, 0 glossed as habitual
+   -gIn  back   -gın/-kın      12 headwords, 0 glossed as habitual
+
+   The -gAn rows carry the habitual glosses: daima, her zaman, cok.
+   The -gUn rows are concrete nouns, birds and plants and body parts.
+   In the eleventh-century record -gAn is the productive participle
+   and -gUn is not. The modern durgun, coşkun, ötgün belong to a
+   later productivity of -gUn and are not evidence for this period.
+
+   THE HARMONY TEST. -gAn has two shapes, front and back, so a front
+   stem takes -gen whatever its rounding. -gIn and -gUn have four, so
+   a front ROUNDED stem such as kön- must take -gün and cannot take
+   -gin. That removes köngin, which the transcription prices as
+   cheaply as köngen, on grounds that have nothing to do with Chinese.
+
+   THE STEM. kön- is attested as a verb in the same dictionary:
+        köndgermek     doğrultmak, düzeltmek, dikmek yola kılavuzlama
+        köndgürmek     doğrultmak
+        köndgürtmek    dogrultmak, diktirmek
+        könikmek       arkadaşlarından geri kalacak derecede zayıflık
+        könitmek       dogrultmak,II, 313
+        könmek         düzelmek, doğrulmak; yola gelmek;inkârdan sonr
+
+======================================================================
+5.  Where that leaves the name
+======================================================================
+   köngen, the participle of an attested verb meaning to become
+   straight or upright, costs 19.4%, about 1 in 5.
+   The threshold that retires Baγatur in the paper is 1 in 37, and
+   the best branch of 冒頓 is 1 in 9. This is cheaper than either.
+   The transcription and the morphology select the same form, and
+   they were measured independently.
+
+   WHAT IS NOT SETTLED, and must be said wherever this is used:
+   - köngen is not itself an attested headword. It is a formation by
+     a productive rule from an attested stem, which is a stronger
+     position than a form requiring a lost consonant, but it is not
+     an attestation.
+   - The lexicons are eleventh century and the name is second century
+     BCE. That -gAn was productive for Kāşgarî does not establish it
+     1250 years earlier. This is the same gap the whole paper carries.
+   - Whether -gAn formations were used as personal names or titles in
+     Old Turkic is not tested here. Erdal's Grammar is the place.
+   - The g-to-g rate is measured over all positions. Whether a g after
+     a nasal behaves the same is not measured.
+   - The first element is undetermined: kön, kün, kon and kun all cost
+     the same. Choosing kön- is a semantic choice, which is the
+     epithet habit S1.1 lists as a weakness.

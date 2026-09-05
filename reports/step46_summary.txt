@@ -1,0 +1,130 @@
+Step 46.  The candidate space for 軍臣, priced.
+Aligned one-character-to-one-syllable pairs: 772
+
+====================================================================
+1.  The disputed substitution, measured
+====================================================================
+The supplement says a source voiceless affricate is reachable through
+the Chinese dź- because voicing is leaky. The corpus says:
+
+   source c      -> dź      0 of 48      0.0%
+   source c      -> tś     32 of 48     66.7%
+   source c      -> t       8 of 48     16.7%
+   source c, ch  -> dź      0 of 54      0.0%
+   source j, jh  -> dź     13 of 33     39.4%
+   source k      -> k     190 of 220    86.4%
+   source k      -> g      12 of 220     5.5%
+   source g, gh  -> g      52 of 90     57.8%
+   source g, gh  -> k      16 of 90     17.8%
+   source k      -> dź      1 of 220     0.5%
+   source g, gh  -> dź      0 of 90      0.0%
+
+   VERDICT: a source voiceless affricate written with dź- does not
+   occur in this corpus, 48 opportunities. The supplement's reason
+   for 臣 -> çin is not supported. A source VOICED affricate is a
+   different matter: 13 of 33, 39.4%.
+
+   These reproduce the paper exactly: source c is 48 opportunities,
+   0 written with dz- and 8 with t- at 16.7%, which is what the
+   supplement quotes for the other title.
+
+====================================================================
+2.  What each reading of the two characters permits
+====================================================================
+   軍  kun            velar onset, rounded vowel, written -n
+   臣  dźin           palatal affricate onset, front vowel, written -n
+   臣  gin            VELAR onset, front vowel, written -n
+   Both readings of 臣 are in Schuessler's table. Appendix A prints
+   the first, which is what the supplement used.
+
+
+--------------------------------------------------------------------
+First element, 軍 kun  (k/g + vowel + nasal or liquid)
+--------------------------------------------------------------------
+   word               cost    onset   vowel    coda   gloss
+   kön             42.047%    86.4%   58.8%   82.8%   at derisi veya gönü, ham derl, gön [DLT]
+   kuun            42.047%    86.4%   58.8%   82.8%   i. q. kun [Cod]
+   kun             42.047%    86.4%   58.8%   82.8%   dies [Cod]
+   kon             42.047%    86.4%   58.8%   82.8%   koyun [DLT]
+   kum             13.254%    86.4%   58.8%   26.1%   kum [DLT]
+   kom             13.254%    86.4%   58.8%   26.1%   deve havudu [DLT]
+   kın              3.075%    86.4%    4.3%   82.8%   kın, bıçak ve kılıç kını, kılıf [DLT]
+   kin              3.075%    86.4%    4.3%   82.8%   vagina [Cod]
+   kiin             3.075%    86.4%    4.3%   82.8%   o. 24 [IrkB]
+   ken              3.075%    86.4%    4.3%   82.8%   dogu ülkelerinde her şehre verilen bir addır [DLT]
+   kan              3.075%    86.4%    4.3%   82.8%   kan [DLT]
+   kür              1.371%    86.4%   58.8%    2.7%   yiğit, sarsılmaz, pek yürekli, kabadayı [DLT]
+   ... 17 more fit the frame
+
+--------------------------------------------------------------------
+Second element on 臣 = dźin  (the reading the supplement used)
+--------------------------------------------------------------------
+   word               cost    onset   vowel    coda   gloss
+   jain            16.309%    39.4%   50.0%   82.8%   aestas [Cod]
+   jon              3.262%    39.4%   10.0%   82.8%   pilus [Cod]
+   cun              3.262%    39.4%   10.0%   82.8%   robur [Cod]
+   coun             3.262%    39.4%   10.0%   82.8%   pepo [Cod]
+   can              3.262%    39.4%   10.0%   82.8%   sanguis [Cod]
+   cöm              1.028%    39.4%   10.0%   26.1%   multum [Cod]
+   jil              0.532%    39.4%   50.0%    2.7%   annus [Cod]
+   jol              0.106%    39.4%   10.0%    2.7%   via [Cod]
+   cor              0.106%    39.4%   10.0%    2.7%   caecus [Cod]
+   cal              0.106%    39.4%   10.0%    2.7%   ly, because it lacks the accusative suffix -n  [IrkB]
+   çıñ              0.000%     0.0%   50.0%   13.6%   çınlama, çan ve leğen gibi ;eylerln verdiği se [DLT]
+   çır              0.000%     0.0%   50.0%    2.7%   elbise yırtmakta, yırtılmakta çıkan ses [DLT]
+   ... 9 more fit the frame
+
+   THIS COLUMN IS AN ORTHOGRAPHIC ILLUSION. The Codex Cumanicus is
+   written in medieval Latin spelling, in which j stands for Turkic
+   y- and c before a back vowel stands for k-. So jain, jol and jil
+   are yay, yol and yil, and can, cun and coun are kan, kun and
+   kavun. None of them is an affricate. What is left is the genuine
+   voiceless affricate in c-, which is 0 of 48, and Old Turkic has
+   no initial voiced affricate for the other route. So no word in
+   these lexicons reaches the character on this reading.
+
+--------------------------------------------------------------------
+Second element on 臣 = gin  (the second tabulated reading)
+--------------------------------------------------------------------
+   word               cost    onset   vowel    coda   gloss
+   kın              2.258%     5.5%   50.0%   82.8%   kın, bıçak ve kılıç kını, kılıf [DLT]
+   kin              2.258%     5.5%   50.0%   82.8%   vagina [Cod]
+   kiin             2.258%     5.5%   50.0%   82.8%   o. 24 [IrkB]
+   ken              2.258%     5.5%   50.0%   82.8%   dogu ülkelerinde her şehre verilen bir addır [DLT]
+   gil              0.780%    57.8%   50.0%    2.7%   annus [Cod]
+   kem              0.712%     5.5%   50.0%   26.1%   hastalık [DLT]
+   kön              0.452%     5.5%   10.0%   82.8%   at derisi veya gönü, ham derl, gön [DLT]
+   kuun             0.452%     5.5%   10.0%   82.8%   i. q. kun [Cod]
+   kun              0.452%     5.5%   10.0%   82.8%   dies [Cod]
+   kon              0.452%     5.5%   10.0%   82.8%   koyun [DLT]
+   kan              0.452%     5.5%   10.0%   82.8%   kan [DLT]
+   kum              0.142%     5.5%   10.0%   26.1%   kum [DLT]
+   ... 17 more fit the frame
+
+====================================================================
+3.  The whole title, best combinations
+====================================================================
+
+   on 臣 = dźin
+      kön jain                   6.8575%   1 in 14      at derisi veya gönü, h / aestas
+      kuun jain                  6.8575%   1 in 14      i. q. kun / aestas
+      kun jain                   6.8575%   1 in 14      dies / aestas
+      kon jain                   6.8575%   1 in 14      koyun / aestas
+      kum jain                   2.1616%   1 in 46      kum / aestas
+      kom jain                   2.1616%   1 in 46      deve havudu / aestas
+      kön jon                    1.3715%   1 in 72      at derisi veya gönü, h / pilus
+      kön cun                    1.3715%   1 in 72      at derisi veya gönü, h / robur
+
+   on 臣 = gin
+      kön kın                    0.9495%   1 in 105     at derisi veya gönü, h / kın, bıçak ve kılıç kı
+      kön kin                    0.9495%   1 in 105     at derisi veya gönü, h / vagina
+      kön kiin                   0.9495%   1 in 105     at derisi veya gönü, h / o. 24
+      kön ken                    0.9495%   1 in 105     at derisi veya gönü, h / dogu ülkelerinde her ş
+      kuun kın                   0.9495%   1 in 105     i. q. kun / kın, bıçak ve kılıç kı
+      kuun kin                   0.9495%   1 in 105     i. q. kun / vagina
+      kuun kiin                  0.9495%   1 in 105     i. q. kun / o. 24
+      kuun ken                   0.9495%   1 in 105     i. q. kun / dogu ülkelerinde her ş
+
+Compare: 1 in 37 is the cost that retires Baγatur in the paper.
+A reading much more expensive than that cannot be argued from the
+transcription, whatever it means in Turkic.

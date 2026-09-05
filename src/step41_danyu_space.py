@@ -23,7 +23,8 @@ retired ece at 閼氏.
 
 Output: reports\\step41_summary.txt
 """
-import csv, io, os, re
+import csv, io, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -44,10 +45,19 @@ CODA2 = {"": 1.0, "r": .568, "l": .568, "ş": .750, "s": .750, "z": .750,
 ONSET2 = {"b": .018, "y": .010}      # source -> Chinese w-;  b 1 of 55, y 1 of 98
 
 def load():
+    """Codex headwords are converted from medieval Latin spelling by
+    codex_orth before use; see that file for the validated rules."""
+    import codex_orth
     lex = {}
     def add(h, g, src):
         h = (h or "").strip().lower().rstrip("-")
-        if h and h not in lex:
+        if not h:
+            return
+        if src == "Cod":
+            n = codex_orth.normalize(h)
+            src = codex_orth.tag(h, n)
+            h = n
+        if h not in lex:
             lex[h] = (g or "").strip()[:44] + "  [" + src + "]"
     for r in csv.DictReader(io.open(os.path.join(DER, "dlt_lexicon.csv"),
                                     encoding="utf-8-sig")):
