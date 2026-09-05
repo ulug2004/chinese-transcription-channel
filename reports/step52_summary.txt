@@ -1,0 +1,59 @@
+Step 52.  Word-final consonants, and a blind spot in the Later Han corpus.
+
+======================================================================
+1.  Why the Sanskrit corpus cannot answer this
+======================================================================
+   pairs                                   1017
+   of those, the source word ends in a consonant     51  (5.0%)
+
+   That is a structural blind spot rather than a small sample: the
+   source language does not present the problem. Turkic presents it
+   constantly, so a Turkic reading ending in a consonant depends on
+   a device the paper's main corpus cannot price.
+
+======================================================================
+2.  What the Turkic corpus shows
+======================================================================
+   consonant-final Turkic words                    380  100.0%
+     written with an OPEN final character          244   64.2%
+     written with a CLOSED final character         136   35.8%
+
+   Two thirds of the time the last character is open, which means
+   the final consonant is either unwritten or carried by a
+   character whose vowel is doing nothing.
+
+   of those, with an EXTRA final character         199  100.0%
+     the extra character writes that consonant      91   45.7%
+     the extra character does something else       108   54.3%
+
+   Examples of the device the three rows use:
+       abïnus         a-pi-nou-sseu              extra character sseu
+       ayïz           a-hei-sseu                 extra character sseu
+       almas          ngan-ma-sseu               extra character sseu
+       altmïs         ngan-ti-mi-che             extra character che
+       as             a-sseu                     extra character sseu
+       as             a-che                      extra character che
+       az             a-sseu                     extra character sseu
+       ärmäz          a-eul-ma-sseu              extra character sseu
+       ärür           ngo-lou-eul                extra character eul
+       baqïr          pa-hei-eul                 extra character eul
+
+   sseu for a final -s or -z, che for -ş, eul for -r. The character
+   carries the consonant and its own vowel is epenthetic.
+
+======================================================================
+3.  What this licenses, and what it does not
+======================================================================
+   LICENSED. A Chinese character whose onset writes a word-final
+   consonant, its vowel writing nothing, is a real and common device
+   in Turkic transcription. 侯 at 骨都侯, 閭 at 虛閭權渠 and 姑 at
+   狐鹿姑 are instances of it, not irregularities.
+
+   NOT LICENSED. This does not license leaving a character
+   unaccounted altogether, which is the separate objection at
+   虛閭權渠, where 渠 writes neither a consonant nor a syllable.
+
+   NOT SETTLED. The corpus is Ming. The matching table used here is
+   coarse, so the 'does something else' row is an upper bound on the
+   failures rather than a measured rate; some of those cases are
+   probably the same device with a final my table does not list.

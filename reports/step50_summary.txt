@@ -1,0 +1,88 @@
+Step 50.  虛閭權渠, and what an unaccounted character costs.
+
+======================================================================
+1.  How often does a transcription use more characters than syllables?
+======================================================================
+   one character to one syllable                   772   75.9%
+   fewer characters than syllables (compression)    93    9.1%
+   MORE characters than syllables                  152   14.9%
+
+   But that last figure is two different things:
+      a Chinese semantic suffix appended           77
+          舍衛大城         śrāvastī
+          富單那鬼         pūtana
+          富多那鬼         pūtana
+          布怛那鬼         pūtana
+          迦樓羅鳥         garuḍa
+          摩揭陀國         magadha
+          摩利支天         marīcī
+          摩里支天         marīcī
+      no obvious suffix: phonetic expansion        75
+          多他阿伽度        tathāgata
+          多陀阿伽度        tathāgata
+          窣路陀阿鉢囊       srotaāpanna
+          窣路多阿半那       srotaāpanna
+          阿泥底耶         āditya
+          訶利帝母         hārītī
+          訶利帝喃         hārītī
+          阿迦尼瑟吒        akaniṣṭha
+
+   The suffix cases are a category label, not a sound: 鬼 demon,
+   鳥 bird, 國 country, 城 city. They do not license leaving a
+   character unaccounted in a personal name, because the character
+   there is not a Chinese classifier.
+
+   AND 渠 IS NOT SPARE. The same character writes a full syllable at
+   且渠 elsewhere in this record. It has a velar onset and an open
+   vowel and is doing work there.
+
+======================================================================
+2.  What fits the frame, at each syllable count
+======================================================================
+
+   all four characters, four syllables: 0
+
+   three syllables, 渠 left over: 7
+       kalıtgan         her zaman kalkıtan, sıçratan [DLT]
+       karakan          dağ ağaçlarından bir çeşit ağaç [DLT]
+       kelegen          gelen [DLT]
+       kerilgen         her zaman gerilen, gerinen, esniyen [DLT]
+       kurulgan         daima kurulan,I, 520 [DLT]
+       kurıtgan         her zaman ve çok kurutan,I, 514, 524 [DLT]
+       külergen         her zaman karnı şiş;en ve yıkılıp yere yayıl [DLT]
+
+   two syllables, 閭 gives only -l and 渠 is left over: 9
+       kalkan           kalkan [DLT]
+       kalkañ           kalkan [DLT]
+       kelgin           büyük ırmaklann veya denizlerin taşar gibi k [DLT]
+       kirkin           boğranın, devenin kızgın zanıanı [DLT]
+       kurgan           tumulus [Cod]
+       külgen           daima gülen [DLT]
+       kürküm           safran,I, 486 [DLT]
+       kılgan           çok kılan, çok yapan [DLT]
+       kırkın           cariye.II, 110 bkz> xız kırnak, kız [DLT]
+
+======================================================================
+3.  kalkan priced on each reading of 虛
+======================================================================
+   kalkan has back vowels, so its velars are q. Section 8.5 measures
+   a back q written with an h- character at 65.2% and with an
+   aspirated character at 30.3%.
+
+       虛 = hɨɑ,  a source back q         14.437%   1 in 6
+       虛 = kʰɨɑ, a source plain k         0.604%   1 in 165
+
+   Those figures price 虛閭權 only. They say nothing about 渠, which
+   is the objection, and they assume 閭 may contribute a bare -l.
+
+   WHAT IS NOT SETTLED
+   - No word in the lexicons uses all four characters. If the name is
+     one Turkic word, the frame is empty and something is wrong with
+     the frame rather than with the search.
+   - The three-syllable fits are all -gAn participles, whose suffix
+     step 47 established as productive, but none of them reads as a
+     ruler's name.
+   - kalkan fits only if two of the four characters are nearly idle.
+     That is not measured anywhere as a licensed device.
+   - 虛 is absent from Schuessler's table under its traditional form
+     and present under the simplified 虚, with 戶 撑 祿 脫.

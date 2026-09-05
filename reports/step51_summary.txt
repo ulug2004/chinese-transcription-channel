@@ -1,0 +1,74 @@
+Step 51.  狐鹿姑, and two objections its own entry gets wrong.
+
+======================================================================
+1.  Is the -r unwritable, or is it the ordinary spelling?
+======================================================================
+   Table 7 of the paper: a source liquid coda written with an open
+   character, 21 of 37, 57%. It is the majority treatment, and 狐 is
+   an open character. The entry calls this 'unwritable'. It is not
+   unwritable; it is what a scribe usually did with a liquid.
+
+======================================================================
+2.  Is the -k of 鹿 discarded, or does it write the next onset?
+======================================================================
+     writes a coda of its own syllable           131   29.4%
+     writes the ONSET of the next syllable       165   37.0%
+     neither, by a stop-and-nasal test only      150   33.6%
+   (of 446 medial characters carrying a written coda)
+
+   Examples of a coda writing the following onset:
+       阿耨多羅三藐三菩提    anuttarasamyaksaṃbodhi 三 carries -m
+       怛他誐多         tathāgata              怛 carries -t
+       剌瑟胝          lakṣatā                瑟 carries -t
+       三昧地          samādhi                三 carries -m
+       迦葉佛          kāśyapa                葉 carries -p
+       僧伽黎          saṃghāṭī               僧 carries -ŋ
+       僧伽胝          saṃghāṭī               僧 carries -ŋ
+       僧伽藍摩         saṃghārāma             僧 carries -ŋ
+
+   In 狐鹿姑 the character after 鹿 is 姑 kɑ, a velar, and 鹿 carries
+   a -k. On the reading kur-lu-ga that -k is the g of ga, written
+   across the junction. It is not discarded, and the entry's second
+   objection does not hold.
+
+   The last row above is NOT a measure of discarding. It is inflated
+   by a stop-and-nasal place test that miscounts a Chinese -t writing
+   a source liquid or sibilant: 達 for dhar, 薩 for sar, 末 for mar.
+   Those are Table 7's liquid row. No discard rate is claimed here.
+
+======================================================================
+3.  kurluga priced
+======================================================================
+   狐 ɣuɑ  → kur   a back q on an h-class character    65.2%
+                    rounded vowel                       65.7%
+                    the -r unwritten, Table 7           56.8%
+   鹿 lok  → lu    a source l on a Chinese l-           96.6%
+                    rounded vowel                       65.7%
+                    the -k writes the next onset       (junction, above)
+   姑 kɑ   → ga    a source g on a Chinese k-           17.8%
+                    open vowel                          69.3%
+
+   Whole name, excluding the junction step: 1.901%, about 1 in 52
+   On an aspirated reading of the first character instead: 1 in 113
+
+   ONE CONSONANT MOVES IT BY A FACTOR OF FIVE. The figure above
+   assumes the last syllable is <ga>, so 姑 writes a source g with a
+   Chinese k-, which is 17.8%. If the word ends in <ka> instead, the
+   same character writes a source k, which is 86.4%:
+       kurluka   9.233%   1 in 10
+       kurluga   1.901%   1 in 52
+   Which of the two the Turkic word is has not been settled here.
+
+   For comparison: 1 in 37 retires Baγatur in §8.1 of the paper.
+
+======================================================================
+4.  What else fits the frame
+======================================================================
+   Words shaped  velar + V + liquid | liquid + V | velar + V : 0
+
+   WHAT IS NOT SETTLED
+   - kurluga is not itself an attested headword. Check whether it is
+     a formation from kur- and on what suffix before proposing it.
+   - The q rate is Ming, not Later Han; §8.5 states that limit.
+   - The junction step is counted but not priced as a rate here: the
+     denominator above excludes it, so the figure is an upper bound.
