@@ -138,7 +138,7 @@ Cortechs.ai · <a href="mailto:aulug@cortechs.ai">aulug@cortechs.ai</a>, <a href
   <p>We build and release <strong>three transcription corpora</strong>, two of them extracted from
   sources not previously available as data: 9,329 Chinese–Mongolian pairs from the
   <em>Secret History of the Mongols</em>, 594 Chinese–Uyghur pairs from Ligeti's edition of a Ming
-  glossary, and 1,017 verified Chinese–Sanskrit pairs separated out of a Buddhist dictionary that
+  glossary, and 1,110 verified Chinese–Sanskrit pairs separated out of a Buddhist dictionary that
   mixes phonetic spellings with translations; and <strong>two medieval Turkic lexicons</strong> in
   machine-readable form, for which we found no downloadable dataset (§3). On held-out data the
   channel reconstructs 31% of Turkic words exactly and 84% within two segments (§5).</p>
@@ -159,7 +159,7 @@ Cortechs.ai · <a href="mailto:aulug@cortechs.ai">aulug@cortechs.ai</a>, <a href
   Mongolian (§6, §9.1).</p>
 
   <p>Section 7 answers the question the field has carried unresolved since 1973. Doerfer argued that
-  chance resemblance is pervasive in long-range comparison; his reviewer sharpened it into a threshold
+  chance resemblance is pervasive in long-range comparison; Altmann, reviewing it, sharpened it into a threshold
   problem: <em>is it a sound law if 49% of cases show one correspondence and 51% another?</em> We apply
   Doerfer's three classes with confidence intervals, and find that the threshold cannot be a constant:
   it is the baseline of the component being measured, and it moves with how many outcomes that
@@ -197,8 +197,8 @@ Cortechs.ai · <a href="mailto:aulug@cortechs.ai">aulug@cortechs.ai</a>, <a href
   produces such resemblances in quantity, was Doerfer's case, and comparativists have a repertoire of devices (he called them tricks) for making weak matches look strong. He included
   deliberately absurd comparisons of his own to show how easily the devices work.</p>
 
-  <p>A review in <em>Anthropos</em> the following year pressed the point into a question that can
-  be answered with numbers.<sup class="n"><a href="#r15">15</a></sup> Sound laws, the reviewer
+  <p>Altmann, reviewing it in <em>Anthropos</em> the following year, pressed the point into a question that can
+  be answered with numbers.<sup class="n"><a href="#r15">15</a></sup> Sound laws, Altmann
   observed, are not deterministic but probabilistic, and the literature never says how
   probabilistic they are permitted to be. <em>Is it a sound law if 49% of cases show the same
   correspondence and 51% show something else?</em> Where does regularity stop? He proposed three classes: deterministic laws, holding without exception; strong probabilistic laws, where one
@@ -254,7 +254,7 @@ Cortechs.ai · <a href="mailto:aulug@cortechs.ai">aulug@cortechs.ai</a>, <a href
   <span class="han">福慧</span> for <em>puṇya</em>, which is a calque. Exclusivity, treating a
   character as phonetic only if it never appears in a translation, collapsed the corpus to 67
   pairs. What worked was phonetic verification of scoring each candidate against the Later Han reading
-  of its characters and keeping only those whose sound matches. The result was <strong>1,017 verified pairs</strong>. We kept the 7,480 rejected entries separately so anyone
+  of its characters and keeping only those whose sound matches. The result was <strong>1,110 verified pairs</strong>. We kept the 7,480 rejected entries separately so anyone
   can audit the decision. The induced <span class="han">音譯</span> inventory matches the standard akṣara
   table, which is an external check providing that the filter found something real.</p>
 </div>
@@ -320,7 +320,7 @@ Chinese-to-anything mapping.</p>
   <thead><tr><th>Corpus</th><th>Pairs</th><th>Observations per character</th></tr></thead>
   <tbody>
     <tr><td>Mongolian</td><td class="num">9,329</td><td class="num g">~60</td></tr>
-    <tr><td>Sanskrit</td><td class="num">1,017</td><td class="num">~12</td></tr>
+    <tr><td>Sanskrit</td><td class="num">1,110</td><td class="num">~12</td></tr>
     <tr><td>Turkic</td><td class="num">594</td><td class="num">~7</td></tr>
     <tr><td><strong>Xiongnu names</strong></td><td class="num">39 items</td><td class="num b">1.4</td></tr>
   </tbody>
@@ -434,7 +434,7 @@ threshold is what thirty-six coin flips give.</p>
   <tbody>
     <tr><td class="han2" rowspan="3">撑犁<span class="py">chengli</span></td>
       <td class="num" rowspan="3">ḍaŋ lei<span class="poly">†</span></td>
-      <td>Modern Turkish</td><td class="num b">—</td><td class="num">not returned</td>
+      <td>Modern Turkish</td><td class="num b">–</td><td class="num">not returned</td>
       <td style="color:var(--ink-3)"><em>dengeli</em> "balanced" came first</td></tr>
     <tr><td><em>Dīwān Lughāt al-Turk</em></td><td class="num g">4th</td><td class="num">tengri</td>
       <td><em>gök, sema</em> ("sky, heaven")</td></tr>
@@ -442,7 +442,7 @@ threshold is what thirty-six coin flips give.</p>
       <td><em>deus</em> ("God")</td></tr>
     <tr><td class="han2" rowspan="3">頭曼<span class="py">Touman</span></td>
       <td class="num" rowspan="3">do mɑnᶜ<span class="poly">†</span></td>
-      <td>Modern Turkish</td><td class="num">—</td><td class="num">duman</td>
+      <td>Modern Turkish</td><td class="num">–</td><td class="num">duman</td>
       <td>"smoke"; <em>tümen</em> not in the top three</td></tr>
     <tr><td><em>Dīwān Lughāt al-Turk</em></td><td class="num g">3rd</td><td class="num">tümen</td>
       <td><em>pek çok</em> ("very many")</td></tr>
@@ -512,13 +512,13 @@ class for that part, the score obtained by always guessing the commonest value.
 
 <div class="col">
   <div class="box">
-    <p><strong>This is the reviewer's question, answered.</strong> Three of the four components
+    <p><strong>This is Altmann's question, answered.</strong> Three of the four components
     classify cleanly. Nasal endings, at 117 of 118, are deterministic for practical purposes.
     Initial consonants, at 79.3% with the interval nowhere near one half, are a strong
     probabilistic law. Stop endings are not a law in any sense: not one of 45 survived, and the
     interval tops out at 7.9%.</p>
     <p>The fourth exposes a flaw in the rule itself. Vowels land at <strong>50.0%</strong> (82 of 164, on the boundary to the decimal), and the confidence interval, 42.4 to 57.6, straddles it.
-    By the reviewer's criterion the vowel cannot be classified, and no larger sample would help,
+    By Altmann's criterion the vowel cannot be classified, and no larger sample would help,
     because the estimate is certain; it is genuinely at one half.</p>
     <p>But one half is the right threshold only when there are two outcomes. A vowel is a choice
     among many vowels, and the honest comparison is against what you would get knowing nothing, the
@@ -526,7 +526,7 @@ class for that part, the score obtained by always guessing the commonest value.
     information: While it is a weak probabilistic law, it is not a coin flip. Stop endings, by the same measure, fall
     <em>below</em> their baseline. Knowing the Ming reading makes you worse off than guessing,
     because Old Mandarin merged -p, -t and -k into nothing and the merger is not recoverable.<sup class="n"><a href="#r24">24</a></sup></p>
-    <p><strong>What this changes about the question.</strong> The reviewer asked for one number: the
+    <p><strong>What this changes about the question.</strong> Altmann asked for one number: the
   percentage above which a correspondence counts as a sound law. The four components show that no
   single number can serve, because the same percentage means different things in different places.
   A vowel correspondence at 50% and a coin landing heads at 50% are not the same result. The coin
@@ -600,15 +600,15 @@ no period at all, which is the point §7 makes in general terms.</p>
   <span class="ipa">-r</span>, and <span class="han">頓</span> <span class="ipa">tuənᶜ</span> carries
   a written <span class="ipa">-n</span>. Later Han had no <span class="ipa">-r</span> coda, so a
   scribe facing a source syllable such as <em>tur</em> had to choose something, and the Sanskrit
-  corpus records what he chose. Of 37 source syllables ending in <span class="ipa">-r</span>, he left
-  the syllable <strong>open</strong> 21 times (57%), used a <span class="ipa">-t</span> coda
-  <strong>14</strong> times (38%): <span class="han">達</span> for <em>-har</em> in
+  corpus records what he chose. Of 39 source syllables ending in <span class="ipa">-r</span>, he left
+  the syllable <strong>open</strong> 21 times (54%), used a <span class="ipa">-t</span> coda
+  <strong>16</strong> times (41%): <span class="han">達</span> for <em>-har</em> in
   <em>bodhidharma</em>, <span class="han">羯</span> for <em>kar-</em> in <em>ākarṣaṇī</em>. A
   <span class="ipa">-p</span> coda occurs once, and a <span class="ipa">-n</span> coda <strong>once</strong>,
   3%. Reading <span class="han">頓</span> as <em>tur</em> therefore asks for the rarest of the four
   options, where the expected spelling was an open character or a
   <span class="ipa">-t</span>.<sup class="n"><a href="#r22">22</a></sup> The syllable count is no obstacle to either reading. <em>Baγatur</em> has three syllables against
-two characters, but 93 of the 1,017 verified pairs use fewer characters than syllables, and in 47
+two characters, but 93 of the 1,110 verified pairs use fewer characters than syllables, and in 47
 of those a character with a written stop coda does the compressing. <span class="han">竭</span> covers <em>-gata</em> in <span class="han">多阿竭</span> for <em>tathāgata</em>, <span class="han">塞</span> covers <em>-saka</em> in <span class="han">優婆塞</span> for <em>upāsaka</em>. Compression is a real device, available to any
 reading of <span class="han">冒頓</span>, so the final <span class="ipa">-r</span> stands alone as
 the difficulty.</p>
@@ -812,10 +812,31 @@ polyphonic character: where the table gives a character both an aspirated and an
     <li><strong>What remains unexplained must be stated.</strong> If the source was
     <em>ınakt</em>, the opening <em>ı-</em> is not written, and <span class="han">若鞮</span> has no
     room for it. That objection stands.</li>
+
+    <li><strong>The unwritten vowel is the condition the onset requires.</strong>
+    <span class="han">若</span> is <span class="ipa">ńɑk</span>, and its onset is a palatal
+    nasal. Turkic has no palatal nasal: its nasals are the dental <span class="ipa">n</span>
+    and the velar <span class="ipa">ŋ</span>, the sound written <em>ñ</em> or <em>ng</em>.
+    The corpus shows the character class taking palatal sources and nothing else: a source
+    <span class="ipa">ñ</span> 6 of 8, a source <span class="ipa">j</span> 4 of 31, a source
+    <span class="ipa">y</span> 2 of 98, against a velar nasal 0 of 7 and a dental
+    <span class="ipa">n</span> 0 of 126. A Turkic <em>n</em> can therefore be heard as this
+    onset only where something fronts it, and a preceding front vowel is such an environment.
+    The <em>i-</em> that the spelling does not write is what makes the palatal onset
+    intelligible, so the gap in the previous item is one the reading predicts rather than one
+    it must explain away. <strong>This also decides which attested form is the relevant one.</strong>
+    Old Turkic <em>ınaq</em> is back-vocalic and its <em>ı-</em> would not front a following
+    nasal; the Codex Cumanicus <em>Inak</em> is front, and it is the form the sense was taken
+    from in the first item. <strong>The limit.</strong> The 0 of 126 is not evidence against a
+    Turkic <em>n</em> here. Sanskrit distinguishes a dental <span class="ipa">n</span> from a
+    palatal <span class="ipa">ñ</span> and always had a plain <span class="ipa">n-</span>
+    character available, so it never had occasion to send an <span class="ipa">n</span> to a
+    palatal one. The zero records an absence of need, not a prohibition, and the corpus cannot
+    price this correspondence in either direction.</li>
   </ul>
 
   <div class="box">
-    <p>Three of four hold, with the fourth named. That is the standard this paper asks of a
+    <p>Four of five hold, with the one gap named and then accounted for. That is the standard this paper asks of a
     reading proposal, and it is deliberately higher than resemblance. The sense is attested in a source
     contemporary with neither party to the comparison, the morphology is licensed by a suffix with
     the right distribution, and the one objection that could be tested was tested and failed.</p>
@@ -1014,7 +1035,7 @@ polyphonic character: where the table gives a character both an aspirated and an
   very reading. Each step of the first character is separately licensed. The
   <span class="ipa">m-</span> for a source <span class="ipa">b-</span> is 3 of 22 in the Later Han
   layer, 13.6% (§8.1). One character covering two source syllables, with a written stop coda doing
-  the compressing, occurs in 47 of the 1,017 verified pairs: <span class="han">竭</span> for
+  the compressing, occurs in 47 of the 1,110 verified pairs: <span class="han">竭</span> for
   <em>-gata</em> in <em>tathāgata</em>, <span class="han">薩</span> for <em>-sattva</em> in
   <em>mahāsattva</em>, <span class="han">弗</span> for <em>-putra</em> in <em>śāriputra</em>.
   <span class="han">冒</span> for <em>bögü</em> is that same shape.</p>
@@ -1039,7 +1060,7 @@ polyphonic character: where the table gives a character both an aspirated and an
       Appendix A prints, here as everywhere. Schuessler's own note for this name points to his
       second row instead, so taking the primary reading here is a position rather than a
       default.</td>
-      <td><strong>fits</strong><br><span class="num g">77 of 93 &nbsp;(83%)</span><br>the commonest
+      <td><strong>fits</strong><br><span class="num g">94 of 111 &nbsp;(83%)</span><br>the commonest
       cell in the corpus</td>
       <td><strong>fails</strong><br><span class="num">0 of 21</span><br>the one nasal spelling of a
       source velar is a velar nasal, not a dental one</td>
@@ -1049,7 +1070,7 @@ polyphonic character: where the table gives a character both an aspirated and an
       <td><span class="ipa">tuət</span><br>dental stop coda</td>
       <td>The second row of the same table, and the reading Schuessler assigns to this name, at
       pp. 209 and 361.</td>
-      <td><strong>fails</strong><br><span class="num">0 of 93</span><br>a source nasal is not
+      <td><strong>fails</strong><br><span class="num">0 of 111</span><br>a source nasal is not
       written with a stop coda</td>
       <td><strong>permitted, uncommon</strong><br><span class="num">2 of 21 &nbsp;(10%)</span><br>the
       place changes, the manner does not</td>
@@ -1062,8 +1083,8 @@ polyphonic character: where the table gives a character both an aspirated and an
       reported by Pulleyblank as Early Middle Chinese <span class="ipa">dawk</span>. A tradition
       about how to read the character, which is a different kind of claim from a
       reconstruction of it.</td>
-      <td><strong>fails</strong><br><span class="num">0 of 93</span></td>
-      <td><strong>fits</strong><br><span class="num g">10 of 21 &nbsp;(48%)</span><br>both codas
+      <td><strong>fails</strong><br><span class="num">0 of 111</span></td>
+      <td><strong>fits</strong><br><span class="num g">11 of 23 &nbsp;(48%)</span><br>both codas
       written, same place, nothing discarded</td>
       <td><strong>fails</strong><br><span class="num">0 of 37</span><br>a source
       <span class="ipa">-r</span> is never written with a velar coda</td></tr>
@@ -1298,8 +1319,8 @@ carry it.</p>
       <tr><td class="han2">烏珠留若鞮<span class="py">Wuzhuliu Ruodi</span></td><td class="num">ʔɑ tśo liu ńɑk te<span class="poly">†</span></td><td class="num" style="color:var(--ink)">’a ço liu nyak te</td><td class="num" style="color:var(--ink-2)">8 BCE–13 CE</td></tr>
       <tr><td class="han2">烏累若鞮<span class="py">Wulei Ruodi</span></td><td class="num">ʔɑ lui<span class="poly">†</span> ńɑk te<span class="poly">†</span></td><td class="num" style="color:var(--ink)">’a lui nyak te</td><td class="num" style="color:var(--ink-2)">13 CE–18 CE</td></tr>
       <tr><td class="han2">呼都而尸道皋若鞮<span class="py">Huduershi Daogao Ruodi</span></td><td class="num">hɑ<span class="poly">†</span> tɑ ńə<span class="poly">†</span> śi douᴮ<span class="poly">†</span> kou ńɑk te<span class="poly">†</span></td><td class="num" style="color:var(--ink)">ha ta nyı şi dou kou nyak te</td><td class="num" style="color:var(--ink-2)">18 CE–46 CE</td></tr>
-      <tr><td class="han2">攣鞮<span class="py">Luandi</span></td><td class="num">lyan te<span class="poly">†</span></td><td class="num" style="color:var(--ink)">lyan te</td><td class="num" style="color:var(--ink-2)">—</td></tr>
-      <tr><td class="han2">虛連題<span class="py">Xulianti</span></td><td class="num">kʰɨɑ lianᴮ<span class="poly">†</span> de<span class="poly">†</span></td><td class="num" style="color:var(--ink)">kıa lian de</td><td class="num" style="color:var(--ink-2)">—</td></tr>
+      <tr><td class="han2">攣鞮<span class="py">Luandi</span></td><td class="num">lyan te<span class="poly">†</span></td><td class="num" style="color:var(--ink)">lyan te</td><td class="num" style="color:var(--ink-2)">–</td></tr>
+      <tr><td class="han2">虛連題<span class="py">Xulianti</span></td><td class="num">kʰɨɑ lianᴮ<span class="poly">†</span> de<span class="poly">†</span></td><td class="num" style="color:var(--ink)">kıa lian de</td><td class="num" style="color:var(--ink-2)">–</td></tr>
   </tbody>
 </table>
 </div>
@@ -1360,7 +1381,7 @@ against the text.)</li>
   <li id="r12">Kāşgarlı Mahmud (1072–77). <em>Dīwān Lughāt al-Turk</em>. Index volume (<em>Dizin</em>), Türk Dil Kurumu Yayınları.</li>
   <li id="r13">Kergalym (2021). <em>myspell-kk</em>: a Myspell/Hunspell spelling dictionary for Kazakh [dataset]. github.com/kergalym/myspell-kk. 53,182 headwords; romanised on load.</li>
   <li id="r14">Kuun, G., ed. (1880). <em>Codex Cumanicus Bibliothecæ ad Templum Divi Marci Venetiarum</em>. Budapest: Editio Scient. Academiæ Hung. Public domain.</li>
-  <li id="r15">[Unsigned review] (1974). Lautgesetz und Zufall [review of Doerfer 1973]. <em>Anthropos</em> 69: 263–271. JSTOR 40458521.</li>
+  <li id="r15">Altmann, G. (1974). Lautgesetz und Zufall [review of Doerfer 1973]. <em>Anthropos</em> 69: 263–271. JSTOR 40458521.</li>
   <li id="r16">Lee, J. et al. (2023). Genetic population structure of the Xiongnu Empire at imperial and local scales. <em>Science Advances</em> 9(15). doi:10.1126/sciadv.adf3904</li>
   <li id="r17">Ligeti, L. (1966). Un vocabulaire sino-ouigour des Ming. <em>Acta Orientalia Academiae Scientiarum Hungaricae</em> 19: 117–199, 257–316.</li>
   <li id="r18">Ligeti, L. (1969). Glossaire supplémentaire au vocabulaire sino-ouigour du Bureau des Traducteurs. <em>Acta Orientalia ASH</em> 22: 1–49, 191–243.</li>
