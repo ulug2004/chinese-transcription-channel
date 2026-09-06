@@ -158,4 +158,87 @@ if _PD:
              'numbered script step 43 writes.</p>' % (len(diff), len(pd), same))
     BODY.append("\n".join(Q))
 
+
+# ---------------------------------------------------------------- S1.13
+# Every row of the record priced by the one engine, in a single table.
+# Built here rather than pasted, so it cannot drift from the readings above.
+# The RAW price is the product of the measured rates and falls with every
+# extra character, so it sorts by length; the PER CHARACTER figure is the
+# geometric mean, raw**(1/characters), and is the only one of the two
+# comparable across names.  The sort is on it.
+#
+# Three kinds of row are priced on something other than the reading as
+# printed, and the "Priced as" column names the result for every one:
+#   the six names carrying 若鞮, which §9 argues once and which is priced
+#   once, in its own row, and left out of the other six;
+#   撑犁 and 撑犁孤塗單于, priced on the phonetic form, since 撑 carries a
+#   velar nasal and a price is a claim about sounds;
+#   若鞮, 搜諧若鞮 and 冒頓, priced on what the characters write, the
+#   proposal containing something they do not.
+CONTROL = 0.080
+TITLE_CHARS = u"若鞮"
+PRICED_AS = {u"若鞮": u"nakt", u"搜諧若鞮": u"sarg", u"冒頓": u"bö tuğ"}
+
+def price_table():
+    import re as _re, math as _math
+    sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(".")), "src"))
+    sys.path.insert(0, "src"); sys.path.insert(0, ".")
+    import price_engine as PE
+    R = PE.Rates()
+    out = []
+    for r in rows:
+        z = r["chinese"].strip()
+        prop = (r["proposed_name"] or "").strip()
+        tk = (r.get("turkish_approx") or "").strip()
+        if not prop or prop.startswith("("):
+            continue
+        zi, form = z, prop
+        if len(zi) > 2 and zi.endswith(TITLE_CHARS) and u"nakt" in form.lower():
+            zi = zi[:-2]
+            form = _re.sub(u"[İi]nakt", u"", form, flags=_re.I).strip(u" -")
+        form = PRICED_AS.get(z, form)
+        a, err, note = PE.price_name(zi, form, R, strip_title=False)
+        if a is None:
+            continue
+        display = tk or prop
+        out.append((a.price ** (1.0 / len(zi)), a.price, z, display, form,
+                    form.lower() != display.lower(), len(zi),
+                    (r["proposed_sense"] or "").strip()))
+    out.sort()
+    T = ['<h2 class="sec"><span class="n">S1.13</span>'
+         '<span class="t">Every reading priced, most expensive first</span></h2>',
+         '<div class="tablewrap"><table><thead><tr>',
+         '<th>Form, as written<br>in the histories</th><th>Reading proposed</th>',
+         '<th>Priced as</th><th>Characters<br>priced</th>',
+         '<th>Price,<br>1 in</th><th>Per<br>character</th><th>Sense</th>',
+         '</tr></thead><tbody>']
+    for per, pr, z, display, form, differs, n, sense in out:
+        T.append('<tr><td class="han2">%s</td><td>%s</td><td class="num">%s</td>'
+                 '<td class="num">%d</td><td class="num">%s</td>'
+                 '<td class="num">%.1f%%</td><td>%s</td></tr>'
+                 % (esc(z), esc(display), esc(form.title()) if differs else "&mdash;",
+                    n, "{:,}".format(int(round(1.0 / pr))), 100 * per, esc(sense)))
+    T.append('</tbody></table></div>')
+    above = len([1 for d in out if d[0] >= CONTROL])
+    T.append('<p class="cap"><span class="tnum">Table S9</span>All %d rows priced by the one '
+             'engine. <b>Priced as</b> names the form the figure was taken on and is filled in '
+             'only where that is not the reading exactly as printed. The six names carrying '
+             '<span class="han">%s</span> are priced without it, since §9 of the paper argues '
+             'that element once and it is priced once, in its own row. '
+             '<span class="han">撑犁</span> and <span class="han">撑犁孤塗單于</span> are priced on '
+             'the phonetic form: 撑 carries a velar nasal, which it writes at 72.7%% against 4.3%% '
+             'for a dental <i>n</i>, so the two spellings differ by a factor of seventeen on that '
+             'one cell. <span class="han">若鞮</span>, <span class="han">搜諧若鞮</span> and '
+             '<span class="han">冒頓</span> are priced on what their characters write, the reading '
+             'containing something they do not. <b>The raw price is not comparable across rows</b>, '
+             'because it falls with every extra character and so sorts by length; the per-character '
+             'figure is the geometric mean, and the sort is on it. The control at '
+             '<span class="han">撑犁</span> stands at 8.0%%, and %d rows reach or beat it while %d '
+             'fall short. Generated from <code>data/derived/author_proposals.csv</code> by the same '
+             '<code>src/price_engine.py</code> the entries above use.</p>'
+             % (len(out), TITLE_CHARS, above, len(out) - above))
+    return "\n".join(T)
+
+BODY.append(price_table())
+
 io.open("s1_tables.html","w",encoding="utf8").write("\n\n".join(BODY))
