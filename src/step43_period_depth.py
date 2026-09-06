@@ -99,6 +99,17 @@ def later_han():
     return out
 
 # --------------------------------------------------------- Baxter-Sagart
+def undouble(s):
+    """The OCR doubles two marks: the schwa comes out as U+0259 U+04D9 and
+    the ring below as two U+0325.  bs_parse already folds them before it
+    classifies, but the form is also PRINTED in Table S8, so fold them here
+    as well or the table shows n\u0259\u04d9 where Baxter and Sagart write
+    n\u0259."""
+    s = s.replace(u"\u04d9", u"\u0259")
+    s = re.sub(u"\u0259{2,}", u"\u0259", s)
+    s = re.sub(u"\u0325{2,}", u"\u0325", s)
+    return s
+
 PRE = re.compile(r"^(?:[A-Za-zəɢʔ]{1,2}[.\u2010\-])+")
 def bs_table():
     hits = sorted(glob.glob(os.path.join(CACHE, "BaxterSagart*radical*stroke*.txt")))
@@ -113,10 +124,23 @@ def bs_table():
             ch = chr(int(cp, 16))
         except ValueError:
             continue
-        m = re.search(r"\*([^\s]+)", body)
+        # The form must come from the character's OWN line, which is the
+        # line the U+ marker sits at the end of, and must be the FIRST
+        # asterisked form on it, which is the head reconstruction; a later
+        # one on the same line is a parenthetical earlier stage, as in
+        # 維 ...*qwij (? < *qwuj) or 單 ...*dar (< *[d]ar).
+        # Searching the whole preceding body, as this did until now, reads
+        # the tail of the PREVIOUS entry whenever that entry's gloss wraps
+        # onto extra lines.  That is what gave 而 the form *[g]ew, which
+        # belongs to 者 (U+8005) and made 而 a velar in Table S8 when
+        # Baxter and Sagart in fact give it *n\u0259, a plain dental n.
+        line = body.split("\n")[-1]
+        if ch not in line:
+            continue
+        m = re.search(r"\*([^\s]+)", line)
         if not m:
             continue
-        oc = m.group(1)
+        oc = undouble(m.group(1))
         out.setdefault(ch, []).append(oc)
     return out
 

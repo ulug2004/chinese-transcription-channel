@@ -1,5 +1,5 @@
 Step 43.  Later Han against Old Chinese, over the record's characters.
-Baxter and Sagart table: 4006 characters parsed.
+Baxter and Sagart table: 4005 characters parsed.
 The record: 81 distinct characters.
 
 Of the 60 characters present in both reconstructions:
@@ -14,21 +14,21 @@ Of the 60 characters present in both reconstructions:
 
 The characters where it differs, and how
        Later Han    Old Chinese    onset                  coda
-  軍    kun          [k]ʷəәr                               dental nasal -> liquid
+  軍    kun          [k]ʷər                                dental nasal -> liquid
   權    gyan         [g]ʷrar                               dental nasal -> liquid
   韓    gɑn          [g]ˤar                                dental nasal -> liquid
-  路    lɑ           Cəә.rˤak-s                            open -> velar stop
+  路    lɑ           Cə.rˤak-s                             open -> velar stop
   粥    tśuk         t-quk          palatal -> velar       
-  稚    ḍi           lrəәj-s        dental -> liquid       
+  稚    ḍi           lrəj-s         dental -> liquid       
   維    wi           ɢʷij           glide -> velar         
   詹    tśam         [t]am          palatal -> dental      
   衍    jan          N-q(r)anʔ      palatal -> velar       
-  邪    ja           səә.ɢA         palatal -> velar       
+  邪    ja           sə.ɢA          palatal -> velar       
   支    tśe          ke             palatal -> velar       
   若    ńɑk          nak            palatal -> dental      
   車    tśʰa         [t.qʰ](r)A     palatal -> velar       
-  而    ńə           [g]ew          palatal -> velar       
-  尸    śi           l̥̥[əә]j       palatal -> liquid      
+  而    ńə           nə             palatal -> dental      
+  尸    śi           l̥[ə]j         palatal -> liquid      
   道    dou          lˤuʔ-s         dental -> liquid       
   于    wɑ           ɢʷ(r)a         glide -> velar         
   塗    dɑ           lˤa            dental -> liquid       

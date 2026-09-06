@@ -260,7 +260,13 @@ class Rates(object):
 
     # ---------------------------------------------------------- accessors
     def onset(self, tlet, cini, back=False):
-        if cini in u"hɣx" and tlet in u"kqgğ" and back and self.q_h:
+        # tlet must be tested for emptiness first: in Python "" is a substring
+        # of every string, so `tlet in u"kqgğ"` is TRUE for the empty onset that
+        # marks a vowel-initial syllable.  Without the guard, every vowel-initial
+        # syllable on an h-, ɣ- or x- character in a back-vowel word was priced
+        # at the §8.5 rate of 65.2% instead of the measured 0 of 140, which is
+        # the exact cell this file uses to retire readings elsewhere.
+        if tlet and cini in u"hɣx" and tlet in u"kqgğ" and back and self.q_h:
             return self.q_h, "measured(8.5)"
         if tlet == u"":                                    # vowel-initial syllable
             t = sum(self.vi.values())
@@ -398,16 +404,88 @@ def syllabify(w):
     return syls
 
 
-def reading_syllables(reading):
-    """A reading may be several words; returns a flat syllable list."""
+def syllabify_all(w, cap=6):
+    """Every way of dividing the intervocalic clusters of one word.
+
+    syllabify() takes one choice: the first consonant of a cluster closes the
+    previous syllable and the rest onset the next.  For a two-consonant cluster
+    that is the only sensible split, but for three it is not, and the choice
+    decides whether a reading can be priced at all.  korklu came out as
+    kor + klu, whose kl- onset has no cell, when the analysis the entry argues
+    is kork + lu, with the -rk written by one character.  Rather than prefer one
+    rule, generate the splits and let the cheapest alignment choose, exactly as
+    the engine already does for a written <ng> and for a polyphonic character.
+    """
+    w = w.lower()
+    if not any(c in TV for c in w):
+        return []
+    pos = [i for i, c in enumerate(w) if c in TV]
+    gaps = []
+    for n in range(len(pos) - 1):
+        gaps.append(w[pos[n] + 1:pos[n + 1]])
+    choices = []
+    for g in gaps:
+        if len(g) <= 1:
+            # nothing to decide: a single intervocalic consonant onsets the
+            # next syllable and closes nothing, which is the Turkic rule and
+            # what syllabify() has always done.  Writing len(g) here instead
+            # of 0 made every such consonant a coda, left the next syllable
+            # vowel-initial, and broke eighteen rows at once.
+            choices.append([0])
+        else:
+            # at least one consonant onsets the next syllable, so the split
+            # runs from one closing to all-but-one closing.  The first entry
+            # reproduces syllabify() exactly.
+            choices.append(list(range(1, len(g))))
+    outs = []
+    for combo in itertools.product(*choices) if choices else [()]:
+        syls = []
+        for n, i in enumerate(pos):
+            onset = w[:i] if n == 0 else gaps[n - 1][combo[n - 1]:]
+            coda = gaps[n][:combo[n]] if n < len(gaps) else w[i + 1:]
+            syls.append((onset, w[i], coda))
+        if syls not in outs:
+            outs.append(syls)
+        if len(outs) >= cap:
+            break
+    return outs
+
+
+def reading_syllables(reading, which=0):
+    """A reading may be several words; returns a flat syllable list.
+
+    `which` selects among the cluster splits of syllabify_all; 0 reproduces the
+    old behaviour exactly, so every caller that does not ask for a variant sees
+    what it always saw."""
     words = [x for x in re.split(u"[ \\-]+", reading.strip()) if x]
     out = []
     for w in words:
-        s = syllabify(w)
-        if s is None:
+        alts = syllabify_all(w)
+        if not alts:
             return None
-        out.extend(s)
+        out.extend(alts[which] if which < len(alts) else alts[0])
     return out
+
+
+def reading_syllable_sets(reading):
+    """All flat syllable lists for a reading, cheapest-first order not implied."""
+    words = [x for x in re.split(u"[ \\-]+", reading.strip()) if x]
+    per = []
+    for w in words:
+        alts = syllabify_all(w)
+        if not alts:
+            return []
+        per.append(alts)
+    sets = []
+    for combo in itertools.product(*per):
+        flat = []
+        for s in combo:
+            flat.extend(s)
+        if flat not in sets:
+            sets.append(flat)
+        if len(sets) >= 12:
+            break
+    return sets
 
 
 # ------------------------------------------------------------- the scorer
@@ -490,7 +568,8 @@ def all_readings():
              (u"\u812b", u"\u8131"),   # 脫 脱
              (u"\u6491", u"\u6490"),   # 撑 撐
              (u"\u645a", u"\u6490"),   # 摚 撐, the Hou Hanshu's shape
-             (u"\u7282", u"\u7281"))   # 犂 犁, likewise
+             (u"\u7282", u"\u7281"),   # 犂 犁, likewise
+             (u"\u79bf", u"\u79c3"))   # 禿 秃, needed for the Jie couplet
     for a, b in PAIRS:
         if a not in ALL and b in ALL:
             ALL[a] = list(ALL[b]); VARIANT[a] = b
@@ -553,9 +632,9 @@ def price_name(chinese, reading, R, ALL=None, strip_title=True):
         return None, u"too long", note
     cands = []
     for rv in reading_variants(rd0):
-        sy = reading_syllables(rv)
-        if sy:
-            cands.append((rv, sy))
+        for sy in reading_syllable_sets(rv):
+            if sy and (rv, sy) not in cands:
+                cands.append((rv, sy))
     if not cands:
         return None, u"could not syllabify", note
     var = [char_variants(c, R.INI, ALL) for c in zi]

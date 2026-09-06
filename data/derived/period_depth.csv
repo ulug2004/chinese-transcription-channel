@@ -4,10 +4,10 @@ char,later_han,old_chinese,lh_onset,oc_onset,lh_coda,oc_coda,differs_in
 冒,mək,mˤuk-s,labial,labial,velar stop,velar stop,same
 稽,kʰei,kˤij,velar,velar,open,open,same
 粥,tśuk,t-quk,palatal,velar,velar stop,velar stop,onset
-軍,kun,[k]ʷəәr,velar,velar,dental nasal,liquid,coda
+軍,kun,[k]ʷər,velar,velar,dental nasal,liquid,coda
 臣,dźin,[g]i[ŋ],palatal,velar,dental nasal,velar nasal,onset and coda
 伊,ʔi,ʔij,glottal,glottal,open,open,same
-稚,ḍi,lrəәj-s,dental,liquid,open,open,onset
+稚,ḍi,lrəj-s,dental,liquid,open,open,onset
 烏,ʔɑ,[ʔ]ˤa,glottal,glottal,open,open,same
 維,wi,ɢʷij,glide,velar,open,open,onset
 詹,tśam,[t]am,palatal,dental,labial nasal,labial nasal,onset
@@ -18,7 +18,7 @@ char,later_han,old_chinese,lh_onset,oc_onset,lh_coda,oc_coda,differs_in
 且,tsɑ,tsa,dental,dental,open,open,same
 侯,go,[g]ˤ(r)o,velar,velar,open,open,same
 狐,ɣuɑ,[g]ʷˤa,velar,velar,open,open,same
-鹿,lok,məә-rˤok,liquid,liquid,velar stop,velar stop,same
+鹿,lok,mə-rˤok,liquid,liquid,velar stop,velar stop,same
 姑,kɑ,kˤa,velar,velar,open,open,same
 壺,gɑ,[g](ʷ)ˤa,velar,velar,open,open,same
 衍,jan,N-q(r)anʔ,palatal,velar,dental nasal,dental nasal,onset
@@ -26,7 +26,7 @@ char,later_han,old_chinese,lh_onset,oc_onset,lh_coda,oc_coda,differs_in
 渠,gɨɑ,[g](r)a,velar,velar,open,open,same
 呼,hɑ,qʰˤa,velar,velar,open,open,same
 韓,gɑn,[g]ˤar,velar,velar,dental nasal,liquid,coda
-邪,ja,səә.ɢA,palatal,velar,open,open,onset
+邪,ja,sə.ɢA,palatal,velar,open,open,onset
 支,tśe,ke,palatal,velar,open,open,onset
 若,ńɑk,nak,palatal,dental,velar stop,velar stop,onset
 復,buk,[N]-pruk-s,labial,labial,velar stop,velar stop,same
@@ -37,8 +37,8 @@ char,later_han,old_chinese,lh_onset,oc_onset,lh_coda,oc_coda,differs_in
 牙,ŋa,m-ɢˤ<r>a,velar,velar,open,open,same
 留,liu,C.ru,liquid,liquid,open,open,same
 都,tɑ,tˤa,dental,dental,open,open,same
-而,ńə,[g]ew,palatal,velar,open,open,onset
-尸,śi,l̥̥[əә]j,palatal,liquid,open,open,onset
+而,ńə,nə,palatal,dental,open,open,onset
+尸,śi,l̥[ə]j,palatal,liquid,open,open,onset
 道,dou,lˤuʔ-s,dental,liquid,open,open,onset
 皋,kou,[k]ˤu,velar,velar,open,open,same
 連,lian,[r]a[n],liquid,liquid,dental nasal,dental nasal,same
@@ -54,8 +54,8 @@ char,later_han,old_chinese,lh_onset,oc_onset,lh_coda,oc_coda,differs_in
 當,tɑŋ,tˤaŋ,dental,dental,velar nasal,velar nasal,same
 骨,kuət,kˤut,velar,velar,dental stop,dental stop,same
 徑,keŋ,[k]ˤeŋ-s,velar,velar,velar nasal,velar nasal,same
-路,lɑ,Cəә.rˤak-s,liquid,liquid,open,velar stop,coda
-服,buk,[b]əәk,labial,labial,velar stop,velar stop,same
-匿,ṇɨk,nr[əә]k,dental,dental,velar stop,velar stop,same
+路,lɑ,Cə.rˤak-s,liquid,liquid,open,velar stop,coda
+服,buk,[b]ək,labial,labial,velar stop,velar stop,same
+匿,ṇɨk,nr[ə]k,dental,dental,velar stop,velar stop,same
 胡,gɔ,[g]ˤa,velar,velar,open,open,same
 奴,nɑ,nˤa,dental,dental,open,open,same

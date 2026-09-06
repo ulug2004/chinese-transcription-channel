@@ -48,3 +48,49 @@ for src, dst in [("paper_submission_jdmdh.docx", "paper_EDIT.docx"),
                  ("supplementary_S1_candidate_readings.docx", "supplement_S1_EDIT.docx")]:
     if os.path.exists(src):
         shutil.copyfile(src, dst); print("refreshed", dst, "-> docs/edit/")
+
+# Fingerprint what we are about to ship, so that next time we can tell an
+# author edit from an untouched copy.  See check_edits.py, which must be run
+# against the staged docs\edit\ BEFORE any rebuild: this overwrites the two
+# files above, and a rebuild over an unread edit loses it silently.
+try:
+    import check_edits
+    fp = check_edits.write_fingerprint(".")
+    print("edit_fingerprint.json written for", len(fp), "file(s) -> docs/edit/")
+except Exception as e:
+    print("fingerprint FAILED:", e)
+
+# ---------------------------------------------------------------- manifest
+# The author reads the finished documents from docs\ after every build, so the
+# build ends by stating exactly which files must reach docs\ and whether each
+# one is younger than the source it was made from.  A build that leaves a stale
+# file in docs\ is worse than a build that fails, because it looks finished.
+# This list exists because docs\*.html was once left two builds behind while
+# the PDF and DOCX beside it were current.
+DOCS = [("paper_submission_jdmdh.html", "docs"),
+        ("paper_submission_jdmdh.pdf", "docs"),
+        ("paper_submission_jdmdh.docx", "docs"),
+        ("supplementary_S1_candidate_readings.html", "docs"),
+        ("supplementary_S1_candidate_readings.pdf", "docs"),
+        ("supplementary_S1_candidate_readings.docx", "docs"),
+        ("paper_EDIT.docx", "docs/edit"),
+        ("supplement_S1_EDIT.docx", "docs/edit"),
+        ("edit_fingerprint.json", "docs/edit")]
+SOURCES = ["paper.html", "s1_rows.py", "s1_prose_top.html", "s1_prose_bottom.html"]
+
+newest_src = max([os.path.getmtime(s) for s in SOURCES if os.path.exists(s)] or [0])
+print("")
+print("SHIP TO docs\\  (%d files, newest source %.0f)" % (len(DOCS), newest_src))
+stale = 0
+for name, dest in DOCS:
+    if not os.path.exists(name):
+        print("  MISSING  %-45s -> %s" % (name, dest)); stale += 1; continue
+    age = os.path.getmtime(name)
+    mark = "ok   " if age >= newest_src else "STALE"
+    if mark == "STALE":
+        stale += 1
+    print("  %s %-45s -> %s  %d bytes" % (mark, name, dest, os.path.getsize(name)))
+if stale:
+    print("  %d file(s) missing or older than the sources. Do not ship." % stale)
+else:
+    print("  all current.")

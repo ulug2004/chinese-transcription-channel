@@ -1,12 +1,24 @@
-# docs\edit — the author's working copies
+# docs\edit, the author's working copies
 
 Two files here, and only these two, are for editing by hand:
 
     paper_EDIT.docx            the submission, 16 pages
     supplement_S1_EDIT.docx    Supplementary S1, all 40 rows
 
-Nothing in the build pipeline writes to this folder, so edits made here
-cannot be overwritten by a rebuild.
+**Read this before editing.** The claim that once stood here, that nothing in
+the build pipeline writes to this folder, was not true in practice. The build
+regenerates both files at the end of every run and Claude then copies them
+here, so an edit made here IS overwritten by the next rebuild unless it has
+been folded into the masters first.
+
+The guard is `docsrc\check_edits.py`. Every build now writes
+`edit_fingerprint.json` beside these two files, recording the SHA-256 of each
+copy as shipped. Before any rebuild, Claude stages the three files out of this
+folder and runs `check_edits.py` against them: an unchanged fingerprint means
+the copies are still ours and the build may proceed, a changed one means the
+author has edited and the rebuild must wait until the wording is folded into
+`docsrc\`. Do not delete `edit_fingerprint.json`; without it the check cannot
+tell an edit from an untouched copy and Claude has to ask.
 
 ## Procedure
 
