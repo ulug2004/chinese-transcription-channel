@@ -1,113 +1,124 @@
 Step 57.  Every row of the record priced by one method.
-Corpus: 772 aligned pairs.  Rows: 40.  Priced: 28.  Not priced: 12.
+Corpus: 865 aligned pairs.  Rows: 40.  Priced: 38.  Not priced: 2.
 
    Four characters are tabulated by Schuessler only in their
    simplified shape and were unpriceable until now. The traditional
-   form is mapped onto it here: 戶=户, 祿=禄, 脫=脱, 虛=虚
+   form is mapped onto it here: 戶=户, 摚=撐, 撑=撐, 犂=犁, 祿=禄, 禿=秃, 脫=脱, 虛=虚
 
 ==============================================================================
 TABLE 1a.  Sorted by RAW price, dearest first
 ==============================================================================
    chinese    reading                     1 in  per char  chars roles  cells
-   若鞮         İnakt                221,007,230      0.0%      2 SS     6 measured, 1 assumed/unmeasured
-   且鞮侯        Çatıgka                  194,264      1.7%      3 SSS    7 measured
-   屠耆         Doğru                    174,204      0.2%      2 SS     5 measured
-   呴犁湖        Kalık                      1,439      8.9%      3 SSN    5 measured
-   閼氏         Elti                       1,183      2.9%      2 DN     2 measured
-   虛閭權渠       Kalkan                     1,063     17.5%      4 SCSN   6 measured
-   烏珠留若鞮      Çal İnakt                  1,008     10.0%      3 NSC    3 measured
-   服匿         Buknik                       677      3.8%      2 SS     6 measured
-   骨都侯        Kutak                        516     12.5%      3 SSN    6 measured
-   且渠         Çaka                         511      4.4%      2 SS     4 measured
-   壺衍鞮        Kayantı                      370     13.9%      3 SSS    7 measured
-   孤塗         Kutı                         164      7.8%      2 SS     4 measured
-   狐鹿姑        Kurluga                      142     19.2%      3 SSS    8 measured
-   復株累若鞮      Büktel İnakt                 124     20.0%      3 SSC    6 measured
-   伊稚斜        İdiya                         93     22.0%      3 SSS    6 measured
-   當戶         Tamga                         48     14.4%      2 SS     5 measured
-   胡祿         Külüg                         42     15.4%      2 SS     5 measured
-   車牙若鞮       Tunga İnakt                   21     21.3%      2 SS     4 measured
-   匈奴         Hung                          21     21.7%      2 SN     3 measured
-   烏維         Abı                           20     22.0%      2 SS     4 measured
-   詹師廬        Çamşılı                       16     39.1%      3 SSS    7 measured
-   呼韓邪        Kaganya                       16     39.2%      3 SSS    7 measured
-   烏累若鞮       Uluğ İnakt                    14     26.5%      2 SS     5 measured
+   撑犁孤塗單于     Tanrı Kutı Çarvuş    361,471,759      3.7%      6 SSSSSS 15 measured
+   若鞮         İnakt                232,393,120      0.0%      2 SS     6 measured, 1 assumed/unmeasured
+   呼都而尸道皋若鞮   Kartay Bedük İnakt       243,285     12.7%      6 SSCSSC 11 measured
+   且鞮侯        Çatıgka                  224,965      1.6%      3 SSS    7 measured
+   屠耆         Doğru                    188,583      0.2%      2 SS     5 measured
+   撑犁         Tanrı                      2,656      1.9%      2 SS     5 measured
+   呴犁湖        Kalık                      1,695      8.4%      3 SSN    5 measured
+   閼氏         Elti                       1,339      2.7%      2 DN     2 measured
+   握衍朐鞮       Okyan Kutı                 1,251     16.8%      4 SSSS   10 measured
+   虛閭權渠       Kalkan                     1,163     17.1%      4 SCSN   6 measured
+   烏珠留若鞮      Çal İnakt                  1,138      9.6%      3 NSC    3 measured
+   單于         Çarvuş                       844      3.4%      2 SS     6 measured
+   骨都侯        Kutak                        567     12.1%      3 SSN    6 measured
+   且渠         Çaka                         562      4.2%      2 SS     4 measured
+   壺衍鞮        Kayantı                      345     14.3%      3 SSS    7 measured
+   服匿         Bukaç                        237      6.5%      2 DN     2 measured
+   孤塗         Kutı                         161      7.9%      2 SS     4 measured
+   攣鞮         -rındaş                      144      8.3%      2 SS     6 measured
+   狐鹿姑        Kurluga                      128     19.8%      3 SSS    8 measured
+   復株累若鞮      Büktel İnakt                 113     20.6%      3 SSC    6 measured
+   甌脫         Otag                          73     11.7%      2 SS     5 measured
+   伊稚斜        İdiya                         66     24.7%      3 SSS    6 measured
+   當戶         Tamga                         46     14.6%      2 SS     5 measured
+   羯          Kır                           42      2.4%      1 S      3 measured
+   胡祿         Külüg                         41     15.5%      2 SS     5 measured
+   虛連題        Karındaş                      24     34.3%      3 SSS    8 measured
+   匈奴         Hung                          23     20.8%      2 SN     3 measured
+   車牙若鞮       Tunga İnakt                   22     21.2%      2 SS     4 measured
+   詹師廬        Çamşılı                       17     38.8%      3 SSS    7 measured
+   烏維         Abı                           17     24.2%      2 SS     4 measured
+   呼韓邪        Kaganya                       15     39.8%      3 SSS    7 measured
+   烏累若鞮       Uluğ İnakt                    13     27.1%      2 SS     5 measured
    徑路         Kıngrak                        8     34.6%      2 SS     6 measured
-   郅支         Çitçi                          5     41.7%      2 SS     5 measured
-   稽粥         Kiçük                          4     46.5%      2 SS     5 measured
-   頭曼         Duman                          3     51.2%      2 SS     5 measured
-   軍臣         Köngen                         3     52.0%      2 SS     6 measured
+   谷蠡         Körklü                         8     35.0%      2 SS     6 measured
+   郅支         Çitçi                          5     43.4%      2 SS     5 measured
+   稽粥         Kiçük                          4     47.5%      2 SS     5 measured
+   頭曼         Duman                          3     50.7%      2 SS     5 measured
+   軍臣         Köngen                         3     52.2%      2 SS     6 measured
 
 ==============================================================================
 TABLE 1b.  Sorted PER CHARACTER, dearest first
 ==============================================================================
    chinese    reading                     1 in  per char  chars roles  cells
-   若鞮         İnakt                221,007,230      0.0%      2 SS     6 measured, 1 assumed/unmeasured
-   屠耆         Doğru                    174,204      0.2%      2 SS     5 measured
-   且鞮侯        Çatıgka                  194,264      1.7%      3 SSS    7 measured
-   閼氏         Elti                       1,183      2.9%      2 DN     2 measured
-   服匿         Buknik                       677      3.8%      2 SS     6 measured
-   且渠         Çaka                         511      4.4%      2 SS     4 measured
-   孤塗         Kutı                         164      7.8%      2 SS     4 measured
-   呴犁湖        Kalık                      1,439      8.9%      3 SSN    5 measured
-   烏珠留若鞮      Çal İnakt                  1,008     10.0%      3 NSC    3 measured
-   骨都侯        Kutak                        516     12.5%      3 SSN    6 measured
-   壺衍鞮        Kayantı                      370     13.9%      3 SSS    7 measured
-   當戶         Tamga                         48     14.4%      2 SS     5 measured
-   胡祿         Külüg                         42     15.4%      2 SS     5 measured
-   虛閭權渠       Kalkan                     1,063     17.5%      4 SCSN   6 measured
-   狐鹿姑        Kurluga                      142     19.2%      3 SSS    8 measured
-   復株累若鞮      Büktel İnakt                 124     20.0%      3 SSC    6 measured
-   車牙若鞮       Tunga İnakt                   21     21.3%      2 SS     4 measured
-   匈奴         Hung                          21     21.7%      2 SN     3 measured
-   伊稚斜        İdiya                         93     22.0%      3 SSS    6 measured
-   烏維         Abı                           20     22.0%      2 SS     4 measured
-   烏累若鞮       Uluğ İnakt                    14     26.5%      2 SS     5 measured
+   若鞮         İnakt                232,393,120      0.0%      2 SS     6 measured, 1 assumed/unmeasured
+   屠耆         Doğru                    188,583      0.2%      2 SS     5 measured
+   且鞮侯        Çatıgka                  224,965      1.6%      3 SSS    7 measured
+   撑犁         Tanrı                      2,656      1.9%      2 SS     5 measured
+   羯          Kır                           42      2.4%      1 S      3 measured
+   閼氏         Elti                       1,339      2.7%      2 DN     2 measured
+   單于         Çarvuş                       844      3.4%      2 SS     6 measured
+   撑犁孤塗單于     Tanrı Kutı Çarvuş    361,471,759      3.7%      6 SSSSSS 15 measured
+   且渠         Çaka                         562      4.2%      2 SS     4 measured
+   服匿         Bukaç                        237      6.5%      2 DN     2 measured
+   孤塗         Kutı                         161      7.9%      2 SS     4 measured
+   攣鞮         -rındaş                      144      8.3%      2 SS     6 measured
+   呴犁湖        Kalık                      1,695      8.4%      3 SSN    5 measured
+   烏珠留若鞮      Çal İnakt                  1,138      9.6%      3 NSC    3 measured
+   甌脫         Otag                          73     11.7%      2 SS     5 measured
+   骨都侯        Kutak                        567     12.1%      3 SSN    6 measured
+   呼都而尸道皋若鞮   Kartay Bedük İnakt       243,285     12.7%      6 SSCSSC 11 measured
+   壺衍鞮        Kayantı                      345     14.3%      3 SSS    7 measured
+   當戶         Tamga                         46     14.6%      2 SS     5 measured
+   胡祿         Külüg                         41     15.5%      2 SS     5 measured
+   握衍朐鞮       Okyan Kutı                 1,251     16.8%      4 SSSS   10 measured
+   虛閭權渠       Kalkan                     1,163     17.1%      4 SCSN   6 measured
+   狐鹿姑        Kurluga                      128     19.8%      3 SSS    8 measured
+   復株累若鞮      Büktel İnakt                 113     20.6%      3 SSC    6 measured
+   匈奴         Hung                          23     20.8%      2 SN     3 measured
+   車牙若鞮       Tunga İnakt                   22     21.2%      2 SS     4 measured
+   烏維         Abı                           17     24.2%      2 SS     4 measured
+   伊稚斜        İdiya                         66     24.7%      3 SSS    6 measured
+   烏累若鞮       Uluğ İnakt                    13     27.1%      2 SS     5 measured
+   虛連題        Karındaş                      24     34.3%      3 SSS    8 measured
    徑路         Kıngrak                        8     34.6%      2 SS     6 measured
-   詹師廬        Çamşılı                       16     39.1%      3 SSS    7 measured
-   呼韓邪        Kaganya                       16     39.2%      3 SSS    7 measured
-   郅支         Çitçi                          5     41.7%      2 SS     5 measured
-   稽粥         Kiçük                          4     46.5%      2 SS     5 measured
-   頭曼         Duman                          3     51.2%      2 SS     5 measured
-   軍臣         Köngen                         3     52.0%      2 SS     6 measured
+   谷蠡         Körklü                         8     35.0%      2 SS     6 measured
+   詹師廬        Çamşılı                       17     38.8%      3 SSS    7 measured
+   呼韓邪        Kaganya                       15     39.8%      3 SSS    7 measured
+   郅支         Çitçi                          5     43.4%      2 SS     5 measured
+   稽粥         Kiçük                          4     47.5%      2 SS     5 measured
+   頭曼         Duman                          3     50.7%      2 SS     5 measured
+   軍臣         Köngen                         3     52.2%      2 SS     6 measured
 
 ==============================================================================
 NOT PRICED
 ==============================================================================
    冒頓           Bögü Tuğ               blocked: 頓 writing gü (zero(inventory gap))
-   握衍朐鞮         Okyan Kutuğtı          no rate for 鞮 writing tuğ; 朐 writing ku; 衍 writing yan
    搜諧若鞮         Sarıg İnakt            blocked: 諧 writing rıg (zero(inventory gap))
-   呼都而尸道皋若鞮                            no proposal
-   攣鞮           El-indi                no rate for 鞮 writing in; 攣 writing el
-   虛連題          Kıyalığ El-indi        no rate for 虛 writing kı
-   單于           Çarvuş                 no rate for 于 writing vuş; 單 writing çar; 于 writing çar
-   撑犁孤塗單于       (compound of the three compound row
-   撑犁           Tanglı                 no Later Han reading for 撑
-   谷蠡           Körklü                 no rate for 蠡 writing klü; 谷 writing kör; 蠡 writing kör
-   甌脫           Otuyat                 no rate for 脫 writing tu; 甌 writing o
-   羯                                   no proposal
 
 ==============================================================================
 AGAINST THE FIGURES ALREADY IN PRINT
 ==============================================================================
    軍臣         Köngen             in print 1 in 5           uniform 1 in 3
-   狐鹿姑        Kurluga            in print 1 in 52          uniform 1 in 142
-   若鞮         İnakt              in print §9               uniform 1 in 221,007,230
-   車牙若鞮       Tunga İnakt        in print 1 in 20          uniform 1 in 21
-   烏累若鞮       Uluğ İnakt         in print 1 in 4 (element) uniform 1 in 14
-   當戶         Tamga              in print 1 in 46          uniform 1 in 48
+   狐鹿姑        Kurluga            in print 1 in 52          uniform 1 in 128
+   若鞮         İnakt              in print §9               uniform 1 in 232,393,120
+   車牙若鞮       Tunga İnakt        in print 1 in 20          uniform 1 in 22
+   烏累若鞮       Uluğ İnakt         in print 1 in 4 (element) uniform 1 in 13
+   當戶         Tamga              in print 1 in 46          uniform 1 in 46
    徑路         Kıngrak            in print §9.1             uniform 1 in 8
 
 ==============================================================================
 WHERE THE PRICES REST ON SOMETHING WEAKER THAN A MEASUREMENT
 ==============================================================================
-   measured                            139
-   spare character                       6
-   measured(Ligeti)                      5
-   measured(8.5)                         4
-   device                                3
-   cluster coda                          2
+   measured                            201
+   measured(Ligeti)                      8
+   spare character                       7
+   measured(8.5)                         6
+   device                                5
+   cluster coda                          4
+   measured(37)                          4
+   compression                           2
    assumed                               1
-   compression                           1
 
    written: data\derived\name_prices.csv
