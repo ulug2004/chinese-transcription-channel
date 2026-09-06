@@ -1,3 +1,83 @@
+# Draft entries: BOTH sections are now in the supplement
+
+**Status, this session.** Section 1, the ruling clan name, and section 2,
+虛閭權渠, have both been written into `docsrc/s1_rows.py` and
+`author_proposals.csv` and are in the built supplement. Nothing in this file is
+outstanding; it is kept as the working record.
+
+**What went in from section 2.** The onset correction the draft called ready:
+虛 on the *hɨɑ* branch that §8.5 selects, first three characters 1 in 6 instead
+of 1 in 150. Step 50 reruns clean on the repaired corpus, 7 three-syllable fits
+and 9 two-syllable fits, and the expansion split is unchanged at 77 semantic
+suffix against 75 phonetic expansion, now out of 152 in 1,110. The uniform
+pipeline prices the whole four-character name at **1 in 1,138**, with 渠 idle.
+
+**One thing the draft did not have.** 渠 is a recurring second element in this
+record, not only at 且渠: the histories also give 顓渠 in the consort title
+顓渠閼氏 and 雕渠 in the personal name 雕渠難. Four compounds in X渠. That
+strengthens the draft's own suspicion that the name is two elements, 虛閭 plus a
+title 權渠, and the entry now says so. The reading stands as permitted on the
+sounds and unsupported on the shape.
+
+Three things changed on the way in, and the text below is the pre-change draft,
+kept for the record:
+
+1. **The price is 1 in 24, not the 1 in 9 written below.** The draft figure was a
+   hand calculation on the 1,017-pair corpus. The uniform pipeline on the
+   repaired 1,110-pair corpus gives 1 in 24, per character 34.5%. Still inside
+   the 1 in 37 threshold, but not by the margin the draft claimed. The rival
+   *kırındı* "crumbs" prices at 1 in 56.
+
+2. **A gap in the pipeline had to be fixed first.** `price_engine.py` had no
+   sibilant coda cell at all: `CODAMAP` carried no `ş`, and step 20's coda table
+   has no sibilant row. Every reading ending in `-ş` was therefore unpriceable,
+   and the engine silently fell back on a more expensive alignment rather than
+   reporting the gap. Step 37's class table does have the row, and the engine now
+   reads it: a source sibilant coda is written open in **31 of 40, 77.5%**, with a
+   dental stop in 8 of 40 and a dental nasal in 1 of 40. Re-pricing all forty
+   rows before and after, exactly one other row moved: **單于 → *Çarvuş*, from
+   unpriceable to 1 in 791.** Nothing else changed, so the fix is narrow.
+
+3. **The chronology objection at the end of section 2 below is answered**, from
+   the Chinese texts in `refs/chinese/`. See "What settled the chronology".
+
+## What settled the chronology
+
+The draft's blocking objection was that the *Hou Hanshu* (5th c.) preserves more
+of the name than the *Shiji* (c. 94 BCE). Three findings in the primary texts
+dissolve it:
+
+- **The *Shiji* does not give the clan name at all.** Its main text reads
+  有名不諱而無姓字 - they have personal names, not tabooed, and no surname or
+  courtesy name. 攣鞮 appears in the *Shiji* only inside a later commentary
+  quoting the *Hanshu* (漢書曰單于姓攣鞮氏). So the two attestations are the
+  *Hanshu*'s and the *Hou Hanshu*'s, not the *Shiji*'s and the *Hou Hanshu*'s.
+
+- **The *Hou Hanshu* is not copying the *Hanshu* in this passage.** For the same
+  sky-and-son title the *Hanshu* writes 撐犁孤塗 and the *Hou Hanshu* writes
+  摚犂孤屠, three of four characters different, and Li Xian's commentary quotes
+  the *Hanshu* forms and closes 與此不同, "this differs from the present text".
+
+- **The clan lists differ too.** *Hanshu*: 呼衍氏, 蘭氏, 湏卜氏, three. *Hou
+  Hanshu*: 呼衍氏, 須卜氏, 丘林氏, 蘭氏, four. The same commentary flags it.
+
+So the *Hou Hanshu* notice is a second transcription taken by different officials
+in direct contact with the Southern Xiongnu court, not a corrupted copy of the
+first, and a fuller form in the later text needs no special pleading.
+
+A fourth, smaller item: the draft complained that 虛 is absent from Schuessler
+under its traditional shape. In the primary texts every **transcriptional** use of
+this character is written 虚 (虚連題, 虚閭權渠, and the personal name 虚渠) while
+every lexical use is written 虛. The engine's `VARIANT` map already folds the two,
+so the row prices either way; the point is only that the record's own shape is the
+one Schuessler keys on.
+
+**Still open on this row:** whether 虛 is a syllable of the name or a separate
+element standing before a two-syllable clan name. Untested. The supplement entry
+names it as unsettled.
+
+---
+
 # Draft entries, held back from the supplement
 
 Rows worked out but not yet written into `docsrc/s1_rows.py`, each with an open

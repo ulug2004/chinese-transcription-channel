@@ -62,7 +62,14 @@ SRCMAP = {u"h": ["h"], u"k": ["k", "kh"], u"g": ["g", "gh"], u"q": ["k", "kh"],
 CODAMAP = {u"p": "p", u"b": "p", u"t": "t", u"d": "t",
            u"k": "k", u"g": "k", u"q": "k", u"ğ": "k",
            u"m": "m", u"n": "n", u"ñ": u"ŋ", u"ŋ": u"ŋ",
-           u"l": "L", u"r": "L"}
+           u"l": "L", u"r": "L",
+           # Later Han has no sibilant coda at all, so a source -ş/-s/-z can
+           # only be left open or carried by some other coda.  Step 20's table
+           # has no sibilant row; step 37's class table does, and _sibilant()
+           # below reads it.  Without this row every reading ending in -ş was
+           # unpriceable and the engine silently fell back on a more expensive
+           # alignment: karındaş, çarvuş and toğrulmış were all affected.
+           u"ş": "S", u"s": "S", u"z": "S"}
 CPLACE = {"p": "labial", "m": "labial", "t": "dental", "n": "dental",
           "k": "velar", u"ŋ": "velar"}
 TPLACE = {u"p": "labial", u"b": "labial", u"m": "labial",
@@ -78,6 +85,7 @@ class Rates(object):
         self._onsets()
         self._vowels()
         self._codas()
+        self._sibilant()
         self._shapes()
         self._devices()
         self.ALLREAD = all_readings()
@@ -204,6 +212,42 @@ class Rates(object):
         self.shape = d
         self.shape_n = sum(d.values())
 
+    def _sibilant(self):
+        """How a source sibilant coda was written, from step 37's class table.
+
+        Reported as a Counter over the written class, so that a character
+        which carries a dental stop is priced on the cell that actually
+        measures that substitution rather than on the residue."""
+        import step37_coda_manner as S37
+        lh = S37.lh_first()
+        n = collections.Counter()
+        for row in S37.rd(os.path.join(DER, "nti_transcription_pairs.csv")):
+            chars = [c for c in (row.get("trad") or "") if u"\u3400" <= c <= u"\u9fff"]
+            units = S37.parse(row.get("skt") or "")
+            if not chars or len(chars) != len(units):
+                continue
+            for ch, (_v, coda) in zip(chars, units):
+                if S37.s_class(coda) != "sibilant":
+                    continue
+                vw = lh.get(ch)
+                if not vw:
+                    continue
+                n[S37.w_class(S37.written_coda(vw))] += 1
+        self.sib = n
+        self.sib_n = sum(n.values())
+
+    SIBCLASS = {u"": "open", u"t": "dental stop", u"n": "dental nasal",
+                u"k": "velar stop", u"\u014b": "velar nasal",
+                u"p": "labial stop", u"m": "labial nasal"}
+
+    def sibilant(self, cchar_coda):
+        if not self.sib_n:
+            return None, "unmeasured"
+        cls = self.SIBCLASS.get(cchar_coda or u"")
+        if cls is None:
+            return None, "unmeasured"
+        return float(self.sib[cls]) / self.sib_n, "measured(37)"
+
     def _devices(self):
         import step52_final_consonant as S52
         n, _o, _e = S52.turkic_finals()
@@ -261,6 +305,8 @@ class Rates(object):
         if not tcoda and not cchar_coda:
             return 1.0, "measured"
         row = CODAMAP.get(tcoda)
+        if row == "S" and tcoda:
+            return self.sibilant(cchar_coda)
         if tcoda and not cchar_coda:                       # unwritten
             if row == "L":
                 return float(self.liq_open) / self.liq_tot, "measured"
@@ -432,11 +478,24 @@ def all_readings():
     # Schuessler's table carries four of the record's characters only in
     # their simplified shape, which left those rows unpriceable. The
     # traditional form is mapped onto it and the substitution recorded in
-    # VARIANT so it stays visible. 撑 is absent in both shapes.
-    for trad, simp in ((u"\u6236", u"\u6237"), (u"\u865b", u"\u865a"),
-                       (u"\u797f", u"\u7984"), (u"\u812b", u"\u8131")):
-        if trad not in ALL and simp in ALL:
-            ALL[trad] = list(ALL[simp]); VARIANT[trad] = simp
+    # VARIANT so it stays visible.  Schuessler's table carries one shape of
+    # each of these pairs and the record uses the other, in BOTH directions:
+    # for 户 虚 禄 脱 the table has the simplified shape, for 撐 犁 the
+    # traditional one.  An earlier note here said 撑 was absent in both
+    # shapes; that was wrong.  U+6491 撑 is absent but U+6490 撐 is present
+    # with the reading ḍaŋ, so the row prices once the two are folded.
+    PAIRS = ((u"\u6236", u"\u6237"),   # 戶 户
+             (u"\u865b", u"\u865a"),   # 虛 虚
+             (u"\u797f", u"\u7984"),   # 祿 禄
+             (u"\u812b", u"\u8131"),   # 脫 脱
+             (u"\u6491", u"\u6490"),   # 撑 撐
+             (u"\u645a", u"\u6490"),   # 摚 撐, the Hou Hanshu's shape
+             (u"\u7282", u"\u7281"))   # 犂 犁, likewise
+    for a, b in PAIRS:
+        if a not in ALL and b in ALL:
+            ALL[a] = list(ALL[b]); VARIANT[a] = b
+        elif b not in ALL and a in ALL:
+            ALL[b] = list(ALL[a]); VARIANT[b] = a
     return ALL
 
 

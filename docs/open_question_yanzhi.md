@@ -1,7 +1,19 @@
 # 閼氏 - open question, 2 September 2026
 
-Paused mid-investigation. Nothing here is in the paper or the supplement yet.
-The supplement entry still reads *ece* "queen" as an author's proposal.
+**RESOLVED. This is now in the supplement and the header below is out of date.**
+The 閼氏 entry reads *Elti* "lady" and carries all three measurements recorded
+here: the 134 of 143 (93.7%) open-junction figure, the 2 of 143 (1.4%) written
+`-t`, and the 38% at which a source liquid coda takes a `-t`. The polyphony
+question at the end is answered in the entry from Baxter and Sagart: Schuessler
+gives 閼 one value and Baxter-Sagart give Middle Chinese *ʔat* from Old Chinese
+*\*qˤat*, so the written `-t` is real and the 1.4% problem does not go away by
+that route; the `-n` belongs to 焉 in the parallel spelling 焉支, a different
+character. The earlier *ece* / *eci* proposal is recorded inside the entry
+rather than removed. Kept below as the working record of how it was settled.
+
+---
+
+Paused mid-investigation, as of 2 September 2026.
 
 ## New measurements (Sanskrit corpus, 772 one-character-to-one-syllable pairs)
 
